@@ -5,7 +5,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 _Last updated_: December 03, 2024
 
-Please read these Terms and Conditions carefully before using ProjectVW.com ("the Service").
+Please read these Terms and Conditions carefully before using AutocrossBlog.com ("the Service").
 
 ## Interpretation and Definitions
 
@@ -18,21 +18,21 @@ Words with initial capital letters have specific meanings defined under these Te
 For the purposes of these Terms and Conditions:
 
 - **Affiliate** means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for election of directors or other managing authority.
-- **Company** (referred to as either "the Company," "We," "Us," or "Our" in this Agreement) refers to ProjectVW.com.
+- **Company** (referred to as either "the Company," "We," "Us," or "Our" in this Agreement) refers to AutocrossBlog.com.
 - **Device** means any device that can access the Service, such as a computer, tablet, or smartphone.
 - **Service** refers to the Website.
 - **Terms and Conditions** (also referred to as "Terms") mean these Terms and Conditions, forming the entire agreement between You and the Company regarding the use of the Service.
 - **Third-party Social Media Service** means any services or content provided by a third party that may be displayed, included, or made available through the Service.
-- **Website** refers to ProjectVW.com, accessible at [https://www.ProjectVW.com](https://www.ProjectVW.com).
+- **Website** refers to AutocrossBlog.com, accessible at [https://www.AutocrossBlog.com](https://www.AutocrossBlog.com).
 - **You** means the individual accessing or using the Service, or the entity on behalf of which such individual is accessing or using the Service.
 
 ## Acknowledgment
 
-These Terms and Conditions govern the use of ProjectVW.com and establish the rights and obligations of all users. By accessing or using the Service, You agree to be bound by these Terms.
+These Terms and Conditions govern the use of AutocrossBlog.com and establish the rights and obligations of all users. By accessing or using the Service, You agree to be bound by these Terms.
 
 If You do not agree with any part of these Terms, You may not access the Service. You must be at least 18 years old to use this Service.
 
-Your use of the Service is also governed by Our [Privacy Policy](https://www.ProjectVW.com/privacy-policy), which explains how We collect, use, and disclose personal information.
+Your use of the Service is also governed by Our [Privacy Policy](https://www.AutocrossBlog.com/privacy-policy), which explains how We collect, use, and disclose personal information.
 
 ## Links to Other Websites
 
@@ -82,4 +82,4 @@ We may update these Terms at any time. If a change is material, We will notify Y
 
 If You have any questions about these Terms and Conditions, You can contact us:
 
-- By email: projectvw@christoc.com
+- By email: AutocrossBlog@christoc.com

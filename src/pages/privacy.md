@@ -5,7 +5,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 _Last updated_: December 03, 2024
 
-This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use ProjectVW.com ("the Service") and explains Your privacy rights and how the law protects You.
+This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use AutocrossBlog.com ("the Service") and explains Your privacy rights and how the law protects You.
 
 We use Your Personal Data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 
@@ -23,10 +23,10 @@ For the purposes of this Privacy Policy:
 - **Cookies** are small files placed on Your computer or device by a website, containing details of Your browsing history on that website, among other uses.
 - **Device** means any device that can access the Service, such as a computer, tablet, or smartphone.
 - **Personal Data** refers to any information that relates to an identified or identifiable individual.
-- **Service** refers to the ProjectVW.com website.
+- **Service** refers to the AutocrossBlog.com website.
 - **Service Provider** refers to any natural or legal person who processes data on behalf of the Company, including third-party services assisting in delivering or analyzing the Service.
 - **Usage Data** refers to data collected automatically, such as page visit durations or other analytics.
-- **Website** refers to ProjectVW.com, accessible at [https://www.ProjectVW.com](https://www.ProjectVW.com).
+- **Website** refers to AutocrossBlog.com, accessible at [https://www.AutocrossBlog.com](https://www.AutocrossBlog.com).
 - **You** means the individual accessing the Service or the entity on behalf of which the individual is accessing or using the Service.
 
 ## Collecting and Using Your Personal Data
@@ -63,7 +63,7 @@ You can adjust your browser settings to refuse Cookies, but this may impact cert
 We use Your Personal Data for purposes such as:
 
 - Providing and maintaining the Service.
-- Contacting You regarding Your inquiries or updates about ProjectVW.com.
+- Contacting You regarding Your inquiries or updates about AutocrossBlog.com.
 - Analyzing and improving the performance of the Service.
 - Preventing fraud and ensuring security.
 
@@ -93,11 +93,11 @@ We take reasonable steps to secure Your Personal Data. However, no online transm
 
 ## Children's Privacy
 
-ProjectVW.com does not knowingly collect data from anyone under 13 years of age. If We become aware of such collection, We will delete the data promptly.
+AutocrossBlog.com does not knowingly collect data from anyone under 13 years of age. If We become aware of such collection, We will delete the data promptly.
 
 ## Links to Other Websites
 
-ProjectVW.com may contain links to external websites. We are not responsible for their content or privacy practices.
+AutocrossBlog.com may contain links to external websites. We are not responsible for their content or privacy practices.
 
 ## Changes to This Privacy Policy
 
@@ -107,4 +107,4 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 If You have any questions about this Privacy Policy, please contact us:
 
-- By email: projectvw@christoc.com
+- By email: AutocrossBlog@christoc.com

@@ -22,7 +22,7 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'ProjectVW',
+      title: 'AutocrossBlog',
       links: [
         { text: 'About', href: '/about' },
         { text: 'Blog', href: '/blog' },
@@ -34,9 +34,9 @@ export const footerData = {
     { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   socialLinks: [
-    { ariaLabel: 'X', icon: 'tabler:brand-x', href: 'https://x.com/projectvw' },
-    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://instagram.com/projectvw' },
-    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://facebook.com/projectvw' },
+    { ariaLabel: 'X', icon: 'tabler:brand-x', href: 'https://x.com/AutocrossBlog' },
+    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://instagram.com/AutocrossBlog' },
+    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://facebook.com/AutocrossBlog' },
     { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
   ],
   footNote: `

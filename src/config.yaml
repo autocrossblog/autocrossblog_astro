@@ -1,7 +1,7 @@
 site:
-  name: ProjectVW
-  site: 'https://www.projectvw.com'
-  base: '/' # '/projectvw_astro/'
+  name: AutocrossBlog
+  site: 'https://astro.AutocrossBlog.com'
+  base: '/' # '/AutocrossBlog_astro/'
   trailingSlash: false
 
   googleSiteVerificationId:
@@ -9,22 +9,22 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: ProjectVW
-    template: '%s — ProjectVW'
+    default: AutocrossBlog
+    template: '%s — AutocrossBlog'
   description: "\U0001F680 Help me find my first car! A 1973 VW SuperBeetle, last known to be near Fort Drum New York."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: ProjectVW.com
+    site_name: AutocrossBlog.com
     images:
       - url: '~/assets/images/default.png'
         width: 1200
         height: 628
     type: website
   twitter:
-    handle: '@projectvw'
-    site: '@projectvw'
+    handle: '@AutocrossBlog'
+    site: '@AutocrossBlog'
     cardType: summary_large_image
 
 i18n:
