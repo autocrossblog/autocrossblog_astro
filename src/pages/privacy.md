@@ -39,7 +39,7 @@ While using the Service, You may be asked to provide certain personally identifi
 
 - Your name
 - Email address
-- Any information submitted via forms (e.g., details about your car search or uploaded content)
+- Any information submitted via forms (e.g., autocross event results or user-submitted stories)
 
 #### Usage Data
 
