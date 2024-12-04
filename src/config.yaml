@@ -11,7 +11,7 @@ metadata:
   title:
     default: AutocrossBlog
     template: '%s — AutocrossBlog'
-  description: "\U0001F680 Help me find my first car! A 1973 VW SuperBeetle, last known to be near Fort Drum New York."
+  description: Explore autocross insights with Chris Hammond's 24+ years of experience. Get tips, event recaps, and SCCA schedule updates on the ultimate Autocross Blog."
   robots:
     index: true
     follow: true
@@ -66,7 +66,7 @@ apps:
 analytics:
   vendors:
     googleAnalytics:
-      id: null # or "G-XXXXXXXXXX"
+      id: "G-438M5WVM2K"
 
 ui:
-  theme: 'dark' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
+  theme: 'light' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
