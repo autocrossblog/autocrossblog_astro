@@ -49,68 +49,68 @@ Here are some photos I took on my phone at the Museum after the dinner and award
 </style>
 
 <div class="gallery">
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-1.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed out front">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-1.jpg %}" alt="Speedway Motors Museum of Speed out front" title="Speedway Motors Museum of Speed out front">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-1.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed out front">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-1.jpg" alt="Speedway Motors Museum of Speed out front" title="Speedway Motors Museum of Speed out front">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-2.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Randol Offy">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-2.jpg %}" alt="Speedway Motors Museum of Speed Randol Offy" title="Speedway Motors Museum of Speed Randol Offy">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-2.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Randol Offy">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-2.jpg" alt="Speedway Motors Museum of Speed Randol Offy" title="Speedway Motors Museum of Speed Randol Offy">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-3.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Unser Pikes Peak">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-3.jpg %}" alt="Speedway Motors Museum of Speed Unser Pikes Peak" title="Speedway Motors Museum of Speed Unser Pikes Peak">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-3.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Unser Pikes Peak">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-3.jpg" alt="Speedway Motors Museum of Speed Unser Pikes Peak" title="Speedway Motors Museum of Speed Unser Pikes Peak">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-4.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Guitars">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-4.jpg %}" alt="Speedway Motors Museum of Speed Guitars" title="Speedway Motors Museum of Speed Guitars">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-4.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Guitars">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-4.jpg" alt="Speedway Motors Museum of Speed Guitars" title="Speedway Motors Museum of Speed Guitars">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-5.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Indian and Yale motor bikes on wooden track">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-5.jpg %}" alt="Speedway Motors Museum of Speed Indian and Yale motor bikes on wooden track" title="Speedway Motors Museum of Speed Indian and Yale motor bikes on wooden track">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-5.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Indian and Yale motor bikes on wooden track">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-5.jpg" alt="Speedway Motors Museum of Speed Indian and Yale motor bikes on wooden track" title="Speedway Motors Museum of Speed Indian and Yale motor bikes on wooden track">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-6.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed intake manifolds">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-6.jpg %}" alt="Speedway Motors Museum of Speed intake manifolds" title="Speedway Motors Museum of Speed intake manifolds">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-6.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed intake manifolds">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-6.jpg" alt="Speedway Motors Museum of Speed intake manifolds" title="Speedway Motors Museum of Speed intake manifolds">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-7.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed toy car rideables">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-7.jpg %}" alt="Speedway Motors Museum of Speed toy car rideables" title="Speedway Motors Museum of Speed toy car rideables">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-7.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed toy car rideables">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-7.jpg" alt="Speedway Motors Museum of Speed toy car rideables" title="Speedway Motors Museum of Speed toy car rideables">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-8.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed room of toy cars">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-8.jpg %}" alt="Speedway Motors Museum of Speed room of toy cars" title="Speedway Motors Museum of Speed room of toy cars">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-8.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed room of toy cars">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-8.jpg" alt="Speedway Motors Museum of Speed room of toy cars" title="Speedway Motors Museum of Speed room of toy cars">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-9.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed room of bicycles">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-9.jpg %}" alt="Speedway Motors Museum of Speed room of bicycles" title="Speedway Motors Museum of Speed room of bicycles">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-9.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed room of bicycles">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-9.jpg" alt="Speedway Motors Museum of Speed room of bicycles" title="Speedway Motors Museum of Speed room of bicycles">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-10.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed bmx bicycle">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-10.jpg %}" alt="Speedway Motors Museum of Speed bmx bicycle" title="Speedway Motors Museum of Speed bmx bicycle">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-10.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed bmx bicycle">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-10.jpg" alt="Speedway Motors Museum of Speed bmx bicycle" title="Speedway Motors Museum of Speed bmx bicycle">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-11.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed bicycles">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-11.jpg %}" alt="Speedway Motors Museum of Speed bicycles" title="Speedway Motors Museum of Speed bicycles">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-11.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed bicycles">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-11.jpg" alt="Speedway Motors Museum of Speed bicycles" title="Speedway Motors Museum of Speed bicycles">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-12.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Spike Jones Special">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-12.jpg %}" alt="Speedway Motors Museum of Speed spike jones special" title="Speedway Motors Museum of Speed spike jones special">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-12.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Spike Jones Special">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-12.jpg" alt="Speedway Motors Museum of Speed spike jones special" title="Speedway Motors Museum of Speed spike jones special">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-13.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Kurt Russell and family">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-13.jpg %}" alt="Speedway Motors Museum of Speed Kurt Russell and family" title="Speedway Motors Museum of Speed Kurt Russell and family">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-13.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Kurt Russell and family">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-13.jpg" alt="Speedway Motors Museum of Speed Kurt Russell and family" title="Speedway Motors Museum of Speed Kurt Russell and family">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-14.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Riverside Special">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-14.jpg %}" alt="Speedway Motors Museum of Speed Riverside Special" title="Speedway Motors Museum of Speed Riverside Special">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-14.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Riverside Special">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-14.jpg" alt="Speedway Motors Museum of Speed Riverside Special" title="Speedway Motors Museum of Speed Riverside Special">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-15.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed moonbeam and other lights">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-15.jpg %}" alt="Speedway Motors Museum of Speed moonbeam and other lights" title="Speedway Motors Museum of Speed moonbeam and other lights">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-15.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed moonbeam and other lights">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-15.jpg" alt="Speedway Motors Museum of Speed moonbeam and other lights" title="Speedway Motors Museum of Speed moonbeam and other lights">
   </a>
   
-  <a href="{% picture direct 2024/August/MuseumOfSpeed/MuseumOfSpeed-16.jpg %}" data-lightbox="museum" data-title="Speedway Motors Museum of Speed REO">
-    <img src="{% picture directred 2024/August/MuseumOfSpeed/MuseumOfSpeed-16.jpg %}" alt="Speedway Motors Museum of Speed REO" title="Speedway Motors Museum of Speed REO">
+  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-16.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed REO">
+    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-16.jpg" alt="Speedway Motors Museum of Speed REO" title="Speedway Motors Museum of Speed REO">
   </a>
 </div>
 
