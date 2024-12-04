@@ -8,7 +8,7 @@ keywords: '"scca, lincoln, national championships, solo nationals"'
 featured: true
 url: '2024-solo-nationals'
 tags:  [ scca, solonationals, lincoln ] 
-updateDate: 2024-11-18T09:59:22-06:00
+updateDate: 2024-12-03T11:59:22-06:00
 ---
 
 A month late, it's time to blog about the 2024 Tire Rack SCCA Solo National Championships...
