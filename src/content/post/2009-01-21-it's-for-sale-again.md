@@ -2,7 +2,7 @@
 layout: post
 title: It's for sale again
 date: '2009-01-21T03:54:20+00:00'
-permalink: it's-for-sale-again
+permalink: its-for-sale-again
 image: 
 categories: [ 240z, datsun, megasquirt, forsale ]
 description: Explore this blog post about preparing for the upcoming sale of a 1973 Datsun 240Z, complete with an L28E motor and several valuable parts.
