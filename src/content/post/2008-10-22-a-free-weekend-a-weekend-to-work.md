@@ -6,7 +6,7 @@ last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: a-free-weekend-a-weekend-to-work
 image: 
 categories: [ 240z, datsun ]
-description: As there's no specific blog post mentioned, I'll present a generic overview. "Explore our latest post packed with insights, tips and trending topics t...
+description: As there's no specific blog post mentioned, I'll present a generic overview. Explore our latest post packed with insights, tips and trending topics t...
 ---
 
 So this coming weekend will be the first free weekend I've had since the first weekend in September, and that was pretty much a weekend spent getting ready for the Solo Nationals. 
