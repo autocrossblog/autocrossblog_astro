@@ -1,12 +1,12 @@
 ---
-layout: post
-title: What is SSC? Solo Spec Coupe
-date: '2018-03-08T03:46:20+00:00'
-permalink: what-is-ssc-solo-spec-coupe
-image: 
-categories: [ autocross, toyota, scion, fr-s, subaru, brz, ssc ]
-description: Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals.
-last_modified_at: 2024-11-18T10:51:34-06:00
+author: chris
+image: ''
+publishDate: 2018-03-08T03:46:20+00:00
+title: "What is SSC? Solo Spec Coupe"
+excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
+url: 'what-is-ssc-solo-spec-coupe'
+tags:  [ autocross, toyota, scion, fr-s, subaru, brz, ssc ] 
+updateDate: 2024-11-18T10:51:34-06:00
 ---
 
 Solo Spec Coupe. SSC. The next big thing in SCCA Autocross.
@@ -40,10 +40,3 @@ One thing to keep in mind in terms of car selection is Contingency money. Toyota
 ## Is the class a Supplemental class?
 
 This is a common question, and the reason it is asked is because the supplemental tag in National autocross means that the class doesn't qualify for a National Championship. Typically supplemental classes are trials, new classes, that need some testing to see if they will work out.  This is exactly what SSC is right now, supplemental, a test. That being said, in the Town Hall event that the SCCA held at the end of February 2018, the question was asked if it will continue to be a supplemental class. The response was, yes, it currently is, but there's a chance that will change. So there is hope that SSC will qualify for a National Championship in 2018.
-
-
-
-
-
-
-

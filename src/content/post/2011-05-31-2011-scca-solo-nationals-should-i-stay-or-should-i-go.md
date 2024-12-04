@@ -1,12 +1,11 @@
 ---
-layout: post
-title: 2011 SCCA Solo Nationals, should I stay or should I go?
-date: '2011-05-31T03:06:45+00:00'
-permalink: 2011-scca-solo-nationals-should-i-stay-or-should-i-go
-image:
-categories: [ 350z, nissan ]
-description: Delve into a personal journey of deciding whether to attend the 2011 Tire Rack SCCA Solo National Championships amidst budget and family consideration...
-last_modified_at: 2024-11-15T12:15:17-06:00
+author: chris
+publishDate: 2011-05-31T03:06:45+00:00
+title: "2011 SCCA Solo Nationals, should I stay or should I go?"
+excerpt: "Delve into a personal journey of deciding whether to attend the 2011 Tire Rack SCCA Solo National Championships amidst budget and family consideration..."
+url: '2011-scca-solo-nationals-should-i-stay-or-should-i-go'
+tags:  [ 350z, nissan ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 So here we are, at the end of May 2011, and it's time to figure out if I'm going to the 2011 Tire Rack SCCA Solo National Championships in late August.
@@ -20,5 +19,3 @@ So I have a couple of options.
 - Fly to Lincoln and codrive with someone else
 
 What to do, what to do?
-
-

@@ -1,16 +1,14 @@
 ---
-layout: post
-title: All in a day's paint
-date: '2007-07-16T09:14:37+00:00'
-last_modified_at: 2024-11-18T08:39:29-06:00
-permalink: all-in-a-day-s-paint
-image: 
-categories: [ 240z, datsun, megasquirt ]
-redirect_from:
-    - all-in-a-day&apos;s-paint
-    - all-in-a-day%27s-paint
-description: "Follow the journey of DIY car repairs and modifications in a garage. Witness the transformation of an old vehicle into something new and learn along."
+image: ''
+publishDate: 2007-07-16T09:14:37+00:00
+title: "All in a day's paint"
+excerpt: "Follow the journey of DIY car repairs and modifications in a garage. Witness the transformation of an old vehicle into something new and learn along."
+author: chris
+url: 'all-in-a-day-s-paint'
+tags:  [ 240z, datsun, megasquirt ] 
+updateDate: 2024-11-18T08:39:29-06:00
 ---
+
 After yesterday's fun, Eric and I spent some time in the garage today. I was awoken this morning around 8:00am by the doorbell; the Dish Network guy showed up right on time. More on that topic tomorrow on [The Mad Blogger](https://themadblogger.com/). After I got the Dish guy going, I sent Eric an SMS to let him know I was out in the garage working.
 
 The first thing I needed to do was lay some fiberglass in the passenger floorboard. I had missed a few spots on that side earlier in the week and laid some extra resin in the floor to smooth out the pockmarks from the cleaned-up rust.
@@ -41,4 +39,3 @@ And here are some after shots:
 We ended up painting a few coats over most areas of the interior and then let the car sit for a while to dry. Once dry, we rolled the car back into the garage and started running fuel lines. We ran both the feed and return lines for the fuel cell, mounted the pump again after removing it for paint, and fixed the fuel lines to the transmission tunnel.
 
 Tomorrow, I'll be working on the motor again. I hope to get the intake and exhaust manifolds back on the motor so that we can put it in the car Tuesday or Wednesday night. From there, it'll be time to start wiring up the Megasquirt.
-

@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Let there be sound, and I'm going to Nationals (not in the 350z)
-date: '2011-06-15T00:58:01+00:00'
-last_modified_at: 2024-11-15T12:15:17-06:00
-permalink: let-there-be-sound-and-im-going-to-nationals-not-in-the-350z
-image:
-categories: [ 350z, nissan ]
-description: Explore the journey of reassembling a stereo system in a car geared for racing. Dive into the process, challenges, and solutions of crafting the perfe...
+publishDate: 2011-06-15T00:58:01+00:00
+title: "Let there be sound, and I'm going to Nationals (not in the 350z)"
+excerpt: "Explore the journey of reassembling a stereo system in a car geared for racing. Dive into the process, challenges, and solutions of crafting the perfe..."
+author: chris
+url: 'let-there-be-sound-and-im-going-to-nationals-not-in-the-350z'
+tags:  [ 350z, nissan ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 So I finally had it with listening to my Motorola Droid (Google Music and Pandora) for my commute. Why don't I have a stereo? Well back in February I ripped it all out. Not exactly the best choice, but hey, I was in the heat of the moment thinking I was prepping the car for a fully competitive 2011 season. That has changed, (more on that later).
@@ -24,6 +23,3 @@ I'll be driving Dave Whitworth's Mustang in EM at Nationals. Dave and I have bee
 I'll fly into Lincoln, though I'm not sure when yet, and likely be there all week. I've offered to announce at the ProSolo Finale, though I haven't heard if anyone is interested in taking me up on that offer or not. 
 
 I am hoping that for 2012 I can get the 350z sorted out and ready for Nationals. Though, I really don't like that I now live 26 hours from Nationals. Living in St. Louis and being a 5 hour drive from it (when it was in Topeka) definitely spoiled me!
-
-
-

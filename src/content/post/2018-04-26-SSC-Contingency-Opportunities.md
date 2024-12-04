@@ -1,13 +1,14 @@
 ---
-layout: post
-title: SSC Contingency Opportunities
-description: "Blog post that lists off some SCCA Contingency availabile to SSC, this post was for 2018"
-date: '2018-04-26T02:58:53+00:00'
-last_modified_at: 2024-10-09T13:21:54-05:00
-permalink: ssc-contingency-opportunities
-image: 
-categories: [ autocross, toyota, scion, fr-s, ssc ]
+image: ''
+publishDate: 2018-04-26T02:58:53+00:00
+title: "SSC Contingency Opportunities"
+excerpt: "Blog post that lists off some SCCA Contingency availabile to SSC, this post was for 2018"
+author: chris
+url: 'ssc-contingency-opportunities'
+tags:  [ autocross, toyota, scion, fr-s, ssc ] 
+updateDate: 2024-10-09T13:21:54-05:00
 ---
+
 So one of the ways to help supplement the cost of autocross at a National level with the SCCA is to participate in their contingency programs. There are a variety of contingency options available, depending on:
 - What make of car you drive
 - What class you run in
@@ -28,4 +29,3 @@ For SSC, here are the contingencies that I believe to be applicable:
 - RaceChick.com â€“ ProSolo (ladies)
 
 The amounts will all vary, but Falken for example will pay $300 for first, $200 for second and $100 for third.
-

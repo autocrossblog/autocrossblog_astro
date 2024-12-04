@@ -1,17 +1,17 @@
 ---
-layout: post
-title: "10 Things to Prepare for at the 2024 Solo National Championships"
-date: '2024-08-25T09:00:15+00:00'
-permalink: 10-things-2024-national-championships
-description: "Not sure what to expect at Nationals? We've got you covered"
-keywords: "scca, lincoln, national championships, solo nationals"
-image: 2024/August/SoloNats-2.jpg
-categories: [ scca, solonationals, lincoln ]
+url: '10-things-2024-national-championships'
 featured: false
-comments: true
-# last_modified_at: '2024-07-08T16:50:08+00:00'
-last_modified_at: 2024-11-18T11:19:52-06:00
+image: '2024/August/SoloNats-2.jpg'
+# last_modified_at: ''2024-07-08T16:50:08+00:00''
+author: chris
+excerpt: "Not sure what to expect at Nationals? We've got you covered"
+publishDate: 2024-08-25T09:00:15+00:00
+title: "10 Things to Prepare for at the 2024 Solo National Championships"
+keywords: '"scca, lincoln, national championships, solo nationals"'
+updateDate: 2024-11-18T11:19:52-06:00
+tags:  [ scca, solonationals, lincoln ] 
 ---
+
 So you're heading to your first Solo National Championships, it can be overwhelming, you've likely never experienced anything like you're going to see this week in Lincoln Nebraska, so I'm going to try to take some time to give you a heads up! Hopefully it will help you have an even more fun week!
 
 ## 1. One of the Largest Motorsport Events in the World
@@ -80,4 +80,3 @@ Attending the 2024 Solo Nationals as a first-timer will be an unforgettable expe
 Good luck, and see you on the course!
 
 What did we miss? Add your thoughts to the comments below!
-

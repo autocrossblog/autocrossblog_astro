@@ -1,13 +1,14 @@
 ---
-layout: post
-title: First event in SSC
-description: "Blog post about our first autocross in the SSC car!"
-date: '2018-04-16T02:14:13+00:00'
-last_modified_at: 2024-10-09T13:21:54-05:00
-permalink: first-event-in-ssc
-image: 
-categories: [ autocross, scion, fr-s, ssc, setup, specfrs ]
+image: ''
+publishDate: 2018-04-16T02:14:13+00:00
+title: "First event in SSC"
+excerpt: "Blog post about our first autocross in the SSC car!"
+author: chris
+url: 'first-event-in-ssc'
+tags:  [ autocross, scion, fr-s, ssc, setup, specfrs ] 
+updateDate: 2024-10-09T13:21:54-05:00
 ---
+
 Today was the first St. Louis Region Solo event in the 2018 series, so it was the first time out in the car, and I must say, it was great (albeit cold, windy, and even snowing/sleeting/raining at times)! [Natalie](https://www.youtube.com/watch?v=SGoV08aTlmU) got to take the first runs in the car, actually the first 6! She hasn't seriously autocrossed since 2008 when we had the [Corvette](/category/corvette/), but I believe this year will be different and she'll run quite a few local events and then we'll see if I can't talk her into Solo Nationals as well. Natalie managed to get down to a 51.997 on her 4th run, but trying harder on run 5 and 6 she went the other direction on the clock. We'll see where she placed within the ladies challenge once the results are published later this week.
 
 ![YouTube Video](https://www.youtube.com/embed/HtN1BvhQrfI)
@@ -33,4 +34,3 @@ Settings:
 On my 6th run the course started to get slick due to the rain/sleet, and I ended up losing control on the back half of the course. On the way home the car felt funky, so I stopped and took the turns out of the Konis. I ended up noticing that the steering wheel was off-center, and then I noticed that both the ABS and SLIP lights were on the dash. I scanned the OBD2 with my Torque app to see if there were any codes being thrown for those two lights, but wasn't able to find anything. My internet research, and help from the SSC group on Facebook leads me to believe that the alignment (wheel being crooked) is what is causing the lights. I'll head over to SPS this week and see what I screwed up when I spun today!
 
 Overall I'm stoked about how much fun I had in the car today. I didn't win PAX, but I didn't expect to, the PAX for this class doesn't appear to be close to a valid equalizer for 2018. I will be surprised if I get in the top 2 on PAX at all this year locally, but we'll see, maybe I'll be surprised. I'm looking forward to the Misfit Toys event next weekend, and the Blytheville ProSolo the following weekend!
-

@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Saying Goodbye
-date: '2010-02-01T00:02:26+00:00'
-last_modified_at: 2024-11-15T12:15:17-06:00
-permalink: saying-goodbye
-image: 
-categories: [ friends, 240z, datsun, colorado, california ]
-description: Follow along as we navigate the considerations for car wheel selection, discussing different sizes, benefits, and costs for the upcoming 2010 Autocros...
+image: ''
+publishDate: 2010-02-01T00:02:26+00:00
+title: "Saying Goodbye"
+excerpt: "Follow along as we navigate the considerations for car wheel selection, discussing different sizes, benefits, and costs for the upcoming 2010 Autocros..."
+author: chris
+url: 'saying-goodbye'
+tags:  [ friends, 240z, datsun, colorado, california ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 (Idea blatantly stolen from [James Nelson's Saying Goodbye post](https://mywifeisfaster.blogspot.com/2010/01/saying-goodbye.html))
@@ -44,5 +44,3 @@ After this incident you sat for a quite a while, really until late 2008, you liv
 ![@project240z is loaded for trip to colorado. #going2colorado by chrishammond, on Flickr](https://farm3.static.flickr.com/2454/3749868081_c4bd798642_m.jpg)
 
 Life in Colorado wasn't as grand as you had hoped though. You did get some attention here and there, but new priorities in life got in the way of the real attention you needed. It was then decided that you would be better served by finding a new owner. Today that new owner came and took you away. I hope you enjoy your new life, you were my first real project car, and while I never completed you, I am grateful for the time we spent together. I will miss you 240z, perhaps one day in the future I may run into one of your twins.
-
-

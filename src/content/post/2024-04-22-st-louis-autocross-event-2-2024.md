@@ -1,15 +1,15 @@
 ---
-layout: post
+author: chris
+image: '2024/April/StLouis/Event2-1.jpg'
+publishDate: 2024-04-22T10:00:15+00:00
 title: "From Cones to Camaraderie: Recap of St. Louis's First Autocross of 2024"
-date: '2024-04-22T10:00:15+00:00'
-permalink: st-louis-autocross-event-2-2024
-description: Event summary from the 2nd (but really first) event of the 2024 St. Louis Region SCCA Season
-image: 2024/April/StLouis/Event2-1.jpg
-categories: [ autocross, scca, mustang, friends, st.louis, local ]
+excerpt: "Event summary from the 2nd (but really first) event of the 2024 St. Louis Region SCCA Season"
 featured: false
-comments: true
-last_modified_at: 2024-10-09T13:21:54-05:00
+url: 'st-louis-autocross-event-2-2024'
+tags:  [ autocross, scca, mustang, friends, st.louis, local ] 
+updateDate: 2024-10-09T13:21:54-05:00
 ---
+
 The first local autocross of the year was officially Event #2 for the St. Louis Region SCCA. Why Event #2 if it was the first? Event #1 ended up getting scrapped due to lot availability issues and the committee just left the original titles of the events the same. 
 
 I am not sure when I last ran a regional event; it was likely back in 2022 when I drove Matt Miller's Camaro at Gateway, where the car nearly caused a serious accident by heading straight for some jersey barriers and a fence.
@@ -65,5 +65,3 @@ Here is the video of my fastest autocross run, followed by Dave's fastest run fr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0D6l2NeEKIQ?si=RBDpT7xErAyxNMLS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/akpxKxMThFg?si=W93EiJLfHGobQjFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-

@@ -1,15 +1,12 @@
 ---
-layout: post
-title: Say it isn't so! We've found the piston!
-description: "What? Chris actually worked on the 240Z? Impossible! It tis true, it really is. Tonight I got home and decided it was time to tear into the motor"
-date: '2008-01-09T11:35:34+00:00'
-last_modified_at: 2024-10-09T13:21:54-05:00
-permalink: say-it-isn-t-so-we-ve-found-the-piston
-image: 
-categories: [ 240z, datsun, motor, pictures, photos ]
-redirect_from:
-    - say-it-isn't-so-we've-found-the-piston
-    - say-it-isn%27t-so-we%27ve-found-the-piston
+image: ''
+publishDate: 2008-01-09T11:35:34+00:00
+title: "Say it isn't so! We've found the piston!"
+excerpt: "What? Chris actually worked on the 240Z? Impossible! It tis true, it really is. Tonight I got home and decided it was time to tear into the motor"
+author: chris
+url: 'say-it-isn-t-so-we-ve-found-the-piston'
+tags:  [ 240z, datsun, motor, pictures, photos ] 
+updateDate: 2024-10-09T13:21:54-05:00
 ---
 
 What? Chris actually worked on the 240Z? Impossible! It tis true, it really is. Tonight I got home and decided it was time to tear into the motor, so I did just that. I even recorded the whole process, so hopefully I'll have video up soon. For now you can check out the photos of what I found, be warned, it's not pretty!
@@ -29,5 +26,3 @@ I'm going to save this piece, and perhaps attach it to my office door at work.
 Plenty more pictures in the <a href="https://www.flickr.com/photos/chammond/sets/72157594465585463/">Project240Z Set on Flickr</a>
 
 UPDATE <a href="/in-search-of-a-piston">here's a link to tonight's video.</a>
-
-

@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Packing the garage, driving the car
-date: '2009-07-20T01:20:10+00:00'
-last_modified_at: 2024-11-15T12:15:17-06:00
-permalink: packing-the-garage-driving-the-car
-image: 
-categories: [ 240z, datsun, video ]
-description: Join me on a joy ride in this blog post, as I reignite a car after 23 months, register the struggles and celebrate the small victories.
+image: ''
+publishDate: 2009-07-20T01:20:10+00:00
+title: "Packing the garage, driving the car"
+excerpt: "Join me on a joy ride in this blog post, as I reignite a car after 23 months, register the struggles and celebrate the small victories."
+author: chris
+url: 'packing-the-garage-driving-the-car'
+tags:  [ 240z, datsun, video ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 So today was spent packing the garage. While getting things packed up made it a productive day, the real joy was with the car. I drove it today!!!!!!!!!!!!!!!!!!!!!! It has been over 23 months since the car last moved under it's own power, so getting it out of the driveway (harder than it sounds) and driving it around the circle made for a great day.
@@ -18,6 +18,3 @@ The video is in HD, so watch it that way ;)
 https://www.youtube.com/v/pbd7GbTyAiU
 
 After driving it around I even got more of the front end put together, with a grill and air dam installed, I'll get a picture of that configuration tomorrow.
-
-
-

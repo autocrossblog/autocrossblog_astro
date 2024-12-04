@@ -1,13 +1,14 @@
 ---
-layout: post
-title: Taking apart the new motor
-description: "So Nick came over this morning and helped me get the motor off the ground and onto the engine stand"
-date: '2008-03-10T08:53:36+00:00'
-permalink: taking-apart-the-new-motor
-image: 
-categories: [ 240z, datsun ]
-last_modified_at: 2024-10-09T13:21:54-05:00
+author: chris
+image: ''
+publishDate: 2008-03-10T08:53:36+00:00
+title: "Taking apart the new motor"
+excerpt: "So Nick came over this morning and helped me get the motor off the ground and onto the engine stand"
+url: 'taking-apart-the-new-motor'
+tags:  [ 240z, datsun ] 
+updateDate: 2024-10-09T13:21:54-05:00
 ---
+
 So Nick came over this morning and helped me get the motor off the ground and onto the engine stand so I could begin tearing it apart. After breaking a bolt off in the head trying to get one of the mounts setup for the cherry picker we managed to get the motor up and off the ground, though it took a couple of tries because we tried to get by with "the wrong" parts, meaning bolts in the chain that were too small for what we were doing.
 
 Lesson learned, again, use the right damn tools, instead of trying to make the wrong tools work. You'll save time rather than trying to take short cuts.
@@ -25,5 +26,3 @@ After that I tried to spend some time organizing the garage a bit. I managed to 
 Speaking of transmissions, I need to sell the 2 extra ones I have, if anyone is looking for an automatic transmission out of a 73 240Z, or a 5 speed out of a 280Z let me know. I was told the 5 speed needs rebuilding, I have no clue about it other than that.
 
 My goal/plan right now is to tear down the L28E and check things over, replace the rear main seal, make sure to clean it out, then try and put it all back together. I don't imagine I'll get that done before May, but I would like to spend time on it over the next few weeks if I can.
-
-

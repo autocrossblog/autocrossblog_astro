@@ -1,16 +1,16 @@
 ---
-layout: post
+author: chris
+image: '2024/August/SoloNats-3.jpg'
+publishDate: 2024-10-09T10:00:15+00:00
 title: "2024 Solo National Championships Writeup"
-date: '2024-10-09T10:00:15+00:00'
-permalink: 2024-solo-nationals
-description: "Let's talk about a week in Lincoln Nebraska"
-keywords: "scca, lincoln, national championships, solo nationals"
-image: 2024/August/SoloNats-3.jpg
-categories: [ scca, solonationals, lincoln ]
+excerpt: "Let's talk about a week in Lincoln Nebraska"
+keywords: '"scca, lincoln, national championships, solo nationals"'
 featured: true
-comments: true
-last_modified_at: 2024-11-18T09:59:22-06:00
+url: '2024-solo-nationals'
+tags:  [ scca, solonationals, lincoln ] 
+updateDate: 2024-11-18T09:59:22-06:00
 ---
+
 A month late, it's time to blog about the 2024 Tire Rack SCCA Solo National Championships...
 
 <link href="/assets/css/lightbox.min.css" rel="stylesheet" />
@@ -145,4 +145,3 @@ Nothing too eventful happened, but it was great to get to call Evan William's G 
 
 ## What's next?
 So what's coming next? Well, the next weekend after Nationals I ran a local event in an AS Z06, that was fun! I am leaning towards running in SSC again in 2025 though, so I will be working on purchasing a new ride for that endeavor hopefully in the next month or two!
-

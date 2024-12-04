@@ -1,13 +1,13 @@
 ---
-layout: post
-title: Installing the 350z Trailer Hitch
-description: 350z Trailer hitch installation post with a few details of the process.
-date: '2011-07-23T20:27:15+00:00'
-last_modified_at: 2024-10-09T13:21:54-05:00
-permalink: installing-the-350z-trailer-hitch
-image:
-categories: [ 350z, nissan ]
+publishDate: 2011-07-23T20:27:15+00:00
+title: "Installing the 350z Trailer Hitch"
+excerpt: "350z Trailer hitch installation post with a few details of the process."
+author: chris
+url: 'installing-the-350z-trailer-hitch'
+tags:  [ 350z, nissan ] 
+updateDate: 2024-10-09T13:21:54-05:00
 ---
+
 So the time finally came, or I finally got around to it, the hitch is now on our 2004 Nissan 350z.
 
 The hitch is a [Curt Hitch for the 350z, available via Amazon](https://www.amazon.com/gp/product/B000BROASA?ie=UTF8&tag=chrishammondc-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000BROASA). I purchased it quite a while ago, but haven't taken the time to get the car apart and install it. Today that all changed.
@@ -27,4 +27,3 @@ So the hitch is on the car, though I don't plan to use it for a good couple of w
 Here is a during, and after photo, and stay tuned for the time lapse video of the process later on.
 
 ![350z Trailer Hitch Installed](https://static.flickr.com/6021/5968044321_737e3a2f4a_m.jpg) ![Now that @project350z is apart, time to find the hitch in the garage](https://static.flickr.com/6013/5967231711_f7e2b9e4f1_m.jpg)
-

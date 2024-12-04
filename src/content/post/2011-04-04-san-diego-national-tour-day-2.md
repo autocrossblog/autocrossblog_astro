@@ -1,14 +1,13 @@
 ---
-layout: post
-title: San Diego National Tour Day 2
-description: "Experience exhilarating autocross racing at the San Diego National Tour. Dive into intense competition, camaraderie, and Z car glory. #Autocross #RacingLife"
-date: '2011-04-04T01:16:23+00:00'
-last_modified_at: 2024-11-18T08:39:29-06:00
-permalink: san-diego-national-tour-day-2
-image:
-categories: [ 350z, nissan, setup, nationaltour, national-tour ]
-last_modified_at: 2024-11-18T08:39:29-06:00
+publishDate: 2011-04-04T01:16:23+00:00
+title: "San Diego National Tour Day 2"
+excerpt: "Experience exhilarating autocross racing at the San Diego National Tour. Dive into intense competition, camaraderie, and Z car glory. #Autocross #RacingLife"
+author: chris
+url: 'san-diego-national-tour-day-2'
+tags:  [ 350z, nissan, setup, nationaltour, national-tour ] 
+updateDate: 2024-11-18T08:39:29-06:00
 ---
+
 I was pretty down today. Going into the first set of runs I had a headache that didn't seem to want to go away and I wasn't happy with my performance the day before. I was actually sitting there thinking, why do I do this? I really was thinking, I love seeing friends and talking to everyone, but I was pretty down on the racing part of things.
 
 While I was announcing first heat a number of cars were DNF'ng corner 3, all the MOD cars dnf'd their first run. I thought, what is wrong with these people, why are they dnf'ng up there? Well, on my first run I found out, as I did the same damn thing. I was flying around the top of the course, looking ahead (or so I though) and all of a sudden I realized I wasn't anywhere close to making it where I needed to be, I slammed on the brakes then decided there was no way I was going to make it so I hit the gas and drove on. 
@@ -22,4 +21,3 @@ I'll have videos up in the next couple of days, I have some photos uploading at 
 <a href="https://www.flickr.com/photos/chammond/sets/72157626299376321/">https://www.flickr.com/photos/chammond/sets/72157626299376321/</a>
 
 <a title="IMG_9328" href="https://www.flickr.com/photos/17726343@N00/5587474265/"><img border="0" alt="Project 350z at San Diego National Tour" src="https://static.flickr.com/5069/5587474265_c1f4f02b0d.jpg" /></a>
-

@@ -1,17 +1,17 @@
 ---
-layout: post
-title: "2024 Solo National Championship Photos"
-date: '2024-08-21T12:00:15+00:00'
-permalink: 2024-national-championship-photos
-description: "Special photo package available for the 2024 Solo National Championships"
-keywords: "scca, lincoln, national championships, solo nationals"
-image: 2024/August/SoloNats-1.jpg
-categories: [ scca, solonationals, lincoln ]
+url: '2024-national-championship-photos'
 featured: false
-comments: true
-# last_modified_at: '2024-07-08T16:50:08+00:00'
-last_modified_at: 2024-10-09T14:49:51-05:00
+image: '2024/August/SoloNats-1.jpg'
+# last_modified_at: ''2024-07-08T16:50:08+00:00''
+author: chris
+excerpt: "Special photo package available for the 2024 Solo National Championships"
+publishDate: 2024-08-21T12:00:15+00:00
+title: "2024 Solo National Championship Photos"
+keywords: '"scca, lincoln, national championships, solo nationals"'
+updateDate: 2024-10-09T14:49:51-05:00
+tags:  [ scca, solonationals, lincoln ] 
 ---
+
 If you're heading to the 2024 Solo National Championships in Lincoln Nebraska starting late next week you should check this out! 
 
 This site is run by Chris Hammond, a 24+ year autocrosser who really got into photography due to the sport of autocross. He's been attending the Solo National Championships off and on since 2000 and has taken photos at pretty much every one of those.
@@ -25,4 +25,3 @@ There's no limit to the number of drivers or classes per car, so you can walk aw
 [Find our more info](https://rainbowmarks.com/Events/2024/08/SoloNationals) or [skip the details and go straight to the buying process](https://rainbowmarks.square.site/product/2024-solo-nationals/4)!
 
 You can also visit those URLs and sign up to get an email after the event when the photos are posted and available for viewing!
-

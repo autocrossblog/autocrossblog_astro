@@ -1,12 +1,11 @@
 ---
-layout: post
+author: chris
+publishDate: 2011-02-19T00:52:11+00:00
 title: "Night before the Project 350z's first divisional"
-description: "So today was a busy day, I had a lot to catch up on at work, training to provide internally, and a final to take this afternoon."
-date: '2011-02-19T00:52:11+00:00'
-permalink: night-before-the-project-350zs-first-divisional
-image:
-categories: [ 350z, nissan, setup ]
-last_modified_at: 2024-10-09T13:21:54-05:00
+excerpt: "So today was a busy day, I had a lot to catch up on at work, training to provide internally, and a final to take this afternoon."
+url: 'night-before-the-project-350zs-first-divisional'
+tags:  [ 350z, nissan, setup ] 
+updateDate: 2024-10-09T13:21:54-05:00
 ---
 
 So today was a busy day, I had a lot to catch up on at work, training to provide internally, and a final to take this afternoon. After that I ran home and grabbed the set of Falken Azenis RT-615s that were sitting in the garage and ran to Les Schwab ([the same place I bitched about a few weeks ago](/race-tire-mounting-in-the-san-francisco-bay-area-peninsula)) to get them mounted.
@@ -16,5 +15,3 @@ They weren't too thrilled about what I had to offer them, but they did get them 
 So tomorrow morning begins another autocross, a two day divisional at Great America in Santa Clara. I went down to register tonight but they had closed up the registration due to all the rain coming down, so I at least found out my work assignment (3rd heat announce) and spent some time driving with my wife and baby.
 
 I'll have video up tomorrow night of the event, we'll see how things go. I'm hoping it dries a little so that the V710s can have some fun.
-
-

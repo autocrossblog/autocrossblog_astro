@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Tracking down no FM reception in a 2003 350z Pioneer avh-x3700bhs
-date: '2016-01-03T23:41:23+00:00'
-last_modified_at: 2024-11-15T12:15:17-06:00
-permalink: tracking-down-no-fm-reception-in-a-2003-350z-pioneer-avh-x3700bhs
-image: PublishThumbnails/Open-Live-Writer/Tracking-down-no-FM-reception-in-a-2003-_13A5C/image_2.png
-categories: [ 350z, nissan ]
-description: Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest.
+image: 'PublishThumbnails/Open-Live-Writer/Tracking-down-no-FM-reception-in-a-2003-_13A5C/image_2.png'
+publishDate: 2016-01-03T23:41:23+00:00
+title: "Tracking down no FM reception in a 2003 350z Pioneer avh-x3700bhs"
+excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
+author: chris
+url: 'tracking-down-no-fm-reception-in-a-2003-350z-pioneer-avh-x3700bhs'
+tags:  [ 350z, nissan ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 When I picked up the 350z in Chattanooga back in November, I figured out that the radio wasn't great, the sound was weak, and it didn't appear to pick up any FM signals whatsoever. Over the Xmas weekend I decided it was time to rip into the car to remove the stock Bose amp and subwoofer (behind the driver's seat) as well as try to tack down why the FM reception was non-existent.
@@ -23,9 +23,4 @@ I went ahead and left the MIC unplugged and put everything back together in the 
 
 So it looks like the ultimately problem with the radio may just have been the miswired Mic, we'll see, next time I drive the car, how things play out. It might be a while though before I get back out in the Z, it has turned cold here in Missouri and I don't plan to drive the car too much in below freezing temps, due to the abuse on the tires.
 
-**Update 1-5-2016:** I drove the car today, and the FM Radio works great now!  
-
-
-
-
-
+**Update 1-5-2016:** I drove the car today, and the FM Radio works great now!

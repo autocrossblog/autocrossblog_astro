@@ -1,13 +1,14 @@
 ---
-layout: post
-title: Fun power tools and more 240Z progress
-date: '2007-06-13T19:51:12+00:00'
-last_modified_at: 2024-10-09T13:21:54-05:00
-description: "More power tool fun for the 240z!"
-permalink: fun-power-tools-and-more-240z-progress
-image: 
-categories: [ 240z, datsun, tools ]
+image: ''
+publishDate: 2007-06-13T19:51:12+00:00
+title: "Fun power tools and more 240Z progress"
+excerpt: "More power tool fun for the 240z!"
+author: chris
+url: 'fun-power-tools-and-more-240z-progress'
+tags:  [ 240z, datsun, tools ] 
+updateDate: 2024-10-09T13:21:54-05:00
 ---
+
 Last night I returned the Vertical sander that I had purchased from Sears that was broken when I removed it from the box. I got a replacement sander and brought it home to install. I setup the webcam on the wall, right above the work bench, and got to work assembling the sander.
 
 5-10 minutes later I was ready to start sanding on the aluminum I had cut with a jig saw the day before to make a blockoff plate for my AAC valve on the intake manifold. I tell you what, a vertical sander is a fun thing to have! Here's the result of what I was making, though I'm still going to drill a hole in it and tap that hole for the temperature sensor I'll be mounting in the intake manifold.
@@ -25,5 +26,3 @@ So I started removing it last night, got it removed, and then saw that without t
 After all this I decided it was time to head inside and play with the cool video I had shot last night, only to realize that I had click on the record audio button, instead of record video. So yet again, there isn't any video to be had :(
 
 Tonight though I promise I'll do my best to get it right and have a video to post of the evenings work.
-
-

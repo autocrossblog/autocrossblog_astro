@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Heat gun on a hot night
-date: '2007-05-30T06:14:08+00:00'
-last_modified_at: 2024-10-09T13:21:54-05:00
-description: A blog post about a Heat Gun on a Hot Night... and inline skating.
-permalink: heat-gun-on-a-hot-night
-image: 
-categories: [ 240z, datsun ]
+image: ''
+publishDate: 2007-05-30T06:14:08+00:00
+title: "Heat gun on a hot night"
+excerpt: "A blog post about a Heat Gun on a Hot Night... and inline skating."
+author: chris
+url: 'heat-gun-on-a-hot-night'
+tags:  [ 240z, datsun ] 
+updateDate: 2024-10-09T13:21:54-05:00
 ---
 
 Tonight after work Eric and I headed to Creve Couer park to do some skating. Kendra met us there to bring Eric socks and skated with us as well. As a group we went around the park once, they called it a night after that lap but I decided I'd go around one more lap before heading home. I had a big lunch so I figured I could definitely use the exercise.
@@ -16,10 +16,3 @@ After that I came home and recovered for a few minutes. I had said I'd do some w
 
 
 I'll take some pics and video as I start doing more work inside the car. That's all for tonight
-
-
-
-
-
-
-

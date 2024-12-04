@@ -1,12 +1,11 @@
 ---
-layout: post
-title: The 2016 Autocross Season So Far
-date: '2016-04-23T00:21:33+00:00'
-last_modified_at: 2024-11-18T10:51:34-06:00
-permalink: the-2016-autocross-season-so-far
-image:
-categories: [ 350z, nissan ]
-description: Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest.
+publishDate: 2016-04-23T00:21:33+00:00
+title: "The 2016 Autocross Season So Far"
+excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
+author: chris
+url: 'the-2016-autocross-season-so-far'
+tags:  [ 350z, nissan ] 
+updateDate: 2024-11-18T10:51:34-06:00
 ---
 
 So it has been a while since I've had the time to get a blog post up here, so let's get started.
@@ -83,5 +82,3 @@ With SoloStorm you can analyze the data from your runs quickly from an Android t
 ### What's Next?
 
 Next weekend (April 30, May 1st) I'll be at the Grissom Classic in Peru Indiana, and the following weekend I'll be at the Wilmington ProSolo. See you out at an event!
-
-

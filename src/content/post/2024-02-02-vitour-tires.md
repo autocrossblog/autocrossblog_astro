@@ -1,15 +1,15 @@
 ---
-layout: post
-title: Information about the Vitour Tempesta P1
-description: "Information about the illegal Vitour Tempesta P1 tire and why they shouldn't be used"
-date: '2024-02-02T00:00:15+00:00'
-permalink: vitour-tires-illegal
-image: 2024/vitourtire.jpg
-categories: [ autocross, tires ]
+author: chris
+image: '2024/vitourtire.jpg'
+publishDate: 2024-02-02T00:00:15+00:00
+title: "Information about the Vitour Tempesta P1"
+excerpt: "Information about the illegal Vitour Tempesta P1 tire and why they shouldn't be used"
 featured: false
-comments: true
-last_modified_at: 2024-10-09T13:21:54-05:00
+url: 'vitour-tires-illegal'
+tags:  [ autocross, tires ] 
+updateDate: 2024-10-09T13:21:54-05:00
 ---
+
 If you're looking for information on the Vitour Tempesta P1 tire for the sport of autocross you've come to the right place!
 
 The tire isn't legal for national level autocross competition. Don't waste your money on it buying a set. 
@@ -36,5 +36,4 @@ In some regions, but not in any respectible region. Stick with know and trusted 
 > These tires may be removed from the exclusion list when that information becomes available, if all other conditions of 13.3 are met.
 
 
-Opinions are my own, and just that, opinions. 
-
+Opinions are my own, and just that, opinions.

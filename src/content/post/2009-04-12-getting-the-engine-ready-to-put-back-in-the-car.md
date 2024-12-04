@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Getting the engine ready to put back in the car
-date: '2009-04-12T00:01:26+00:00'
-last_modified_at: 2024-11-15T12:15:17-06:00
-permalink: getting-the-engine-ready-to-put-back-in-the-car
-image: 
-categories: [ 240z, datsun, video, motor ]
-description: Follow this engaging step-by-step journey of a day spent refurbishing a car engine. Includes helpful visuals and a detailed video tutorial.
+image: ''
+publishDate: 2009-04-12T00:01:26+00:00
+title: "Getting the engine ready to put back in the car"
+excerpt: "Follow this engaging step-by-step journey of a day spent refurbishing a car engine. Includes helpful visuals and a detailed video tutorial."
+author: chris
+url: 'getting-the-engine-ready-to-put-back-in-the-car'
+tags:  [ 240z, datsun, video, motor ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 So I spent most of the day today in the garage, the first time I've done that in probably 20 months, it was nice! Thanks to Dave for coming over and helping me out for a bit, if he hadn't come over I wouldn't have gotten all that I did, done.
@@ -30,7 +30,3 @@ Here's today's video, though we missed the lowering of the motor off the engine 
 And a few pictures at the end of the day
 
   <div id="setThumbs-indv3433648886_div" class="setThumbs-indv"><span id="photo_thumb3433648886" class="photo_container pc_s"><a class="image_link" title="Turbo for the Datsun" href="https://www.flickr.com/photos/chammond/3433648886/in/set-72157594465585463/"><img class="pc_img" alt="Turbo for the Datsun" src="https://farm4.static.flickr.com/3663/3433648886_70865e13ef_s.jpg" width="75" height="75" /></a> </span><span id="photo_thumb3433647344" class="photo_container pc_s"><a class="image_link" title="Turbo for the Datsun" href="https://www.flickr.com/photos/chammond/3433647344/in/set-72157594465585463/"><img class="pc_img" alt="Turbo for the Datsun" src="https://farm4.static.flickr.com/3347/3433647344_18daf0061f_s.jpg" width="75" height="75" /></a> </span><span id="photo_thumb3432834921" class="photo_container pc_s"><a class="image_link" title="The engine reassembled" href="https://www.flickr.com/photos/chammond/3432834921/in/set-72157594465585463/"><img class="pc_img" alt="The engine reassembled" src="https://farm4.static.flickr.com/3351/3432834921_e0361cc2ea_s.jpg" width="75" height="75" /></a></span></div>
-
-
-
-

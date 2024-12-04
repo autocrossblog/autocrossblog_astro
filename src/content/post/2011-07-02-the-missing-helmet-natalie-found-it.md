@@ -1,12 +1,11 @@
 ---
-layout: post
-title: The missing helmet! Natalie found it!
-date: '2011-07-02T19:07:16+00:00'
-last_modified_at: 2024-11-15T12:15:17-06:00
-permalink: the-missing-helmet-natalie-found-it
-image:
-categories: [ 350z, nissan ]
-description: Discover the cherished Bell Helmet's adventure from Colorado to California, lost during a move, and its unexpected reunion with the owner.
+publishDate: 2011-07-02T19:07:16+00:00
+title: "The missing helmet! Natalie found it!"
+excerpt: "Discover the cherished Bell Helmet's adventure from Colorado to California, lost during a move, and its unexpected reunion with the owner."
+author: chris
+url: 'the-missing-helmet-natalie-found-it'
+tags:  [ 350z, nissan ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 Over a year ago I realized that my Bell Helmet was missing. Somewhere on the move from Colorado to California it went off into its own world.
@@ -23,6 +22,3 @@ I'll have to take a picture of the Bell later this weekend, I can't find one dig
 
 Here's a photo of the 350z, and the 1999 Z-28 Camaro I traded in when I purchased it.
  <a title="My 350z and my Camaro by chrishammond, on Flickr" href="https://www.flickr.com/photos/chammond/5893276184/"><img alt="My 350z and my Camaro" src="https://farm6.static.flickr.com/5064/5893276184_d938cdcd93_m.jpg" width="240" height="180" /></a>
-
-
-

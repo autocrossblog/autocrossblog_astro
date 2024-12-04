@@ -1,12 +1,12 @@
 ---
-layout: post
-title: A slow Sunday, more cleaning on the motor.
-date: '2008-10-26T20:44:15+00:00'
-last_modified_at: 2024-11-15T12:15:17-06:00
-permalink: a-slow-sunday-more-cleaning-on-the-motor
-image: 
-categories: [ 240z, datsun ]
-description: Follow along with our latest garage project, dealing with missing parts, motor assembly, and documenting the process via Chase Cam.
+image: ''
+publishDate: 2008-10-26T20:44:15+00:00
+title: "A slow Sunday, more cleaning on the motor."
+excerpt: "Follow along with our latest garage project, dealing with missing parts, motor assembly, and documenting the process via Chase Cam."
+author: chris
+url: 'a-slow-sunday-more-cleaning-on-the-motor'
+tags:  [ 240z, datsun ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 So I woke up this morning, [earlier than yesterday](/little-progress-little-time), but still not as early as one would have liked. First things first I ran to Radio Shack to get an AC power source for my Chase Cam so that I could use it to record video today.
@@ -18,5 +18,3 @@ I can't seem to locate the baggy of all the manifold parts from when I removed t
 Now for the video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k480f-hsqgs?si=TJr4PIzn3zOdTyYO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-

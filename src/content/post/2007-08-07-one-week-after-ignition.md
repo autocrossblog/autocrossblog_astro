@@ -1,12 +1,12 @@
 ---
-layout: post
-title: One week after ignition
-date: '2007-08-07T01:20:24+00:00'
-last_modified_at: 2024-11-15T12:15:17-06:00
-permalink: one-week-after-ignition
-image: 
-categories: [ 240z, datsun ]
-description: Follow an automotive enthusiast as they navigate through a week of hands-on modifications to a 240Z, sharing insights on wiring, engine bays, and reso...
+image: ''
+publishDate: 2007-08-07T01:20:24+00:00
+title: "One week after ignition"
+excerpt: "Follow an automotive enthusiast as they navigate through a week of hands-on modifications to a 240Z, sharing insights on wiring, engine bays, and reso..."
+author: chris
+url: 'one-week-after-ignition'
+tags:  [ 240z, datsun ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 So it's been over a week now since I drove the 240Z for the first time. What have I gotten done in that timeframe? Not much!
@@ -33,5 +33,3 @@ I'm still aiming to ~~compete~~ drive the car at the Autocross on Sunday. Before
 4. Finish up wiring for the O2 sensor
 5. Get a harness squared away
 6. More stuff I'm sure I've forgotten!
-
-

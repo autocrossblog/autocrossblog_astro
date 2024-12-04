@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Paint and Assembly, working on the new motor
-date: '2008-03-31T03:38:03+00:00'
-last_modified_at: 2024-11-15T12:15:17-06:00
-permalink: paint-and-assembly-working-on-the-new-motor
-image: 
-categories: [ 240z, datsun ]
-description: Discover the progress on restoring a classic L28ET motor with our latest blog. We cover oil pan rework, exhaust painting, and more.
+image: ''
+publishDate: 2008-03-31T03:38:03+00:00
+title: "Paint and Assembly, working on the new motor"
+excerpt: "Discover the progress on restoring a classic L28ET motor with our latest blog. We cover oil pan rework, exhaust painting, and more."
+author: chris
+url: 'paint-and-assembly-working-on-the-new-motor'
+tags:  [ 240z, datsun ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 ## Last Week's Progress with Dad and Today's Motor Work
@@ -42,5 +42,3 @@ description: Discover the progress on restoring a classic L28ET motor with our l
 
 ### Coming Weeks:
 - Out of town races and other commitments will pause the project temporarily. Excited to resume soon!
-
-

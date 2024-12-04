@@ -1,13 +1,14 @@
 ---
-layout: post
-title: 2019 SpecFRS.com Season up to Nationals
-description: "2019 Season in review for SpecFRS"
-date: '2019-08-28T03:26:48+00:00'
-last_modified_at: 2024-10-09T13:21:54-05:00
-permalink: 2019-specfrscom-season-up-to-nationals
-image: 
-categories: [ autocross, fr-s, ssc, setup, specfrs ]
+image: ''
+publishDate: 2019-08-28T03:26:48+00:00
+title: "2019 SpecFRS.com Season up to Nationals"
+excerpt: "2019 Season in review for SpecFRS"
+author: chris
+url: '2019-specfrscom-season-up-to-nationals'
+tags:  [ autocross, fr-s, ssc, setup, specfrs ] 
+updateDate: 2024-10-09T13:21:54-05:00
 ---
+
 [![Instagram Post](https://www.instagram.com/p/BwS-GexFfU8/)](https://www.instagram.com/p/BwS-GexFfU8/ "View this post on Instagram")
 
 Where has the time gone? The 2019 season, at least Nationally, has come, and almost gone. The ProSolo Finale and TireRack National Championships are next week in Lincoln Nebraska, and SpecFRS.com will be there. But how did we get there? Let's look back on the 2019 season.
@@ -34,4 +35,3 @@ The only thing we've changed this season is to adjusted air pressures down a bit
 **Front Tire Pressure:** 31 psi  
 **Rear Tire Pressure:** 30 psi  
 **Brake Pads:** Ferodo DS2500
-

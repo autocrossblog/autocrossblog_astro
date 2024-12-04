@@ -1,15 +1,15 @@
 ---
-layout: post
-title: Where to buy a race helmet in St. Louis?
-date: '2023-01-23T13:29:20+00:00'
-permalink: where-to-get-a-race-helmet-in-st-louis
-description: Looking for a place to try on a helmet in St. Louis?
+author: chris
+image: 'Helmet-1.JPG'
+publishDate: 2023-01-23T13:29:20+00:00
+title: "Where to buy a race helmet in St. Louis?"
+excerpt: "Looking for a place to try on a helmet in St. Louis?"
 keywords: race, gear, st louis, saint, louis, saint louis, helmets,safety
-image: Helmet-1.JPG
-categories:
 featured: false
-last_modified_at: 2024-11-18T13:26:36-06:00
+url: 'where-to-get-a-race-helmet-in-st-louis'
+updateDate: 2024-11-18T13:26:36-06:00
 ---
+
 If you're looking for a racing helmet in St. Louis Missouri, you should be looking at [Solo Performance Specialties](https://www.soloperformance.com/).
 
 SPS has a large number of different helmet makes models and sizes that you can try on in their retail store. Here's a link to [visit their St Louis location](https://soloperformance.com/pages/find-us-service-info)
@@ -22,10 +22,3 @@ Brand specifics will obviously vary, do you need/want the most expensive coolest
 
 ## Can I buy a helmet online?
 Absolutely you can buy a helmet online. [SoloPerformance.com](https://soloperformance.com/collections/helmets-and-accessories) has one of the largest selections of helmets online, they sell hundreds of helmets a year.
-
-
-
-
-
-
-

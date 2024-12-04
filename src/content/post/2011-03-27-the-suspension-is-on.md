@@ -1,14 +1,12 @@
 ---
-layout: post
-title: The suspension is on!
-date: '2011-03-27T02:09:42+00:00'
-permalink: the-suspension-is-on
-image:
-categories: [ 350z, nissan, setup ]
-description: Follow our journey of installing new suspension on a 350z, complete with issues, triumphs and insightful photos. Future alignment plans revealed!
-last_modified_at: 2024-11-15T12:15:17-06:00
+author: chris
+publishDate: 2011-03-27T02:09:42+00:00
+title: "The suspension is on!"
+excerpt: "Follow our journey of installing new suspension on a 350z, complete with issues, triumphs and insightful photos. Future alignment plans revealed!"
+url: 'the-suspension-is-on'
+tags:  [ 350z, nissan, setup ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
-
 
 So after a week of farting around with things the suspension is finally on the car!
 
@@ -21,6 +19,3 @@ It's late so I'll save the full blog post/writeup about the suspension installat
 I'll have video from today's session added to the blog post once it uploads completely to youtube.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i6tFXo2Bjf4?si=fzmNRvZVeyVM3wow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-

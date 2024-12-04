@@ -1,12 +1,12 @@
 ---
-layout: post
-title: It's for sale again
-date: '2009-01-21T03:54:20+00:00'
-permalink: its-for-sale-again
-image: 
-categories: [ 240z, datsun, megasquirt, forsale ]
-description: Explore this blog post about preparing for the upcoming sale of a 1973 Datsun 240Z, complete with an L28E motor and several valuable parts.
-last_modified_at: 2024-11-15T12:15:17-06:00
+author: chris
+image: ''
+publishDate: 2009-01-21T03:54:20+00:00
+title: "It's for sale again"
+excerpt: "Explore this blog post about preparing for the upcoming sale of a 1973 Datsun 240Z, complete with an L28E motor and several valuable parts."
+url: 'its-for-sale-again'
+tags:  [ 240z, datsun, megasquirt, forsale ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 So this time, I think, I am serious about selling the Datsun. With moving sometime in the next 5-6 months I need to start preparing for the move, and with my work/school/book schedule there is no way I will have time to work on the Datsun in the coming months.
@@ -21,6 +21,3 @@ L28E motor
 - LOTS of other stuff including a spare suspension, hatch, and lots of boxes with parts.
 
 I will try to do a full inventory, or at least a more detailed inventory later on.
-
-
-

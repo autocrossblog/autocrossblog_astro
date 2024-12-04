@@ -1,12 +1,12 @@
 ---
-layout: post
-title: SpecFRS at the 2018 ProSolo Finale
-date: '2019-01-31T04:02:09+00:00'
-permalink: specfrs-at-the-2018-prosolo-finale
-image: 
-categories: [ autocross, toyota, fr-s, ssc ]
-description: Celebrate TireRack's sale of the 100th SSC kit! Discover why SSC is the future of Solo and anticipate our Spring Nationals write-up.
-last_modified_at: 2024-11-15T12:15:17-06:00
+author: chris
+image: ''
+publishDate: 2019-01-31T04:02:09+00:00
+title: "SpecFRS at the 2018 ProSolo Finale"
+excerpt: "Celebrate TireRack's sale of the 100th SSC kit! Discover why SSC is the future of Solo and anticipate our Spring Nationals write-up."
+url: 'specfrs-at-the-2018-prosolo-finale'
+tags:  [ autocross, toyota, fr-s, ssc ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 This post is coming 6 months (maybe more?) too late, but at least it is coming. The 2018 ProSolo Finale and Solo National Championships was a week of ups and downs for the team. The results were mixed across the board in terms of performance with some highlights and some down times as well.
@@ -22,6 +22,3 @@ Teddie ended up in 3rd in L4 (ssc) for the weekend, 1 out of trophies, but close
 Sunday afternoon was a definite bright spot for the ProSolo Finale, Teddie ended up in the Ladies challenge and performed very well! She ended up making it to the semi final round before being knocked into the third place bracket. She ended up taking Third place to help salvage the weekend for both of us! I also headed out with my camera and shot a lot of the ProSolo challenge, having the most fun I had all weekend behind the lens of my camera. You can check out some of the photos via the [gallery links over on RainbowMarks.com](https://rainbowmarks.com/).
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/chammond/30715031998/in/album-72157701162224125/" title="Ladies Challenge - ProSolo Finale 2018"><img alt="Ladies Challenge - ProSolo Finale 2018" height="333" src="https://farm2.staticflickr.com/1848/30715031998_f8bfc33bb7.jpg" width="500" /></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
- 
-
-

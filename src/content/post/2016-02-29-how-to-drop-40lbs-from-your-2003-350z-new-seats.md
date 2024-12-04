@@ -1,12 +1,11 @@
 ---
-layout: post
-title: How to drop 40lbs from your 2003 350z, new seats!
-date: '2016-02-29T23:14:25+00:00'
-last_modified_at: 2024-11-15T12:15:17-06:00
-permalink: how-to-drop-40lbs-from-your-2003-350z-new-seats
-image:
-categories: [ 350z, nissan ]
-description: Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest.
+publishDate: 2016-02-29T23:14:25+00:00
+title: "How to drop 40lbs from your 2003 350z, new seats!"
+excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
+author: chris
+url: 'how-to-drop-40lbs-from-your-2003-350z-new-seats'
+tags:  [ 350z, nissan ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 This weekend I spent some quality time finally working on the 350z before the upcoming autocross season (Dixie Champ Tour is coming up quickly).
@@ -60,6 +59,3 @@ The one thing I didn't test, is how the seats will do with a helmet on. I have a
 
 [Check out some of the installation photos with close up shots of the various weights of the seats.](https://www.flickr.com/photos/chammond/albums/72157664702657730)
 ![Project 350z NRG FRP-310 Seat Installation](https://farm2.staticflickr.com/1674/25027042309_6251a7a052_q.jpg)
-
-
-

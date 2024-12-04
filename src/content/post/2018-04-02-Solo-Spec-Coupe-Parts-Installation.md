@@ -1,14 +1,13 @@
 ---
-layout: post
-title: Solo Spec Coupe Parts Installation
-date: '2018-04-02T06:26:11+00:00'
-last_modified_at: 2024-11-15T12:15:17-06:00
-permalink: solo-spec-coupe-parts-installation
-image: 
-categories: [ autocross, toyota, fr-s, ssc, install, setup, specfrs ]
-description: Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals.
+image: ''
+publishDate: 2018-04-02T06:26:11+00:00
+title: "Solo Spec Coupe Parts Installation"
+excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
+author: chris
+url: 'solo-spec-coupe-parts-installation'
+tags:  [ autocross, toyota, fr-s, ssc, install, setup, specfrs ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
-
 
 After a long couple of days working on the FR-S, interspersed with family events and other activities, I finally have the suspension components installed on the FR-S.
 
@@ -49,5 +48,3 @@ Putting the rear shocks together, I ended up using the spring compressor to remo
 [![Install Completed](https://farm1.staticflickr.com/787/41176740751_44eec849c8.jpg)](https://www.flickr.com/photos/chammond/41176740751/in/album-72157694192449114/)
 
 - [TRD Lowering Springs install guide](https://www.billswebspace.com/PTR07-18130inst.pdf)
-
-

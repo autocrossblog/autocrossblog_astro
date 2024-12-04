@@ -1,17 +1,17 @@
 ---
-layout: post
-title: "1975 Triumph TR6 Alternator Upgrade and Replacement"
-date: '2024-07-09T20:00:15+00:00'
-permalink: triumph-tr6-alternator-replacement
-description: "A little documentation on some of the struggles I had with the alternator in my Dad's 1975 TR6"
-keywords: "triumph, tr6, alternator, british, sports car, 13107N"
-image: 2024/July/TR6Alternator/TR6Alternator-1.jpg
-categories: [ triumph, tr6 ]
+url: 'triumph-tr6-alternator-replacement'
 featured: false
-comments: true
-# last_modified_at: '2024-07-08T16:50:08+00:00'
-last_modified_at: 2024-11-18T10:34:13-06:00
+image: '2024/July/TR6Alternator/TR6Alternator-1.jpg'
+# last_modified_at: ''2024-07-08T16:50:08+00:00''
+author: chris
+excerpt: "A little documentation on some of the struggles I had with the alternator in my Dad's 1975 TR6"
+publishDate: 2024-07-09T20:00:15+00:00
+title: "1975 Triumph TR6 Alternator Upgrade and Replacement"
+keywords: '"triumph, tr6, alternator, british, sports car, 13107N"'
+updateDate: 2024-11-18T10:34:13-06:00
+tags:  [ triumph, tr6 ] 
 ---
+
 So now for a little story about the Triumph. The first of potentially many. Another Project car!
 
 ## What Triumph? 
@@ -91,4 +91,3 @@ So now I have a couple of alternators sitting around the garage. I figure if I c
 Now that the car is running again I need to get it inspected so I can get plates on it and drive it around town!
 
 ### Have any questions? Ask below!
-

@@ -1,13 +1,13 @@
 ---
-layout: post
-title: San Diego National Tour Day 1
-description: "Experience exhilarating autocross racing at the San Diego National Tour. Dive into intense competition, camaraderie, and Z car glory. #Autocross #RacingLife"
-date: '2011-04-03T00:27:44+00:00'
-last_modified_at: 2024-11-18T08:39:29-06:00
-permalink: san-diego-national-tour-day-1
-image:
-categories: [ 350z, nissan, setup, scca, video, nationaltour, national-tour ]
+publishDate: 2011-04-03T00:27:44+00:00
+title: "San Diego National Tour Day 1"
+excerpt: "Experience exhilarating autocross racing at the San Diego National Tour. Dive into intense competition, camaraderie, and Z car glory. #Autocross #RacingLife"
+author: chris
+url: 'san-diego-national-tour-day-1'
+tags:  [ 350z, nissan, setup, scca, video, nationaltour, national-tour ] 
+updateDate: 2024-11-18T08:39:29-06:00
 ---
+
 I'm worn out, so this will likely not be as long as it should be, but here's a quick summary of the day today.
 
 First heat, they got an extra run/look at the course due to some unforeseen issues with the surface, the course got changed, and the event started over 1hr into the day. Good deal for them, not so much for those who were working. Fortunately I was just walking around talking on the mic.
@@ -25,5 +25,3 @@ I don't have the videos from today squared away yet, but you can watch the time 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bJF5nh5_5SQ?si=7lHP_Ebnh8x8Et3O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 Well in the time it look to post this, I got one video up, from Run 1
-
-

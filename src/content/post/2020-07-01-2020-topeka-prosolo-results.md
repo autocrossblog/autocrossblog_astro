@@ -1,13 +1,13 @@
 ---
-layout: post
-title: 2020 Topeka ProSolo Results
-date: '2020-07-01T16:01:15+00:00'
-permalink: 2020-topeka-prosolo-results
-image: TopekaProSoloTrophy.jpg
-categories: [ autocross, fr-s, ssc, setup, results, specfrs ]
+author: chris
+image: 'TopekaProSoloTrophy.jpg'
+publishDate: 2020-07-01T16:01:15+00:00
+title: "2020 Topeka ProSolo Results"
+excerpt: "Follow the revival journey of Project 350z as we scout for a lower mileage, manual transmission model, closest to St. Louis."
 featured: false
-description: Follow the revival journey of Project 350z as we scout for a lower mileage, manual transmission model, closest to St. Louis.
-last_modified_at: 2024-11-18T10:51:34-06:00
+url: '2020-topeka-prosolo-results'
+tags:  [ autocross, fr-s, ssc, setup, results, specfrs ] 
+updateDate: 2024-11-18T10:51:34-06:00
 ---
 
 [![Conference calls before practice starts](https://live.staticflickr.com/65535/50063439002_ae51b1e02e_m.jpg)](https://www.flickr.com/photos/chammond/50063439002/in/dateposted/ "Conference calls before practice starts")
@@ -63,5 +63,3 @@ Check out additional photos from the weekend.
 **Rear Konis:** 1.5 turns from soft  
 **Front Tire Pressure:** 30 psi  
 **Rear Tire Pressure:** 29 psi
-
-

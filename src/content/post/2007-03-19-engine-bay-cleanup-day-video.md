@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Engine bay cleanup day video
-date: '2007-03-19T06:52:53+00:00'
-permalink: engine-bay-cleanup-day-video
-image: 
-categories: [ 240z, datsun ]
-description: Follow this blogger's journey in restoring a car engine bay - from rust cleanup, repainting, to brake and pedal modifications.
-last_modified_at: 2024-11-15T12:15:17-06:00
+author: chris
+image: ''
+publishDate: 2007-03-19T06:52:53+00:00
+title: "Engine bay cleanup day video"
+excerpt: "Follow this blogger's journey in restoring a car engine bay - from rust cleanup, repainting, to brake and pedal modifications."
+url: 'engine-bay-cleanup-day-video'
+tags:  [ 240z, datsun ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 I spent a few hours tooling around the garage today, mostly inside of the engine bay.
@@ -14,6 +14,3 @@ I tried to clean up old paint and rust so that I can go through it next weekend 
 I removed those parts with hopes of putting the booster out of the 78 back in the car. It is bigger, so I assumed better right? I guess I should look into that before I put everything back in though :)
 One thing I found while playing with the pedals, the mounts are there for the clutch pedal (car was originally an auto) so that's good news, I don't have to take the whole dash out to put in the pedal assembly from the parts car, I can just put in the pedal itself.
 [Here's the link to the video](/240z-engine-bay-cleanup).
-
-
-

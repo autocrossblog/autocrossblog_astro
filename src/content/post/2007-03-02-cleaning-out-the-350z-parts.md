@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Cleaning out the 350Z Parts
-date: '2007-03-02T09:39:04+00:00'
-permalink: cleaning-out-the-350z-parts
-image: 
-categories: [ 240z, datsun ]
-description: Explore our garage sale of pre-owned and new 350z parts listed on eBay! Contact us for special St. Louis deals.
-last_modified_at: 2024-11-15T12:15:17-06:00
+author: chris
+image: ''
+publishDate: 2007-03-02T09:39:04+00:00
+title: "Cleaning out the 350Z Parts"
+excerpt: "Explore our garage sale of pre-owned and new 350z parts listed on eBay! Contact us for special St. Louis deals."
+url: 'cleaning-out-the-350z-parts'
+tags:  [ 240z, datsun ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 It was time to get rid of all the parts I still have taking up space in the garage from the 350z! They're all on ebay (were, ebay links no longer work). 
@@ -19,7 +19,3 @@ It was time to get rid of all the parts I still have taking up space in the gara
 
 
 If anyone wants to buy them off ebay, let me know, I'll make a St. Louis deal for folks.
-
-
-
-

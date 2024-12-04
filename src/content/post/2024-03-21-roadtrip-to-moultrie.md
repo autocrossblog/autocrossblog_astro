@@ -1,15 +1,15 @@
 ---
-layout: post
-title: Roadtrip to Moultrie
-date: '2024-03-21T09:00:15+00:00'
-permalink: roadtrip-to-moultrie
-description: "Explore Chris Hammondâ€™s autocross journey to the 2024 SCCA Red Hills National Tour in Moultrie, GA, and stay tuned for event updates and photos"
-image: 2024/March/Moultrie/MustangVinyl-1.jpg
-categories: [ autocross, nationaltour, national-tour, scca, mustang, friends ]
+author: chris
+image: '2024/March/Moultrie/MustangVinyl-1.jpg'
+publishDate: 2024-03-21T09:00:15+00:00
+title: "Roadtrip to Moultrie"
+excerpt: "Explore Chris Hammondâ€™s autocross journey to the 2024 SCCA Red Hills National Tour in Moultrie, GA, and stay tuned for event updates and photos"
 featured: false
-comments: true
-last_modified_at: 2024-11-18T08:39:29-06:00
+url: 'roadtrip-to-moultrie'
+tags:  [ autocross, nationaltour, national-tour, scca, mustang, friends ] 
+updateDate: 2024-11-18T08:39:29-06:00
 ---
+
 ## #SOLONATSHASSTARTED
 Here we go. We are on the road south to Moultrie, Georgia for the 2024 Tire Rack SCCA Red Hills National Tour at Spence Field. I met Dave and Beth at Solo Performance this morning and we hit the road just after 7am, with the plan of getting all the way to Moultrie today, Thursday the 21st. This will be my first time to Moultrie, after having run a few times when the National Tour events were held in Adel, GA. 
 
@@ -22,4 +22,3 @@ I am looking forward to running the SPS Mustang in CAM-C this season at as many 
 Stay tuned for more updates from Moultrie this weekend and look for some links to photos from the event, assuming I get time to take pictures when not running or working. 
 
 -Chris
-

@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Race tire mounting in the San Francisco Bay Area (Peninsula)
-date: '2011-01-16T04:18:45+00:00'
-last_modified_at: 2024-11-15T12:15:17-06:00
-permalink: race-tire-mounting-in-the-san-francisco-bay-area-peninsula
-image:
-categories: [ 350z, nissan, setup ]
-description: Exploring the costs of tire mounting for autocross and the hunt for a well-priced tire shop in the San Francisco Bay Area.
+publishDate: 2011-01-16T04:18:45+00:00
+title: "Race tire mounting in the San Francisco Bay Area (Peninsula)"
+excerpt: "Exploring the costs of tire mounting for autocross and the hunt for a well-priced tire shop in the San Francisco Bay Area."
+author: chris
+url: 'race-tire-mounting-in-the-san-francisco-bay-area-peninsula'
+tags:  [ 350z, nissan, setup ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 So as I try to get ready for the 2011 autocross season I stopped into a tire shop the other day, the Les Schwab on El Camino in San Carlos, California.
@@ -20,6 +19,3 @@ I'll be tasked now with finding a local shop who will hopefully do it for cheape
 Getting them shipped back though might make that cost prohibitive
 
 Anyone got any leads to a good tire mounting shop on the peninsula in  the San Francisco Bay Area?
-
-
-

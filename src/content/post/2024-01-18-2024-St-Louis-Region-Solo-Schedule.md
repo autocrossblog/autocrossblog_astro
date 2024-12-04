@@ -1,17 +1,15 @@
 ---
-layout: post
-title: 2024 St. Louis Region SCCA Solo Autocross Schedule
-date: '2024-01-18T10:00:15+00:00'
-permalink: 2024stlouis-solo-schedule
-description: Check out the just released 2024 St. Louis Region SCCA Solo Autocross Schedule
-image: 2024/2024-stl-solo-schedule.jpg
-categories: [ autocross, schedule, st.louis, scca ]
+author: chris
+image: '2024/2024-stl-solo-schedule.jpg'
+publishDate: 2024-01-18T10:00:15+00:00
+title: "2024 St. Louis Region SCCA Solo Autocross Schedule"
+excerpt: "Check out the just released 2024 St. Louis Region SCCA Solo Autocross Schedule"
 featured: false
-comments: true
-redirect_from:
-    - "2024stlouis-solo"
-last_modified_at: 2024-10-09T13:21:54-05:00
+url: '2024stlouis-solo-schedule'
+tags:  [ autocross, schedule, st.louis, scca ] 
+updateDate: 2024-10-09T13:21:54-05:00
 ---
+
 The 2024 St. Louis Region SCCA Solo Schedule was released just yesterday! It isn't even up on their website, but we've got it here for you now! 
 
 ## 2024 Autocross Schedule
@@ -32,5 +30,3 @@ Check out the schedule above and make sure to mark your calendars for all the ev
 I'm working on putting my 2024 schedule together, and I'm excited to see what the St. Louis Region has in store for us this year.
 
 Which events are you planning to attend? Let us know in the comments below!
-
-

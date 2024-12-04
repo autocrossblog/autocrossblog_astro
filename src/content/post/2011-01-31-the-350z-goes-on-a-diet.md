@@ -1,15 +1,14 @@
 ---
-layout: post
+image: '2024/November/350z-lose-weight.webp'
+publishDate: 2011-01-31T00:49:00+00:00
 title: "The 350z goes on a Diet"
-description: "Discover how a 350z shed 100lbs of unnecessary weight for better autocross performance. From subwoofers and amps to speakers and wiring, this blog dives into the stereo removal process, the challenges faced, and the benefits of a lighter car in motorsports. Watch the video and learn why weight savings matter for speed and control!"
-date: '2011-01-31T00:49:00+00:00'
-last_modified_at: '2024-11-22T09:21:54-05:00'
-permalink: 2011/the-350z-goes-on-a-diet
-image: 2024/November/350z-lose-weight.webp
-categories: [ 350z, nissan, setup, weight ]
-redirect_from:
-    - the-350z-goes-on-a-diet
+excerpt: "Discover how a 350z shed 100lbs of unnecessary weight for better autocross performance. From subwoofers and amps to speakers and wiring, this blog dives into the stereo removal process, the challenges faced, and the benefits of a lighter car in motorsports. Watch the video and learn why weight savings matter for speed and control!"
+author: chris
+url: '2011/the-350z-goes-on-a-diet'
+tags:  [ 350z, nissan, setup, weight ] 
+updateDate: 2024-11-22T09:21:54-05:00
 ---
+
 On Saturday the 350z went on a diet, losing (rough guess here) about 3% of it's total weight.
 
 When I purchased the car in January of 2010 I knew a few things. The stereo in the car was aftermarket, and so were the two 10" subs in the back of the car. Beyond that I also assumed there was an amplifier somewhere powering the subs, but I wasn't really sure what else there was.
@@ -29,4 +28,4 @@ Not a bad diet for a day's work. I'll talk more about what I am doing for tunes 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GGqoF9s0djQ?si=vT4sVhtkYBiW85hx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Why bother losing weight for autocross? 
-A better power to weight ratio in your car will improve your performance. 
+A better power to weight ratio in your car will improve your performance.

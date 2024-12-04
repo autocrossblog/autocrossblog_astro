@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Today was a good day!
-date: '2007-07-28T10:10:17+00:00'
-last_modified_at: 2024-11-15T12:15:17-06:00
-permalink: today-was-a-good-day
-image: 
-categories: [ 240z, datsun, megasquirt ]
-description: Discover the intriguing process of working on an EDIS and Megasquirt setup; from troubleshooting, to solving problems and gaining unexpected wins in c...
+image: ''
+publishDate: 2007-07-28T10:10:17+00:00
+title: "Today was a good day!"
+excerpt: "Discover the intriguing process of working on an EDIS and Megasquirt setup; from troubleshooting, to solving problems and gaining unexpected wins in c..."
+author: chris
+url: 'today-was-a-good-day'
+tags:  [ 240z, datsun, megasquirt ] 
+updateDate: 2024-11-15T12:15:17-06:00
 ---
 
 This morning I woke up with a little hope in my eye, hope that I would make some good progress today.
@@ -34,5 +34,3 @@ Around 10pm I figured it was probably a little too late to try to keep starting 
 I've got a few things to try in the morning before I head off to the muffler shop to see if I can't get an exhaust put on the car.
 
 [Here's some video from tonight, trying to start the car.](/trying-to-start-the-car)
-
-
