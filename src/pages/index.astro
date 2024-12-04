@@ -21,12 +21,12 @@ const metadata = {
     actions={[
       {
         variant: 'primary',
-        text: 'Help Me!',
-        href: '/contact',
-        target: '_blank',
+        text: 'Read the latest!',
+        href: '/blog',
+        target: '_self',
         icon: 'tabler:download',
       },
-      { text: 'Learn more', href: '/about' },
+      { text: 'About us', href: '/about' },
     ]}
     image={{ src: '~/assets/images/hero-image.png', alt: 'AutocrossBlog Hero Image', aspectRatio: '2:1.999' }}
   >
@@ -61,29 +61,35 @@ const metadata = {
 
   <Features
     id="features"
-    tagline="Features"
-    title="A little about the car"
-    subtitle="1973 Volkswagen SuperBeetle, last known to be a Porsche blue (purple)"
+    tagline="Information"
+    title="A little about the site"
+    subtitle="AutocrossBlog.com is your go-to hub for everything autocross—whether you're a seasoned driver or just getting started. We’re here to bring the autocross community together with resources, tips, and stories from the track."
     items={[
       {
-        title: 'Year Make and Model',
-        description: 'A 1973 Volkswagen SuperBeetle',
+        title: '🏆 Driver Profiles & Car Setups',
+        description: 'Learn from the best! Explore profiles of top drivers, their car setups, and how they tackle courses around the country.',
         icon: 'tabler:brand-tailwind',
       },
       {
-        title: 'Customizations',
-        description: 'Custom seats and rear stereo speaker box. <br /> 2"/3" wider fiberglass fenders front/rear',
+        title: '🛠 Tips & Tricks',
+        description: 'From car prep to conquering tight corners, we share practical advice to help you shave seconds off your time and maximize fun on race day.',
         icon: 'tabler:components',
       },
       {
-        title: 'Chassis/VIN Number',
-        description: 'Being a 1973 the car is pre-vin numbers, and was chassis number: 133 2543 365.',
+        title: '📅 Event Coverage',
+        description: 'Stay in the know with updates on major events, regional meets, and national championships.',
         icon: 'tabler:list-check',
       },
       {
-        title: 'Last known location',
+        title: '📖 Stories from the Grid',
         description:
-          "I was told in ~2010 that the car went to Fort Drum New York. I haven't been able to find anything else since.",
+          "Personal anecdotes, deep dives into the culture of autocross, and spotlights on the people who make this sport incredible.",
+        icon: 'tabler:rocket',
+      },
+      {
+        title: '🧰 Tools & Resources',
+        description:
+          "Access guides, calculators, and other tools to help you optimize your performance and navigate the world of autocross.",
         icon: 'tabler:rocket',
       },
     ]}
