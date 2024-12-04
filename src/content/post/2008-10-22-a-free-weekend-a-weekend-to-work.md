@@ -9,5 +9,6 @@ categories: [ 240z, datsun ]
 description: As there's no specific blog post mentioned, I'll present a generic overview. "Explore our latest post packed with insights, tips and trending topics t...
 ---
 
+So this coming weekend will be the first free weekend I've had since the first weekend in September, and that was pretty much a weekend spent getting ready for the Solo Nationals. 
 
-
+I hadn't had a free weekend before that since Mid June, needless to say the Datsun hasn't seen much love in a while. Well this weekend that changes. I'm going to try to get the motor back together, and see how far I can't get to putting it back in the car!
