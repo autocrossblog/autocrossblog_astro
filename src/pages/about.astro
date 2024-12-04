@@ -2,6 +2,8 @@
 import Hero from '~/components/widgets/Hero.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import Layout from '~/layouts/PageLayout.astro';
+import Steps2 from '~/components/widgets/Steps2.astro';
+import Features3 from '~/components/widgets/Features3.astro';
 
 const metadata = {
   title: 'About us',
@@ -12,24 +14,20 @@ const metadata = {
   <!-- Hero Widget ******************* -->
 
   <Hero
-    tagline="About us"
+    tagline="About AutocrossBlog.com"
     image={{
-      src: '~/assets/images/2024/about.jpg',
-      alt: '1973 VW SuperBeetle with Doors Open',
+      src: '~/assets/images/About-1.jpg',
+      alt: 'Chris and Bill Hammond in front of a 2004 ZO6, photo from the 2008 Solo National Championships',
     }}
   >
     <Fragment slot="title">
-      Help me find my first car! <br />
-      <span class="text-accent dark:text-white highlight"> 1973 VW SuperBeetle Chassis Number: 133 2543 365</span>
+      About the ultimate 
+      <span class="text-accent dark:text-white highlight">Autocross Blog</span>
     </Fragment>
 
     <Fragment slot="subtitle">
-      Do you know <a href="https://www.chrishammond.com">Chris Hammond</a>? Do you want to know about AutocrossBlog.com? <a
-        href="/have-you-seen-my-1973-vw-super-beetle-vIN-1332543365"
-        >You should read our story</a
-      >. If you’ve seen our 1973 Super Beetle, be sure to <a href="/contact"
-        >drop me a line</a
-      >!
+      Do you want to know more about AutocrossBlog.com? Another blog from 
+      <span class="text-accent dark:text-white highlight">Chris Hammond</span>
     </Fragment>
   </Hero>
 
@@ -38,10 +36,88 @@ const metadata = {
   <Stats
     title="Statistics"
     stats={[
-      { title: 'Cars', amount: '1' },
-      { title: 'Miles', amount: 'TBD' },
-      { title: 'Leads', amount: '0' },
-      { title: 'Finds', amount: '0' },
+      { title: 'First Autocross', amount: 'April 2000' },
+      { title: 'Cars Autocrossed', amount: '14???' },
+      { title: 'National Championship Trophies', amount: '3' },
+      { title: 'National Championships', amount: '0' },
+      
     ]}
   />
+
+  
+  <!-- Features3 Widget ************** -->
+
+  <Features3
+    title="Our history"
+    subtitle="A little background info"
+    columns={3}
+    isBeforeContent={true}
+    items={[
+      {
+        title: 'College',
+        description:
+          'I started autocross fresh out of college in 2000. I had heard about autox from a fraternity brother as well as from my father who used to do gymkhana events in Missouri in the 60s, but I had never been to or seen an event.',
+        icon: 'tabler:template',
+      },
+      {
+        title: 'Books',
+        description:
+          'I purchased a book about VWs, in it were stories and quotes from the Bob and Patty Tunnel. I joined the Sports Car Club of America (SCCA), got the Solo rule book, read it cover to cover, and started attending membership meetings of the St. Louis region.',
+        icon: 'tabler:template',
+      },
+      {
+        title: 'Novice School',
+        description:
+          'I signed up for the local Novice school, and was hooked. I started autocrossing in a 1994 VW Golf, it wasn’t much, but it was what I had. I quickly learned that the all season tires on it weren’t going to be much fun and bought a set of Kumho tires and a new set of Kosei K1 wheels.',
+        icon: 'tabler:template',
+      },
+      {
+        title: 'Head first',
+        description:
+          'I was hooked, and have autocrossed pretty heavily (and sometimes lightly) over the past 24 years.',
+        icon: 'tabler:template',
+      },
+      
+      {
+        title: '24 Years',
+        description:
+          'This blog is a culmination of a number of projects including Project240z.com, Project350z.com and SpecFRS.com. Long ago I ran a website that started out as Pylon.cc, and then turned into SOLO2.ORG which for a time was the largest autocross forum on the web. While that site isn’t around anymore, it was the start of my blogging in the autocross world.',
+        icon: 'tabler:template',
+      },
+    ]}
+  />
+
+
+  <!-- Steps2 Widget ****************** -->
+
+  <Steps2
+    title="Achievements"
+    subtitle="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla, sed porttitor est nibh at nulla."
+    isReversed={true}
+    callToAction={{
+      text: 'See more',
+      href: '/',
+    }}
+    items={[
+      {
+        title: 'Global reach',
+        description: 'Nam malesuada urna in enim imperdiet tincidunt. Phasellus non tincidunt nisi, at elementum mi.',
+        icon: 'tabler:globe',
+      },
+      {
+        title: 'Positive customer feedback and reviews',
+        description:
+          'Cras semper nulla leo, eget laoreet erat cursus sed. Praesent faucibus massa in purus iaculis dictum.',
+        icon: 'tabler:message-star',
+      },
+      {
+        title: 'Awards and recognition as industry experts',
+        description:
+          'Phasellus lacinia cursus velit, eu malesuada magna pretium eu. Etiam aliquet tellus purus, blandit lobortis ex rhoncus vitae.',
+        icon: 'tabler:award',
+      },
+    ]}
+  />
+
+
 </Layout>
