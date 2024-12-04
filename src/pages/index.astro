@@ -1,0 +1,166 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Note from '~/components/widgets/Note.astro';
+import Features from '~/components/widgets/Features.astro';
+import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
+import FAQs from '~/components/widgets/FAQs.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import CallToAction from '~/components/widgets/CallToAction.astro';
+
+const metadata = {
+  title: 'ProjectVW, Help me find my first car!',
+  ignoreTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Help Me!',
+        href: 'https://www.projectvw.com/contact',
+        target: '_blank',
+        icon: 'tabler:download',
+      },
+      { text: 'Learn more', href: '/about' },
+    ]}
+    image={{ src: '~/assets/images/hero-image.png', alt: 'ProjectVW Hero Image', aspectRatio: '2:1.999' }}
+  >
+    <Fragment slot="title">
+      Help me find my first car! <span class="hidden xl:inline">a 1973 VW SuperBeetle last seen</span>
+      <span class="text-accent dark:text-white highlight">near Fort Drum New York</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      <span class="hidden sm:inline">
+        <span class="font-semibold">ProjectVW</span> is the site where I search for and document that vehicle.</span
+      >
+    </Fragment>
+  </Hero>
+
+  <!-- Note Widget ******************* -->
+
+  <Note />
+
+  <!-- Features Widget *************** -->
+
+  <!-- BlogLatestPost Widget **************** -->
+
+  <BlogLatestPosts
+    id="blog"
+    title="Read our blog posts"
+    information={`Read more about my first car, and my search to find it again!`}
+  >
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </BlogLatestPosts>
+
+  <Features
+    id="features"
+    tagline="Features"
+    title="A little about the car"
+    subtitle="1973 Volkswagen SuperBeetle, last known to be a Porsche blue (purple)"
+    items={[
+      {
+        title: 'Year Make and Model',
+        description: 'A 1973 Volkswagen SuperBeetle',
+        icon: 'tabler:brand-tailwind',
+      },
+      {
+        title: 'Customizations',
+        description: 'Custom seats and rear stereo speaker box. <br /> 2"/3" wider fiberglass fenders front/rear',
+        icon: 'tabler:components',
+      },
+      {
+        title: 'Chassis/VIN Number',
+        description: 'Being a 1973 the car is pre-vin numbers, and was chassis number: 133 2543 365.',
+        icon: 'tabler:list-check',
+      },
+      {
+        title: 'Last known location',
+        description:
+          "I was told in ~2010 that the car went to Fort Drum New York. I haven't been able to find anything else since.",
+        icon: 'tabler:rocket',
+      },
+    ]}
+  />
+
+  <!-- FAQs Widget ******************* -->
+
+  <FAQs
+    title="Frequently Asked Questions"
+    subtitle="Let's get some of the common questions out of the way."
+    tagline="FAQs"
+    classes={{ container: 'max-w-6xl' }}
+    items={[
+      {
+        title: 'What is ProjectVW.com?',
+        description:
+          'ProjectVW.com is a personal blog by Chris Hammond, focusing on his experiences with Volkswagen vehicles, particularly his 1973 VW Super Beetle. The site features stories, restoration projects, and a quest to locate his original Super Beetle.',
+      },
+      {
+        title: 'Who is Chris Hammond?',
+        description:
+          'Chris Hammond is the founder of ProjectVW.com. He shares his passion for Volkswagen vehicles through personal stories and projects. You can read more at <a href="https://www.chrishammond.com/">ChrisHammond.com</a>',
+      },
+      {
+        title: 'What is the significance of the 1973 VW Super Beetle on the site?',
+        description:
+          'The 1973 VW Super Beetle holds personal value for Chris. He extensively modified it with wider fenders and unique features. The site documents his journey with this vehicle and his ongoing search to locate it again. ',
+      },
+      {
+        title: 'How can I help Chris find his original 1973 VW Super Beetle?',
+        description:
+          'Chris is offering a $250 reward for information leading to the current owner of his 1973 VW Super Beetle, chassis number 1332543365. If you have any information, please contact him through the site.',
+      },
+      {
+        title: 'Does ProjectVW.com provide restoration guides or technical support?',
+        description:
+          'While the site shares personal experiences and stories related to Volkswagen vehicles, it does not offer detailed restoration guides or technical support. If he ever finds the car, the site will change!',
+      },
+      {
+        title: 'Can I contribute my own Volkswagen stories or projects to the site?',
+        description:
+          "Currently, ProjectVW.com focuses on Chris Hammond's personal experiences. There isn't a platform for external contributions.",
+      },
+      {
+        title: 'How can I contact Chris Hammond?',
+        description: 'ou can reach out to Chris through the contact information provided on ProjectVW.com.',
+      },
+    ]}
+  />
+
+  <!-- Stats Widget ****************** -->
+
+  <Stats
+    stats={[
+      { title: 'Vehicle', amount: '1' },
+      { title: 'Years Ago', amount: '23' },
+      { title: 'Leads', amount: '0' },
+      { title: 'Finds', amount: '0' },
+    ]}
+  />
+
+  <!-- CallToAction Widget *********** -->
+
+  <CallToAction
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Read the blog!',
+        href: '/blog',
+        target: '_blank',
+        icon: 'tabler:download',
+      },
+    ]}
+  >
+    <Fragment slot="title"> ProjectVW </Fragment>
+
+    <Fragment slot="subtitle"> Help me out! </Fragment>
+  </CallToAction>
+</Layout>

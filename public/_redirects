@@ -1,0 +1,12 @@
+# Redirect Jekyll category pages to Astro tag pages
+/category/beetle /tag/beetle 301
+/category/super-beetle /tag/super-beetle 301
+/category/vw /tag/vw 301
+/category/decal /tag/decal 301
+/category/graphic /tag/graphic 301
+/category/show /tag/show 301
+/category/mid-engine /tag/mid-engine 301
+/category/mk7 /tag/mk7 301
+/page2 / 301
+/category /blog 301
+/sitemap.xml /sitemap-index.xml 301

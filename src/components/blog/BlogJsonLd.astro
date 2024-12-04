@@ -1,0 +1,70 @@
+---
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+
+export interface Props {
+  title: string;
+  description?: string;
+  publishDate?: Date;
+  updateDate?: Date;
+  tags?: Array<{ slug: string; title: string }>;
+  authorId?: string;
+  url?: string;
+  image?: {
+    src: string;
+    width: number;
+    height: number;
+    format: string;
+  };
+}
+
+const { title, description, publishDate, updateDate, tags, authorId, url, image } = Astro.props;
+
+// Fetch authors from the collection
+const authors = await getCollection('authors');
+
+// Normalize `authorId` and find the corresponding author
+const authorSlug = typeof authorId === 'string' ? authorId : null;
+const author = authors.find((a) => a.slug === authorSlug)?.data || {
+  name: 'Unknown Author',
+  bio: 'No bio available',
+  url: '#',
+};
+
+if (!authorSlug || !author) {
+  console.error(`Author "${authorSlug}" not found in authors collection.`);
+}
+
+// Debugging information
+//console.log('BlogJsonLd Data:', { title, description, publishDate, updateDate, tags, author, url, image });
+
+// Prepare schema for JSON-LD
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  headline: title || 'Untitled Post',
+  description: description || 'No description available.',
+  keywords: tags?.map((tag) => tag.title).join(', ') || '',
+  author: {
+    "@type": "Person",
+    name: author.name,
+    url: author.url,
+  },
+  image: image
+    ? {
+        "@type": "ImageObject",
+        url: image.src,
+        width: image.width,
+        height: image.height,
+      }
+    : undefined,
+  datePublished: publishDate ? new Date(publishDate).toISOString() : undefined,
+  dateModified: updateDate ? new Date(updateDate).toISOString() : undefined,
+  mainEntityOfPage: {
+    "@type": "WebPage",
+    "@id": url,
+  },
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

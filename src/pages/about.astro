@@ -1,0 +1,47 @@
+---
+import Hero from '~/components/widgets/Hero.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import Layout from '~/layouts/PageLayout.astro';
+
+const metadata = {
+  title: 'About us',
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    tagline="About us"
+    image={{
+      src: '~/assets/images/2024/about.jpg',
+      alt: '1973 VW SuperBeetle with Doors Open',
+    }}
+  >
+    <Fragment slot="title">
+      Help me find my first car! <br />
+      <span class="text-accent dark:text-white highlight"> 1973 VW SuperBeetle Chassis Number: 133 2543 365</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      Do you know <a href="https://www.chrishammond.com">Chris Hammond</a>? Do you want to know about ProjectVW.com? <a
+        href="/have-you-seen-my-1973-vw-super-beetle-vIN-1332543365"
+        >You should read our story</a
+      >. If you’ve seen our 1973 Super Beetle, be sure to <a href="/contact"
+        >drop me a line</a
+      >!
+    </Fragment>
+  </Hero>
+
+  <!-- Stats Widget ****************** -->
+
+  <Stats
+    title="Statistics"
+    stats={[
+      { title: 'Cars', amount: '1' },
+      { title: 'Miles', amount: 'TBD' },
+      { title: 'Leads', amount: '0' },
+      { title: 'Finds', amount: '0' },
+    ]}
+  />
+</Layout>
