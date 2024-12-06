@@ -1,5 +1,5 @@
 ---
-tags: [ [ autocross, schedule, st.louis, scca ] ]
+tags: [ autocross, schedule, st.louis, scca ]
 featured: false
 author: "chris"
 publishDate: 2024-01-18T10:00:15+00:00

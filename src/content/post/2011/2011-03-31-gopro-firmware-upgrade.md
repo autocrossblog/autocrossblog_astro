@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, setup, gopro ] ]
+tags: [ 350z, nissan, setup, gopro ]
 author: "chris"
 publishDate: 2011-03-31T01:07:16+00:00
 updateDate: 2024-11-18T10:51:34-06:00

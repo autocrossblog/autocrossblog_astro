@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, wheels, forsale, parts ] ]
+tags: [ 350z, nissan, wheels, forsale, parts ]
 author: "chris"
 publishDate: 2011-12-28T00:36:14+00:00
 updateDate: 2024-11-15T12:15:17-06:00

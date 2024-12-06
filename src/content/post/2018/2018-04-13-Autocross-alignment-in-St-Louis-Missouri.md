@@ -1,5 +1,5 @@
 ---
-tags: [ [ autocross, scion, fr-s, ssc, install, setup, specfrs ] ]
+tags: [ autocross, scion, fr-s, ssc, install, setup, specfrs ]
 author: "chris"
 publishDate: 2018-04-13T03:51:32+00:00
 updateDate: 2024-11-15T12:15:17-06:00

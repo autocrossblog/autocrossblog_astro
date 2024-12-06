@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, bsp, parts ] ]
+tags: [ 350z, nissan, bsp, parts ]
 author: "chris"
 publishDate: 2012-01-08T00:04:51+00:00
 updateDate: 2024-11-15T12:15:17-06:00

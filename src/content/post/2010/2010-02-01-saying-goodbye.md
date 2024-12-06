@@ -1,5 +1,5 @@
 ---
-tags: [ [ friends, 240z, datsun, colorado, california ] ]
+tags: [ friends, 240z, datsun, colorado, california ]
 author: "chris"
 publishDate: 2010-02-01T00:02:26+00:00
 updateDate: 2024-11-15T12:15:17-06:00

@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, setup, nationaltour, national-tour ] ]
+tags: [ 350z, nissan, setup, nationaltour, national-tour ]
 author: "chris"
 publishDate: 2011-04-04T01:16:23+00:00
 updateDate: 2024-11-18T08:39:29-06:00

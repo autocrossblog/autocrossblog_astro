@@ -1,5 +1,5 @@
 ---
-tags: [ [ megasquirt, 240z, datsun ] ]
+tags: [ megasquirt, 240z, datsun ]
 author: "chris"
 publishDate: 2009-10-24T19:15:52+00:00
 updateDate: 2024-11-15T12:15:17-06:00

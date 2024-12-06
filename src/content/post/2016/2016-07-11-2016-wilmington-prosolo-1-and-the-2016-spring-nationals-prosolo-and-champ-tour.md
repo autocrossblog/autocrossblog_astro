@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, prosolo, ohio, peru, indiana, grissom ] ]
+tags: [ 350z, nissan, prosolo, ohio, peru, indiana, grissom ]
 updateDate: 2024-11-18T10:51:34-06:00
 author: "chris"
 publishDate: 2016-07-11T00:44:14+00:00

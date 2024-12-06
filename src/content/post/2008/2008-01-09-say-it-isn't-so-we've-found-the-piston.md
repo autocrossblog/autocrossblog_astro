@@ -1,5 +1,5 @@
 ---
-tags: [ [ 240z, datsun, motor, pictures, photos ] ]
+tags: [ 240z, datsun, motor, pictures, photos ]
 author: "chris"
 publishDate: 2008-01-09T11:35:34+00:00
 updateDate: 2024-10-09T13:21:54-05:00

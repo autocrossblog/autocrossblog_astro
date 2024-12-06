@@ -1,5 +1,5 @@
 ---
-tags: [ [ electric ] ]
+tags: [ electric ]
 author: "chris"
 publishDate: 2009-10-08T18:22:16+00:00
 updateDate: 2024-11-15T12:15:17-06:00

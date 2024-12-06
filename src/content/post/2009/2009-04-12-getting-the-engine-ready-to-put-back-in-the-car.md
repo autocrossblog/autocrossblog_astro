@@ -1,5 +1,5 @@
 ---
-tags: [ [ 240z, datsun, video, motor ] ]
+tags: [ 240z, datsun, video, motor ]
 author: "chris"
 publishDate: 2009-04-12T00:01:26+00:00
 updateDate: 2024-11-15T12:15:17-06:00

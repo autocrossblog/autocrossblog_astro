@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, setup, towing ] ]
+tags: [ 350z, nissan, setup, towing ]
 author: "chris"
 publishDate: 2011-01-26T01:09:16+00:00
 updateDate: 2024-11-15T12:15:17-06:00

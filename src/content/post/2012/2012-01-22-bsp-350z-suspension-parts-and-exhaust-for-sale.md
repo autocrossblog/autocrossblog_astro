@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, suspension, parts, forsale ] ]
+tags: [ 350z, nissan, suspension, parts, forsale ]
 author: "chris"
 publishDate: 2012-01-22T23:59:54+00:00
 updateDate: 2024-11-18T13:26:36-06:00

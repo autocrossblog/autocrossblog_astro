@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, parts, stereo ] ]
+tags: [ 350z, nissan, parts, stereo ]
 author: "chris"
 publishDate: 2011-05-07T03:54:25+00:00
 updateDate: 2024-11-15T12:15:17-06:00

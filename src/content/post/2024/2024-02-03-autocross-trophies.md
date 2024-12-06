@@ -1,5 +1,5 @@
 ---
-tags: [ [ autocross, trophies, regions ] ]
+tags: [ autocross, trophies, regions ]
 featured: false
 author: "chris"
 publishDate: 2024-02-03T13:00:15+00:00

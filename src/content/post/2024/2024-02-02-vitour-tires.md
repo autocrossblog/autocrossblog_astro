@@ -1,5 +1,5 @@
 ---
-tags: [ [ autocross, tires ] ]
+tags: [ autocross, tires ]
 featured: false
 author: "chris"
 publishDate: 2024-02-02T00:00:15+00:00

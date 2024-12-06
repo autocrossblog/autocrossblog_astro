@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, bsp, str, scca ] ]
+tags: [ 350z, bsp, str, scca ]
 author: "chris"
 publishDate: 2010-01-23T21:59:33+00:00
 updateDate: 2024-11-15T12:15:17-06:00

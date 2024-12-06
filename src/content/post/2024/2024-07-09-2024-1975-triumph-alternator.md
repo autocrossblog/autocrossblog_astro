@@ -1,5 +1,5 @@
 ---
-tags: [ [ triumph, tr6 ] ]
+tags: [ triumph, tr6 ]
 featured: false
 author: "chris"
 image: ~/assets/images/2024/July/TR6Alternator/TR6Alternator-1.jpg

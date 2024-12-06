@@ -1,5 +1,5 @@
 ---
-tags: [ [ 240z, datsun, paint ] ]
+tags: [ 240z, datsun, paint ]
 author: "chris"
 publishDate: 2007-04-01T00:00:00+00:00
 updateDate: 2024-11-15T12:15:17-06:00

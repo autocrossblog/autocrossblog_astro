@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, setup ] ]
+tags: [ 350z, nissan, setup ]
 author: "chris"
 publishDate: 2011-04-09T00:44:21+00:00
 updateDate: 2024-11-18T10:51:34-06:00

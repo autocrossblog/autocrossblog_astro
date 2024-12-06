@@ -1,5 +1,5 @@
 ---
-tags: [ [ autocross, site ] ]
+tags: [ autocross, site ]
 featured: false
 author: "chris"
 publishDate: 2024-01-16T10:00:15+00:00

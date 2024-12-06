@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, setup, california ] ]
+tags: [ 350z, nissan, setup, california ]
 author: "chris"
 publishDate: 2010-04-06T09:32:07+00:00
 updateDate: 2024-11-15T12:15:17-06:00

@@ -1,5 +1,5 @@
 ---
-tags: [ [ 240z, datsun, 280z, 2.8l ] ]
+tags: [ 240z, datsun, 280z, 2.8l ]
 author: "chris"
 publishDate: 2007-02-25T05:13:38+00:00
 updateDate: 2024-11-15T12:15:17-06:00

@@ -1,5 +1,5 @@
 ---
-tags: [ [ autocross, nationaltour, national-tour, scca, mustang, friends ] ]
+tags: [ autocross, nationaltour, national-tour, scca, mustang, friends ]
 featured: false
 author: "chris"
 publishDate: 2024-03-21T09:00:15+00:00

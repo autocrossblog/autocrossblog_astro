@@ -1,5 +1,5 @@
 ---
-tags: [ [ 240z, datsun ] ]
+tags: [ 240z, datsun ]
 author: "chris"
 publishDate: 2009-05-29T00:50:32+00:00
 updateDate: 2024-10-09T13:21:54-05:00

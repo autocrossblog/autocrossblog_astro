@@ -1,5 +1,5 @@
 ---
-tags: [ [ gear, supplies ] ]
+tags: [ gear, supplies ]
 featured: false
 author: "chris"
 publishDate: 2023-01-23T10:29:20+00:00

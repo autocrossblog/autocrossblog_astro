@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, gopro, video, camera ] ]
+tags: [ 350z, nissan, gopro, video, camera ]
 author: "chris"
 publishDate: 2011-10-31T00:46:54+00:00
 updateDate: 2024-11-15T12:15:17-06:00

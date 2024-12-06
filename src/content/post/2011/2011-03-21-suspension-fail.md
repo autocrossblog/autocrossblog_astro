@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, setup, suspension ] ]
+tags: [ 350z, nissan, setup, suspension ]
 author: "chris"
 publishDate: 2011-03-21T01:57:49+00:00
 updateDate: 2024-11-15T12:15:17-06:00

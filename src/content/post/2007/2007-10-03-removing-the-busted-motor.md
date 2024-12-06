@@ -1,5 +1,5 @@
 ---
-tags: [ [ 240z, datsun, motor, engine ] ]
+tags: [ 240z, datsun, motor, engine ]
 author: "chris"
 publishDate: 2007-10-03T10:55:31+00:00
 updateDate: 2024-11-15T12:15:17-06:00

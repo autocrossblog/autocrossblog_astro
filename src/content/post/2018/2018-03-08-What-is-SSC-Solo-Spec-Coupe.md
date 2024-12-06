@@ -1,5 +1,5 @@
 ---
-tags: [ [ autocross, toyota, scion, fr-s, subaru, brz, ssc ] ]
+tags: [ autocross, toyota, scion, fr-s, subaru, brz, ssc ]
 author: "chris"
 publishDate: 2018-03-08T03:46:20+00:00
 updateDate: 2024-11-18T10:51:34-06:00

@@ -1,5 +1,5 @@
 ---
-tags: [ [ 240z, datsun, megasquirt, engine, friends ] ]
+tags: [ 240z, datsun, megasquirt, engine, friends ]
 author: "chris"
 publishDate: 2009-05-04T00:15:41+00:00
 updateDate: 2024-11-15T12:15:17-06:00

@@ -1,5 +1,5 @@
 ---
-tags: [ [ autocross, fr-s, ssc, setup, accident ] ]
+tags: [ autocross, fr-s, ssc, setup, accident ]
 featured: true
 author: "chris"
 publishDate: 2022-01-19T13:30:15+00:00

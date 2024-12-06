@@ -1,5 +1,5 @@
 ---
-tags: [ [ 240z, datsun, suspension ] ]
+tags: [ 240z, datsun, suspension ]
 author: "chris"
 publishDate: 2009-07-13T23:19:25+00:00
 updateDate: 2024-11-15T12:15:17-06:00

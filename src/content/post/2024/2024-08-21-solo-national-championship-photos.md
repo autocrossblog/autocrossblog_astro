@@ -1,5 +1,5 @@
 ---
-tags: [ [ scca, solonationals, lincoln ] ]
+tags: [ scca, solonationals, lincoln ]
 featured: false
 author: "chris"
 image: ~/assets/images/2024/August/SoloNats-1.jpg

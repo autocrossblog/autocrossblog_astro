@@ -1,5 +1,5 @@
 ---
-tags: [ [ 240z, datsun, fuel, megasquirt ] ]
+tags: [ 240z, datsun, fuel, megasquirt ]
 author: "chris"
 publishDate: 2007-07-27T10:31:04+00:00
 updateDate: 2024-11-15T12:15:17-06:00

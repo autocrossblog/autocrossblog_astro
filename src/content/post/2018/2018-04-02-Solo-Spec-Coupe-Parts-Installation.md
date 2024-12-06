@@ -1,5 +1,5 @@
 ---
-tags: [ [ autocross, toyota, fr-s, ssc, install, setup, specfrs ] ]
+tags: [ autocross, toyota, fr-s, ssc, install, setup, specfrs ]
 author: "chris"
 publishDate: 2018-04-02T06:26:11+00:00
 updateDate: 2024-11-15T12:15:17-06:00

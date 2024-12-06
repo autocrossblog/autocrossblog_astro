@@ -1,5 +1,5 @@
 ---
-tags: [ [ autocross, toyota, scion, fr-s, ssc, setup, specfrs ] ]
+tags: [ autocross, toyota, scion, fr-s, ssc, setup, specfrs ]
 author: "chris"
 publishDate: 2018-05-03T01:52:44+00:00
 updateDate: 2024-11-15T12:15:17-06:00

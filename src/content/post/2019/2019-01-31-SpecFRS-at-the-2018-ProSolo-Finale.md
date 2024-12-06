@@ -1,5 +1,5 @@
 ---
-tags: [ [ autocross, toyota, fr-s, ssc ] ]
+tags: [ autocross, toyota, fr-s, ssc ]
 author: "chris"
 publishDate: 2019-01-31T04:02:09+00:00
 updateDate: 2024-11-15T12:15:17-06:00

@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z ] ]
+tags: [ 350z ]
 featured: false
 author: "chris"
 publishDate: 2023-04-18T10:00:20+00:00

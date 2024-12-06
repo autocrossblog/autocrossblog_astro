@@ -1,5 +1,5 @@
 ---
-tags: [ [ 240z, datsun, tires ] ]
+tags: [ 240z, datsun, tires ]
 author: "chris"
 publishDate: 2007-08-11T01:06:39+00:00
 updateDate: 2024-11-15T12:15:17-06:00

@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z ] ]
+tags: [ 350z ]
 author: "chris"
 publishDate: 2009-11-18T00:40:01+00:00
 updateDate: 2024-11-15T12:15:17-06:00

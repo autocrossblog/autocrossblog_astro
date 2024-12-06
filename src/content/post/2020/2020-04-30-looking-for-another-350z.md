@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan ] ]
+tags: [ 350z, nissan ]
 author: "chris"
 publishDate: 2020-04-30T15:29:20+00:00
 updateDate: 2024-11-15T12:15:17-06:00

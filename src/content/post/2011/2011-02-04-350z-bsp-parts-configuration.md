@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, setup, wheels ] ]
+tags: [ 350z, nissan, setup, wheels ]
 author: "chris"
 publishDate: 2011-02-04T03:16:23+00:00
 updateDate: 2024-10-09T13:21:54-05:00

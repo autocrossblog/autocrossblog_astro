@@ -1,5 +1,5 @@
 ---
-tags: [ [ 240z, datsun, 280z, engine, motor, 2.8l, parts, video ] ]
+tags: [ 240z, datsun, 280z, engine, motor, 2.8l, parts, video ]
 author: "chris"
 publishDate: 2007-02-25T00:00:00+00:00
 updateDate: 2024-11-15T12:15:17-06:00

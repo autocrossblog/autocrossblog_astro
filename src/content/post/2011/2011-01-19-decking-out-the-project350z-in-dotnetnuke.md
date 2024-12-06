@@ -1,5 +1,5 @@
 ---
-tags: [ [ 350z, nissan, vinyl ] ]
+tags: [ 350z, nissan, vinyl ]
 author: "chris"
 publishDate: 2011-01-19T01:48:43+00:00
 updateDate: 2024-11-15T12:15:17-06:00

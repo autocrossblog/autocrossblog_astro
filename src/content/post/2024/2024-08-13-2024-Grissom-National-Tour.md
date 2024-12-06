@@ -1,5 +1,5 @@
 ---
-tags: [ [ scca, nationaltour, national-tour, grissom, indiana ] ]
+tags: [ scca, nationaltour, national-tour, grissom, indiana ]
 featured: false
 author: "chris"
 publishDate: 2024-08-13T20:00:15+00:00

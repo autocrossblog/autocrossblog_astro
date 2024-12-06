@@ -1,5 +1,5 @@
 ---
-tags: [ [ 240z, datsun, tools ] ]
+tags: [ 240z, datsun, tools ]
 author: "chris"
 publishDate: 2007-06-13T19:51:12+00:00
 updateDate: 2024-10-09T13:21:54-05:00

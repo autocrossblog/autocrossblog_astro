@@ -1,5 +1,5 @@
 ---
-tags: [ [ autocross, fr-s, ssc, setup, results, specfrs ] ]
+tags: [ autocross, fr-s, ssc, setup, results, specfrs ]
 featured: false
 author: "chris"
 publishDate: 2020-07-01T16:01:15+00:00
