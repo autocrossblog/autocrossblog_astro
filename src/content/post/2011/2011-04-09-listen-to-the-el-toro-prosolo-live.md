@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-04-09T00:44:21+00:00
-title: "Listen to the El Toro ProSolo Live"
-excerpt: "Explore our test run with UStream and FM Audio Broadcast at the El Toro ProSolo. Journey with us as we create an innovative way to livestream car raci..."
-author: chris
-url: 'listen-to-the-el-toro-prosolo-live'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-18T10:51:34-06:00
+url: "2011/listen-to-the-el-toro-prosolo-live"
+excerpt: "Explore our test run with UStream and FM Audio Broadcast at the El Toro ProSolo. Journey with us as we create an innovative way to livestream car raci..."
+title: "Listen to the El Toro ProSolo Live"
 ---
 
 So today I did some testing with UStream and the FM Audio Broadcast at the El Toro ProSolo. I think I managed to come up with a way to broadcast the announce stream out on the internet (audio only) using UStream.

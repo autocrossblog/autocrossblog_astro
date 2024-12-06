@@ -1,13 +1,13 @@
 ---
-author: chris
-image: ~/assets/images/Logo.png'
-publishDate: 2024-01-16T10:00:15+00:00
-title: "Hello World, AutocrossBlog.com is live!"
-excerpt: "AutocrossBlog.com is a culmination of two decades of autocrossing and way too many different cars and car websites over the years."
+tags: [ [ autocross, site ] ]
 featured: false
-url: 'autocross-blog'
-tags:  [ autocross, site ] 
+author: "chris"
+publishDate: 2024-01-16T10:00:15+00:00
 updateDate: 2024-10-09T13:21:54-05:00
+image: ~/assets/images/Logo.png
+url: "2024/autocross-blog"
+excerpt: "AutocrossBlog.com is a culmination of two decades of autocrossing and way too many different cars and car websites over the years."
+title: "Hello World, AutocrossBlog.com is live!"
 ---
 
 AutocrossBlog.com is a culmination of two decades of autocrossing and way too many different cars and car websites over the years.

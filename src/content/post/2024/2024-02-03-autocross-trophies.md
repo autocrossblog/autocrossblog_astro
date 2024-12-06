@@ -1,13 +1,13 @@
 ---
-author: chris
-image: ~/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-1.jpg
-publishDate: 2024-02-03T13:00:15+00:00
-title: "Autocross Trophies, do you need them or want them?"
-excerpt: "Where have they gone?"
+tags: [ [ autocross, trophies, regions ] ]
 featured: false
-url: 'autocross-trophies'
-tags:  [ autocross, trophies, regions ] 
+author: "chris"
+publishDate: 2024-02-03T13:00:15+00:00
 updateDate: 2024-10-09T13:21:54-05:00
+image: ~/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-1.jpg
+url: "2024/autocross-trophies"
+excerpt: "Where have they gone?"
+title: "Autocross Trophies, do you need them or want them?"
 ---
 
 Here in the St. Louis region, you used to compete for a trophy at every event you entered. You could stick around after the event, and if you qualified, you would get a trophy to take home. When I started autocrossing, this was my motivation. I wanted to earn a trophy every time I competed.

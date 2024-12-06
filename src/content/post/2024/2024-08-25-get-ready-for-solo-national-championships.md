@@ -1,15 +1,15 @@
 ---
-url: '10-things-2024-national-championships'
+tags: [ [ scca, solonationals, lincoln ] ]
 featured: false
+author: "chris"
 image: ~/assets/images/2024/August/SoloNats-2.jpg
-# last_modified_at: ''2024-07-08T16:50:08+00:00''
-author: chris
-excerpt: "Not sure what to expect at Nationals? We've got you covered"
 publishDate: 2024-08-25T09:00:15+00:00
-title: "10 Things to Prepare for at the 2024 Solo National Championships"
-keywords: '"scca, lincoln, national championships, solo nationals"'
 updateDate: 2024-11-18T11:19:52-06:00
-tags:  [ scca, solonationals, lincoln ] 
+# last_modified_at: 2024-07-08T16:50:08+00:00
+keywords: scca, lincoln, national championships, solo nationals
+url: "2024/10-things-2024-national-championships"
+excerpt: "Not sure what to expect at Nationals? We've got you covered"
+title: "10 Things to Prepare for at the 2024 Solo National Championships"
 ---
 
 So you're heading to your first Solo National Championships, it can be overwhelming, you've likely never experienced anything like you're going to see this week in Lincoln Nebraska, so I'm going to try to take some time to give you a heads up! Hopefully it will help you have an even more fun week!

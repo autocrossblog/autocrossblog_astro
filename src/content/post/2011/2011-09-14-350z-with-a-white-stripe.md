@@ -1,12 +1,12 @@
 ---
-image: ~/assets/images/2024/April/350zWhiteStripe/350zWhiteStripe-1.jpg
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2011-09-14T01:10:33+00:00
-title: "350z with a white stripe"
-excerpt: "Explore the journey of adding a white stripe to a 350z, complete with pictures and reminiscences. Share your thoughts in the comments."
-author: chris
-url: '350z-with-a-white-stripe'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-15T12:15:17-06:00
+image: ~/assets/images/2024/April/350zWhiteStripe/350zWhiteStripe-1.jpg
+url: "2011/350z-with-a-white-stripe"
+excerpt: "Explore the journey of adding a white stripe to a 350z, complete with pictures and reminiscences. Share your thoughts in the comments."
+title: "350z with a white stripe"
 ---
 
 ## Updated 4/28/2024:

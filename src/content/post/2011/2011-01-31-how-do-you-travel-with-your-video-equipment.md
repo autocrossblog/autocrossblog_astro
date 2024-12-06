@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, photos, photography, camera, gopro ] ]
+author: "chris"
 publishDate: 2011-01-31T19:42:27+00:00
-title: "How do you travel with your video equipment?"
-excerpt: "A blog post discussing how to travel with video equipment safely."
-author: chris
-url: 'how-do-you-travel-with-your-video-equipment'
-tags:  [ 350z, nissan, setup, photos, photography, camera, gopro ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2011/how-do-you-travel-with-your-video-equipment"
+excerpt: "A blog post discussing how to travel with video equipment safely."
+title: "How do you travel with your video equipment?"
 ---
 
 So this isn't the blog post I had intended to write today, but I think it's a useful one nonetheless.

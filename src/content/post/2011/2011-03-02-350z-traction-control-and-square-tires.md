@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-03-02T23:05:49+00:00
-title: "350z Traction Control and Square Tires"
-excerpt: "Engage in the debate about the proposed move of the 350z from BSP to ESP in SCCA Autocross classing. Discover the pros and cons discussed on the SCCAF..."
-author: chris
-url: '350z-traction-control-and-square-tires'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-18T10:51:34-06:00
+url: "2011/350z-traction-control-and-square-tires"
+excerpt: "Engage in the debate about the proposed move of the 350z from BSP to ESP in SCCA Autocross classing. Discover the pros and cons discussed on the SCCAF..."
+title: "350z Traction Control and Square Tires"
 ---
 
 So I experienced something while driving the 350z yesterday that I haven't experienced in quite a while. Typically the 350z comes with a staggered tire setup, meaning that the front tires are usually a smaller size than the rears. A week or two ago I got some new street tires put on the car, the new tires are "square" meaning the fronts are the same size as the rear.

@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-03-03T00:00:00+00:00
-title: "Parts car interior removal, day 1"
-excerpt: "Follow along as I detail the process of removing interior items from a 280Z in this step-by-step guide."
-url: 'parts-car-interior-removal-day-1'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/parts-car-interior-removal-day-1"
+excerpt: "Follow along as I detail the process of removing interior items from a 280Z in this step-by-step guide."
+title: "Parts car interior removal, day 1"
 ---
 
 I spent some time today, though not too long, removing interior items from the 280Z today.

@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2009-08-24T00:59:55+00:00
-title: "Organizing the garage, and guess what I found?"
-excerpt: "Rediscover the joy of finding lost items as the author locates a missing car dashboard while reorganizing the garage in this Project240z.com update."
-author: chris
-url: 'organizing-the-garage-and-guess-what-i-found'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/organizing-the-garage-and-guess-what-i-found"
+excerpt: "Rediscover the joy of finding lost items as the author locates a missing car dashboard while reorganizing the garage in this Project240z.com update."
+title: "Organizing the garage, and guess what I found?"
 ---
 
 So we've barely been in the house three weeks and I already lost and found something! <a href="/out-goes-the-dash">So in my last blog post I complained</a> that I thought I left the fiberglass dashboard for the 240Z in St. Louis. Well I was wrong! Tonight while trying to get things moved around in the garage to make room for our two primary vehicles I was up on the loft moving things and came across the dashboard!

@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ electric ] ]
+author: "chris"
 publishDate: 2009-10-08T18:22:16+00:00
-title: "Should I make the 240Z Electric?"
-excerpt: "Discover the author's journey on Ebay, stumbling upon a unique electric car in St. Louis, and his newfound interest in converting a 240Z into electric..."
-author: chris
-url: 'should-i-make-the-240z-electric'
-tags:  [ electric ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/should-i-make-the-240z-electric"
+excerpt: "Discover the author's journey on Ebay, stumbling upon a unique electric car in St. Louis, and his newfound interest in converting a 240Z into electric..."
+title: "Should I make the 240Z Electric?"
 ---
 
 Today, while I was hard at work, a buddy of mine sent me a link to a car on Ebay, it was a 1984 Rabbit GTI with 517 original miles. I was looking at the car in amazement, seeing it was in St. Louis, and more so in Creve Couer, near where we used to live.

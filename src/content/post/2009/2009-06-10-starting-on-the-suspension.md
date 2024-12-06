@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, suspension ] ]
+author: "chris"
 publishDate: 2009-06-10T22:17:08+00:00
-title: "Starting on the suspension"
-excerpt: "Follow the author's journey as they repair and replace the suspension on a newly acquired car, complete with a detailed step-by-step guide and challen..."
-author: chris
-url: 'starting-on-the-suspension'
-tags:  [ 240z, datsun, suspension ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/starting-on-the-suspension"
+excerpt: "Follow the author's journey as they repair and replace the suspension on a newly acquired car, complete with a detailed step-by-step guide and challen..."
+title: "Starting on the suspension"
 ---
 
 With the [success last night](/it-runs-twice-and-theres-audio-video-proof) I decided I had to work on the car this evening a bit. The first thing I did was get it up on all four jack stands so that they were under the frame and not under control arms of the car. This would allow me to begin working on the suspension pieces. 

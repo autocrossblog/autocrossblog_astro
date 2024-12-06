@@ -1,14 +1,14 @@
 ---
-author: chris
-image: ~/assets/images/01-24-2023/autocross-1.jpg
-publishDate: 2023-01-24T11:00:15+00:00
-title: "Why you should autocross"
-excerpt: "Information on why you should try the sport of autocross"
-keywords: 'Autocross, Setup, Supplies, Gear, St. Louis, SPS, Solo Performance Specialties'
+tags: [ [ autocross, fr-s, ssc, setup, accident, supplies, gear, st.louis ] ]
 featured: false
-url: 'why-you-should-autocross'
-tags:  [ autocross, fr-s, ssc, setup, accident, supplies, gear, st.louis ] 
+author: "chris"
+publishDate: 2023-01-24T11:00:15+00:00
 updateDate: 2024-10-09T13:21:54-05:00
+image: ~/assets/images/01-24-2023/autocross-1.jpg
+keywords: Autocross, Setup, Supplies, Gear, St. Louis, SPS, Solo Performance Specialties
+url: "2023/why-you-should-autocross"
+excerpt: "Information on why you should try the sport of autocross"
+title: "Why you should autocross"
 ---
 
 Autocross is an exciting and challenging motorsport that is quickly gaining popularity among car enthusiasts. It is a competitive event where drivers navigate a course that is laid out on a large parking lot or closed-off airfield. The objective is to complete the course in the fastest time possible, while navigating tight turns, hairpin bends, and [other obstacles](https://www.specfrs.com/autocross-accident-why-you-need-autocross-insurance).

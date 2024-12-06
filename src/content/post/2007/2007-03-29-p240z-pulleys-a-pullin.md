@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun, megasquirt ] ]
+author: "chris"
 publishDate: 2007-03-29T08:48:54+00:00
-title: "P240Z Pulleys a pullin"
-excerpt: "Follow our journey as we overcome brake booster issues and continue revamping our project car. Keeping progress on track despite everyday challenges."
-url: 'p240z-pulleys-a-pullin'
-tags:  [ 240z, datsun, megasquirt ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/p240z-pulleys-a-pullin"
+excerpt: "Follow our journey as we overcome brake booster issues and continue revamping our project car. Keeping progress on track despite everyday challenges."
+title: "P240Z Pulleys a pullin"
 ---
 
 Well we overcame the the brake booster issues from last night. Dad got the Brakeline hooked up to the MC, and we got the booster installed in the firewall and hooked up to the pedal.

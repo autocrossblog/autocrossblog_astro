@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2009-05-27T00:42:38+00:00
-title: "Another night with not much success!"
-excerpt: "Follow along on a hands-on journey of troubleshooting and repairing a classic Datsun car. Includes diagnosing starter issues, rewiring sensors, and mo..."
-author: chris
-url: 'another-night-with-not-much-success'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/another-night-with-not-much-success"
+excerpt: "Follow along on a hands-on journey of troubleshooting and repairing a classic Datsun car. Includes diagnosing starter issues, rewiring sensors, and mo..."
+title: "Another night with not much success!"
 ---
 
 So tonight I came home from work and decided it was time to work on the Datsun a bit, after over a week of barely even looking at it when walking in and out of the garage to and fro. Terec came over and helped me out for a bit as well.

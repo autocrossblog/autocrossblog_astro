@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-07-18T09:32:53+00:00
-title: "Two nights of little progress"
-excerpt: "Follow the author's journey of restoring an '83 L28ET motor, from dealing with oil cooler attachments to managing garage organization and cost conside..."
-author: chris
-url: 'two-nights-of-little-progress'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/two-nights-of-little-progress"
+excerpt: "Follow the author's journey of restoring an '83 L28ET motor, from dealing with oil cooler attachments to managing garage organization and cost conside..."
+title: "Two nights of little progress"
 ---
 
 Monday night I didn't get crap done on the project! I started to work on the oil filter/block attachment only to realize after driving around for 2 hours that I wasn't going to find any easy way to block off the oil cooler attachments for the 83 L28ET motor. By the time I got home from that, it was well after 9, and I needed to spend some time with my wife.

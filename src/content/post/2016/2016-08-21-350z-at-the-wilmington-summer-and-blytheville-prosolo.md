@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2016-08-21T23:18:44+00:00
-title: "350z at the Wilmington Summer and Blytheville ProSolo"
-excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
-author: chris
-url: '350z-at-the-wilmington-summer-and-blytheville-prosolo'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2016/350z-at-the-wilmington-summer-and-blytheville-prosolo"
+excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
+title: "350z at the Wilmington Summer and Blytheville ProSolo"
 ---
 
 <a href="/assets/images/PublishThumbnails/Open-Live-Writer/Wilmin_12D77/P350z-July2016_2.jpg"><img alt="P350z-July2016" border="0"  src="/assets/images/PublishThumbnails/Open-Live-Writer/Wilmin_12D77/P350z-July2016_thumb.jpg" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; float: none; padding-top: 0px; padding-left: 0px; margin-left: auto; display: block; padding-right: 0px; border-top-width: 0px; margin-right: auto" title="P350z-July2016" width="100%" /></a>

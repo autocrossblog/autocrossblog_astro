@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, video ] ]
+author: "chris"
 publishDate: 2010-12-06T02:52:21+00:00
-title: "Injen Super SES exhaust removal, OEM 350z exhaust installation"
-excerpt: "Join us in recounting a thrilling day of autocross racing in California, including course walk-throughs, heat runs, and personal insights."
-author: chris
-url: 'injen-super-ses-exhaust-removal-oem-350z-exhaust-installation'
-tags:  [ 350z, nissan, setup, video ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2010/injen-super-ses-exhaust-removal-oem-350z-exhaust-installation"
+excerpt: "Join us in recounting a thrilling day of autocross racing in California, including course walk-throughs, heat runs, and personal insights."
+title: "Injen Super SES exhaust removal, OEM 350z exhaust installation"
 ---
 
 If you've followed my struggles here on Project350z.com, you know by now that my 2004 350z came (when I purchased it in January 2010) with an Injen Super SES exhaust system. This system was a true dual exhaust setup from the cats back.

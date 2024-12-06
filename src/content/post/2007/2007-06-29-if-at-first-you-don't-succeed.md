@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-06-29T08:01:08+00:00
-title: "If at first you don't succeed"
-excerpt: "So tonight didn't go to well. First off, I marked the tabs on the seat mounts for drilling"
-author: chris
-url: 'if-at-first-you-don-t-succeed'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/if-at-first-you-don-t-succeed"
+excerpt: "So tonight didn't go to well. First off, I marked the tabs on the seat mounts for drilling"
+title: "If at first you don't succeed"
 ---
 
 So tonight didn't go to well. First off, I marked the tabs on the seat mounts for drilling, drilled the holes, (all too close to the edges IMHO) only to figure out that I had marked the holes with the corbeau bracket turned sideway, so they were all off by 90 degrees.

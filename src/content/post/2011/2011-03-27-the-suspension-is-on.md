@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-03-27T02:09:42+00:00
-title: "The suspension is on!"
-excerpt: "Follow our journey of installing new suspension on a 350z, complete with issues, triumphs and insightful photos. Future alignment plans revealed!"
-url: 'the-suspension-is-on'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/the-suspension-is-on"
+excerpt: "Follow our journey of installing new suspension on a 350z, complete with issues, triumphs and insightful photos. Future alignment plans revealed!"
+title: "The suspension is on!"
 ---
 
 So after a week of farting around with things the suspension is finally on the car!

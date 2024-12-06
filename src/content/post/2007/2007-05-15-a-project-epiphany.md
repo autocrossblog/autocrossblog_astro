@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-05-15T16:23:46+00:00
-title: "A Project Epiphany"
-excerpt: "Follow the journey of renovating a vintage car's interior and navigating the regulations of the SCCA Solo XP class."
-author: chris
-url: 'a-project-epiphany'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/a-project-epiphany"
+excerpt: "Follow the journey of renovating a vintage car's interior and navigating the regulations of the SCCA Solo XP class."
+title: "A Project Epiphany"
 ---
 
 Last night I spent a few hours sitting in the car. I had decided over the weekend I needed to take out all of the interior, or at least most of it, and clean up the inside of the car. I can always get the outside painted later, but the inside, if I'm going to be in it, needs to be cleaned up, and painted. It's orange, or red, I can't tell which, and though most of the interior items cover the orange there are gaps that show through.

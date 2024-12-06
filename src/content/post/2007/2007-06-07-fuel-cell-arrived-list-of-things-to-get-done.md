@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, megasquirt ] ]
+author: "chris"
 publishDate: 2007-06-07T10:00:07+00:00
-title: "Fuel cell arrived, list of things to get done!"
-excerpt: "The fuel cell for the 240z arrived!"
-author: chris
-url: 'fuel-cell-arrived-list-of-things-to-get-done'
-tags:  [ 240z, datsun, megasquirt ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/fuel-cell-arrived-list-of-things-to-get-done"
+excerpt: "The fuel cell for the 240z arrived!"
+title: "Fuel cell arrived, list of things to get done!"
 ---
 
 Alright, so my fuel cell arrived today! It sure is purty, and big

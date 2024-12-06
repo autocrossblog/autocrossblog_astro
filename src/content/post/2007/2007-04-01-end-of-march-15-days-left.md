@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-04-01T08:50:08+00:00
-title: "End of March, 15 days left"
-excerpt: "Follow along with a father and son as they work to rebuild a car, tackling everything from rust repair to engine modification. Learn from their DIY jo..."
-url: 'end-of-march-15-days-left'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/end-of-march-15-days-left"
+excerpt: "Follow along with a father and son as they work to rebuild a car, tackling everything from rust repair to engine modification. Learn from their DIY jo..."
+title: "End of March, 15 days left"
 ---
 
 So Dad and I have been working on the car pretty much all day, and last night as well.

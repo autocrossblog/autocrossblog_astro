@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-04-07T08:43:17+00:00
-title: "Fuel Cell time"
-excerpt: "Follow the author's journey as they replace the rusty gas tank of their 240Z with an SM2-allowed fuel cell, navigating rules and costs."
-url: 'fuel-cell-time'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/fuel-cell-time"
+excerpt: "Follow the author's journey as they replace the rusty gas tank of their 240Z with an SM2-allowed fuel cell, navigating rules and costs."
+title: "Fuel Cell time"
 ---
 
 I took the gas tank out of the 240Z down to Manchester Radiator on Wednesday. They called me on Thursday to tell me that the tank was in a sad state. They dipped it and cleaned it up to find a lot of pinholes and larger holes in the bottom of the tank from rust. Rather than repair it they asked me if I could get another one from somewhere.

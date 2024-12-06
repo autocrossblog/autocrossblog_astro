@@ -1,12 +1,12 @@
 ---
-redirect_from: ''
-publishDate: 2016-07-11T00:44:14+00:00
-title: "'2016 Wilmington ProSolo #1 and the 2016 Spring Nationals ProSolo and Champ Tour'"
-excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
-author: chris
-url: '2016-wilmington-prosolo-1-and-the-2016-spring-nationals-prosolo-and-champ-tour'
-tags:  [ 350z, nissan, prosolo, ohio, peru, indiana, grissom ] 
+tags: [ [ 350z, nissan, prosolo, ohio, peru, indiana, grissom ] ]
 updateDate: 2024-11-18T10:51:34-06:00
+author: "chris"
+publishDate: 2016-07-11T00:44:14+00:00
+redirect_from: 
+url: "2016/2016-wilmington-prosolo-1-and-the-2016-spring-nationals-prosolo-and-champ-tour"
+excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
+title: "2016 Wilmington ProSolo #1 and the 2016 Spring Nationals ProSolo and Champ Tour"
 ---
 
 So here we are, another month has gone by since the last blog post, time for an update here on the status of Project350z.

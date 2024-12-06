@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, megasquirt ] ]
+author: "chris"
 publishDate: 2007-07-25T11:30:59+00:00
-title: "Fuel, Water and Electricity *bangs head on wall*"
-excerpt: "Discover how a group of friends troubleshoot fuel leaks, coolant leaks, and blown fuses in a car makeover, strengthening teamwork and engineering skil..."
-author: chris
-url: 'fuel-water-and-electricity-bangs-head-on-wall'
-tags:  [ 240z, datsun, megasquirt ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/fuel-water-and-electricity-bangs-head-on-wall"
+excerpt: "Discover how a group of friends troubleshoot fuel leaks, coolant leaks, and blown fuses in a car makeover, strengthening teamwork and engineering skil..."
+title: "Fuel, Water and Electricity *bangs head on wall*"
 ---
 
 Fuel leaks, coolant leaks, and blown fuses. That about sums up the evening...

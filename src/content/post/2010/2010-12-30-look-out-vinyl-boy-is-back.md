@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, vinyl ] ]
+author: "chris"
 publishDate: 2010-12-30T14:00:01+00:00
-title: "Look out, Vinyl Boy is back"
-excerpt: "Follow one Nissan 350z owner's frustrating journey with Injen Systems' customer service, ending in a satisfactory resolution."
-author: chris
-url: 'look-out-vinyl-boy-is-back'
-tags:  [ 350z, nissan, setup, vinyl ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2010/look-out-vinyl-boy-is-back"
+excerpt: "Follow one Nissan 350z owner's frustrating journey with Injen Systems' customer service, ending in a satisfactory resolution."
+title: "Look out, Vinyl Boy is back"
 ---
 
 So it has been over 2 years since I've had vinyl on a car, that will be changing in 2011. Look out for the upcoming transformation of the Project 350z! Early in the year I will be doing a minor overhaul, with the goal of doing a full wrap on the car later in the year.

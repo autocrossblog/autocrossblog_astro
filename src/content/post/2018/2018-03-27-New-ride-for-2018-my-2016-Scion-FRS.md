@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ toyota, scion, fr-s ] ]
+author: "chris"
 publishDate: 2018-03-27T03:32:58+00:00
-title: "New ride for 2018, my 2016 Scion FR-S"
-excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
-author: chris
-url: 'new-ride-for-2018-my-2016-scion-frs'
-tags:  [ toyota, scion, fr-s ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2018/new-ride-for-2018-my-2016-scion-frs"
+excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
+title: "New ride for 2018, my 2016 Scion FR-S"
 ---
 
 I have been scouring the interwebs for a good month or so looking for the perfect FR-S for my SSC build, and came across the one via Autotrader. I reached out to the dealership via Autotrader, and also via TrueCar.com to see what kind of deal I could get on the car. The asking price was $18,499, via the TrueCar inquiry they immediately dropped $125 from the price, though the TrueCar quote was adjusted to include a $598 dealer documentation fee, for a total price of $18,972.

@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, engine, motor ] ]
+author: "chris"
 publishDate: 2009-05-09T17:42:24+00:00
-title: "It runs again!"
-excerpt: "Follow our journey from a garage sale to reviving a 240Z car, experimenting with different workarounds until we finally get the vroom back!"
-author: chris
-url: 'it-runs-again'
-tags:  [ 240z, datsun, engine, motor ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/it-runs-again"
+excerpt: "Follow our journey from a garage sale to reviving a 240Z car, experimenting with different workarounds until we finally get the vroom back!"
+title: "It runs again!"
 ---
 
 So today we had a garage sale, nothing that resides in the garage was actually sold, but we did sell a lot of stuff that we wanted to get rid of before the move. Post sale the 240Z got some love. Here's the timeline, without times.

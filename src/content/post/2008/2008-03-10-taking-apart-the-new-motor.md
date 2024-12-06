@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2008-03-10T08:53:36+00:00
-title: "Taking apart the new motor"
-excerpt: "So Nick came over this morning and helped me get the motor off the ground and onto the engine stand"
-url: 'taking-apart-the-new-motor'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2008/taking-apart-the-new-motor"
+excerpt: "So Nick came over this morning and helped me get the motor off the ground and onto the engine stand"
+title: "Taking apart the new motor"
 ---
 
 So Nick came over this morning and helped me get the motor off the ground and onto the engine stand so I could begin tearing it apart. After breaking a bolt off in the head trying to get one of the mounts setup for the cherry picker we managed to get the motor up and off the ground, though it took a couple of tries because we tried to get by with "the wrong" parts, meaning bolts in the chain that were too small for what we were doing.

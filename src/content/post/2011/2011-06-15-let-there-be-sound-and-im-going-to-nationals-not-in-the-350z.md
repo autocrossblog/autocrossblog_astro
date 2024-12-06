@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2011-06-15T00:58:01+00:00
-title: "Let there be sound, and I'm going to Nationals (not in the 350z)"
-excerpt: "Explore the journey of reassembling a stereo system in a car geared for racing. Dive into the process, challenges, and solutions of crafting the perfe..."
-author: chris
-url: 'let-there-be-sound-and-im-going-to-nationals-not-in-the-350z'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/let-there-be-sound-and-im-going-to-nationals-not-in-the-350z"
+excerpt: "Explore the journey of reassembling a stereo system in a car geared for racing. Dive into the process, challenges, and solutions of crafting the perfe..."
+title: "Let there be sound, and I'm going to Nationals (not in the 350z)"
 ---
 
 So I finally had it with listening to my Motorola Droid (Google Music and Pandora) for my commute. Why don't I have a stereo? Well back in February I ripped it all out. Not exactly the best choice, but hey, I was in the heat of the moment thinking I was prepping the car for a fully competitive 2011 season. That has changed, (more on that later).

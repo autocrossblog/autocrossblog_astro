@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-08-15T05:34:02+00:00
-title: "Bad things oil and antifreeze don't mix"
-excerpt: "A blog post about bad things found in the Datsun 240z motor"
-author: chris
-url: 'bad-things-oil-and-antifreeze-don-t-mix'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/bad-things-oil-and-antifreeze-don-t-mix"
+excerpt: "A blog post about bad things found in the Datsun 240z motor"
+title: "Bad things oil and antifreeze don't mix"
 ---
 
 So I'm in the garage working on the 1973 Datsun 240z. 

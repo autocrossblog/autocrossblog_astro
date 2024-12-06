@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, video, gopro ] ]
+author: "chris"
 publishDate: 2011-02-13T01:16:19+00:00
-title: "My GoPro HD Died"
-excerpt: "A blog post with video of my 350z Stud install beofre the GoPro hero HD died"
-author: chris
-url: 'my-gopro-hd-died'
-tags:  [ 350z, nissan, setup, video, gopro ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2011/my-gopro-hd-died"
+excerpt: "A blog post with video of my 350z Stud install beofre the GoPro hero HD died"
+title: "My GoPro HD Died"
 ---
 
 So I ran into a few issues today with my GoPro HD. I was working on the car, and was going to do another time lapse, even picked up a second battery last night so that I was sure I would get as much as possible.

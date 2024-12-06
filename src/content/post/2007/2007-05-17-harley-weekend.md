@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-05-17T21:59:57+00:00
-title: "Harley Weekend"
-excerpt: "A blog post about my Harley weekend with Kevin Dietz"
-author: chris
-url: 'harley-weekend'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/harley-weekend"
+excerpt: "A blog post about my Harley weekend with Kevin Dietz"
+title: "Harley Weekend"
 ---
 
 Well, tomorrow night I'm hitting the road. Actually a buddy of mine Kevin and I are renting Harleys for Friday night/Saturday. We'll be heading out tomorrow afternoon towards Chester on IL-3, coming back up the MO after a seafood buffet stop down there.

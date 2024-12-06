@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun, megasquirt ] ]
+author: "chris"
 publishDate: 2007-03-22T16:37:47+00:00
-title: "Megasquirt has been ordered"
-excerpt: "I've ordered the megasquirt with the help of a friend!"
-url: 'megasquirt-has-been-ordered'
-tags:  [ 240z, datsun, megasquirt ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/megasquirt-has-been-ordered"
+excerpt: "I've ordered the megasquirt with the help of a friend!"
+title: "Megasquirt has been ordered"
 ---
 
 Even though I'm out in Mormanville I've been hard at work at least thinking about the Project 240z!  With the guidance of Mr. Whittle I've ordered over $700 in equipment to get the motor wired up with Megasquirt.

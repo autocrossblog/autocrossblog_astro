@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, bsp, parts ] ]
+author: "chris"
 publishDate: 2012-01-08T00:04:51+00:00
-title: "Undoing the BSP 350z"
-excerpt: "Discover the process of restoring a 350z back to stock, battling stubborn parts, breaking tools, and eventually triumphing in this car repair journey."
-author: chris
-url: 'undoing-the-bsp-350z'
-tags:  [ 350z, nissan, bsp, parts ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2012/undoing-the-bsp-350z"
+excerpt: "Discover the process of restoring a 350z back to stock, battling stubborn parts, breaking tools, and eventually triumphing in this car repair journey."
+title: "Undoing the BSP 350z"
 ---
 
 <img style="display: inline; float: right" align="right" src="https://farm8.staticflickr.com/7141/6656781633_02f0927064_m.jpg" />

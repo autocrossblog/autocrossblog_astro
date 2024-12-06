@@ -1,12 +1,12 @@
 ---
-image: ~/assets/images/240z/engineinplace.jpg
+tags: [ [ 240z, datsun, video, engine, motor ] ]
+author: "chris"
 publishDate: 2009-04-19T18:28:16+00:00
-title: "Ahhhh the engine is in place again!"
-excerpt: "Join us on a journey of car repair & preparation for a trip to Indianapolis, complete with engine installation photos and a fun video!"
-author: chris
-url: 'ahhhh-the-engine-is-in-place-again'
-tags:  [ 240z, datsun, video, engine, motor ] 
 updateDate: 2024-11-15T12:15:17-06:00
+image: ~/assets/images/240z/engineinplace.jpg
+url: "2009/ahhhh-the-engine-is-in-place-again"
+excerpt: "Join us on a journey of car repair & preparation for a trip to Indianapolis, complete with engine installation photos and a fun video!"
+title: "Ahhhh the engine is in place again!"
 ---
 
 A HUGE thanks to Terec for coming over today and helping me with the car. We spent a couple hours this morning and were able to get the engine and transmission into the car, it all worked out pretty well with the only hitch being that all the transmission fluid I put in, came back out :D

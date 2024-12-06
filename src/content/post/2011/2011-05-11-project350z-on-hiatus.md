@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2011-05-11T00:51:44+00:00
-title: "Project350z on Hiatus?"
-excerpt: "Follow the journey of Project350z as it navigates through a hectic schedule, possible participation in the Dual at DeAnza, and imminent relocation pre..."
-author: chris
-url: 'project350z-on-hiatus'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/project350z-on-hiatus"
+excerpt: "Follow the journey of Project350z as it navigates through a hectic schedule, possible participation in the Dual at DeAnza, and imminent relocation pre..."
+title: "Project350z on Hiatus?"
 ---
 
 So things have slowed down for the Project350z, at least for a month or two. After running quite a few events in February, March and April, I haven't run an event since the El Toro ProSolo on 4/10.

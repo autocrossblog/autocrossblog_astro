@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2011-07-06T00:49:51+00:00
-title: "Videos from AAS Round 8"
-excerpt: "Discover the cherished Bell Helmet's adventure from Colorado to California, lost during a move, and its unexpected reunion with the owner."
-author: chris
-url: 'videos-from-aas-round-8'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/videos-from-aas-round-8"
+excerpt: "Discover the cherished Bell Helmet's adventure from Colorado to California, lost during a move, and its unexpected reunion with the owner."
+title: "Videos from AAS Round 8"
 ---
 
 Here are the photos from the American Autocross Series Round 8 from 7/3/2011. The car is of course our 2004 Nissan 350z in half prep for B Street Prepared.

@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2010-05-31T02:07:15+00:00
-title: "Where'd the 350z go?"
-excerpt: "Get an update on Project350z.com, our journey to make a 350z road-ready while balancing garage space issues, and exploring alternatives like the Nissa..."
-author: chris
-url: 'whered-the-350z-go'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2010/whered-the-350z-go"
+excerpt: "Get an update on Project350z.com, our journey to make a 350z road-ready while balancing garage space issues, and exploring alternatives like the Nissa..."
+title: "Where'd the 350z go?"
 ---
 
 So it's been a while since I've done any updates here on Project350z.com, so here's a quick update.

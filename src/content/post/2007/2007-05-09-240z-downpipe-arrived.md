@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-05-09T09:41:34+00:00
-title: "240Z Downpipe arrived!"
-excerpt: "Follow the author's journey as they navigate the installation of a turbo downpipe on a Z31 motor, sharing helpful tips and insights."
-author: chris
-url: '240z-downpipe-arrived'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/240z-downpipe-arrived"
+excerpt: "Follow the author's journey as they navigate the installation of a turbo downpipe on a Z31 motor, sharing helpful tips and insights."
+title: "240Z Downpipe arrived!"
 ---
 
 Well today a key component of my project arrived, the downpipe for the Turbo showed up. At first I flipped out thinking it was the wrong downpipe.

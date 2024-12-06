@@ -1,14 +1,14 @@
 ---
-author: chris
-image: ~/assets/images/2024/May/CAMChallenge/BethCones.jpg
-publishDate: 2024-05-08T10:00:15+00:00
-title: "Recap of the 2024 St. Louis CAM Challenge Autocross"
-excerpt: "Explore the highlights and intense competition of the 2024 St. Louis CAM Challenge Autocross. Discover who excelled in the CAM classes and more!"
-keywords: '"CAM Challenge 2024,St. Louis Autocross,Solo Performance Specialties Mustang GT,Classic American Muscle autocross,CAM-C autocross results,Autocross driving tips,Competitive autocross event,Family Arena autocross,Bridgestone tires in racing,Autocross challenge rounds"'
+tags: [ [ autocross, nationaltour, national-tour, scca, mustang, friends, st.louis, local, cam ] ]
 featured: false
-url: '2024-st-louis-cam-challenge'
-tags:  [ autocross, nationaltour, national-tour, scca, mustang, friends, st.louis, local, cam ] 
+author: "chris"
+publishDate: 2024-05-08T10:00:15+00:00
 updateDate: 2024-11-18T08:39:29-06:00
+image: ~/assets/images/2024/May/CAMChallenge/BethCones.jpg
+keywords: CAM Challenge 2024,St. Louis Autocross,Solo Performance Specialties Mustang GT,Classic American Muscle autocross,CAM-C autocross results,Autocross driving tips,Competitive autocross event,Family Arena autocross,Bridgestone tires in racing,Autocross challenge rounds
+url: "2024/2024-st-louis-cam-challenge"
+excerpt: "Explore the highlights and intense competition of the 2024 St. Louis CAM Challenge Autocross. Discover who excelled in the CAM classes and more!"
+title: "Recap of the 2024 St. Louis CAM Challenge Autocross"
 ---
 
 Last week, the thrill of autocross took over the Family Arena in St. Charles, Missouri, with the 2024 St. Louis CAM Challenge event. Competitors in various classes including CAM (Classic American Muscle) and others like XA/XB and Club Spec battled it out on the asphalt for top honors in both class competition and the challenge rounds.

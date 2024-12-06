@@ -1,14 +1,14 @@
 ---
-publishDate: 2022-01-19T13:30:15+00:00
-image: ~/assets/images/6-13-2021/side2.jpg
+tags: [ [ autocross, fr-s, ssc, setup, accident ] ]
 featured: true
-title: "Autocross Crash and Why You Need Autocross Insurance"
-excerpt: "My story about an autocross crash and why you should have insurance coverage"
-keywords: '"autocross, insurance, crash, accident, fail"'
-author: chris
-url: 'autocross-accident-why-you-need-autocross-insurance'
-tags:  [ autocross, fr-s, ssc, setup, accident ] 
+author: "chris"
+publishDate: 2022-01-19T13:30:15+00:00
 updateDate: 2024-11-18T11:19:52-06:00
+image: ~/assets/images/6-13-2021/side2.jpg
+keywords: autocross, insurance, crash, accident, fail
+url: "2022/autocross-accident-why-you-need-autocross-insurance"
+excerpt: "My story about an autocross crash and why you should have insurance coverage"
+title: "Autocross Crash and Why You Need Autocross Insurance"
 ---
 
 Hello there, long time no see.... Where has SpecFRS gone? Well here's the story of how my autocross car came to a very sad demise, and a couple of tips for you on how to not have it happen to yourself.

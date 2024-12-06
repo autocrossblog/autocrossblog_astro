@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, motor, pictures, photos ] ]
+author: "chris"
 publishDate: 2008-01-09T11:35:34+00:00
-title: "Say it isn't so! We've found the piston!"
-excerpt: "What? Chris actually worked on the 240Z? Impossible! It tis true, it really is. Tonight I got home and decided it was time to tear into the motor"
-author: chris
-url: 'say-it-isn-t-so-we-ve-found-the-piston'
-tags:  [ 240z, datsun, motor, pictures, photos ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2008/say-it-isn-t-so-we-ve-found-the-piston"
+excerpt: "What? Chris actually worked on the 240Z? Impossible! It tis true, it really is. Tonight I got home and decided it was time to tear into the motor"
+title: "Say it isn't so! We've found the piston!"
 ---
 
 What? Chris actually worked on the 240Z? Impossible! It tis true, it really is. Tonight I got home and decided it was time to tear into the motor, so I did just that. I even recorded the whole process, so hopefully I'll have video up soon. For now you can check out the photos of what I found, be warned, it's not pretty!

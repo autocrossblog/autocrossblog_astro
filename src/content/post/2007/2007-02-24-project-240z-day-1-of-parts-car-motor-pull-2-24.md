@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun, video, 280z ] ]
+author: "chris"
 publishDate: 2007-02-24T00:00:00+00:00
-title: "Project 240Z Day 1 of Parts Car Motor Pull 2-24"
-excerpt: "Follow the step-by-step process of disconnecting and removing a motor and transmission, with plans to refit onto a 240Z model."
-url: 'project-240z-day-1-of-parts-car-motor-pull-2-24'
-tags:  [ 240z, datsun, video, 280z ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/project-240z-day-1-of-parts-car-motor-pull-2-24"
+excerpt: "Follow the step-by-step process of disconnecting and removing a motor and transmission, with plans to refit onto a 240Z model."
+title: "Project 240Z Day 1 of Parts Car Motor Pull 2-24"
 ---
 
 Spent today disconnecting things from the motor so I can get the motor and transmission pulled out tomorrow. Also removed some of the front end body work I need to try to make work on the 240Z as well.

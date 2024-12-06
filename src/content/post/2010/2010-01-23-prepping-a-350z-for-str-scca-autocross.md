@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, bsp, str, scca ] ]
+author: "chris"
 publishDate: 2010-01-23T21:59:33+00:00
-title: "Prepping a 350z for STR (SCCA Autocross)"
-excerpt: "Follow the journey of prepping a 350z for the new STR class: from initial plans, reading threads, to final preparations for the autocross Nationals."
-author: chris
-url: 'prepping-a-350z-for-str-scca-autocross'
-tags:  [ 350z, bsp, str, scca ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2010/prepping-a-350z-for-str-scca-autocross"
+excerpt: "Follow the journey of prepping a 350z for the new STR class: from initial plans, reading threads, to final preparations for the autocross Nationals."
+title: "Prepping a 350z for STR (SCCA Autocross)"
 ---
 
 My initial intentions with this new (to me) 350z is to run in the newly formed STR class. This is a street tire class, meaning 140 treadwear or greater, which differs from the Stock Classes, which technically run "street legal" tires, but are often treadwear 50 or less. 

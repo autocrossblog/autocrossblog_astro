@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-04-25T08:56:23+00:00
-title: "Brakes bled"
-excerpt: "Join us in tackling a 240Z brake-repair project, from installing a new master cylinder to planning for future enhancements."
-url: 'brakes-bled'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/brakes-bled"
+excerpt: "Join us in tackling a 240Z brake-repair project, from installing a new master cylinder to planning for future enhancements."
+title: "Brakes bled"
 ---
 
 Dad and I spent a few hours this evening working on the brakes on the 240Z. You have to be able to stop before you even start on the motor right? That's what I keep telling myself, though they brakes still need a lot of work! We did get the new (rebuilt) master cylinder installed, and bled, and apply braking force on the discs/drums!

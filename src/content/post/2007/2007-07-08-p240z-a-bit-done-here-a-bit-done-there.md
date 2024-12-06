@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-07-08T08:46:28+00:00
-title: "P240Z A bit done here, a bit done there."
-excerpt: "Explore a weekend of work on car restoration including driver's seat mounting, rust removal tests and prepping for paint, with attached images."
-url: 'p240z-a-bit-done-here-a-bit-done-there'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/p240z-a-bit-done-here-a-bit-done-there"
+excerpt: "Explore a weekend of work on car restoration including driver's seat mounting, rust removal tests and prepping for paint, with attached images."
+title: "P240Z A bit done here, a bit done there."
 ---
 
 Take 2, stupid internet browsers, I typed this once, I guess that's what I get for not typing it up in Windows Live Writer instead of in the browser.

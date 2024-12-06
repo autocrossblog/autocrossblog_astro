@@ -1,14 +1,14 @@
 ---
-author: chris
-image: ~/assets/images/2024/August/SoloNats-3.jpg
-publishDate: 2024-10-09T10:00:15+00:00
-title: "2024 Solo National Championships Writeup"
-excerpt: "Let's talk about a week in Lincoln Nebraska"
-keywords: '"scca, lincoln, national championships, solo nationals"'
+tags: [ [ scca, solonationals, lincoln ] ]
 featured: true
-url: '2024-solo-nationals'
-tags:  [ scca, solonationals, lincoln ] 
+author: "chris"
+publishDate: 2024-10-09T10:00:15+00:00
 updateDate: 2024-12-03T11:59:22-06:00
+image: ~/assets/images/2024/August/SoloNats-3.jpg
+keywords: scca, lincoln, national championships, solo nationals
+url: "2024/2024-solo-nationals"
+excerpt: "Let's talk about a week in Lincoln Nebraska"
+title: "2024 Solo National Championships Writeup"
 ---
 
 A month late, it's time to blog about the 2024 Tire Rack SCCA Solo National Championships...
@@ -49,8 +49,8 @@ Here are some photos I took on my phone at the Museum after the dinner and award
 </style>
 
 <div class="gallery">
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-1.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed out front">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-1.jpg" alt="Speedway Motors Museum of Speed out front" title="Speedway Motors Museum of Speed out front">
+  <a href="/src/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-1.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed out front">
+    <img src="/src/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-1.jpg" alt="Speedway Motors Museum of Speed out front" title="Speedway Motors Museum of Speed out front">
   </a>
   
   <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-2.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Randol Offy">

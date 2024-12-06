@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, nationaltour, scca, video ] ]
+author: "chris"
 publishDate: 2011-04-05T00:52:19+00:00
-title: "San Diego National Tour Autocross Runs"
-excerpt: "Explore the basics of car suspension tuning through this novice's journey, starting with Carroll Smith's renowned book, Tune to Win."
-author: chris
-url: 'san-diego-national-tour-autocross-runs'
-tags:  [ 350z, nissan, setup, nationaltour, scca, video ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/san-diego-national-tour-autocross-runs"
+excerpt: "Explore the basics of car suspension tuning through this novice's journey, starting with Carroll Smith's renowned book, Tune to Win."
+title: "San Diego National Tour Autocross Runs"
 ---
 
 So here we are, one day after the tour and I have all 6 of my runs squared away on video. Now to get them blogged about, in order of course.

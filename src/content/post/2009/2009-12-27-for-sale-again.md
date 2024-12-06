@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, forsale, datsun ] ]
+author: "chris"
 publishDate: 2009-12-27T01:10:09+00:00
-title: "For sale again?"
-excerpt: "The 1973 Datsun 240z was for sale back in the day, did you buy it? If so reach out."
-author: chris
-url: 'for-sale-again'
-tags:  [ 240z, forsale, datsun ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2009/for-sale-again"
+excerpt: "The 1973 Datsun 240z was for sale back in the day, did you buy it? If so reach out."
+title: "For sale again?"
 ---
 
 For any of you who follow the website regularly you'll notice that I haven't "put" the car and website up for a sale in a while. Well, it's your lucky day.

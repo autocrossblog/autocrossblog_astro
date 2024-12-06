@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, suspension ] ]
+author: "chris"
 publishDate: 2011-03-21T01:57:49+00:00
-title: "Suspension, FAIL"
-excerpt: "Follow one man's day juggling fatherhood, work tasks, and car customisation in this candid and engaging blog post."
-author: chris
-url: 'suspension-fail'
-tags:  [ 350z, nissan, setup, suspension ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/suspension-fail"
+excerpt: "Follow one man's day juggling fatherhood, work tasks, and car customisation in this candid and engaging blog post."
+title: "Suspension, FAIL"
 ---
 
 No, the suspension didn't break, but man did Murphy show up in full force today.

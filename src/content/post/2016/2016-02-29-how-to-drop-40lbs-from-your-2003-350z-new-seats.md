@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2016-02-29T23:14:25+00:00
-title: "How to drop 40lbs from your 2003 350z, new seats!"
-excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
-author: chris
-url: 'how-to-drop-40lbs-from-your-2003-350z-new-seats'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2016/how-to-drop-40lbs-from-your-2003-350z-new-seats"
+excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
+title: "How to drop 40lbs from your 2003 350z, new seats!"
 ---
 
 This weekend I spent some quality time finally working on the 350z before the upcoming autocross season (Dixie Champ Tour is coming up quickly).

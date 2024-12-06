@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun, megasquirt ] ]
+author: "chris"
 publishDate: 2007-03-26T10:26:27+00:00
-title: "The motor is in the Project 240z!"
-excerpt: "Follow along as we make progress in our Project 240z, from separating the transmission to successfully installing the motor."
-url: 'the-motor-is-in-the-project-240z'
-tags:  [ 240z, datsun, megasquirt ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/the-motor-is-in-the-project-240z"
+excerpt: "Follow along as we make progress in our Project 240z, from separating the transmission to successfully installing the motor."
+title: "The motor is in the Project 240z!"
 ---
 
 Look out Jeffs, the motor is in the Project 240z! Dad and I spent all day today working on the car, and I even swung by one of Jeef's old employer's to pickup some parts today as well.

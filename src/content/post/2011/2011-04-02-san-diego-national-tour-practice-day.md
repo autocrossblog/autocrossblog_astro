@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-04-02T00:49:20+00:00
-title: "San Diego National Tour Practice Day"
-excerpt: "Explore Chris Hammondâ€™s autocross journey, from practice runs to suspension tweaks, and his passion for racing and community at AutocrossBlog.com."
-author: chris
-url: 'san-diego-national-tour-practice-day'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2011/san-diego-national-tour-practice-day"
+excerpt: "Explore Chris Hammondâ€™s autocross journey, from practice runs to suspension tweaks, and his passion for racing and community at AutocrossBlog.com."
+title: "San Diego National Tour Practice Day"
 ---
 
 Today was a practice day at the San Diego National Tour. This morning I took part in the Evolution School advantage program, basically you get a ton of seat time in the morning before the practice course opens up for the rest of the entrants for the National Tour. My r-comps were on a truck on the way to the tour, so I ran my street tires for the morning session. I also had the car set at full soft (bump/rebound), most definitely not the configuration needed, and my evo instructor Brian let me know.

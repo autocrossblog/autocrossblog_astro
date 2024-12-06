@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, results ] ]
+author: "chris"
 publishDate: 2011-02-13T23:58:50+00:00
-title: "San Francisco Region SCCA Boondoggle 2011 Results"
-excerpt: "Results from the SFRSCCA Boondoggle in 2011"
-author: chris
-url: 'san-francisco-region-scca-boondoggle-2011-results'
-tags:  [ 350z, nissan, setup, results ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2011/san-francisco-region-scca-boondoggle-2011-results"
+excerpt: "Results from the SFRSCCA Boondoggle in 2011"
+title: "San Francisco Region SCCA Boondoggle 2011 Results"
 ---
 
 So today was the first day for a few things

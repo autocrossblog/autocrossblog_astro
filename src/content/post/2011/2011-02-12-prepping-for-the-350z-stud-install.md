@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-02-12T01:52:45+00:00
-title: "Prepping for the 350z Stud Install"
-excerpt: "A blog post about prepping for Stud installation on a 2004 Nissan 350z to better mount wheels."
-author: chris
-url: 'prepping-for-the-350z-stud-install'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-16T22:59:22-06:00
+url: "2011/prepping-for-the-350z-stud-install"
+excerpt: "A blog post about prepping for Stud installation on a 2004 Nissan 350z to better mount wheels."
+title: "Prepping for the 350z Stud Install"
 ---
 
 I was going to do a blog post on ChrisHammond.com tonight with a video embedded that I took at the NASA Ames Research Center tweetup, but unfortunately the video I produced came out at 800mb and between youtube and my connection it doesn't look like that video is going to be ready for the public to view tonight.

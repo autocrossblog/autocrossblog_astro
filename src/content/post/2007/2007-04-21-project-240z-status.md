@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-04-21T08:34:44+00:00
-title: "Project 240Z status?"
-excerpt: "This blog post shares updates about the author's school commitments, car repairs, new welding tool, and workbench setup progress."
-url: 'project-240z-status'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/project-240z-status"
+excerpt: "This blog post shares updates about the author's school commitments, car repairs, new welding tool, and workbench setup progress."
+title: "Project 240Z status?"
 ---
 
 Current status: On hold

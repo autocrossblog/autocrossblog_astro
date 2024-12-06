@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-06-27T11:15:00+00:00
-title: "P240Z fabricating a seat bracket"
-excerpt: "Tonight was a semi productive night on the 240Z, which is always a good thing when some productivity happens during the week"
-author: chris
-url: 'p240z-fabricating-a-seat-bracket'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/p240z-fabricating-a-seat-bracket"
+excerpt: "Tonight was a semi productive night on the 240Z, which is always a good thing when some productivity happens during the week"
+title: "P240Z fabricating a seat bracket"
 ---
 
 Tonight was a semi productive night on the 240Z, which is always a good thing when some productivity happens during the week, it's hard enough being productive on the weekends. More on tonight in a bit. Summit Racing kindly sent me all of the fuel part oddities I had ordered last week. I had a 12x12 box sitting at the office when I returned from lunch today. I was dissapointed to find such a small box, after spending so much money! But I guess I did order "small" parts.

@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun, seat ] ]
+author: "chris"
 publishDate: 2007-06-30T22:42:00+00:00
-title: "P240Z Passenger Seat!"
-excerpt: "Follow the journey of a 240Z car seat installation, complete with trial-and-errors, welding insights, and detailed pictures for every step of the proc..."
-url: 'p240z-passenger-seat'
-tags:  [ 240z, datsun, seat ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/p240z-passenger-seat"
+excerpt: "Follow the journey of a 240Z car seat installation, complete with trial-and-errors, welding insights, and detailed pictures for every step of the proc..."
+title: "P240Z Passenger Seat!"
 ---
 
 Well, after figuring out that the seat mounts I had made earlier in the week wouldn't fit I went back out to work on the 240Z this morning with a bitter taste in my mouth.

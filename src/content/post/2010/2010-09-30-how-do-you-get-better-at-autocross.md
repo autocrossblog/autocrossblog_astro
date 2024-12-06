@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, autocross, instruction ] ]
+author: "chris"
 publishDate: 2010-09-30T14:35:12+00:00
-title: "How do you get better at Autocross?"
-excerpt: "Join us in recounting a thrilling day of autocross racing in California, including course walk-throughs, heat runs, and personal insights."
-author: chris
-url: 'how-do-you-get-better-at-autocross'
-tags:  [ 350z, nissan, setup, autocross, instruction ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2010/how-do-you-get-better-at-autocross"
+excerpt: "Join us in recounting a thrilling day of autocross racing in California, including course walk-throughs, heat runs, and personal insights."
+title: "How do you get better at Autocross?"
 ---
 
 ![Project350z Autocrossing](https://farm5.static.flickr.com/4091/5028275443_f27b042640_m.jpg)

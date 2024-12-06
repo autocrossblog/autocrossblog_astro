@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-05-07T00:44:12+00:00
-title: "First weekend in May, 240Z work!"
-excerpt: "Join us for a weekend of car restoration, from the hunt for intake manifold plugs to welding a new floor pan. Photos included."
-author: chris
-url: 'first-weekend-in-may-240z-work'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/first-weekend-in-may-240z-work"
+excerpt: "Join us for a weekend of car restoration, from the hunt for intake manifold plugs to welding a new floor pan. Photos included."
+title: "First weekend in May, 240Z work!"
 ---
 
 Dad and I got a bit done on the car this weekend. I've created two videos, one from Saturday, one from Sunday.

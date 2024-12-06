@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-03-22T01:15:21+00:00
-title: "OEM Bushing Update"
-excerpt: "Explore a DIY method of pressing out the bushings from OEM upper control arms, from burning the rubber part to using a hacksaw and a chisel."
-author: chris
-url: 'oem-bushing-update'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/oem-bushing-update"
+excerpt: "Explore a DIY method of pressing out the bushings from OEM upper control arms, from burning the rubber part to using a hacksaw and a chisel."
+title: "OEM Bushing Update"
 ---
 
 Today I went to a machine shop (twice as he wasn't open the first time) to try to have the bushings pressed out of the OEM upper control arms. Unfortunately the didn't think he was going to be able to press them out due to the way the oem bushings are shaped.

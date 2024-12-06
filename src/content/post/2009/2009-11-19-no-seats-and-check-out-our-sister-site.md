@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, seats, friends ] ]
+author: "chris"
 publishDate: 2009-11-19T17:10:59+00:00
-title: "No seats! and check out our sister site"
-excerpt: "So I don't know why I didn't think of this a month ago, would have saved me some money on shipping, but the Corbeau A4s for the 240z are sold."
-author: chris
-url: 'no-seats-and-check-out-our-sister-site'
-tags:  [ 240z, seats, friends ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2009/no-seats-and-check-out-our-sister-site"
+excerpt: "So I don't know why I didn't think of this a month ago, would have saved me some money on shipping, but the Corbeau A4s for the 240z are sold."
+title: "No seats! and check out our sister site"
 ---
 
 So I don't know why I didn't think of this a month ago, would have saved me some money on shipping, but the Corbeau A4s for the 240z are sold. John V, the guy who bought the [Corvette](https://www.corvettez06.org) has purchased them for use in his RX-7 that I bought and shipped to him a few weeks ago. Would have made sense to pack the seats in the car then, but I didn't realize he was going to be interested in them, oh well.

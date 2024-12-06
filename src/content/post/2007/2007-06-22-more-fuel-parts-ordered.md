@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun, fuel ] ]
+author: "chris"
 publishDate: 2007-06-22T22:18:43+00:00
-title: "More Fuel Parts Ordered"
-excerpt: "This blog post shares about a recent order from Summit Racing, completing the fuel system setup for a 240z, with a detailed list of parts."
-url: 'more-fuel-parts-ordered'
-tags:  [ 240z, datsun, fuel ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/more-fuel-parts-ordered"
+excerpt: "This blog post shares about a recent order from Summit Racing, completing the fuel system setup for a 240z, with a detailed list of parts."
+title: "More Fuel Parts Ordered"
 ---
 
 I just placed another order with Summit Racing dot com today. I ordered the following, which I think will finish up what I need for the fuel system for the 240z.

@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, trailer ] ]
+author: "chris"
 publishDate: 2009-07-24T02:10:37+00:00
-title: "Car is loaded for Colorado"
-excerpt: "Follow the journey of a car being prepared for transport to Colorado, highlighting the packing process and road trip planning."
-author: chris
-url: 'car-is-loaded-for-colorado'
-tags:  [ 240z, datsun, trailer ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/car-is-loaded-for-colorado"
+excerpt: "Follow the journey of a car being prepared for transport to Colorado, highlighting the packing process and road trip planning."
+title: "Car is loaded for Colorado"
 ---
 
 So I loaded the car up on the trailer tonight after work (well, between work actually). I'm going to take it to a buddy's shop for a few days as we get the house packed up and everything loaded onto the moving (horse) trailer. Tuesday I'll go pickup the car and we'll hit the road for Colorado on Wednesday. 

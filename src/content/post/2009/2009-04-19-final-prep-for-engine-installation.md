@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, motor, engine, video ] ]
+author: "chris"
 publishDate: 2009-04-19T01:40:36+00:00
-title: "Final Prep for Engine Installation"
-excerpt: "Follow a day in the life of a car enthusiast installing new engine parts to his car, with a bit of struggle, some assistance, and lots of perseverance..."
-author: chris
-url: 'final-prep-for-engine-installation'
-tags:  [ 240z, datsun, motor, engine, video ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/final-prep-for-engine-installation"
+excerpt: "Follow a day in the life of a car enthusiast installing new engine parts to his car, with a bit of struggle, some assistance, and lots of perseverance..."
+title: "Final Prep for Engine Installation"
 ---
 
 So I had hoped to get the engine installed into the car today but got sidetracked trying to get a final few items finished up before doing so.

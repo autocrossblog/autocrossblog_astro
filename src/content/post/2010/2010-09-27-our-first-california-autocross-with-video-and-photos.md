@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2010-09-27T01:48:39+00:00
-title: "Our first California Autocross, with video and photos"
-excerpt: "Join us in recounting a thrilling day of autocross racing in California, including course walk-throughs, heat runs, and personal insights."
-url: 'our-first-california-autocross-with-video-and-photos'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2010/our-first-california-autocross-with-video-and-photos"
+excerpt: "Join us in recounting a thrilling day of autocross racing in California, including course walk-throughs, heat runs, and personal insights."
+title: "Our first California Autocross, with video and photos"
 ---
 
 So today was the first time I've ever autocrossed in California, and the first time the car has seen an event since our runs at the Colorado event in January. I left San Carlos early in the morning and headed off to pick up <a href="https://www.willstrohl.com" >Will Strohl</a>. We headed down to Marina California for the Northern California United Five-Ten Owners Club 

@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-03-19T23:31:40+00:00
-title: "Suspension progress, none!"
-excerpt: "Follow one man's day juggling fatherhood, work tasks, and car customisation in this candid and engaging blog post."
-url: 'suspension-progress-none'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/suspension-progress-none"
+excerpt: "Follow one man's day juggling fatherhood, work tasks, and car customisation in this candid and engaging blog post."
+title: "Suspension progress, none!"
 ---
 
 So I didn't make any progress today, well not much at least. I spent the morning watching the baby while the wife got to get some much needed pampering time. After that I spent time working on a work related project.

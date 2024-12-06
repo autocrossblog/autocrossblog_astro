@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2008-10-25T19:24:26+00:00
-title: "Little progress, little time!"
-excerpt: "Follow the writer's journey of restoring a 240Z while juggling weekend chores, complete with blunders, fun moments and optimism for progress."
-author: chris
-url: 'little-progress-little-time'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2008/little-progress-little-time"
+excerpt: "Follow the writer's journey of restoring a 240Z while juggling weekend chores, complete with blunders, fun moments and optimism for progress."
+title: "Little progress, little time!"
 ---
 
 So my weekend of working on the 240Z started off quite slowly today. I ended up sleeping until almost noon this morning, it was nice to catch up on some much lost rest from the travelling the past few months.

@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2011-05-07T04:00:29+00:00
-title: "Color for the wrap has been decided"
-excerpt: "Follow our 350z's transformation with matte black vinyl, chosen by Facebook poll. Complete with a time-lapse video by the end of June."
-author: chris
-url: 'color-for-the-wrap-has-been-decided'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-18T10:51:34-06:00
+url: "2011/color-for-the-wrap-has-been-decided"
+excerpt: "Follow our 350z's transformation with matte black vinyl, chosen by Facebook poll. Complete with a time-lapse video by the end of June."
+title: "Color for the wrap has been decided"
 ---
 
 A week ago I posted a "question" on Facebook to see what color we should wrap the 350z in. 

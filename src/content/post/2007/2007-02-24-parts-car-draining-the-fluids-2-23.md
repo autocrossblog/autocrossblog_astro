@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun, 280z ] ]
+author: "chris"
 publishDate: 2007-02-24T00:00:00+00:00
-title: "Parts Car draining the fluids 2-23"
-excerpt: "Discover how to prep a parts car for engine and transmission removal by properly draining fluids."
-url: 'parts-car-draining-the-fluids-2-23'
-tags:  [ 240z, datsun, 280z ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/parts-car-draining-the-fluids-2-23"
+excerpt: "Discover how to prep a parts car for engine and transmission removal by properly draining fluids."
+title: "Parts Car draining the fluids 2-23"
 ---
 
 In prepping the parts car for engine and transmission removal I needed to drain fluids!

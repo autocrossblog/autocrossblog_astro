@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-04-17T23:52:43+00:00
-title: "Naked and famous"
-excerpt: "Follow the transformation of a 350z, from vinyl de-wrap to just a regular blue car. Join the journey while it temporarily stays 'naked'."
-author: chris
-url: 'naked-and-famous'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/naked-and-famous"
+excerpt: "Follow the transformation of a 350z, from vinyl de-wrap to just a regular blue car. Join the journey while it temporarily stays 'naked'."
+title: "Naked and famous"
 ---
 
 So the car is naked, well about as naked as it can be.

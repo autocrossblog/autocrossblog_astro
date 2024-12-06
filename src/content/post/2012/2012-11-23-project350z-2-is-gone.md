@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2012-11-23T22:46:22+00:00
-title: "'Project350z #2 is gone'"
-excerpt: "Follow the journey of ownership, modification, and eventual goodbye to the 350z in this compelling car enthusiast's blog post."
-url: 'project350z-2-is-gone'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2012/project350z-2-is-gone"
+excerpt: "Follow the journey of ownership, modification, and eventual goodbye to the 350z in this compelling car enthusiast's blog post."
+title: "Project350z #2 is gone"
 ---
 
 Well, the car was in my hands for almost three years (2 months shy), that is longer than I've owned any car since the first Project350z left my hands in September 2006.

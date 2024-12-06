@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-08-07T06:51:57+00:00
-title: "Project240Z Audio! New Exhaust"
-excerpt: "Experience the sweet sound of a new car exhaust through audio and video, featured in this blog post about a trip to Chicago."
-author: chris
-url: 'project240z-audio-new-exhaust'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/project240z-audio-new-exhaust"
+excerpt: "Experience the sweet sound of a new car exhaust through audio and video, featured in this blog post about a trip to Chicago."
+title: "Project240Z Audio! New Exhaust"
 ---
 
 Tonight I told myself I wouldn't start the car, I would get ready for my trip to Chicago tomorrow (going up there to give two days of DotNetNuke training classes).

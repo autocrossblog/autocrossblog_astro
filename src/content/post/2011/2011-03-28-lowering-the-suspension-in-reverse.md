@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, suspension, video ] ]
+author: "chris"
 publishDate: 2011-03-28T01:07:14+00:00
-title: "Lowering the suspension in reverse"
-excerpt: "Follow our journey of installing new suspension on a 350z, complete with issues, triumphs and insightful photos. Future alignment plans revealed!"
-author: chris
-url: 'lowering-the-suspension-in-reverse'
-tags:  [ 350z, nissan, setup, suspension, video ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/lowering-the-suspension-in-reverse"
+excerpt: "Follow our journey of installing new suspension on a 350z, complete with issues, triumphs and insightful photos. Future alignment plans revealed!"
+title: "Lowering the suspension in reverse"
 ---
 
 So today I went back at the suspension of the car.

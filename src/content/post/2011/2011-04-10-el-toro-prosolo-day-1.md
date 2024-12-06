@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-04-10T01:01:13+00:00
-title: "El Toro ProSolo Day 1"
-excerpt: "Follow a ProSolo racer's journey as they compete in the Kumho class, aiming for 1st place and hoping to win a set of tires."
-url: 'el-toro-prosolo-day-1'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/el-toro-prosolo-day-1"
+excerpt: "Follow a ProSolo racer's journey as they compete in the Kumho class, aiming for 1st place and hoping to win a set of tires."
+title: "El Toro ProSolo Day 1"
 ---
 
 I just don't have the energy to do a full writeup for the ProSolo today, and to be honest, it won't happen Sunday, and likely not Monday either <img style="border-bottom-style: none; border-right-style: none; border-top-style: none; border-left-style: none" class="wlEmoticon wlEmoticon-openmouthedsmile" alt="Open-mouthed smile" src="/assets/images/PublishThumbnails/Windows-Live-Writer/086ec53de232_13331/wlEmoticon-openmouthedsmile_2.png" />

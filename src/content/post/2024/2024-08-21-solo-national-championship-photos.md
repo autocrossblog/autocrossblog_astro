@@ -1,15 +1,15 @@
 ---
-url: '2024-national-championship-photos'
+tags: [ [ scca, solonationals, lincoln ] ]
 featured: false
+author: "chris"
 image: ~/assets/images/2024/August/SoloNats-1.jpg
-# last_modified_at: ''2024-07-08T16:50:08+00:00''
-author: chris
-excerpt: "Special photo package available for the 2024 Solo National Championships"
 publishDate: 2024-08-21T12:00:15+00:00
-title: "2024 Solo National Championship Photos"
-keywords: '"scca, lincoln, national championships, solo nationals"'
 updateDate: 2024-10-09T14:49:51-05:00
-tags:  [ scca, solonationals, lincoln ] 
+# last_modified_at: 2024-07-08T16:50:08+00:00
+keywords: scca, lincoln, national championships, solo nationals
+url: "2024/2024-national-championship-photos"
+excerpt: "Special photo package available for the 2024 Solo National Championships"
+title: "2024 Solo National Championship Photos"
 ---
 
 If you're heading to the 2024 Solo National Championships in Lincoln Nebraska starting late next week you should check this out! 

@@ -1,13 +1,13 @@
 ---
-author: chris
-image: ~/assets/images/2024/March/Moultrie/MustangVinyl-1.jpg
-publishDate: 2024-03-21T09:00:15+00:00
-title: "Roadtrip to Moultrie"
-excerpt: "Explore Chris Hammondâ€™s autocross journey to the 2024 SCCA Red Hills National Tour in Moultrie, GA, and stay tuned for event updates and photos"
+tags: [ [ autocross, nationaltour, national-tour, scca, mustang, friends ] ]
 featured: false
-url: 'roadtrip-to-moultrie'
-tags:  [ autocross, nationaltour, national-tour, scca, mustang, friends ] 
+author: "chris"
+publishDate: 2024-03-21T09:00:15+00:00
 updateDate: 2024-11-18T08:39:29-06:00
+image: ~/assets/images/2024/March/Moultrie/MustangVinyl-1.jpg
+url: "2024/roadtrip-to-moultrie"
+excerpt: "Explore Chris Hammondâ€™s autocross journey to the 2024 SCCA Red Hills National Tour in Moultrie, GA, and stay tuned for event updates and photos"
+title: "Roadtrip to Moultrie"
 ---
 
 ## #SOLONATSHASSTARTED

@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2017-01-29T15:37:08+00:00
-title: "So long my friend, V3 lives in Florida now"
-excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
-author: chris
-url: 'so-long-my-friend-v3-lives-in-florida-now'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2017/so-long-my-friend-v3-lives-in-florida-now"
+excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
+title: "So long my friend, V3 lives in Florida now"
 ---
 
 Haven't kept the site up to date, but the 350z has shipped off to Florida to the new owner who has already ordered a bunch of parts to finish up the STU prep!

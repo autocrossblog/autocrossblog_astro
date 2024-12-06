@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun, megasquirt ] ]
+author: "chris"
 publishDate: 2007-03-25T10:05:27+00:00
-title: "Junk Yard Saturday"
-excerpt: "Join us on a journey to restore a 240Z car with salvaged parts. Learn about our progress - from the ignition system to the brake assembly."
-url: 'junk-yard-saturday'
-tags:  [ 240z, datsun, megasquirt ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/junk-yard-saturday"
+excerpt: "Join us on a journey to restore a 240Z car with salvaged parts. Learn about our progress - from the ignition system to the brake assembly."
+title: "Junk Yard Saturday"
 ---
 
 Today, well yesterday now, it's 1am, Dad and I went to Speedway salvage over in Madison Illinois. 3-4 hours later we walked out of there with $120 worth of parts for the Project 240Z. I didn't realize you could spend that much on junk?

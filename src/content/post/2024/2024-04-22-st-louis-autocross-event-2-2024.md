@@ -1,13 +1,13 @@
 ---
-author: chris
-image: ~/assets/images/2024/April/StLouis/Event2-1.jpg
-publishDate: 2024-04-22T10:00:15+00:00
-title: "From Cones to Camaraderie: Recap of St. Louis's First Autocross of 2024"
-excerpt: "Event summary from the 2nd (but really first) event of the 2024 St. Louis Region SCCA Season"
+tags: [ [ autocross, scca, mustang, friends, st.louis, local ] ]
 featured: false
-url: 'st-louis-autocross-event-2-2024'
-tags:  [ autocross, scca, mustang, friends, st.louis, local ] 
+author: "chris"
+publishDate: 2024-04-22T10:00:15+00:00
 updateDate: 2024-10-09T13:21:54-05:00
+image: ~/assets/images/2024/April/StLouis/Event2-1.jpg
+url: "2024/st-louis-autocross-event-2-2024"
+excerpt: "Event summary from the 2nd (but really first) event of the 2024 St. Louis Region SCCA Season"
+title: "From Cones to Camaraderie: Recap of St. Louis's First Autocross of 2024"
 ---
 
 The first local autocross of the year was officially Event #2 for the St. Louis Region SCCA. Why Event #2 if it was the first? Event #1 ended up getting scrapped due to lot availability issues and the committee just left the original titles of the events the same. 

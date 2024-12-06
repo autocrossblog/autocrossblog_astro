@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ autocross, fr-s, ssc, setup, specfrs ] ]
+author: "chris"
 publishDate: 2019-08-28T03:26:48+00:00
-title: "2019 SpecFRS.com Season up to Nationals"
-excerpt: "2019 Season in review for SpecFRS"
-author: chris
-url: '2019-specfrscom-season-up-to-nationals'
-tags:  [ autocross, fr-s, ssc, setup, specfrs ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2019/2019-specfrscom-season-up-to-nationals"
+excerpt: "2019 Season in review for SpecFRS"
+title: "2019 SpecFRS.com Season up to Nationals"
 ---
 
 [![Instagram Post](https://www.instagram.com/p/BwS-GexFfU8/)](https://www.instagram.com/p/BwS-GexFfU8/ "View this post on Instagram")

@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-04-28T08:36:49+00:00
-title: "My Motivation"
-excerpt: "Discover the inspiration behind the author's Project240z, as he reminisces over a striking photo from 2004."
-url: 'my-motivation'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/my-motivation"
+excerpt: "Discover the inspiration behind the author's Project240z, as he reminisces over a striking photo from 2004."
+title: "My Motivation"
 ---
 
 I was digging through some old photos tonight looking for photos of <A href="https://www.flickr.com/photos/chammond/475212637/">Jeff Krekeler</A>, when I ran across this photo I took back in June of 2004. 

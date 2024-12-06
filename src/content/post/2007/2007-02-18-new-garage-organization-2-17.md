@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-02-18T00:00:00+00:00
-title: "New Garage Organization 2-17"
-excerpt: "Watch this informative video on garage organization, as I share practical tips while tackling my new garage."
-url: 'new-garage-organization-2-17'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/new-garage-organization-2-17"
+excerpt: "Watch this informative video on garage organization, as I share practical tips while tackling my new garage."
+title: "New Garage Organization 2-17"
 ---
 
 Video of me working organizing the new garage. 

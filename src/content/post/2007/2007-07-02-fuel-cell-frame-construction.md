@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-07-02T08:50:36+00:00
-title: "Fuel Cell frame construction"
-excerpt: "Work on the fuel cell frame, including welding!"
-author: chris
-url: 'fuel-cell-frame-construction'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/fuel-cell-frame-construction"
+excerpt: "Work on the fuel cell frame, including welding!"
+title: "Fuel Cell frame construction"
 ---
 
 This morning I set out into the garage to tackle a fairly large task, at least in my mind. My goal was to build a frame that will secure my 15 gallon fuel cell to the Project 240Z. In case you don't want to read the rest of this post, I was successful!

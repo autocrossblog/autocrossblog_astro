@@ -1,13 +1,13 @@
 ---
-image: ~/assets/images/P240z-7.jpg
-excerpt: "Relive the unfortunate autocross run of the classic 240z at Gateway Motorsports Park ten years ago. The blog post unfolds the dramatic event and shares a cautionary tale for car enthusiasts about the importance of proper tuning before competition."
-publishDate: 2017-08-12T19:33:11+00:00
-title: "Project240z 10 Years Later"
+tags: [ [ 240z, datsun ] ]
 featured: false
-author: chris
-url: 'project240z-10-years-later'
-tags: [ 240z, datsun ]
+author: "chris"
+publishDate: 2017-08-12T19:33:11+00:00
 updateDate: 2024-11-15T11:49:11-06:00
+image: ~/assets/images/P240z-7.jpg
+url: "2017/project240z-10-years-later"
+excerpt: "Relive the unfortunate autocross run of the classic 240z at Gateway Motorsports Park ten years ago. The blog post unfolds the dramatic event and shares a cautionary tale for car enthusiasts about the importance of proper tuning before competition."
+title: "Project240z 10 Years Later"
 ---
 
 Ten years ago today, the 240z took its first, and last, autocross run at Gateway Motorsports Park, in Illinois.

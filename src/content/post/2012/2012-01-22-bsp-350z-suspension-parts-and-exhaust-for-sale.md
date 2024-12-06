@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, suspension, parts, forsale ] ]
+author: "chris"
 publishDate: 2012-01-22T23:59:54+00:00
-title: "BSP 350z Suspension Parts and Exhaust for Sale"
-excerpt: "Discover the process of restoring a 350z back to stock, battling stubborn parts, breaking tools, and eventually triumphing in this car repair journey."
-author: chris
-url: 'bsp-350z-suspension-parts-and-exhaust-for-sale'
-tags:  [ 350z, nissan, suspension, parts, forsale ] 
 updateDate: 2024-11-18T13:26:36-06:00
+url: "2012/bsp-350z-suspension-parts-and-exhaust-for-sale"
+excerpt: "Discover the process of restoring a 350z back to stock, battling stubborn parts, breaking tools, and eventually triumphing in this car repair journey."
+title: "BSP 350z Suspension Parts and Exhaust for Sale"
 ---
 
 **Update 11/18/2024: This post is pretty old, nothing for sale still ;)**

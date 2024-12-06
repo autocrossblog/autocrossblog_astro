@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-03-18T00:00:00+00:00
-title: "240Z Engine Bay Cleanup"
-excerpt: "Discover the process of cleaning and prepping a 1973 240Z's engine bay for a turbo motor installation. Watch the video for a detailed guide."
-url: '240z-engine-bay-cleanup'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/240z-engine-bay-cleanup"
+excerpt: "Discover the process of cleaning and prepping a 1973 240Z's engine bay for a turbo motor installation. Watch the video for a detailed guide."
+title: "240Z Engine Bay Cleanup"
 ---
 
 I spent a few hours on Sunday the 18th of March cleaning up the engine bay of my 1973 240Z.

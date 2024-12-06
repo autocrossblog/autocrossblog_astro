@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2010-12-27T23:48:07+00:00
-title: "Unable to get any customer service from Injen Systems"
-excerpt: "Follow one Nissan 350z owner's frustrating journey with Injen Systems' customer service, ending in a satisfactory resolution."
-url: 'unable-to-get-any-customer-service-from-injen-systems'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2010/unable-to-get-any-customer-service-from-injen-systems"
+excerpt: "Follow one Nissan 350z owner's frustrating journey with Injen Systems' customer service, ending in a satisfactory resolution."
+title: "Unable to get any customer service from Injen Systems"
 ---
 
 So I've been trying for 4+ months now to get some customer service from Injen Systems for the Super SES Exhaust on my Nissan 350z that has a massive leak in it.

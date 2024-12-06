@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, parts, stereo ] ]
+author: "chris"
 publishDate: 2011-05-07T03:54:25+00:00
-title: "350z Stereo For Sale, Stealthbox Subwoofer"
-excerpt: "Selling used car audio equipment: JL Audio speakers, amplifiers, a subwoofer, and a Pioneer head unit. All in working order, $950 cash."
-author: chris
-url: '350z-stereo-for-sale-stealthbox-subwoofer'
-tags:  [ 350z, nissan, parts, stereo ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/350z-stereo-for-sale-stealthbox-subwoofer"
+excerpt: "Selling used car audio equipment: JL Audio speakers, amplifiers, a subwoofer, and a Pioneer head unit. All in working order, $950 cash."
+title: "350z Stereo For Sale, Stealthbox Subwoofer"
 ---
 
 I took all of this stuff out of my car a few months ago and am just now getting around to selling.

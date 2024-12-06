@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun, megasquirt ] ]
+author: "chris"
 publishDate: 2007-03-24T08:23:21+00:00
-title: "Dressed in black"
-excerpt: "This blog post updates readers on the Project 240Z's progress, detailing a day hunting for needed parts and upcoming mechanical tasks."
-url: 'dressed-in-black'
-tags:  [ 240z, datsun, megasquirt ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/dressed-in-black"
+excerpt: "This blog post updates readers on the Project 240Z's progress, detailing a day hunting for needed parts and upcoming mechanical tasks."
+title: "Dressed in black"
 ---
 
 Well the engine bay of the Project 240Z has a nice coat of black paint. I'll be touching up a few areas tomorrow, as well as doing the following.

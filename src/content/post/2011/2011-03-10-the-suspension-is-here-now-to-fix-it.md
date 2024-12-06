@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-03-10T02:18:56+00:00
-title: "The suspension is here! Now to fix it"
-excerpt: "Join me on my unexpected day at the autocross. From tire changes to timing issues, enjoy the thrill of racing and celebrate a top-10 finish."
-url: 'the-suspension-is-here-now-to-fix-it'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/the-suspension-is-here-now-to-fix-it"
+excerpt: "Join me on my unexpected day at the autocross. From tire changes to timing issues, enjoy the thrill of racing and celebrate a top-10 finish."
+title: "The suspension is here! Now to fix it"
 ---
 
 My birthday gift (early) from my wife showed up today (I have the best wife ever!), a new suspension (well new to me) for the 350z. There's only one problem (and not her fault, as I ordered it) the control arms that came aren't legal for the class the car is being built for.

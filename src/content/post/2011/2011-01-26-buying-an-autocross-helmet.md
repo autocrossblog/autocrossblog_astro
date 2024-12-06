@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-01-26T20:34:42+00:00
-title: "Buying an Autocross Helmet"
-excerpt: "Information on buying an autocross helmet from Solo Performance Specialties"
-author: chris
-url: 'buying-an-autocross-helmet'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2011/buying-an-autocross-helmet"
+excerpt: "Information on buying an autocross helmet from Solo Performance Specialties"
+title: "Buying an Autocross Helmet"
 ---
 
 If you're looking to buy an [Autocross Helmet](https://soloperformance.com/collections/helmets-and-accessories) you should check out [SoloPerformance.com](https://www.soloperformance.com)

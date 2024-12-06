@@ -1,11 +1,11 @@
 ---
+tags: [ [ schedule, 350z ] ]
+author: "chris"
 publishDate: 2009-11-28T02:17:21+00:00
-title: "2011 Autocross Schedule"
-excerpt: "Stay updated with the tentative autocross schedule for Project350z, covering multiple events in California and Colorado."
-author: chris
-url: '2011-autocross-schedule'
-tags:  [ schedule, 350z ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/2011-autocross-schedule"
+excerpt: "Stay updated with the tentative autocross schedule for Project350z, covering multiple events in California and Colorado."
+title: "2011 Autocross Schedule"
 ---
 
 **Tentative Schedule**

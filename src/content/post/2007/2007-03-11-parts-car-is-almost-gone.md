@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-03-11T05:36:48+00:00
-title: "Parts car is almost gone"
-excerpt: "Catch up on the maintenance work done on parts car for a 240z, including interior removal and lock replacement. No video today, just progress details."
-url: 'parts-car-is-almost-gone'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/parts-car-is-almost-gone"
+excerpt: "Catch up on the maintenance work done on parts car for a 240z, including interior removal and lock replacement. No video today, just progress details."
+title: "Parts car is almost gone"
 ---
 
 Today I spent some time trying to get the parts car all finished up. I removed a lot of the rear interior with hopes that some of it will work out in the 240z, we'll see if it will or not tomorrow.

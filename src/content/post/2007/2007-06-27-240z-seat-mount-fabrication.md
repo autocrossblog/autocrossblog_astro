@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, seat, welding, tools ] ]
+author: "chris"
 publishDate: 2007-06-27T02:59:20+00:00
-title: "240Z Seat Mount Fabrication"
-excerpt: "Video with my fabricating a seat mount"
-author: chris
-url: '240z-seat-mount-fabrication'
-tags:  [ 240z, datsun, seat, welding, tools ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/240z-seat-mount-fabrication"
+excerpt: "Video with my fabricating a seat mount"
+title: "240Z Seat Mount Fabrication"
 ---
 
 Dave from [soloperformance.com](https://www.soloperformance.com) helped me out today. We started cutting and fabricating new seat mounts for the Project240z, 1973 240Z

@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-03-04T08:16:23+00:00
-title: "Good news on the Project front!"
-excerpt: "Follow along as I work on a parts car, strategize its disposal, and discover unexpected finds in a 240Z. Car restoration insights and updates included..."
-url: 'good-news-on-the-project-front'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/good-news-on-the-project-front"
+excerpt: "Follow along as I work on a parts car, strategize its disposal, and discover unexpected finds in a 240Z. Car restoration insights and updates included..."
+title: "Good news on the Project front!"
 ---
 
 Today I spent a short time working on the parts car, working on removing the interior. [You can check out the video here](/parts-car-interior-removal-day-1). Notice the flannel pants, and sweatshirt. I really didn't want to do any work today, but I forced myself to at least do a little.

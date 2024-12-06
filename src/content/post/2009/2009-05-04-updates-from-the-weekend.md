@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, megasquirt, engine, friends ] ]
+author: "chris"
 publishDate: 2009-05-04T00:15:41+00:00
-title: "Updates from the weekend"
-excerpt: "Follow an automobile enthusiast's journey in troubleshooting issues with Megasquirt, and gain insight into overcoming hurdles in classic car restorati..."
-author: chris
-url: 'updates-from-the-weekend'
-tags:  [ 240z, datsun, megasquirt, engine, friends ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/updates-from-the-weekend"
+excerpt: "Follow an automobile enthusiast's journey in troubleshooting issues with Megasquirt, and gain insight into overcoming hurdles in classic car restorati..."
+title: "Updates from the weekend"
 ---
 
 So I spoke with my Megasquirt Guru last week a few times, and again this weekend, and even had him show up in my driveway to help wrench on the car today! 

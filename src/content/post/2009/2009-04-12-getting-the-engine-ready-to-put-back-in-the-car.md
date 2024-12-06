@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, video, motor ] ]
+author: "chris"
 publishDate: 2009-04-12T00:01:26+00:00
-title: "Getting the engine ready to put back in the car"
-excerpt: "Follow this engaging step-by-step journey of a day spent refurbishing a car engine. Includes helpful visuals and a detailed video tutorial."
-author: chris
-url: 'getting-the-engine-ready-to-put-back-in-the-car'
-tags:  [ 240z, datsun, video, motor ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/getting-the-engine-ready-to-put-back-in-the-car"
+excerpt: "Follow this engaging step-by-step journey of a day spent refurbishing a car engine. Includes helpful visuals and a detailed video tutorial."
+title: "Getting the engine ready to put back in the car"
 ---
 
 So I spent most of the day today in the garage, the first time I've done that in probably 20 months, it was nice! Thanks to Dave for coming over and helping me out for a bit, if he hadn't come over I wouldn't have gotten all that I did, done.

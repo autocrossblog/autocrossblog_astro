@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, wheels, forsale, parts ] ]
+author: "chris"
 publishDate: 2011-12-28T00:36:14+00:00
-title: "For Sale (4) 18x10inch +38 Enkei RPF1 w/ 710s"
-excerpt: "Discover how to build a GoPro camera mount for capturing car shots. Learn from the trial, error and results of our first 350z GoPro mount assembly."
-author: chris
-url: 'for-sale-4-18x10-38-enkei-rpf1-w-710s'
-tags:  [ 350z, nissan, wheels, forsale, parts ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/for-sale-4-18x10-38-enkei-rpf1-w-710s"
+excerpt: "Discover how to build a GoPro camera mount for capturing car shots. Learn from the trial, error and results of our first 350z GoPro mount assembly."
+title: "For Sale (4) 18x10inch +38 Enkei RPF1 w/ 710s"
 ---
 
 Asking **$1600** local (delivery extra, I have small vehicles so transport is a pain). Currently located in Half Moon Bay, California, just south of San Francisco.

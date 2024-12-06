@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2008-03-12T00:58:20+00:00
-title: "Random emails"
-excerpt: "I get some of the most random emails from this website."
-url: 'random-emails'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2008/random-emails"
+excerpt: "I get some of the most random emails from this website."
+title: "Random emails"
 ---
 
 I get some of the most random emails from this website.

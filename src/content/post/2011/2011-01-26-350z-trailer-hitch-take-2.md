@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, towing ] ]
+author: "chris"
 publishDate: 2011-01-26T01:09:16+00:00
-title: "350z Trailer Hitch, Take 2"
-excerpt: "Read about a user's experience with Injen Systems' customer service and the resolution of an issue with Super SES exhaust for a 350z."
-author: chris
-url: '350z-trailer-hitch-take-2'
-tags:  [ 350z, nissan, setup, towing ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/350z-trailer-hitch-take-2"
+excerpt: "Read about a user's experience with Injen Systems' customer service and the resolution of an issue with Super SES exhaust for a 350z."
+title: "350z Trailer Hitch, Take 2"
 ---
 
 So for my 2003 350z I had a custom trailer hitch built by a friend in St. Louis. It was hefty, mounting with ubolts through the bottom of the bumper and then a bar running forward to the differential. It weighed quite a bit, but was somewhat easy to remove at autocross events if I was concerned about the weight. 

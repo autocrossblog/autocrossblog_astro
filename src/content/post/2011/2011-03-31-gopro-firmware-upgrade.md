@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, gopro ] ]
+author: "chris"
 publishDate: 2011-03-31T01:07:16+00:00
-title: "GoPro Firmware Upgrade"
-excerpt: "Follow the blogger's journey with their GoPro camera upgrade, check the latest V 1.1.5 firmware, and anticipate a time-lapse drive to San Diego."
-author: chris
-url: 'gopro-firmware-upgrade'
-tags:  [ 350z, nissan, setup, gopro ] 
 updateDate: 2024-11-18T10:51:34-06:00
+url: "2011/gopro-firmware-upgrade"
+excerpt: "Follow the blogger's journey with their GoPro camera upgrade, check the latest V 1.1.5 firmware, and anticipate a time-lapse drive to San Diego."
+title: "GoPro Firmware Upgrade"
 ---
 
 So if you read my postings a month or two ago you know I had trouble with the GoPro firmware last time around. Ended up bricking the camera and having to send it in.

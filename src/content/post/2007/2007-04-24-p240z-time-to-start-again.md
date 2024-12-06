@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun, megasquirt ] ]
+author: "chris"
 publishDate: 2007-04-24T22:22:44+00:00
-title: "P240z Time to start again"
-excerpt: "Follow along as I resume work on the 240Z – from bench bleeding the brake master cylinder to tackling rust and installing a new pulley."
-url: 'p240z-time-to-start-again'
-tags:  [ 240z, datsun, megasquirt ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/p240z-time-to-start-again"
+excerpt: "Follow along as I resume work on the 240Z – from bench bleeding the brake master cylinder to tackling rust and installing a new pulley."
+title: "P240z Time to start again"
 ---
 
 Tonight I begin working on the 240Z again. It's been quite a while since I've worked on it, 3 weeks or so, due to work and school and of course, Opening Day at Fenway.

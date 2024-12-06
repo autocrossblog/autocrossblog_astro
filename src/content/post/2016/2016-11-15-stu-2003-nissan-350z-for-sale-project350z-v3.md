@@ -1,12 +1,12 @@
 ---
-author: chris
-redirect_from: ''
-publishDate: 2016-11-15T00:39:38+00:00
-title: "STU 2003 Nissan 350z For Sale-Project350z V3"
-excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
-url: 'stu-2003-nissan-350z-for-sale-project350z-v3'
-tags:  [ 350z, nissan ] 
+tags: [ [ 350z, nissan ] ]
 updateDate: 2024-11-15T12:15:17-06:00
+author: "chris"
+publishDate: 2016-11-15T00:39:38+00:00
+redirect_from: 
+url: "2016/stu-2003-nissan-350z-for-sale-project350z-v3"
+excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
+title: "STU 2003 Nissan 350z For Sale-Project350z V3"
 ---
 
 **SOLD!**

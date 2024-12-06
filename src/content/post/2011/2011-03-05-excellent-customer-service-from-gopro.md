@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-03-05T23:02:50+00:00
-title: "Excellent customer service from GoPro"
-excerpt: "Engage in the debate about the proposed move of the 350z from BSP to ESP in SCCA Autocross classing. Discover the pros and cons discussed on the SCCAF..."
-url: 'excellent-customer-service-from-gopro'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-18T10:51:34-06:00
+url: "2011/excellent-customer-service-from-gopro"
+excerpt: "Engage in the debate about the proposed move of the 350z from BSP to ESP in SCCA Autocross classing. Discover the pros and cons discussed on the SCCAF..."
+title: "Excellent customer service from GoPro"
 ---
 
 The night before an autocross, and I'm stoked for tomorrow, even if it rains (as forecasted). I got a replacement GoPro HD camera today in the mail.

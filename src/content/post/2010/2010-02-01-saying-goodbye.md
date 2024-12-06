@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ friends, 240z, datsun, colorado, california ] ]
+author: "chris"
 publishDate: 2010-02-01T00:02:26+00:00
-title: "Saying Goodbye"
-excerpt: "Follow along as we navigate the considerations for car wheel selection, discussing different sizes, benefits, and costs for the upcoming 2010 Autocros..."
-author: chris
-url: 'saying-goodbye'
-tags:  [ friends, 240z, datsun, colorado, california ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2010/saying-goodbye"
+excerpt: "Follow along as we navigate the considerations for car wheel selection, discussing different sizes, benefits, and costs for the upcoming 2010 Autocros..."
+title: "Saying Goodbye"
 ---
 
 (Idea blatantly stolen from [James Nelson's Saying Goodbye post](https://mywifeisfaster.blogspot.com/2010/01/saying-goodbye.html))

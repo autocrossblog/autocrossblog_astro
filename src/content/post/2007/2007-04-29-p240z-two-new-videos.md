@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-04-29T21:17:31+00:00
-title: "P240Z two new videos"
-excerpt: "Explore our latest blog post featuring new updates and improvements on the 240Z project, including a garage tidy-up and brake parts removal."
-url: 'p240z-two-new-videos'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/p240z-two-new-videos"
+excerpt: "Explore our latest blog post featuring new updates and improvements on the 240Z project, including a garage tidy-up and brake parts removal."
+title: "P240Z two new videos"
 ---
 
 I've posted two new videos for the 240Z. Yesterday I spent some time finishing up the work bench and organizing the garage a bit.

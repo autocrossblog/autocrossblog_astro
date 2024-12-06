@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z ] ]
+author: "chris"
 publishDate: 2009-11-18T00:40:01+00:00
-title: "350Z Autocross Car Setup"
-excerpt: "Explore the specific setup details of a 2003 Nissan 350Z Enthusiast for B-Stock racing, including options, wheels, tires, and alignment."
-author: chris
-url: '350z-autocross-car-setup'
-tags:  [ 350z ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/350z-autocross-car-setup"
+excerpt: "Explore the specific setup details of a 2003 Nissan 350Z Enthusiast for B-Stock racing, including options, wheels, tires, and alignment."
+title: "350Z Autocross Car Setup"
 ---
 
 Running in BS (B-Stock) for three years, I learned a lot about the 350Z and the setup for the car. While I don't currently still have that car, I will go ahead and create a post about the setup of the car for BS.

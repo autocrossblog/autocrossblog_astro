@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-02-21T00:09:56+00:00
-title: "Weighing the 350z at the Divisional"
-excerpt: "Engage in the debate about the proposed move of the 350z from BSP to ESP in SCCA Autocross classing. Discover the pros and cons discussed on the SCCAF..."
-url: 'weighing-the-350z-at-the-divisional'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/weighing-the-350z-at-the-divisional"
+excerpt: "Engage in the debate about the proposed move of the 350z from BSP to ESP in SCCA Autocross classing. Discover the pros and cons discussed on the SCCAF..."
+title: "Weighing the 350z at the Divisional"
 ---
 
 So there's been much debate (or really just many people telling me I am crazy) over on SCCAForums in the thread I started to discuss the proposed move of the 350z from BSP to ESP in SCCA Autocross classing.

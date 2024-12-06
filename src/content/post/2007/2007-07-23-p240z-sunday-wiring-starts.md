@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, megasquirt ] ]
+author: "chris"
 publishDate: 2007-07-23T10:34:20+00:00
-title: "P240Z Sunday Wiring Starts"
-excerpt: "Follow the author's process of modifying a sensor bracket and tackling wiring tasks for a vehicle, with an aim to start the car soon."
-author: chris
-url: 'p240z-sunday-wiring-starts'
-tags:  [ 240z, datsun, megasquirt ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/p240z-sunday-wiring-starts"
+excerpt: "Follow the author's process of modifying a sensor bracket and tackling wiring tasks for a vehicle, with an aim to start the car soon."
+title: "P240Z Sunday Wiring Starts"
 ---
 
 Here's a quick update on the 240. I got up this morning and finished up modifications to the bracket I built for the VR sensor, you can see what it ended up looking like in the photo below. It's not all that pretty, but not too bad considering I made it out of a drill press, vertical sander, and a jig saw.

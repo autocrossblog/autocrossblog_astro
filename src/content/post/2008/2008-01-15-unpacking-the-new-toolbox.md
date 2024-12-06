@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2008-01-15T17:05:10+00:00
-title: "Unpacking the new toolbox."
-excerpt: "Explore this fun video blog post featuring the assembly of a new toolbox, complete with entertaining dance moves!"
-url: 'unpacking-the-new-toolbox'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2008/unpacking-the-new-toolbox"
+excerpt: "Explore this fun video blog post featuring the assembly of a new toolbox, complete with entertaining dance moves!"
+title: "Unpacking the new toolbox."
 ---
 
 Checkout the video (with a few new dancing moves for entertainment) of the assembly of the new toolbox to try to help me get the garage organized!

@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2010-03-08T01:24:46+00:00
-title: "Always good after a wash and a wax"
-excerpt: "Follow along as we navigate the considerations for car wheel selection, discussing different sizes, benefits, and costs for the upcoming 2010 Autocros..."
-author: chris
-url: 'always-good-after-a-wash-and-a-wax'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2010/always-good-after-a-wash-and-a-wax"
+excerpt: "Follow along as we navigate the considerations for car wheel selection, discussing different sizes, benefits, and costs for the upcoming 2010 Autocros..."
+title: "Always good after a wash and a wax"
 ---
 
 It has been quite a while, over a year, since I really spent some time washing a waxing a vehicle. My how time has flown, last year we spent time prepping for, and moving to Colorado, during that time I was without a "fun" car, having sold the [Corvette](https://www.corvettez06.org) back in October 2008.

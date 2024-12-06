@@ -1,14 +1,14 @@
 ---
-author: chris
-image: ~/assets/images/2024/May/teenautocross.jpg
-publishDate: 2024-05-10T12:00:15+00:00
-title: "10 Reasons why your teen driver should Autocross, and you should too"
-excerpt: "Explore the benefits of autocross for teen drivers. Learn how this safe, educational motorsport teaches valuable driving skills, enhances vehicle control, and builds confidence in a controlled environment."
-keywords: '"autocross, teen drivers, safe driving, vehicle control, driving skills, recovery techniques, disciplined driving, stress relief, affordable motorsport, driving community"'
+tags: [ [ autocross, family, education, teens ] ]
 featured: false
-url: 'why-your-teen-should-autocross'
-tags:  [ autocross, family, education, teens ] 
+author: "chris"
+publishDate: 2024-05-10T12:00:15+00:00
 updateDate: 2024-10-09T13:21:54-05:00
+image: ~/assets/images/2024/May/teenautocross.jpg
+keywords: autocross, teen drivers, safe driving, vehicle control, driving skills, recovery techniques, disciplined driving, stress relief, affordable motorsport, driving community
+url: "2024/why-your-teen-should-autocross"
+excerpt: "Explore the benefits of autocross for teen drivers. Learn how this safe, educational motorsport teaches valuable driving skills, enhances vehicle control, and builds confidence in a controlled environment."
+title: "10 Reasons why your teen driver should Autocross, and you should too"
 ---
 
 Autocross provides a multifaceted platform that is ideal for teaching teen drivers about the intricacies of safe and skilled driving. Here are ten reasons why enrolling your teen in autocross can be a transformative experience:

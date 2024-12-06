@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-03-28T10:18:26+00:00
-title: "Another night of wrenching on the car"
-excerpt: "Join a father-son duo as they troubleshoot and repair a 73 240Z with a mix of 78 280Z parts. Discover their journey of car restoration and innovation."
-url: 'another-night-of-wrenching-on-the-car'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/another-night-of-wrenching-on-the-car"
+excerpt: "Join a father-son duo as they troubleshoot and repair a 73 240Z with a mix of 78 280Z parts. Discover their journey of car restoration and innovation."
+title: "Another night of wrenching on the car"
 ---
 
 Dad and I spent a few hours working on the 240z this evening. We got the clutch pedal in, and even got as far as putting the Clutch Master Cylinder in the car. We went to put the 78 280Z brake booster in the 73 240Z, but ended up figuring out that the firewalls on the two cars are different, and the booster out of the 78 won't fit in the 73 with a clutch installed. Sooooo, now we're trying to verify that we can use the recently purchased rebuilt brake master cylinder for the 78 booster, on the 73 booster, without any issue. We'll see how that goes! 

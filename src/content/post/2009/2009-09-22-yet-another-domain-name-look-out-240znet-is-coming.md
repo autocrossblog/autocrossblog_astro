@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2009-09-22T23:14:50+00:00
-title: "Yet another domain name, look out 240z.net is coming!"
-excerpt: "Discover the journey of redeveloping www.240z.net. Stay tuned, without sneak peeks, as we transform this expired website."
-author: chris
-url: 'yet-another-domain-name-look-out-240znet-is-coming'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/yet-another-domain-name-look-out-240znet-is-coming"
+excerpt: "Discover the journey of redeveloping www.240z.net. Stay tuned, without sneak peeks, as we transform this expired website."
+title: "Yet another domain name, look out 240z.net is coming!"
 ---
 
 So for a month or so I've been waiting for <a href="https://www.240z.net">www.240z.net</a> to go through the expiration process as the previous owner decided to let it expire. Well today it finally came through and guess who got it! 

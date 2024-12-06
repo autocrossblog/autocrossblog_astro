@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, video ] ]
+author: "chris"
 publishDate: 2009-05-11T00:19:41+00:00
-title: "Working on the car on a Sunday"
-excerpt: "Follow along a car repair journey, involving rewiring a VR sensor, radiator installation, and troubleshooting start-up issues."
-author: chris
-url: 'working-on-the-car-on-a-sunday'
-tags:  [ 240z, datsun, video ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/working-on-the-car-on-a-sunday"
+excerpt: "Follow along a car repair journey, involving rewiring a VR sensor, radiator installation, and troubleshooting start-up issues."
+title: "Working on the car on a Sunday"
 ---
 
 Working on the car today. Rewired the VR sensor and installed the radiator. Worked on front air dam, and put the exhaust on. Tried to start it, need to rewire the VR sensor again :( 

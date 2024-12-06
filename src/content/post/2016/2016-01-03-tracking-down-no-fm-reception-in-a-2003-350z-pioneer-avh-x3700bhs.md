@@ -1,12 +1,12 @@
 ---
-image: ~/assets/images/PublishThumbnails/Open-Live-Writer/Tracking-down-no-FM-reception-in-a-2003-_13A5C/image_2.png'
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2016-01-03T23:41:23+00:00
-title: "Tracking down no FM reception in a 2003 350z Pioneer avh-x3700bhs"
-excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
-author: chris
-url: 'tracking-down-no-fm-reception-in-a-2003-350z-pioneer-avh-x3700bhs'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-15T12:15:17-06:00
+image: ~/assets/images/PublishThumbnails/Open-Live-Writer/Tracking-down-no-FM-reception-in-a-2003-_13A5C/image_2.png
+url: "2016/tracking-down-no-fm-reception-in-a-2003-350z-pioneer-avh-x3700bhs"
+excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
+title: "Tracking down no FM reception in a 2003 350z Pioneer avh-x3700bhs"
 ---
 
 When I picked up the 350z in Chattanooga back in November, I figured out that the radio wasn't great, the sound was weak, and it didn't appear to pick up any FM signals whatsoever. Over the Xmas weekend I decided it was time to rip into the car to remove the stock Bose amp and subwoofer (behind the driver's seat) as well as try to tack down why the FM reception was non-existent.

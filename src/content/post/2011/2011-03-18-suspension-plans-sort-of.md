@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-03-18T00:40:55+00:00
-title: "Suspension plans, sort of"
-excerpt: "Follow the author's journey and challenges in making his SPL Upper Control Arms legal, involving an attempt with offset Hydlar Z bushings."
-url: 'suspension-plans-sort-of'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/suspension-plans-sort-of"
+excerpt: "Follow the author's journey and challenges in making his SPL Upper Control Arms legal, involving an attempt with offset Hydlar Z bushings."
+title: "Suspension plans, sort of"
 ---
 
 So I wasn't able to find a part that would make the SPL Upper Control Arms legal for BSP yet, though I am still looking.

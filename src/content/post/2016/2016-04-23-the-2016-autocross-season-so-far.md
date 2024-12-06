@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2016-04-23T00:21:33+00:00
-title: "The 2016 Autocross Season So Far"
-excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
-author: chris
-url: 'the-2016-autocross-season-so-far'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-18T10:51:34-06:00
+url: "2016/the-2016-autocross-season-so-far"
+excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
+title: "The 2016 Autocross Season So Far"
 ---
 
 So it has been a while since I've had the time to get a blog post up here, so let's get started.

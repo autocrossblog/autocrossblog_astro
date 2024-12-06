@@ -1,12 +1,12 @@
 ---
-author: chris
-image: ~/assets/images/"PublishThumbnails/Open-Live-Writer/Weekend-progress-on-the-350z_140A7/2016-03-05_21.33.33_2.jpg"'
+tags: [ [ 350z, nissan, corvette ] ]
+author: "chris"
 publishDate: 2016-03-07T00:13:53+00:00
-title: "Weekend progress on the 350z"
-excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
-url: 'weekend-progress-on-the-350z'
-tags:  [ 350z, nissan, corvette ] 
 updateDate: 2024-11-18T13:36:50-06:00
+image: ~/assets/images/"PublishThumbnails/Open-Live-Writer/Weekend-progress-on-the-350z_140A7/2016-03-05_21.33.33_2.jpg
+url: "2016/weekend-progress-on-the-350z"
+excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
+title: "Weekend progress on the 350z"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W_L9OQWg1vE?si=Yeplfbtnr_ntK6UL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

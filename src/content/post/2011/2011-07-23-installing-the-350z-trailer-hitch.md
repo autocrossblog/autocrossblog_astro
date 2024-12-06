@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2011-07-23T20:27:15+00:00
-title: "Installing the 350z Trailer Hitch"
-excerpt: "350z Trailer hitch installation post with a few details of the process."
-author: chris
-url: 'installing-the-350z-trailer-hitch'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2011/installing-the-350z-trailer-hitch"
+excerpt: "350z Trailer hitch installation post with a few details of the process."
+title: "Installing the 350z Trailer Hitch"
 ---
 
 So the time finally came, or I finally got around to it, the hitch is now on our 2004 Nissan 350z.

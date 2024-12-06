@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2008-10-26T20:44:15+00:00
-title: "A slow Sunday, more cleaning on the motor."
-excerpt: "Follow along with our latest garage project, dealing with missing parts, motor assembly, and documenting the process via Chase Cam."
-author: chris
-url: 'a-slow-sunday-more-cleaning-on-the-motor'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2008/a-slow-sunday-more-cleaning-on-the-motor"
+excerpt: "Follow along with our latest garage project, dealing with missing parts, motor assembly, and documenting the process via Chase Cam."
+title: "A slow Sunday, more cleaning on the motor."
 ---
 
 So I woke up this morning, [earlier than yesterday](/little-progress-little-time), but still not as early as one would have liked. First things first I ran to Radio Shack to get an AC power source for my Chase Cam so that I could use it to record video today.

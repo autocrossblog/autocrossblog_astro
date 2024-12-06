@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2008-03-09T04:52:43+00:00
-title: "A space heater and gasoline..."
-excerpt: "Follow our adventure as we source parts for a 240Z restoration, build a rolling stool, and encounter a close call with a garage fire hazard."
-url: 'a-space-heater-and-gasoline'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2008/a-space-heater-and-gasoline"
+excerpt: "Follow our adventure as we source parts for a 240Z restoration, build a rolling stool, and encounter a close call with a garage fire hazard."
+title: "A space heater and gasoline..."
 ---
 
 Today Nick and I ran around town, getting some metal for his 240Z, then around to find a few other supplies that he needed.

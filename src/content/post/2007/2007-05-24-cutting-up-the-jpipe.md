@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-05-24T17:20:07+00:00
-title: "Cutting up the JPipe"
-excerpt: "A blog post cutting up the J-Pipe"
-author: chris
-url: 'cutting-up-the-jpipe'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/cutting-up-the-jpipe"
+excerpt: "A blog post cutting up the J-Pipe"
+title: "Cutting up the JPipe"
 ---
 
 I got some work done on the car, I think I figured out one of the biggest holdups I've had.

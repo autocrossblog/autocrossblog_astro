@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, vinyl ] ]
+author: "chris"
 publishDate: 2011-01-19T01:48:43+00:00
-title: "Decking out the Project350z in DotNetNuke"
-excerpt: "Discover how an avid DotNetNuke user, who also works for the corporation, proudly promotes this open source platform by sporting its logo on his car."
-author: chris
-url: 'decking-out-the-project350z-in-dotnetnuke'
-tags:  [ 350z, nissan, vinyl ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/decking-out-the-project350z-in-dotnetnuke"
+excerpt: "Discover how an avid DotNetNuke user, who also works for the corporation, proudly promotes this open source platform by sporting its logo on his car."
+title: "Decking out the Project350z in DotNetNuke"
 ---
 
 I don't have an Autocross event coming up for a couple weeks, but I couldn't wait, I had to do something to the car.

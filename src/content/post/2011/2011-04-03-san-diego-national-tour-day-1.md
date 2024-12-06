@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, scca, video, nationaltour, national-tour ] ]
+author: "chris"
 publishDate: 2011-04-03T00:27:44+00:00
-title: "San Diego National Tour Day 1"
-excerpt: "Experience exhilarating autocross racing at the San Diego National Tour. Dive into intense competition, camaraderie, and Z car glory. #Autocross #RacingLife"
-author: chris
-url: 'san-diego-national-tour-day-1'
-tags:  [ 350z, nissan, setup, scca, video, nationaltour, national-tour ] 
 updateDate: 2024-11-18T08:39:29-06:00
+url: "2011/san-diego-national-tour-day-1"
+excerpt: "Experience exhilarating autocross racing at the San Diego National Tour. Dive into intense competition, camaraderie, and Z car glory. #Autocross #RacingLife"
+title: "San Diego National Tour Day 1"
 ---
 
 I'm worn out, so this will likely not be as long as it should be, but here's a quick summary of the day today.

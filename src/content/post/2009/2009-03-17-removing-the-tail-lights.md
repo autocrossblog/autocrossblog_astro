@@ -1,12 +1,12 @@
 ---
-image: ~/assets/images/240z/240z-taillights.jpg
+tags: [ [ 240z, datsun, parts, video ] ]
+author: "chris"
 publishDate: 2009-03-17T23:01:34+00:00
-title: "Removing the tail lights"
-excerpt: "Explore a 30-minute DIY project on a Datsun car, featuring taillights removal process with before & after pictures and a video tutorial."
-author: chris
-url: 'removing-the-tail-lights'
-tags:  [ 240z, datsun, parts, video ] 
 updateDate: 2024-11-15T12:15:17-06:00
+image: ~/assets/images/240z/240z-taillights.jpg
+url: "2009/removing-the-tail-lights"
+excerpt: "Explore a 30-minute DIY project on a Datsun car, featuring taillights removal process with before & after pictures and a video tutorial."
+title: "Removing the tail lights"
 ---
 
 After class tonight I spent 30 minutes working on the Datsun. I removed the taillights, which I'd not done before. I was pleasantly surprised as I didn't find any rust.Here are the before and after photos.

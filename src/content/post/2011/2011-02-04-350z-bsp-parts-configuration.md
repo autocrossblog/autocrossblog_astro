@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, wheels ] ]
+author: "chris"
 publishDate: 2011-02-04T03:16:23+00:00
-title: "350z BSP Parts Configuration"
-excerpt: "A blog post with details of our 2004 350z setup for BSP"
-author: chris
-url: '350z-bsp-parts-configuration'
-tags:  [ 350z, nissan, setup, wheels ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2011/350z-bsp-parts-configuration"
+excerpt: "A blog post with details of our 2004 350z setup for BSP"
+title: "350z BSP Parts Configuration"
 ---
 
 This post will be a continually updated (on project350z.com) list of parts (to buy) and configuration for the 350z preparation for SCCA Solo's BSP (B street prepared) Class. If you're building a 350z for Autocross I hope that this page provides of some great value.

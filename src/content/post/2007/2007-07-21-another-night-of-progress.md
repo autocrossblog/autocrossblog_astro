@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, megasquirt ] ]
+author: "chris"
 publishDate: 2007-07-21T10:12:38+00:00
-title: "Another night of progress"
-excerpt: "Follow the progress of a DIY car modification project, detailing the process of wiring, welding, and mechanical adjustments."
-author: chris
-url: 'another-night-of-progress'
-tags:  [ 240z, datsun, megasquirt ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/another-night-of-progress"
+excerpt: "Follow the progress of a DIY car modification project, detailing the process of wiring, welding, and mechanical adjustments."
+title: "Another night of progress"
 ---
 
 Today we made some good progress. Mark helped me at the office today to solder some more wiring for the megasquirt. I've still got a LOT more wiring to do, but that part of things is starting to come together.

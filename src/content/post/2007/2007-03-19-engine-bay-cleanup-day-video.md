@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-03-19T06:52:53+00:00
-title: "Engine bay cleanup day video"
-excerpt: "Follow this blogger's journey in restoring a car engine bay - from rust cleanup, repainting, to brake and pedal modifications."
-url: 'engine-bay-cleanup-day-video'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/engine-bay-cleanup-day-video"
+excerpt: "Follow this blogger's journey in restoring a car engine bay - from rust cleanup, repainting, to brake and pedal modifications."
+title: "Engine bay cleanup day video"
 ---
 
 I spent a few hours tooling around the garage today, mostly inside of the engine bay.

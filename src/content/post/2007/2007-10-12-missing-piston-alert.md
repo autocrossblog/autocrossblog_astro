@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-10-12T15:43:38+00:00
-title: "Missing Piston Alert!"
-excerpt: "Photo of the piston that blew up in the motor"
-url: 'missing-piston-alert'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/missing-piston-alert"
+excerpt: "Photo of the piston that blew up in the motor"
+title: "Missing Piston Alert!"
 ---
 
 Can you spot the problem in this photo?

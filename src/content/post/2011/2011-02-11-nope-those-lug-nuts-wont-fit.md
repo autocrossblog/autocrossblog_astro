@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-02-11T00:08:16+00:00
-title: "Nope those lug nuts won't fit"
-excerpt: "blog post about lug nuts that won't fit on the wheels of a Nissan 350z"
-author: chris
-url: 'nope-those-lug-nuts-wont-fit'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2011/nope-those-lug-nuts-wont-fit"
+excerpt: "blog post about lug nuts that won't fit on the wheels of a Nissan 350z"
+title: "Nope those lug nuts won't fit"
 ---
 
 So I ran around Redwood City today over lunch, I needed to find some spacers and lug nuts to go along with the new studs that arrived today from [Solo Performance Specialties](https://www.soloperformance.com)

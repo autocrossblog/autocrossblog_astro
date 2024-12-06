@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2010-01-27T23:45:20+00:00
-title: "Wheels for a 350z in STR"
-excerpt: "Follow along as we navigate the considerations for car wheel selection, discussing different sizes, benefits, and costs for the upcoming 2010 Autocros..."
-author: chris
-url: 'wheels-for-a-350z-in-str'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2010/wheels-for-a-350z-in-str"
+excerpt: "Follow along as we navigate the considerations for car wheel selection, discussing different sizes, benefits, and costs for the upcoming 2010 Autocros..."
+title: "Wheels for a 350z in STR"
 ---
 
 So I'm slowly starting to figure out what I need to do to get the car ready for the 2010 Autocross season. I've been looking around, reading the 2010 SCCA Solo rules, covering the details of the class. I've got some more research to do, but for now I'm starting to figure out which wheels I am going to run on the car.

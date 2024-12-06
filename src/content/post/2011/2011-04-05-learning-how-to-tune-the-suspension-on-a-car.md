@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-04-05T22:41:13+00:00
-title: "Learning how to tune the suspension on a car"
-excerpt: "Explore the basics of car suspension tuning through this novice's journey, starting with Carroll Smith's renowned book, Tune to Win."
-author: chris
-url: 'learning-how-to-tune-the-suspension-on-a-car'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/learning-how-to-tune-the-suspension-on-a-car"
+excerpt: "Explore the basics of car suspension tuning through this novice's journey, starting with Carroll Smith's renowned book, Tune to Win."
+title: "Learning how to tune the suspension on a car"
 ---
 
 Have you ever wanted to learn how to tune the suspension on a car?

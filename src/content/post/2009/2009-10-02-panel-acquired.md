@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2009-10-02T00:10:40+00:00
-title: "Fuse block/panel acquired"
-excerpt: "Join a computer geek as he overcomes his fear and ignorance to wire up his car himself - featuring a trip to Napa and upcoming plans."
-url: 'fuse-block/panel-acquired'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/fuse-block/panel-acquired"
+excerpt: "Join a computer geek as he overcomes his fear and ignorance to wire up his car himself - featuring a trip to Napa and upcoming plans."
+title: "Fuse block/panel acquired"
 ---
 
 So I have been delaying wiring up the car a bit, partially because I don't understand it all, and partially because I am afraid! I'm a computer geek, but not always the best when it comes to working on the car, I question everything I do, maybe because I blew up the last motor?

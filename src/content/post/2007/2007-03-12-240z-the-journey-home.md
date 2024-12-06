@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun, 280z ] ]
+author: "chris"
 publishDate: 2007-03-12T05:11:11+00:00
-title: "240Z, the Journey home"
-excerpt: "Follow the journey of restoring a 1978 280Z 2+2 in this blog, including struggles with car parts, towing trips, and the joys of bringing it back to li..."
-url: '240z-the-journey-home'
-tags:  [ 240z, datsun, 280z ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/240z-the-journey-home"
+excerpt: "Follow the journey of restoring a 1978 280Z 2+2 in this blog, including struggles with car parts, towing trips, and the joys of bringing it back to li..."
+title: "240Z, the Journey home"
 ---
 
 So this morning I got up and finished up what I could get done on the project car, a 1978 280Z 2+2, courtesy of our very own Lynn Wilson, Thanks Lynn!!!

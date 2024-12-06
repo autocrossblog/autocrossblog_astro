@@ -1,13 +1,12 @@
 ---
-redirect_from: ''
-
-publishDate: 2008-01-09T02:53:27+00:00
-title: "In search of a piston!"
-excerpt: "Dive into our latest blog post featuring a detailed search for a missing piston within a motor, with an accompanying video guide."
-author: chris
-url: 'in-search-of-a-piston'
-tags:  [ 240z, datsun ] 
+tags: [ [ 240z, datsun ] ]
 updateDate: 2024-11-15T12:15:17-06:00
+author: "chris"
+publishDate: 2008-01-09T02:53:27+00:00
+redirect_from: 
+url: "2008/in-search-of-a-piston"
+excerpt: "Dive into our latest blog post featuring a detailed search for a missing piston within a motor, with an accompanying video guide."
+title: "In search of a piston!"
 ---
 
 So I finally got into the motor tonight to look for the missing piston.

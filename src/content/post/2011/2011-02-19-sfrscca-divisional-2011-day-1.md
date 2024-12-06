@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-02-19T21:42:29+00:00
-title: "SFRSCCA Divisional 2011 Day 1"
-excerpt: "Read about a user's experience with Injen Systems' customer service and the resolution of an issue with Super SES exhaust for a 350z."
-url: 'sfrscca-divisional-2011-day-1'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-18T10:51:34-06:00
+url: "2011/sfrscca-divisional-2011-day-1"
+excerpt: "Read about a user's experience with Injen Systems' customer service and the resolution of an issue with Super SES exhaust for a 350z."
+title: "SFRSCCA Divisional 2011 Day 1"
 ---
 
 How was today?

@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, megasquirt ] ]
+author: "chris"
 publishDate: 2007-07-16T09:14:37+00:00
-title: "All in a day's paint"
-excerpt: "Follow the journey of DIY car repairs and modifications in a garage. Witness the transformation of an old vehicle into something new and learn along."
-author: chris
-url: 'all-in-a-day-s-paint'
-tags:  [ 240z, datsun, megasquirt ] 
 updateDate: 2024-11-18T08:39:29-06:00
+url: "2007/all-in-a-day-s-paint"
+excerpt: "Follow the journey of DIY car repairs and modifications in a garage. Witness the transformation of an old vehicle into something new and learn along."
+title: "All in a day's paint"
 ---
 
 After yesterday's fun, Eric and I spent some time in the garage today. I was awoken this morning around 8:00am by the doorbell; the Dish Network guy showed up right on time. More on that topic tomorrow on [The Mad Blogger](https://themadblogger.com/). After I got the Dish guy going, I sent Eric an SMS to let him know I was out in the garage working.

@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup, bsp ] ]
+author: "chris"
 publishDate: 2010-01-27T23:53:21+00:00
-title: "Dropping Weight in the 350z, for STR (now BSP)"
-excerpt: "Follow the journey of modifying a 2004 Nissan 350Z for weight reduction, detailing modifications including lighter wheels, battery & seats."
-author: chris
-url: 'dropping-weight-in-the-350z-for-str-now-bsp'
-tags:  [ 350z, nissan, setup, bsp ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2010/dropping-weight-in-the-350z-for-str-now-bsp"
+excerpt: "Follow the journey of modifying a 2004 Nissan 350Z for weight reduction, detailing modifications including lighter wheels, battery & seats."
+title: "Dropping Weight in the 350z, for STR (now BSP)"
 ---
 
 This blog post will be gradually updated over time as I figure out how to drop weight in the 350z prepping it for <s>STR in 2010</s> BSP for 2011.

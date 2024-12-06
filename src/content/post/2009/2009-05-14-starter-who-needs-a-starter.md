@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2009-05-14T01:21:01+00:00
-title: "Starter? Who needs a starter?"
-excerpt: "Follow this blog for a personal journey through car troubleshooting, covering starter issues, VR sensor wiring, and dealing with warranties."
-author: chris
-url: 'starter-who-needs-a-starter'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/starter-who-needs-a-starter"
+excerpt: "Follow this blog for a personal journey through car troubleshooting, covering starter issues, VR sensor wiring, and dealing with warranties."
+title: "Starter? Who needs a starter?"
 ---
 
 Well it did run for about 10 seconds on Saturday, then I redid the wire for the VR sensor and created some problems. So I redid the wiring tonight, and went to start it.   

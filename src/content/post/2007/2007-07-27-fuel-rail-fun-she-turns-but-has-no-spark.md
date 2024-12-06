@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun, fuel, megasquirt ] ]
+author: "chris"
 publishDate: 2007-07-27T10:31:04+00:00
-title: "Fuel Rail Fun! She turns, but has no spark"
-excerpt: "Follow the author's journey of overcoming fuel rail issue and powering up the car, only to uncover a spark issue. A tale of persistence and auto repai..."
-url: 'fuel-rail-fun-she-turns-but-has-no-spark'
-tags:  [ 240z, datsun, fuel, megasquirt ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/fuel-rail-fun-she-turns-but-has-no-spark"
+excerpt: "Follow the author's journey of overcoming fuel rail issue and powering up the car, only to uncover a spark issue. A tale of persistence and auto repai..."
+title: "Fuel Rail Fun! She turns, but has no spark"
 ---
 
 First off, let me say that today was a good day! It didn't start off that way  however. After last night's fuel rail issues I needed to get the rail  tapped and get myself a new fitting. At lunch I headed over to [Solo Performance Specialties](https://www.soloperformance.com/) World  Headquarters to have Dave assist with tapping the rail. He didn't have a 3/8 NPT  tap so I had to head over to Grainger down the street from the SPS offices and  pick up a tap. $33 later I was in business and heading back to Dave's. He  assisted with tapping the rail again and then I headed south.

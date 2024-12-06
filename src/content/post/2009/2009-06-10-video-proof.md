@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, video ] ]
+author: "chris"
 publishDate: 2009-06-10T01:37:25+00:00
-title: "It runs, twice and there's audio/video proof!"
-excerpt: "Follow the adventure of replacing a faulty car starter, from warranty claims to installation, ending with a successful start-up. Enjoy the video!"
-author: chris
-url: 'it-runs-twice-and-theres-audio-video-proof'
-tags:  [ 240z, datsun, video ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/it-runs-twice-and-theres-audio-video-proof"
+excerpt: "Follow the adventure of replacing a faulty car starter, from warranty claims to installation, ending with a successful start-up. Enjoy the video!"
+title: "It runs, twice and there's audio/video proof!"
 ---
 
 So tonight after work I came home to get the starter out of the car and took it back to Autozone, fortunately the lifetime warranty was honored! Though I did have to run off to the Autozone Hub to get the replacement starter. The guy at the hub was kind of lost, but he eventually got everything worked out and I headed home with the new (remanufactured) starter.

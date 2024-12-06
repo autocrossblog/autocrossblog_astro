@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2010-07-18T23:39:34+00:00
-title: "Nismo Cold Air Intake for a 350z"
-excerpt: "Discover the journey of a Nismo Cold Air Intake from being installed on Project350z, to removal, and finally its sale on eBay."
-author: chris
-url: 'nismo-cold-air-intake-for-a-350z'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2010/nismo-cold-air-intake-for-a-350z"
+excerpt: "Discover the journey of a Nismo Cold Air Intake from being installed on Project350z, to removal, and finally its sale on eBay."
+title: "Nismo Cold Air Intake for a 350z"
 ---
 
 So when the Project350z was purchased in Colorado back in January it had a Nismo Cold Air Intake on it. Shortly thereafter I moved to California, and guess what? The Nismo isn't CARB legal, which means it isn't legal for use in the State of California, so off the intake came.

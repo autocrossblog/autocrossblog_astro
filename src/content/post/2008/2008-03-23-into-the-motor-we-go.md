@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2008-03-23T03:40:45+00:00
-title: "Into the motor we go"
-excerpt: "Follow the author's experience working on a 240Z motor with his father, dealing with issues from insects to incompatible parts in this engaging blog p..."
-author: chris
-url: 'into-the-motor-we-go'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2008/into-the-motor-we-go"
+excerpt: "Follow the author's experience working on a 240Z motor with his father, dealing with issues from insects to incompatible parts in this engaging blog p..."
+title: "Into the motor we go"
 ---
 
 So my parents are in town for a few days. Dad and I spent some time working on the motor for the 240Z today. I'll try to take some pictures tomorrow.

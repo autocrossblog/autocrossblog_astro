@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-08-29T01:28:50+00:00
-title: "Parts car, JunkMyCar.com!"
-excerpt: "Follow one car enthusiast's journey as they prepare their parts car for removal, detailing the labor-intensive process of interior stripping."
-url: 'parts-car-junkmycarcom'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/parts-car-junkmycarcom"
+excerpt: "Follow one car enthusiast's journey as they prepare their parts car for removal, detailing the labor-intensive process of interior stripping."
+title: "Parts car, JunkMyCar.com!"
 ---
 
 I filled out a form this morning on www.junkmycar.com to have the Parts car removed. Hoping that they will call me and schedule it to be picked up on Saturday or Sunday.

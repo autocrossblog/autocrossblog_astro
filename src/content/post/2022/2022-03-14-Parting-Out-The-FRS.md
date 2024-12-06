@@ -1,13 +1,13 @@
 ---
-author: chris
-image: ~/assets/images/3-14-2022/Side-1.jpg
-publishDate: 2022-03-14T10:30:15+00:00
-title: "Parting out the Scion FR-S"
-excerpt: "Follow one car owner's journey of parting out a 2016 Scion FR-S, from wheel removal to selling off OEM parts and SSC suspension bits."
+tags: [ [ autocross, fr-s, ssc, setup, accident, specfrs ] ]
 featured: false
-url: 'parting-out-the-frs'
-tags:  [ autocross, fr-s, ssc, setup, accident, specfrs ] 
+author: "chris"
+publishDate: 2022-03-14T10:30:15+00:00
 updateDate: 2024-11-15T12:15:17-06:00
+image: ~/assets/images/3-14-2022/Side-1.jpg
+url: "2022/parting-out-the-frs"
+excerpt: "Follow one car owner's journey of parting out a 2016 Scion FR-S, from wheel removal to selling off OEM parts and SSC suspension bits."
+title: "Parting out the Scion FR-S"
 ---
 
 The time has finally come, time that I finally have, to try to start getting the 2016 Scion FR-S parted out.

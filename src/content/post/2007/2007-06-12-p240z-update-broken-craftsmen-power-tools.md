@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-06-12T08:54:32+00:00
-title: "P240Z update, broken Craftsmen power tools"
-excerpt: "This post shares a weekend experience filled with car repair plans, social outings, and a failed video recording attempt. A mix of relaxation and frus..."
-url: 'p240z-update-broken-craftsmen-power-tools'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/p240z-update-broken-craftsmen-power-tools"
+excerpt: "This post shares a weekend experience filled with car repair plans, social outings, and a failed video recording attempt. A mix of relaxation and frus..."
+title: "P240Z update, broken Craftsmen power tools"
 ---
 
 So this weekend was anything but productive. I ended up not getting a thing done on the car this weekend. I did manage to get the drill press together Saturday morning, and I acquired a trailer Saturday morning. 

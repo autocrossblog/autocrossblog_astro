@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, megasquirt ] ]
+author: "chris"
 publishDate: 2007-07-24T09:36:36+00:00
-title: "Monday Monday Monday Progress!"
-excerpt: "Follow our progress as we repair a car, wiring the engine bay and initializing the power system. We’re on track for a startup this week!"
-author: chris
-url: 'monday-monday-monday-progress'
-tags:  [ 240z, datsun, megasquirt ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/monday-monday-monday-progress"
+excerpt: "Follow our progress as we repair a car, wiring the engine bay and initializing the power system. We’re on track for a startup this week!"
+title: "Monday Monday Monday Progress!"
 ---
 
 Today was a good day! Progress was made! First things first, at lunch myself, Henry, and Eric headed down to High Ridge to SCPRacingparts.com again to get a cap for my Fuel cell, I realized yesterday that I was only using 3 of the 4 fitting points for the fuel cell, and I had better get something to cover the fourth one up.

@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-07-15T08:25:28+00:00
-title: "Here little birdy birdy"
-excerpt: "Join in on a day of misadventures, parrot rescues, and friendship as Chris helps his friend Eric find a lost pet bird."
-author: chris
-url: 'here-little-birdy-birdy'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/here-little-birdy-birdy"
+excerpt: "Join in on a day of misadventures, parrot rescues, and friendship as Chris helps his friend Eric find a lost pet bird."
+title: "Here little birdy birdy"
 ---
 
 Well, I got absolutely nothing done on the car today. I did manage to buy a few necessary items, but work on the car was not had.

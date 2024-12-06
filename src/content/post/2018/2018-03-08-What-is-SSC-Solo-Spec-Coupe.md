@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ autocross, toyota, scion, fr-s, subaru, brz, ssc ] ]
+author: "chris"
 publishDate: 2018-03-08T03:46:20+00:00
-title: "What is SSC? Solo Spec Coupe"
-excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
-url: 'what-is-ssc-solo-spec-coupe'
-tags:  [ autocross, toyota, scion, fr-s, subaru, brz, ssc ] 
 updateDate: 2024-11-18T10:51:34-06:00
+url: "2018/what-is-ssc-solo-spec-coupe"
+excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
+title: "What is SSC? Solo Spec Coupe"
 ---
 
 Solo Spec Coupe. SSC. The next big thing in SCCA Autocross.

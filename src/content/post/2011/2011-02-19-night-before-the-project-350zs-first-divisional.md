@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z, nissan, setup ] ]
+author: "chris"
 publishDate: 2011-02-19T00:52:11+00:00
-title: "Night before the Project 350z's first divisional"
-excerpt: "So today was a busy day, I had a lot to catch up on at work, training to provide internally, and a final to take this afternoon."
-url: 'night-before-the-project-350zs-first-divisional'
-tags:  [ 350z, nissan, setup ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2011/night-before-the-project-350zs-first-divisional"
+excerpt: "So today was a busy day, I had a lot to catch up on at work, training to provide internally, and a final to take this afternoon."
+title: "Night before the Project 350z's first divisional"
 ---
 
 So today was a busy day, I had a lot to catch up on at work, training to provide internally, and a final to take this afternoon. After that I ran home and grabbed the set of Falken Azenis RT-615s that were sitting in the garage and ran to Les Schwab ([the same place I bitched about a few weeks ago](/race-tire-mounting-in-the-san-francisco-bay-area-peninsula)) to get them mounted.

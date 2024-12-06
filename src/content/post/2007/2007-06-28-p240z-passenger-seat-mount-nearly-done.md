@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, seats ] ]
+author: "chris"
 publishDate: 2007-06-28T08:52:03+00:00
-title: "P240Z passenger seat mount nearly done"
-excerpt: "I spent another hour or so tonight working on the passenger seat mounts I hope to get some bolts tomorrow"
-author: chris
-url: 'p240z-passenger-seat-mount-nearly-done'
-tags:  [ 240z, datsun, seats ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/p240z-passenger-seat-mount-nearly-done"
+excerpt: "I spent another hour or so tonight working on the passenger seat mounts I hope to get some bolts tomorrow"
+title: "P240Z passenger seat mount nearly done"
 ---
 
 I spent another hour or so tonight working on the passenger seat mounts I hope to get some bolts tomorrow and attempt to mount the seat into the car tomorrow night or Friday.

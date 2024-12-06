@@ -1,14 +1,14 @@
 ---
-author: chris
-image: ~/assets/images/2024/August/CSM-1.jpg
-publishDate: 2024-08-13T20:00:15+00:00
-title: "2024 Grissom National Tour"
-excerpt: "Event review from the 2024 Tire Rack SCCA Grissom Solo National Tour"
-keywords: '"scca, national tour, indiana, grissom"'
+tags: [ [ scca, nationaltour, national-tour, grissom, indiana ] ]
 featured: false
-url: '2024-grissom-national-tour'
-tags:  [ scca, nationaltour, national-tour, grissom, indiana ] 
+author: "chris"
+publishDate: 2024-08-13T20:00:15+00:00
 updateDate: 2024-11-18T08:39:29-06:00
+image: ~/assets/images/2024/August/CSM-1.jpg
+keywords: scca, national tour, indiana, grissom
+url: "2024/2024-grissom-national-tour"
+excerpt: "Event review from the 2024 Tire Rack SCCA Grissom Solo National Tour"
+title: "2024 Grissom National Tour"
 ---
 
 We are what, less than 4 weeks from the 2024 Solo National Championships? I decided I better get back to an event and get some practice in. And boy am I glad I did, I sucked, I need to get some more reps!

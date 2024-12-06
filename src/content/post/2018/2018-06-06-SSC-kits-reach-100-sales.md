@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ ssc ] ]
+author: "chris"
 publishDate: 2018-06-06T03:33:33+00:00
-title: "SSC kits reach 100 sales"
-excerpt: "Celebrate TireRack's sale of the 100th SSC kit! Discover why SSC is the future of Solo and anticipate our Spring Nationals write-up."
-author: chris
-url: 'ssc-kits-reach-100-sales'
-tags:  [ ssc ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2018/ssc-kits-reach-100-sales"
+excerpt: "Celebrate TireRack's sale of the 100th SSC kit! Discover why SSC is the future of Solo and anticipate our Spring Nationals write-up."
+title: "SSC kits reach 100 sales"
 ---
 
 {% picture solomatters.JPG %}

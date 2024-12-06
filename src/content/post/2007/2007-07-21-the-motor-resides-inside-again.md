@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-07-21T00:30:00+00:00
-title: "The motor resides inside again!"
-excerpt: "A blog post discussing progress on the 240z with the motor back in the car, along with some photos"
-author: chris
-url: 'the-motor-resides-inside-again'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/the-motor-resides-inside-again"
+excerpt: "A blog post discussing progress on the 240z with the motor back in the car, along with some photos"
+title: "The motor resides inside again!"
 ---
 
 After work last night I got to work on the car. Eric and Russ came over to lend their assistance as well. Russ got started on the leaking wheel cylinder, Eric started putting the Intake/exhaust/turbo back onto the motor, while I worked on fabricating a bracket to mount the VR sensor onto the side of the motor.

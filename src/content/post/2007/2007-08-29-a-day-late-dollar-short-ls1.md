@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-08-29T18:51:02+00:00
-title: "A day late, dollar short? LS1?"
-excerpt: "Follow the suspenseful journey of possibly acquiring a new LS1 motor for a Project240z, with extra insights into garage cleanups and eBay transactions..."
-url: 'a-day-late-dollar-short-ls1'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/a-day-late-dollar-short-ls1"
+excerpt: "Follow the suspenseful journey of possibly acquiring a new LS1 motor for a Project240z, with extra insights into garage cleanups and eBay transactions..."
+title: "A day late, dollar short? LS1?"
 ---
 
 Well, I was excited when I got up this morning. I thought i was going to go look at a LS1 motor for the 240z... But as of a few minutes ago I think the motor won't be there when I go to look at lunch today.

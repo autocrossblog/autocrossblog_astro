@@ -1,12 +1,11 @@
 ---
-author: chris
-
+tags: [ [ autocross, toyota, fr-s, ssc ] ]
+author: "chris"
 publishDate: 2019-01-31T04:02:09+00:00
-title: "SpecFRS at the 2018 ProSolo Finale"
-excerpt: "Celebrate TireRack's sale of the 100th SSC kit! Discover why SSC is the future of Solo and anticipate our Spring Nationals write-up."
-url: 'specfrs-at-the-2018-prosolo-finale'
-tags:  [ autocross, toyota, fr-s, ssc ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2019/specfrs-at-the-2018-prosolo-finale"
+excerpt: "Celebrate TireRack's sale of the 100th SSC kit! Discover why SSC is the future of Solo and anticipate our Spring Nationals write-up."
+title: "SpecFRS at the 2018 ProSolo Finale"
 ---
 
 This post is coming 6 months (maybe more?) too late, but at least it is coming. The 2018 ProSolo Finale and Solo National Championships was a week of ups and downs for the team. The results were mixed across the board in terms of performance with some highlights and some down times as well.

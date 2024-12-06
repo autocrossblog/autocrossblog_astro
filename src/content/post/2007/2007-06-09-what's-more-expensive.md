@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, tools ] ]
+author: "chris"
 publishDate: 2007-06-09T08:25:10+00:00
-title: "What's more expensive?"
-excerpt: "So I seriously think I have spent more money on tools than I have spent on the car or parts for the car!"
-author: chris
-url: 'what-s-more-expensive'
-tags:  [ 240z, datsun, tools ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/what-s-more-expensive"
+excerpt: "So I seriously think I have spent more money on tools than I have spent on the car or parts for the car!"
+title: "What's more expensive?"
 ---
 
 So I seriously think I have spent more money on tools than I have spent on the car or parts for the car!

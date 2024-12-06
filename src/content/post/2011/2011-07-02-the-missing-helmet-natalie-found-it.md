@@ -1,11 +1,11 @@
 ---
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2011-07-02T19:07:16+00:00
-title: "The missing helmet! Natalie found it!"
-excerpt: "Discover the cherished Bell Helmet's adventure from Colorado to California, lost during a move, and its unexpected reunion with the owner."
-author: chris
-url: 'the-missing-helmet-natalie-found-it'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2011/the-missing-helmet-natalie-found-it"
+excerpt: "Discover the cherished Bell Helmet's adventure from Colorado to California, lost during a move, and its unexpected reunion with the owner."
+title: "The missing helmet! Natalie found it!"
 ---
 
 Over a year ago I realized that my Bell Helmet was missing. Somewhere on the move from Colorado to California it went off into its own world.

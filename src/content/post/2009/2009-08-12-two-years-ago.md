@@ -1,12 +1,12 @@
 ---
-author: chris
-image: ~/assets/images/2009/twoyearsago.jpg
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2009-08-12T23:00:10+00:00
-title: "Project240z - Two years ago the motor blew up"
-excerpt: "Relive the journey of a Datsun 240z that toasted its first motor in autocross, its revival, and the ongoing journey in car restoration."
-url: 'two-years-ago'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-17T22:47:19-06:00
+image: ~/assets/images/2009/twoyearsago.jpg
+url: "2009/two-years-ago"
+excerpt: "Relive the journey of a Datsun 240z that toasted its first motor in autocross, its revival, and the ongoing journey in car restoration."
+title: "Project240z - Two years ago the motor blew up"
 ---
 
 Two years ago today was the day that the Datsun toasted Motor #1 on it's first autocross run! Here's a shot of that first competition run.

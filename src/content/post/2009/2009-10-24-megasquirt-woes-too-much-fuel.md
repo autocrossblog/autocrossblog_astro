@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ megasquirt, 240z, datsun ] ]
+author: "chris"
 publishDate: 2009-10-24T19:15:52+00:00
-title: "Megasquirt woes, too much fuel?"
-excerpt: "Join a novice car enthusiast as he navigates the complexities of fuel injection tuning, charges a car battery, and preps his Datsun for a new paint jo..."
-author: chris
-url: 'megasquirt-woes-too-much-fuel'
-tags:  [ megasquirt, 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2009/megasquirt-woes-too-much-fuel"
+excerpt: "Join a novice car enthusiast as he navigates the complexities of fuel injection tuning, charges a car battery, and preps his Datsun for a new paint jo..."
+title: "Megasquirt woes, too much fuel?"
 ---
 
 So I will start this post off staying this: I know nothing, I am a noob when it comes to the megasquirt, and tuning a fuel injection car (or a carb'd car for that matter). 

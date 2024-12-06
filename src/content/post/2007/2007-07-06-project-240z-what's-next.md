@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun, megasquirt ] ]
+author: "chris"
 publishDate: 2007-07-06T00:24:52+00:00
-title: "Project 240z, What's next?"
-excerpt: "A blog post with a schedule of planned work from July 2007 for the 240z"
-author: chris
-url: 'project-240z-what-s-next'
-tags:  [ 240z, datsun, megasquirt ] 
 updateDate: 2024-10-09T13:21:54-05:00
+url: "2007/project-240z-what-s-next"
+excerpt: "A blog post with a schedule of planned work from July 2007 for the 240z"
+title: "Project 240z, What's next?"
 ---
 
 Tasks for the next few days.

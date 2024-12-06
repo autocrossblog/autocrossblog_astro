@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ autocross, toyota, fr-s, ssc, install, setup, specfrs ] ]
+author: "chris"
 publishDate: 2018-04-02T06:26:11+00:00
-title: "Solo Spec Coupe Parts Installation"
-excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
-author: chris
-url: 'solo-spec-coupe-parts-installation'
-tags:  [ autocross, toyota, fr-s, ssc, install, setup, specfrs ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2018/solo-spec-coupe-parts-installation"
+excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
+title: "Solo Spec Coupe Parts Installation"
 ---
 
 After a long couple of days working on the FR-S, interspersed with family events and other activities, I finally have the suspension components installed on the FR-S.

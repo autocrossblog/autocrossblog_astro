@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ 240z, datsun ] ]
+author: "chris"
 publishDate: 2007-08-07T01:20:24+00:00
-title: "One week after ignition"
-excerpt: "Follow an automotive enthusiast as they navigate through a week of hands-on modifications to a 240Z, sharing insights on wiring, engine bays, and reso..."
-author: chris
-url: 'one-week-after-ignition'
-tags:  [ 240z, datsun ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2007/one-week-after-ignition"
+excerpt: "Follow an automotive enthusiast as they navigate through a week of hands-on modifications to a 240Z, sharing insights on wiring, engine bays, and reso..."
+title: "One week after ignition"
 ---
 
 So it's been over a week now since I drove the 240Z for the first time. What have I gotten done in that timeframe? Not much!

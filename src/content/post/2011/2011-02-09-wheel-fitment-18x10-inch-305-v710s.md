@@ -1,12 +1,12 @@
 ---
-image: ~/assets/images/350z/rpf1s.jpg
+tags: [ [ 350z, nissan, setup, wheels ] ]
+author: "chris"
 publishDate: 2011-02-09T01:06:57+00:00
-title: "350z Tire/Wheel Fitment 18x10 inch 305 V710s"
-excerpt: "Read about a user's experience with Injen Systems' customer service and the resolution of an issue with Super SES exhaust for a 350z."
-author: chris
-url: '350z-tire-wheel-fitment-18x10-inch-305-v710s'
-tags:  [ 350z, nissan, setup, wheels ] 
 updateDate: 2024-11-15T12:15:17-06:00
+image: ~/assets/images/350z/rpf1s.jpg
+url: "2011/350z-tire-wheel-fitment-18x10-inch-305-v710s"
+excerpt: "Read about a user's experience with Injen Systems' customer service and the resolution of an issue with Super SES exhaust for a 350z."
+title: "350z Tire/Wheel Fitment 18x10 inch 305 V710s"
 ---
 
 This evening after work I came home and cleared out the garage so that I could get the new wheels test fitted to see what all I was going to need to do on Saturday.

@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z ] ]
+author: "chris"
 publishDate: 2010-01-23T01:20:49+00:00
-title: "And so it begins, Project350z.com now has a project"
-excerpt: "Explore the journey of trading a faulty Projectquattro.com for a 2004 Nissan 350Z Enthusiast, its features, comparisons with a 2003 model, and future..."
-url: 'and-so-it-begins-project350zcom-now-has-a-project'
-tags:  [ 350z ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2010/and-so-it-begins-project350zcom-now-has-a-project"
+excerpt: "Explore the journey of trading a faulty Projectquattro.com for a 2004 Nissan 350Z Enthusiast, its features, comparisons with a 2003 model, and future..."
+title: "And so it begins, Project350z.com now has a project"
 ---
 
 So begins the latest project, Projectquattro.com has been disposed of, after the incident a few weeks ago, where it took out a light pole, it was time for the car to go. I ended up not getting

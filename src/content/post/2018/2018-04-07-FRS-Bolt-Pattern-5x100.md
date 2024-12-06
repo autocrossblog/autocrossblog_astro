@@ -1,12 +1,11 @@
 ---
-
+tags: [ [ autocross, toyota, scion, fr-s, ssc, install, setup ] ]
+author: "chris"
 publishDate: 2018-04-07T03:10:51+00:00
-title: "FR-S Bolt Pattern 5x100"
-excerpt: "Follow the author's journey of realizing a purchasing error on car wheels, his hassle to get them replaced, and prepping for an upcoming local autocro..."
-author: chris
-url: 'frs-bolt-pattern-5x100'
-tags:  [ autocross, toyota, scion, fr-s, ssc, install, setup ] 
 updateDate: 2024-11-15T12:15:17-06:00
+url: "2018/frs-bolt-pattern-5x100"
+excerpt: "Follow the author's journey of realizing a purchasing error on car wheels, his hassle to get them replaced, and prepping for an upcoming local autocro..."
+title: "FR-S Bolt Pattern 5x100"
 ---
 
 Somehow a week ago when I ordered wheels for the FR-s I got it in my head that the bolt pattern was 5x114.3, but somehow I got it wrong (they should be 5x100)!

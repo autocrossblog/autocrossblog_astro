@@ -1,12 +1,12 @@
 ---
-image: ~/assets/images/PublishThumbnails/Windows-Live-Writer/dfc33fa77b34_14347/image_thumb.png'
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2015-11-21T00:06:29+00:00
-title: "350z and Missouri Safety and Emissions tests"
-excerpt: "Follow the journey of restoring and prepping a 2003 Nissan 350z for competitve autocrossing in SCCA's STU class. Stay tuned for updates."
-author: chris
-url: '350z-and-missouri-safety-and-emissions-tests'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-15T12:15:17-06:00
+image: ~/assets/images/PublishThumbnails/Windows-Live-Writer/dfc33fa77b34_14347/image_thumb.png
+url: "2015/350z-and-missouri-safety-and-emissions-tests"
+excerpt: "Follow the journey of restoring and prepping a 2003 Nissan 350z for competitve autocrossing in SCCA's STU class. Stay tuned for updates."
+title: "350z and Missouri Safety and Emissions tests"
 ---
 
 The car failed Missouri safety and emissions testing today. When I pulled out of the driveway this morning something happened up front, on the brakes, one of the wheels locked up, "SLIP" and "VDC" lights came on and wouldn't shut off. Restarted the car, got out, checked for anything noticeable and drove down the road to the gas station. At the station I decided to plug the OBDII scanner in and sure enough, it was throwing an ABS code.

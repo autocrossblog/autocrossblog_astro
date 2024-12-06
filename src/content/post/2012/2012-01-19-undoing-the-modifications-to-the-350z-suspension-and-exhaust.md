@@ -1,11 +1,11 @@
 ---
-author: chris
+tags: [ [ 350z, nissan ] ]
+author: "chris"
 publishDate: 2012-01-19T02:00:07+00:00
-title: "Undoing the modifications to the 350z, suspension and exhaust"
-excerpt: "Discover the process of restoring a 350z back to stock, battling stubborn parts, breaking tools, and eventually triumphing in this car repair journey."
-url: 'undoing-the-modifications-to-the-350z-suspension-and-exhaust'
-tags:  [ 350z, nissan ] 
 updateDate: 2024-11-18T10:51:34-06:00
+url: "2012/undoing-the-modifications-to-the-350z-suspension-and-exhaust"
+excerpt: "Discover the process of restoring a 350z back to stock, battling stubborn parts, breaking tools, and eventually triumphing in this car repair journey."
+title: "Undoing the modifications to the 350z, suspension and exhaust"
 ---
 
 <img style="width: 200px" alt="Project350z Garage Work" align="right" src="https://i4.ytimg.com/vi/C5CMvuvCwac/0.jpg" />
