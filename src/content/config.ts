@@ -61,6 +61,8 @@ const postCollection = defineCollection({
 
     metadata: metadataDefinition(),
     url: z.string().optional(),
+    galleryPath: z.string().optional(),
+
   }),
 });
 

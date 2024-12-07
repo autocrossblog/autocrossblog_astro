@@ -11,12 +11,14 @@ const generatePermalink = async ({
   publishDate,
   category,
   url,
+  galleryPath,
 }: {
   id: string;
   slug: string;
   publishDate: Date;
   category: string | undefined;
   url: string | undefined;
+  galleryPath: string | undefined;
 }) => {
   const year = String(publishDate.getFullYear()).padStart(4, '0');
   const month = String(publishDate.getMonth() + 1).padStart(2, '0');
@@ -60,6 +62,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     draft = false,
     metadata = {},
     url,
+    galleryPath,
   } = data;
 
   const slug = cleanSlug(rawSlug);
@@ -95,6 +98,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     Content,
     url,
     readingTime: remarkPluginFrontmatter?.readingTime,
+    galleryPath
   };
 };
 

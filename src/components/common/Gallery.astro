@@ -1,0 +1,84 @@
+---
+import fs from 'fs';
+import path from 'path';
+import exifParser from 'exif-parser';
+import PhotoSwipeInit from './PhotoSwipeInit.astro';
+
+import 'photoswipe/dist/photoswipe.css'
+
+// Props
+const { galleryPath } = Astro.props;
+
+if (!galleryPath) {
+  // throw new Error("Gallery path is required.");
+  return null;
+}
+
+const imagesDirectory = path.resolve('.' + galleryPath);
+
+// Read images and metadata
+let imageFiles = [];
+try {
+  imageFiles = fs
+    .readdirSync(imagesDirectory)
+    .filter((file) => /\.(jpg|jpeg|png|webp)$/i.test(file));
+} catch (err) {
+  console.error(`Error reading directory: ${imagesDirectory}`, err);
+}
+
+const imagesWithMetadata = imageFiles.map((file) => {
+  const imagePath = `${galleryPath}/${file}`;
+  const buffer = fs.readFileSync(path.resolve('.' + imagePath));
+  const exif = exifParser.create(buffer).parse();
+
+  return {
+    src: imagePath,
+    alt: exif.description || `Image ${file}`, // Use EXIF description if available
+    width: exif.tags.ImageWidth || 800, // Fallback width
+    height: exif.tags.ImageHeight || 600, // Fallback height
+  };
+});
+---
+
+
+<div class="gallery">
+  {imagesWithMetadata.map((image, index) => (
+
+    <div class="gallery-item">
+    <a
+      href={image.src}
+      data-pswp-width={image.width}
+      data-pswp-height={image.height}
+      data-pswp-src={image.src}
+      data-index={index}
+      key={index}
+    >
+        <img src={image.src} alt={image.alt} width={200} height="auto" loading="lazy" />
+    </a>
+    <p class="gallery-caption">{image.alt}</p>
+    </div>
+
+
+  ))}
+</div>
+
+<!-- PhotoSwipe Root -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="pswp__bg"></div>
+  <div class="pswp__scroll-wrap">
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    <div class="pswp__ui pswp__ui--hidden">
+      <div class="pswp__top-bar">
+        <button type="button" class="pswp__button pswp__button--close" aria-label="Close"></button>
+        <button type="button" class="pswp__button pswp__button--zoom" aria-label="Zoom"></button>
+        <div class="pswp__counter"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<PhotoSwipeInit />

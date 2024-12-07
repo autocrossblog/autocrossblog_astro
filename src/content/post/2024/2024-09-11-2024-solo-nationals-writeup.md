@@ -9,12 +9,11 @@ keywords: scca, lincoln, national championships, solo nationals
 url: "2024/2024-solo-nationals"
 excerpt: "Let's talk about a week in Lincoln Nebraska"
 title: "2024 Solo National Championships Writeup"
+galleryPath: "/src/assets/images/2024/August/MuseumOfSpeed"
+
 ---
 
 A month late, it's time to blog about the 2024 Tire Rack SCCA Solo National Championships...
-
-<link href="/assets/css/lightbox.min.css" rel="stylesheet" />
-<script src="/assets/js/lightbox-plus-jquery.min.js"></script>
 
 Why did this post take so long? Well immediately after Nationals I got home and continued to work on photos from my RainbowMarks Photography business. It was a good week in Lincoln, I took something like 28k photos and posted a large number of those online for the world to see (and buy).
 
@@ -39,80 +38,7 @@ Saturday evening the CAM Competitors were invited to the Museum of Speed from Sp
 
 Here are some photos I took on my phone at the Museum after the dinner and awards ceremony. 
 
-<style>
-  .gallery img {
-    float: left;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    max-width: 200px; /* You can adjust the width as needed */
-  }
-</style>
-
-<div class="gallery">
-  <a href="/src/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-1.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed out front">
-    <img src="/src/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-1.jpg" alt="Speedway Motors Museum of Speed out front" title="Speedway Motors Museum of Speed out front">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-2.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Randol Offy">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-2.jpg" alt="Speedway Motors Museum of Speed Randol Offy" title="Speedway Motors Museum of Speed Randol Offy">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-3.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Unser Pikes Peak">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-3.jpg" alt="Speedway Motors Museum of Speed Unser Pikes Peak" title="Speedway Motors Museum of Speed Unser Pikes Peak">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-4.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Guitars">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-4.jpg" alt="Speedway Motors Museum of Speed Guitars" title="Speedway Motors Museum of Speed Guitars">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-5.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Indian and Yale motor bikes on wooden track">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-5.jpg" alt="Speedway Motors Museum of Speed Indian and Yale motor bikes on wooden track" title="Speedway Motors Museum of Speed Indian and Yale motor bikes on wooden track">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-6.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed intake manifolds">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-6.jpg" alt="Speedway Motors Museum of Speed intake manifolds" title="Speedway Motors Museum of Speed intake manifolds">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-7.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed toy car rideables">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-7.jpg" alt="Speedway Motors Museum of Speed toy car rideables" title="Speedway Motors Museum of Speed toy car rideables">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-8.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed room of toy cars">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-8.jpg" alt="Speedway Motors Museum of Speed room of toy cars" title="Speedway Motors Museum of Speed room of toy cars">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-9.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed room of bicycles">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-9.jpg" alt="Speedway Motors Museum of Speed room of bicycles" title="Speedway Motors Museum of Speed room of bicycles">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-10.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed bmx bicycle">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-10.jpg" alt="Speedway Motors Museum of Speed bmx bicycle" title="Speedway Motors Museum of Speed bmx bicycle">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-11.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed bicycles">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-11.jpg" alt="Speedway Motors Museum of Speed bicycles" title="Speedway Motors Museum of Speed bicycles">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-12.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Spike Jones Special">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-12.jpg" alt="Speedway Motors Museum of Speed spike jones special" title="Speedway Motors Museum of Speed spike jones special">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-13.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Kurt Russell and family">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-13.jpg" alt="Speedway Motors Museum of Speed Kurt Russell and family" title="Speedway Motors Museum of Speed Kurt Russell and family">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-14.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed Riverside Special">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-14.jpg" alt="Speedway Motors Museum of Speed Riverside Special" title="Speedway Motors Museum of Speed Riverside Special">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-15.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed moonbeam and other lights">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-15.jpg" alt="Speedway Motors Museum of Speed moonbeam and other lights" title="Speedway Motors Museum of Speed moonbeam and other lights">
-  </a>
-  
-  <a href="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-16.jpg" data-lightbox="museum" data-title="Speedway Motors Museum of Speed REO">
-    <img src="/assets/images/2024/August/MuseumOfSpeed/MuseumOfSpeed-16.jpg" alt="Speedway Motors Museum of Speed REO" title="Speedway Motors Museum of Speed REO">
-  </a>
-</div>
+## Gallery Page
 
 ## Tuesday and Wednesday competition at the Solo Nationals
 CAM-C ran on Tuesday/Wednesday of the week of Nationals, late in the day. So we had plenty of time to get course walks in. I actually didn't walk as much this year as I have in the past, I managed 3 walks of our first course on Monday I believe, along with 2 walks early Tuesday morning. Tuesday evening I walked day 2's course twice and then repeated that again Wednesday morning.

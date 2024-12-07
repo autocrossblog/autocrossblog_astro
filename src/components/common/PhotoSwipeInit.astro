@@ -1,0 +1,21 @@
+---
+// Astro Frontmatter (if required)
+---
+
+<script>
+  import PhotoSwipeLightbox from 'photoswipe/lightbox';
+  import 'photoswipe/style.css';
+
+  // Initialize PhotoSwipe
+  window.initPhotoSwipe = () => {
+    const lightbox = new PhotoSwipeLightbox({
+      gallery: '.gallery',
+      children: 'a',
+      pswpModule: () => import('photoswipe'),
+    });
+    lightbox.init();
+  };
+
+  // Call it immediately if you want it to auto-initialize
+  window.initPhotoSwipe();
+</script>

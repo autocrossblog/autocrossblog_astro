@@ -47,6 +47,8 @@ export interface Post {
 
   /**  */
   readingTime?: number;
+
+  galleryPath?: string;
 }
 
 export interface Taxonomy {
