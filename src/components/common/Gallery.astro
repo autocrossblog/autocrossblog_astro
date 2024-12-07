@@ -4,62 +4,67 @@ import path from 'path';
 import exifParser from 'exif-parser';
 import PhotoSwipeInit from './PhotoSwipeInit.astro';
 
-import 'photoswipe/dist/photoswipe.css'
+import 'photoswipe/dist/photoswipe.css';
 
 // Props
 const { galleryPath } = Astro.props;
 
+// Handle missing galleryPath gracefully
 if (!galleryPath) {
-  // throw new Error("Gallery path is required.");
   return null;
 }
 
+// Resolve the directory path
 const imagesDirectory = path.resolve('.' + galleryPath);
 
-// Read images and metadata
-let imageFiles = [];
+// Read images and extract metadata
+let imagesWithMetadata = [];
 try {
-  imageFiles = fs
+  const imageFiles = fs
     .readdirSync(imagesDirectory)
     .filter((file) => /\.(jpg|jpeg|png|webp)$/i.test(file));
+
+  imagesWithMetadata = imageFiles.map((file) => {
+    const imagePath = `${galleryPath}/${file}`;
+    const buffer = fs.readFileSync(path.resolve('.' + imagePath));
+    const exif = exifParser.create(buffer).parse();
+
+    return {
+      src: imagePath,
+      alt: exif.description || `Image ${file}`, // Use EXIF description or fallback
+      width: exif.tags.ImageWidth || 1600, // Fallback width
+      height: exif.tags.ImageHeight || 1200, // Fallback height
+    };
+  });
 } catch (err) {
   console.error(`Error reading directory: ${imagesDirectory}`, err);
 }
-
-const imagesWithMetadata = imageFiles.map((file) => {
-  const imagePath = `${galleryPath}/${file}`;
-  const buffer = fs.readFileSync(path.resolve('.' + imagePath));
-  const exif = exifParser.create(buffer).parse();
-
-  return {
-    src: imagePath,
-    alt: exif.description || `Image ${file}`, // Use EXIF description if available
-    width: exif.tags.ImageWidth || 800, // Fallback width
-    height: exif.tags.ImageHeight || 600, // Fallback height
-  };
-});
 ---
 
-
 <div class="gallery">
-  {imagesWithMetadata.map((image, index) => (
-
-    <div class="gallery-item">
-    <a
-      href={image.src}
-      data-pswp-width={image.width}
-      data-pswp-height={image.height}
-      data-pswp-src={image.src}
-      data-index={index}
-      key={index}
-    >
-        <img src={image.src} alt={image.alt} width={200} height="auto" loading="lazy" />
-    </a>
-    <p class="gallery-caption">{image.alt}</p>
-    </div>
-
-
-  ))}
+  {imagesWithMetadata.length > 0 ? (
+    imagesWithMetadata.map((image, index) => (
+      <div class="gallery-item" key={index}>
+        <a
+          href={image.src}
+          data-pswp-width={image.width}
+          data-pswp-height={image.height}
+          data-pswp-src={image.src}
+          data-index={index}
+        >
+          <img
+            src={image.src}
+            alt={image.alt}
+            style={{ maxWidth: '100%', maxHeight: '300px', objectFit: 'contain' }}
+            loading="lazy"
+          />
+        </a>
+        <p class="gallery-caption">{image.alt}</p>
+      </div>
+    ))
+  ) : (
+    <p>No images available for the gallery.</p>
+  )}
 </div>
 
 <!-- PhotoSwipe Root -->
@@ -77,6 +82,7 @@ const imagesWithMetadata = imageFiles.map((file) => {
         <button type="button" class="pswp__button pswp__button--zoom" aria-label="Zoom"></button>
         <div class="pswp__counter"></div>
       </div>
+      
     </div>
   </div>
 </div>
