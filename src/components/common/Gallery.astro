@@ -3,21 +3,18 @@ import fs from 'fs';
 import path from 'path';
 import exifParser from 'exif-parser';
 import PhotoSwipeInit from './PhotoSwipeInit.astro';
-
 import 'photoswipe/dist/photoswipe.css';
 
 // Props
 const { galleryPath } = Astro.props;
 
-// Handle missing galleryPath gracefully
 if (!galleryPath) {
   return null;
 }
 
-// Resolve the directory path
 const imagesDirectory = path.resolve('.' + galleryPath);
+const importedImages = import.meta.glob('/src/assets/images/**/*.{jpg,jpeg,png,webp}', { eager: true });
 
-// Read images and extract metadata
 let imagesWithMetadata = [];
 try {
   const imageFiles = fs
@@ -26,19 +23,28 @@ try {
 
   imagesWithMetadata = imageFiles.map((file) => {
     const imagePath = `${galleryPath}/${file}`;
+    const importedImage = importedImages[imagePath];
+
+    if (!importedImage) {
+      console.error(`Failed to import image: ${imagePath}`);
+      return null;
+    }
+
     const buffer = fs.readFileSync(path.resolve('.' + imagePath));
     const exif = exifParser.create(buffer).parse();
 
     return {
-      src: imagePath,
-      alt: exif.description || `Image ${file}`, // Use EXIF description or fallback
-      width: exif.tags.ImageWidth || 1600, // Fallback width
-      height: exif.tags.ImageHeight || 1200, // Fallback height
+      src: importedImage.default.src, // Access the correct `src`
+      width: importedImage.default.width, // Access the correct `width`
+      height: importedImage.default.height, // Access the correct `height`
+      alt: exif.tags.ImageDescription || `Image ${file}`,
     };
-  });
+  }).filter(Boolean);
 } catch (err) {
   console.error(`Error reading directory: ${imagesDirectory}`, err);
 }
+
+//console.log(imagesWithMetadata);
 ---
 
 <div class="gallery">
@@ -49,13 +55,16 @@ try {
           href={image.src}
           data-pswp-width={image.width}
           data-pswp-height={image.height}
-          data-pswp-src={image.src}
           data-index={index}
         >
           <img
             src={image.src}
             alt={image.alt}
-            style={{ maxWidth: '100%', maxHeight: '300px', objectFit: 'contain' }}
+            width={image.width}
+            height={image.height}
+            srcset={`${image.src}?w=320&h=240 320w, ${image.src}?w=640&h=480 640w, ${image.src}?w=1280&h=960 1280w`}
+            sizes="(max-width: 768px) 90vw, (max-width: 1200px) 50vw, 30vw"
+            style={{ maxWidth: '100%', objectFit: 'contain' }}
             loading="lazy"
           />
         </a>
@@ -82,7 +91,6 @@ try {
         <button type="button" class="pswp__button pswp__button--zoom" aria-label="Zoom"></button>
         <div class="pswp__counter"></div>
       </div>
-      
     </div>
   </div>
 </div>

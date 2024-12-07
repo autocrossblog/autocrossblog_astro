@@ -1,7 +1,6 @@
 ---
+// Astro Frontmatter (if required)
 ---
-
-// Astro component script
 <script>
   import PhotoSwipeLightbox from 'photoswipe/lightbox';
   import 'photoswipe/style.css';
@@ -10,7 +9,6 @@
     return window.matchMedia('(max-width: 600px) and (orientation: portrait)').matches;
   }
 
-  // Initialize PhotoSwipe
   window.initPhotoSwipe = () => {
     const lightbox = new PhotoSwipeLightbox({
       gallery: '.gallery',
@@ -34,7 +32,6 @@
 
     // Add captions to PhotoSwipe
     lightbox.on('uiRegister', () => {
-      // Register a custom caption element
       lightbox.pswp.ui.registerElement({
         name: 'custom-caption',
         className: 'pswp__custom-caption',
@@ -42,19 +39,17 @@
         html: '', // Placeholder for caption content
         onInit: (el, pswp) => {
           pswp.on('change', () => {
-            const currSlideElement = pswp.currSlide.data.element;
+            const currSlideElement = pswp.currSlide?.data?.element;
 
-            // Extract caption from the current slide
-            let captionHTML = '';
+            let captionHTML = 'No caption available'; // Default fallback caption
             if (currSlideElement) {
               const hiddenCaption = currSlideElement.querySelector('.gallery-caption');
               if (hiddenCaption) {
-                captionHTML = hiddenCaption.innerHTML; // Use caption text if available
+                captionHTML = hiddenCaption.innerHTML;
               } else {
-                // Fallback to the alt attribute of the image
                 const img = currSlideElement.querySelector('img');
                 if (img) {
-                  captionHTML = img.getAttribute('alt') || 'No caption available';
+                  captionHTML = img.getAttribute('alt') || captionHTML;
                 }
               }
             }
@@ -69,22 +64,6 @@
     lightbox.init();
   };
 
-  // Auto-initialize PhotoSwipe on page load
   window.initPhotoSwipe();
 </script>
 
-<style>
-  .pswp__custom-caption {
-    position: absolute;
-    bottom: 20px;
-    left: 0;
-    right: 0;
-    padding: 10px auto;
-    color: #fff;
-    background: rgba(0, 0, 0, 0.6);
-    text-align: center;
-    font-size: 14px;
-    z-index: 10;
-    line-height: 1.4;
-  }
-</style>
