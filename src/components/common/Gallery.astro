@@ -3,8 +3,8 @@ import fs from 'fs';
 import path from 'path';
 import exifParser from 'exif-parser';
 import PhotoSwipeInit from './PhotoSwipeInit.astro';
-import { getImage } from 'astro:assets';
 import 'photoswipe/dist/photoswipe.css';
+import { generateGalleryImages, findImage } from '~/utils/images';
 
 // Props
 const { galleryPath } = Astro.props;
@@ -22,6 +22,8 @@ try {
     .readdirSync(imagesDirectory)
     .filter((file) => /\.(jpg|jpeg|png|webp)$/i.test(file));
 
+    //console.log('Processing imagePath:', imagesDirectory);
+    //console.log('Processing files:', imageFiles);
   imagesWithMetadata = await Promise.all(
     imageFiles.map(async (file) => {
       const imagePath = `${galleryPath}/${file}`;
@@ -35,47 +37,40 @@ try {
       const buffer = fs.readFileSync(path.resolve('.' + imagePath));
       const exif = exifParser.create(buffer).parse();
 
-      // Generate multiple sizes
-      const thumbnail = await getImage({ src: imagePath, width: 200, height: 200, format: 'webp' });
-      const fullImage1 = await getImage({ src: imagePath, width: 400, height: 266, format: 'webp' });
-      const fullImage2 = await getImage({ src: imagePath, width: 800, height: 533, format: 'webp' });
-      const fullImage3 = await getImage({ src: imagePath, width: 1600, height: 1066, format: 'webp' });
-      const fullImage4 = await getImage({ src: imagePath, width: 2000, height: 1333, format: 'webp' });
+      // Use generateGalleryImages for responsive sizes
+      const galleryImages = await generateGalleryImages([imagePath]);
+
+      // Extract the largest size for full display
+      const fullImage = galleryImages[galleryImages.length - 1];
+      const srcset = galleryImages.map((img) => `${img.url} ${img.width}w`).join(', ');
 
       return {
-        thumbnail: {
-          src: thumbnail.src,
-          width: thumbnail.width,
-          height: thumbnail.height,
-        },
+        thumbnail: galleryImages[0], // Smallest size for thumbnail
         fullImage: {
-          src: fullImage4.src,
-          width: fullImage4.width,
-          height: fullImage4.height,
-          srcset: `${fullImage1.src} 400w, ${fullImage2.src} 800w, ${fullImage3.src} 1600w, ${fullImage4.src} 2000w`,
+          ...fullImage,
+          srcset,
         },
         alt: exif.tags.ImageDescription || `Image ${file}`,
       };
     })
   );
 } catch (err) {
-  console.error(`Error reading directory: ${imagesDirectory}`, err);
+  console.error(`Error loading gallery: ${imagesDirectory}`, err);
 }
 ---
-
 <div class="gallery">
   {imagesWithMetadata.length > 0 ? (
     imagesWithMetadata.map((image, index) => (
       <div class="gallery-item" key={index}>
         <a
-          href={image.fullImage.src}
+          href={image.fullImage.url}
           data-pswp-width={image.fullImage.width}
           data-pswp-height={image.fullImage.height}
-          data-srcset={image.fullImage.srcset} 
+          data-srcset={image.fullImage.srcset}
           data-index={index}
         >
           <img
-            src={image.thumbnail.src}
+            src={image.thumbnail.url}
             alt={image.alt || 'Image'}
             width={image.thumbnail.width}
             height={image.thumbnail.height}

@@ -1,6 +1,5 @@
 ---
 tags: [ autocross, fr-s, ssc, setup, accident, supplies, gear, st.louis ]
-featured: false
 author: "chris"
 publishDate: 2023-01-24T11:00:15+00:00
 updateDate: 2024-10-09T13:21:54-05:00

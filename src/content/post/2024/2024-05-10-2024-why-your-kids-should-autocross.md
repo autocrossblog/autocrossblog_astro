@@ -1,6 +1,5 @@
 ---
 tags: [ autocross, family, education, teens ]
-featured: false
 author: "chris"
 publishDate: 2024-05-10T12:00:15+00:00
 updateDate: 2024-10-09T13:21:54-05:00

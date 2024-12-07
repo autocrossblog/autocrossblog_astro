@@ -1,6 +1,5 @@
 ---
 tags: [ autocross, nationaltour, national-tour, scca, mustang, friends, st.louis, local, cam ]
-featured: false
 author: "chris"
 publishDate: 2024-05-08T10:00:15+00:00
 updateDate: 2024-11-18T08:39:29-06:00

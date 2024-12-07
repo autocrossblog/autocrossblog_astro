@@ -1,6 +1,5 @@
 ---
 tags: [ autocross, fr-s, ssc, setup, accident, specfrs ]
-featured: false
 author: "chris"
 publishDate: 2022-03-14T10:30:15+00:00
 updateDate: 2024-11-15T12:15:17-06:00

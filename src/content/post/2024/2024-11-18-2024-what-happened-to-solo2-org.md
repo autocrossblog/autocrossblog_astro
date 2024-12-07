@@ -1,6 +1,5 @@
 ---
 url: '2024/solo2-org'
-featured: true
 image: ~/assets/images/2024/November/solo2-org.webp
 # last_modified_at: ''2024-07-08T16:50:08+00:00''
 author: chris

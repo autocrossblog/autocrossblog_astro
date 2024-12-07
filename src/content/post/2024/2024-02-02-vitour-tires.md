@@ -1,6 +1,5 @@
 ---
 tags: [ autocross, tires ]
-featured: false
 author: "chris"
 publishDate: 2024-02-02T00:00:15+00:00
 updateDate: 2024-10-09T13:21:54-05:00

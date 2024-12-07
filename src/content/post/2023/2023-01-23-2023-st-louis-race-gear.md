@@ -1,6 +1,5 @@
 ---
 tags: [ gear, supplies ]
-featured: false
 author: "chris"
 publishDate: 2023-01-23T10:29:20+00:00
 updateDate: 2024-10-09T13:21:54-05:00

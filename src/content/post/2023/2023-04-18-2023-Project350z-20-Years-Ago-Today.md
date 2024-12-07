@@ -1,6 +1,5 @@
 ---
 tags: [ 350z ]
-featured: false
 author: "chris"
 publishDate: 2023-04-18T10:00:20+00:00
 updateDate: 2024-11-15T12:19:51-06:00

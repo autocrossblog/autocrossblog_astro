@@ -1,6 +1,5 @@
 ---
 tags: [ 240z, datsun ]
-featured: false
 author: "chris"
 publishDate: 2020-06-23T15:21:04+00:00
 updateDate: 2024-07-01T11:50:00-05:00
