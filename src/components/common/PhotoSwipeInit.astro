@@ -1,6 +1,7 @@
 ---
 // Astro Frontmatter (if required)
 ---
+---
 <script>
   import PhotoSwipeLightbox from 'photoswipe/lightbox';
   import 'photoswipe/style.css';
@@ -14,51 +15,48 @@
       gallery: '.gallery',
       children: 'a',
       initialZoomLevel: (zoomLevelObject) => {
-        if (isPhonePortrait()) {
-          return zoomLevelObject.vFill;
-        } else {
-          return zoomLevelObject.fit;
-        }
+        return isPhonePortrait() ? zoomLevelObject.vFill : zoomLevelObject.fit;
       },
       secondaryZoomLevel: (zoomLevelObject) => {
-        if (isPhonePortrait()) {
-          return zoomLevelObject.fit;
-        } else {
-          return 1;
-        }
+        return isPhonePortrait() ? zoomLevelObject.fit : 1;
       },
       pswpModule: () => import('photoswipe'),
     });
 
-    // Add captions to PhotoSwipe
+    // Add captions
     lightbox.on('uiRegister', () => {
       lightbox.pswp.ui.registerElement({
         name: 'custom-caption',
         className: 'pswp__custom-caption',
         appendTo: 'wrapper',
-        html: '', // Placeholder for caption content
+        html: '', // Placeholder for captions
         onInit: (el, pswp) => {
           pswp.on('change', () => {
             const currSlideElement = pswp.currSlide?.data?.element;
 
-            let captionHTML = 'No caption available'; // Default fallback caption
+            let captionHTML = 'No caption available';
             if (currSlideElement) {
               const hiddenCaption = currSlideElement.querySelector('.gallery-caption');
-              if (hiddenCaption) {
-                captionHTML = hiddenCaption.innerHTML;
-              } else {
-                const img = currSlideElement.querySelector('img');
-                if (img) {
-                  captionHTML = img.getAttribute('alt') || captionHTML;
-                }
-              }
+              captionHTML = hiddenCaption ? hiddenCaption.innerHTML : captionHTML;
             }
 
-            // Update the custom caption element
             el.innerHTML = captionHTML;
           });
         },
       });
+    });
+
+    // Handle `srcset` for responsive images
+    lightbox.on('contentLoad', (e) => {
+      const slide = e.slide;
+      const srcset = slide.data.element?.getAttribute('data-srcset');
+      if (srcset) {
+        const img = slide.container.querySelector('img');
+        if (img) {
+          img.setAttribute('srcset', srcset);
+          img.setAttribute('sizes', '(max-width: 768px) 90vw, (max-width: 1200px) 50vw, 30vw');
+        }
+      }
     });
 
     lightbox.init();
@@ -66,4 +64,3 @@
 
   window.initPhotoSwipe();
 </script>
-

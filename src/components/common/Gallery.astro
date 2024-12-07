@@ -13,7 +13,6 @@ if (!galleryPath) {
   return null;
 }
 
-// Resolve directory path
 const imagesDirectory = path.resolve('.' + galleryPath);
 const importedImages = import.meta.glob('/src/assets/images/**/*.{jpg,jpeg,png,webp}', { eager: true });
 
@@ -23,7 +22,6 @@ try {
     .readdirSync(imagesDirectory)
     .filter((file) => /\.(jpg|jpeg|png|webp)$/i.test(file));
 
-  // Generate multiple sizes for each image
   imagesWithMetadata = await Promise.all(
     imageFiles.map(async (file) => {
       const imagePath = `${galleryPath}/${file}`;
@@ -37,25 +35,24 @@ try {
       const buffer = fs.readFileSync(path.resolve('.' + imagePath));
       const exif = exifParser.create(buffer).parse();
 
-      // Generate thumbnail and full-sized images
-      const thumbnail = await getImage({ src: imagePath, width: 300, height: 200 });
-      const thumbnailSrcSet = `${thumbnail.src}?w=150&h=100 150w, ${thumbnail.src}?w=300&h=200 300w, ${thumbnail.src}?w=600&h=400 600w`;
-
-      const fullImage = await getImage({ src: imagePath, width: 1280, height: 960 });
-      const fullSrcSet = `${fullImage.src}?w=640&h=480 640w, ${fullImage.src}?w=1280&h=960 1280w, ${fullImage.src}?w=1920&h=1440 1920w`;
+      // Generate multiple sizes
+      const thumbnail = await getImage({ src: imagePath, width: 200, height: 200, format: 'webp' });
+      const fullImage1 = await getImage({ src: imagePath, width: 400, height: 266, format: 'webp' });
+      const fullImage2 = await getImage({ src: imagePath, width: 800, height: 533, format: 'webp' });
+      const fullImage3 = await getImage({ src: imagePath, width: 1600, height: 1066, format: 'webp' });
+      const fullImage4 = await getImage({ src: imagePath, width: 2000, height: 1333, format: 'webp' });
 
       return {
         thumbnail: {
           src: thumbnail.src,
-          srcset: thumbnailSrcSet,
           width: thumbnail.width,
           height: thumbnail.height,
         },
         fullImage: {
-          src: fullImage.src,
-          srcset: fullSrcSet,
-          width: fullImage.width,
-          height: fullImage.height,
+          src: fullImage4.src,
+          width: fullImage4.width,
+          height: fullImage4.height,
+          srcset: `${fullImage1.src} 400w, ${fullImage2.src} 800w, ${fullImage3.src} 1600w, ${fullImage4.src} 2000w`,
         },
         alt: exif.tags.ImageDescription || `Image ${file}`,
       };
@@ -64,7 +61,6 @@ try {
 } catch (err) {
   console.error(`Error reading directory: ${imagesDirectory}`, err);
 }
-
 ---
 
 <div class="gallery">
@@ -75,20 +71,19 @@ try {
           href={image.fullImage.src}
           data-pswp-width={image.fullImage.width}
           data-pswp-height={image.fullImage.height}
+          data-srcset={image.fullImage.srcset} 
           data-index={index}
         >
           <img
             src={image.thumbnail.src}
-            srcset={image.thumbnail.srcset}
-            sizes="(max-width: 768px) 90vw, (max-width: 1200px) 50vw, 30vw"
-            alt={image.alt}
+            alt={image.alt || 'Image'}
             width={image.thumbnail.width}
             height={image.thumbnail.height}
             style={{ maxWidth: '100%', objectFit: 'cover' }}
             loading="lazy"
           />
         </a>
-        <p class="gallery-caption">{image.alt}</p>
+        <p class="gallery-caption">{image.alt || 'No caption available'}</p>
       </div>
     ))
   ) : (

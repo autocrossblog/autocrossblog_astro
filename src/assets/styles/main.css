@@ -39,6 +39,7 @@
   line-height: 1.5;
 }
 
+
 @media (max-width: 600px) {
   .pswp__custom-caption {
     font-size: 12px;
