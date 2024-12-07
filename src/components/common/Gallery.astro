@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import exifParser from 'exif-parser';
 import PhotoSwipeInit from './PhotoSwipeInit.astro';
+import { getImage } from 'astro:assets';
 import 'photoswipe/dist/photoswipe.css';
 
 // Props
@@ -12,6 +13,7 @@ if (!galleryPath) {
   return null;
 }
 
+// Resolve directory path
 const imagesDirectory = path.resolve('.' + galleryPath);
 const importedImages = import.meta.glob('/src/assets/images/**/*.{jpg,jpeg,png,webp}', { eager: true });
 
@@ -21,30 +23,48 @@ try {
     .readdirSync(imagesDirectory)
     .filter((file) => /\.(jpg|jpeg|png|webp)$/i.test(file));
 
-  imagesWithMetadata = imageFiles.map((file) => {
-    const imagePath = `${galleryPath}/${file}`;
-    const importedImage = importedImages[imagePath];
+  // Generate multiple sizes for each image
+  imagesWithMetadata = await Promise.all(
+    imageFiles.map(async (file) => {
+      const imagePath = `${galleryPath}/${file}`;
+      const importedImage = importedImages[imagePath];
 
-    if (!importedImage) {
-      console.error(`Failed to import image: ${imagePath}`);
-      return null;
-    }
+      if (!importedImage) {
+        console.error(`Failed to import image: ${imagePath}`);
+        return null;
+      }
 
-    const buffer = fs.readFileSync(path.resolve('.' + imagePath));
-    const exif = exifParser.create(buffer).parse();
+      const buffer = fs.readFileSync(path.resolve('.' + imagePath));
+      const exif = exifParser.create(buffer).parse();
 
-    return {
-      src: importedImage.default.src, // Access the correct `src`
-      width: importedImage.default.width, // Access the correct `width`
-      height: importedImage.default.height, // Access the correct `height`
-      alt: exif.tags.ImageDescription || `Image ${file}`,
-    };
-  }).filter(Boolean);
+      // Generate thumbnail and full-sized images
+      const thumbnail = await getImage({ src: imagePath, width: 300, height: 200 });
+      const thumbnailSrcSet = `${thumbnail.src}?w=150&h=100 150w, ${thumbnail.src}?w=300&h=200 300w, ${thumbnail.src}?w=600&h=400 600w`;
+
+      const fullImage = await getImage({ src: imagePath, width: 1280, height: 960 });
+      const fullSrcSet = `${fullImage.src}?w=640&h=480 640w, ${fullImage.src}?w=1280&h=960 1280w, ${fullImage.src}?w=1920&h=1440 1920w`;
+
+      return {
+        thumbnail: {
+          src: thumbnail.src,
+          srcset: thumbnailSrcSet,
+          width: thumbnail.width,
+          height: thumbnail.height,
+        },
+        fullImage: {
+          src: fullImage.src,
+          srcset: fullSrcSet,
+          width: fullImage.width,
+          height: fullImage.height,
+        },
+        alt: exif.tags.ImageDescription || `Image ${file}`,
+      };
+    })
+  );
 } catch (err) {
   console.error(`Error reading directory: ${imagesDirectory}`, err);
 }
 
-//console.log(imagesWithMetadata);
 ---
 
 <div class="gallery">
@@ -52,19 +72,19 @@ try {
     imagesWithMetadata.map((image, index) => (
       <div class="gallery-item" key={index}>
         <a
-          href={image.src}
-          data-pswp-width={image.width}
-          data-pswp-height={image.height}
+          href={image.fullImage.src}
+          data-pswp-width={image.fullImage.width}
+          data-pswp-height={image.fullImage.height}
           data-index={index}
         >
           <img
-            src={image.src}
-            alt={image.alt}
-            width={image.width}
-            height={image.height}
-            srcset={`${image.src}?w=320&h=240 320w, ${image.src}?w=640&h=480 640w, ${image.src}?w=1280&h=960 1280w`}
+            src={image.thumbnail.src}
+            srcset={image.thumbnail.srcset}
             sizes="(max-width: 768px) 90vw, (max-width: 1200px) 50vw, 30vw"
-            style={{ maxWidth: '100%', objectFit: 'contain' }}
+            alt={image.alt}
+            width={image.thumbnail.width}
+            height={image.thumbnail.height}
+            style={{ maxWidth: '100%', objectFit: 'cover' }}
             loading="lazy"
           />
         </a>
