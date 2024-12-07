@@ -36,9 +36,7 @@ Saturday over on what was partially the pracitce course for the week was the CAM
 ## Museum of Speed 
 Saturday evening the CAM Competitors were invited to the Museum of Speed from Speedway Motors, which if you've never visited is a must see in Lincoln Nebraska. It had been years (12?) since I had stepped through the doors there, I was glad that I did this year and spent some time walking around. 
 
-Here are some photos I took on my phone at the Museum after the dinner and awards ceremony. 
-
-## Gallery Page
+At the bottom of this post there are some photos I took on my phone at the Museum after the dinner and awards ceremony. 
 
 ## Tuesday and Wednesday competition at the Solo Nationals
 CAM-C ran on Tuesday/Wednesday of the week of Nationals, late in the day. So we had plenty of time to get course walks in. I actually didn't walk as much this year as I have in the past, I managed 3 walks of our first course on Monday I believe, along with 2 walks early Tuesday morning. Tuesday evening I walked day 2's course twice and then repeated that again Wednesday morning.
