@@ -8,6 +8,6 @@ excerpt: "I'm sorry, but you didn't provide any specific details about the blog 
 title: "A weekend of working on the 240Z coming up"
 ---
 
-If you’re bored this weekend give me a ring! I’m going to spend this weekend getting the motor into the 240Z, and depending on how fast that progresses maybe even get the fuel and electronics hooked up to it and attempt to start it! 
+If you're bored this weekend give me a ring! I'm going to spend this weekend getting the motor into the 240Z, and depending on how fast that progresses maybe even get the fuel and electronics hooked up to it and attempt to start it! 
 
 Interested? :D I could use all the help I can get.

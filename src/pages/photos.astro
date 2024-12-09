@@ -1,0 +1,118 @@
+---
+import Hero from '~/components/widgets/Hero.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import Layout from '~/layouts/PageLayout.astro';
+import Steps2 from '~/components/widgets/Steps2.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+
+const metadata = {
+  title: 'Autocross Photos',
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    tagline="Autocross Photos"
+    image={{
+      src: '~/assets/images/About-1.jpg',
+      alt: 'Chris Hammond photographing cars at an autocross event',
+    }}
+  >
+    <Fragment slot="title">
+      Capturing the spirit of 
+      <span class="text-accent dark:text-white highlight">Autocross</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      Explore the world of autocross through the lens of 
+      <span class="text-accent dark:text-white highlight">Chris Hammond</span>. High-octane action, precision driving, and stunning cars—documented one shot at a time.
+    </Fragment>
+  </Hero>
+
+  <!-- Stats Widget ****************** -->
+
+  <Stats
+    title="Photo Stats"
+    stats={[
+      { title: 'Events Covered', amount: '150+' },
+      { title: 'Photos Captured', amount: '50,000+' },
+      { title: 'Featured in Publications', amount: '5+' },
+      { title: 'Years Documenting', amount: '25' },
+    ]}
+  />
+
+  <!-- Features3 Widget ************** -->
+
+  <Features3
+    title="Our story through photos"
+    subtitle="How it all began"
+    columns={3}
+    isBeforeContent={true}
+    items={[
+      {
+        title: 'A Love for Cars',
+        description:
+          'Photography started as a hobby, capturing the beauty and movement of cars. It quickly became a passion, especially at autocross events where every car tells a story.',
+        icon: 'tabler:camera',
+      },
+      {
+        title: 'First Autocross Photos',
+        description:
+          'The first event I documented was in April 2000. Armed with a basic camera, I fell in love with capturing the raw energy of autocross competitions.',
+        icon: 'tabler:photo',
+      },
+      {
+        title: 'Upgrading the Gear',
+        description:
+          'Over the years, I invested in better photography equipment, enabling me to freeze moments of precision driving and showcase the vibrant culture of autocross.',
+        icon: 'tabler:tools',
+      },
+      {
+        title: 'Showcasing Drivers',
+        description:
+          'Every photo highlights the skill and dedication of drivers. From novices to seasoned competitors, my goal is to shine a spotlight on their achievements.',
+        icon: 'tabler:users',
+      },
+      {
+        title: 'Building a Library',
+        description:
+          'AutocrossBlog now houses thousands of photos, creating a rich archive of moments that define the sport. Each image is a slice of history.',
+        icon: 'tabler:archive',
+      },
+    ]}
+  />
+
+  <!-- Steps2 Widget ****************** -->
+
+  <Steps2
+    title="Achievements"
+    subtitle="Recognizing the impact of photography in the world of autocross."
+    isReversed={true}
+    callToAction={{
+      text: 'View the Galleries',
+      href: 'https://photos.rainbowmarks.com/keyword/n-hzVzx7/autocross',
+    }}
+    items={[
+      {
+        title: 'Event Coverage',
+        description:
+          'Captured stunning images from national championships and regional autocross events.',
+        icon: 'tabler:camera',
+      },
+      {
+        title: 'Driver Highlights',
+        description:
+          'Showcased individual drivers and their vehicles, celebrating their passion and dedication.',
+        icon: 'tabler:star',
+      },
+      {
+        title: 'Published Work',
+        description:
+          'Photos featured in motorsport publications and used by event organizers for promotion.',
+        icon: 'tabler:award',
+      },
+    ]}
+  />
+</Layout>

@@ -48,7 +48,7 @@ Upon termination, Your right to use the Service will cease immediately.
 
 To the maximum extent permitted by law, the Company and its suppliers shall not be liable for any indirect, incidental, or consequential damages, including loss of profits, data, or other information, arising from the use or inability to use the Service.
 
-The Company’s total liability shall not exceed the amount You paid through the Service or $100 if no purchase was made.
+The Company's total liability shall not exceed the amount You paid through the Service or $100 if no purchase was made.
 
 ## "AS IS" and "AS AVAILABLE" Disclaimer
 
