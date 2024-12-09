@@ -1,6 +1,5 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
-
 import { defineConfig } from 'astro/config';
 
 import sitemap from '@astrojs/sitemap';
@@ -17,6 +16,7 @@ import { readingTimeRemarkPlugin, responsiveTablesRehypePlugin, lazyImagesRehype
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
+// Utility function for conditional integrations
 const hasExternalScripts = false;
 const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroIntegration)[] = []) =>
   hasExternalScripts ? (Array.isArray(items) ? items.map((item) => item()) : [items()]) : [];
@@ -26,13 +26,13 @@ export default defineConfig({
 
   integrations: [
     tailwind({
-      applyBaseStyles: false,
+      applyBaseStyles: false, // Disable Tailwind's base styles if already managed
     }),
-    sitemap(),
-    mdx(),
+    sitemap(), // Generate a sitemap
+    mdx(), // Enable Markdown with MDX support
     icon({
       include: {
-        tabler: ['*'],
+        tabler: ['*'], // Include all Tabler icons
         'flat-color-icons': [
           'template',
           'gallery',
@@ -46,44 +46,62 @@ export default defineConfig({
         ],
       },
     }),
-
     ...whenExternalScripts(() =>
       partytown({
-        config: { forward: ['dataLayer.push'] },
+        config: { forward: ['dataLayer.push'] }, // Forward Google Analytics events
       })
     ),
-
     compress({
       CSS: true,
       HTML: {
         'html-minifier-terser': {
-          removeAttributeQuotes: false,
+          removeAttributeQuotes: false, // Keep attribute quotes for compatibility
         },
       },
-      Image: false,
+      Image: true, // Enable image compression for better performance
       JavaScript: true,
-      SVG: false,
-      Logger: 1,
+      SVG: true,
+      Logger: 1, // Enable minimal logging for compress
     }),
-
     astrowind({
-      config: './src/config.yaml',
+      config: './src/config.yaml', // Configuration for Astrowind
     }),
   ],
 
+  // Configure Astro's image optimization
   image: {
-    domains: ['cdn.pixabay.com'],
+    domains: ['cdn.pixabay.com'], // Whitelist domains for remote image optimization
+    service: {
+      sharp: true, // Explicitly use `sharp` for image processing (faster and efficient)
+    },
   },
 
+  // Markdown configuration
   markdown: {
-    remarkPlugins: [readingTimeRemarkPlugin],
-    rehypePlugins: [responsiveTablesRehypePlugin, lazyImagesRehypePlugin],
+    remarkPlugins: [readingTimeRemarkPlugin], // Add reading time to Markdown frontmatter
+    rehypePlugins: [
+      responsiveTablesRehypePlugin, // Enable responsive tables
+      lazyImagesRehypePlugin, // Lazily load images in Markdown
+    ],
   },
 
   vite: {
     resolve: {
       alias: {
-        '~': path.resolve(__dirname, './src'),
+        '~': path.resolve(__dirname, './src'), // Alias for cleaner imports
+      },
+    },
+    optimizeDeps: {
+      include: ['astro-icon'], // Pre-bundle Astro Icon for better performance
+    },
+    server: {
+      fs: {
+        allow: [
+          './src',
+          './vendor',
+          './node_modules', // Allow serving files from node_modules
+          path.resolve(__dirname, 'node_modules'), // Explicitly allow the node_modules directory
+        ],
       },
     },
   },

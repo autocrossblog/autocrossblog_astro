@@ -223,10 +223,14 @@ export const astroAsseetsOptimizer: ImagesOptimizer = async (
     return [];
   }
 
+
   return Promise.all(
     breakpoints.map(async (w: number) => {
-      const result = await getImage({ src: image, width: w, inferSize: true, ...(format ? { format: format } : {}) });
+      const aspect = _width / _height;
+      const h = Math.round(w / aspect);
+      const result = await getImage({ src: image, width: w, height: h, inferSize: true, ...(format ? { format: format } : {}) });
 
+      //console.log('Result: ', result);
       return {
         src: result?.src,
         width: result?.attributes?.width ?? w,
@@ -237,6 +241,8 @@ export const astroAsseetsOptimizer: ImagesOptimizer = async (
 };
 
 export const isUnpicCompatible = (image: string) => {
+  console.log('not compat');
+  
   return typeof parseUrl(image) !== 'undefined';
 };
 
@@ -246,11 +252,26 @@ export const unpicOptimizer: ImagesOptimizer = async (image, breakpoints, width,
     return [];
   }
 
+//  console.log('unpic image',image);
+ // console.log('params');
+  
+/*  console.log({
+    image,
+    breakpoints,
+    width,
+    height,
+    format,
+  })
+  
+*/
+
   const urlParsed = parseUrl(image);
   if (!urlParsed) {
+    console.log('Failed to parse url');
     return [];
   }
 
+  
   return Promise.all(
     breakpoints.map(async (w: number) => {
       const _height = width && height ? computeHeight(w, width / height) : height;

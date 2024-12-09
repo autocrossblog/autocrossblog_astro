@@ -1,7 +1,5 @@
 ---
-// Astro Frontmatter (if required)
----
----
+--- 
 <script>
   import PhotoSwipeLightbox from 'photoswipe/lightbox';
   import 'photoswipe/style.css';
@@ -12,8 +10,8 @@
 
   window.initPhotoSwipe = () => {
     const lightbox = new PhotoSwipeLightbox({
-      gallery: '.gallery',
-      children: 'a',
+      gallery: '.gallery', // Ensure this matches the gallery container class
+      children: 'a', // Ensure child elements are the anchor tags in the gallery
       initialZoomLevel: (zoomLevelObject) => {
         return isPhonePortrait() ? zoomLevelObject.vFill : zoomLevelObject.fit;
       },
@@ -32,12 +30,13 @@
         html: '', // Placeholder for captions
         onInit: (el, pswp) => {
           pswp.on('change', () => {
-            const currSlideElement = pswp.currSlide?.data?.element;
+            // Safely check for currSlide and data existence
+            const currSlideElement = pswp.currSlide?.data?.element || null;
 
             let captionHTML = 'No caption available';
             if (currSlideElement) {
-              const hiddenCaption = currSlideElement.querySelector('.gallery-caption');
-              captionHTML = hiddenCaption ? hiddenCaption.innerHTML : captionHTML;
+              const hiddenCaption = currSlideElement.getAttribute('data-pswp-description');
+              captionHTML = hiddenCaption ? hiddenCaption : captionHTML;
             }
 
             el.innerHTML = captionHTML;
@@ -46,21 +45,29 @@
       });
     });
 
-    // Handle `srcset` for responsive images
     lightbox.on('contentLoad', (e) => {
-      const slide = e.slide;
-      const srcset = slide.data.element?.getAttribute('data-srcset');
-      if (srcset) {
-        const img = slide.container.querySelector('img');
-        if (img) {
-          img.setAttribute('srcset', srcset);
-          img.setAttribute('sizes', '(max-width: 768px) 90vw, (max-width: 1200px) 50vw, 30vw');
-        }
-      }
-    });
+  const slide = e.slide;
+
+  if (slide?.data?.element) {
+    const srcset = slide.data.element.getAttribute('data-srcset');
+    const img = slide.container?.querySelector('img');
+
+    if (srcset && img) {
+      img.setAttribute('srcset', srcset);
+      img.setAttribute('sizes', '(max-width: 768px) 90vw, (max-width: 2000px) 50vw, 30vw');
+      console.log('Applied srcset:', srcset);
+    }
+  } else {
+    console.warn('Slide data or element is missing:', slide);
+  }
+});
 
     lightbox.init();
   };
 
-  window.initPhotoSwipe();
+  // Initialize the lightbox
+  document.addEventListener('DOMContentLoaded', () => {
+    window.initPhotoSwipe();
+  });
+  
 </script>
