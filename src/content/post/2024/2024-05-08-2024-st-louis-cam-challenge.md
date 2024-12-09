@@ -2,10 +2,10 @@
 tags: [ autocross, nationaltour, national-tour, scca, mustang, friends, st.louis, local, cam ]
 author: chris
 publishDate: 2024-05-08T10:00:15+00:00
-updateDate: 2024-11-18T08:39:29-06:00
+updateDate: 2024-12-09T11:46:29-06:00
 image: ~/assets/images/2024/May/CAMChallenge/BethCones.jpg
 keywords: CAM Challenge 2024,St. Louis Autocross,Solo Performance Specialties Mustang GT,Classic American Muscle autocross,CAM-C autocross results,Autocross driving tips,Competitive autocross event,Family Arena autocross,Bridgestone tires in racing,Autocross challenge rounds
-url: "2024/2024-st-louis-cam-challenge"
+url: 2024/2024-st-louis-cam-challenge
 excerpt: "Explore the highlights and intense competition of the 2024 St. Louis CAM Challenge Autocross. Discover who excelled in the CAM classes and more!"
 title: "Recap of the 2024 St. Louis CAM Challenge Autocross"
 ---
@@ -19,7 +19,16 @@ The CAM Challenge follows a structured format:
 - **Saturday Morning & Afternoon Runs**: Each car in classes like CAM-C, where I competed, gets 3 attempts in the morning. Due to time constraints and weather issues onsite, the afternoon runs were reduced to just 2 attempts per driver. The best times from these runs are combined for the class competition.
 - **Sunday Qualifying & Challenge Rounds**: Another set of 3 runs on Sunday morning determines who makes it to the challenge rounds in the afternoon, with the top performers moving forward.
 
-<a href="https://photos.rainbowmarks.com/2024/Autocross/STL-CAM-Challenge">{% picture 2024/May/CAMChallenge/CAMChallenge-1.jpg --alt Elizabeth Whitwork, CAM-C Ladies 2012 Mustang GT %}</a>
+<a href="https://photos.rainbowmarks.com/2024/Autocross/STL-CAM-Challenge">
+    <Image 
+        src="/src/assets/images/2024/May/CAMChallenge/CAMChallenge-1.jpg" 
+        alt="Elizabeth Whitwork, CAM-C Ladies 2012 Mustang GT" 
+        title="Elizabeth Whitwork, CAM-C Ladies 2012 Mustang GT"
+        width={600} 
+        height={400} 
+        layout="responsive" 
+    />
+</a>
 
 ## My Experience in CAM-C
 
@@ -27,14 +36,32 @@ Driving the **Solo Performance Specialties 2012 Mustang GT**, I started strong. 
 
 The afternoon session showed significant improvement, despite being shortened. I clinched a 4th place finish in class with a clean run of 41.832 seconds, overcoming previous cone penalties and positioning myself well for Sunday's challenge.
 
-<a href="https://photos.rainbowmarks.com/2024/Autocross/STL-CAM-Challenge">{% picture 2024/May/CAMChallenge/CAMChallenge-2.jpg --alt Adam Buffa Toyota Supra %}</a>
+<a href="https://photos.rainbowmarks.com/2024/Autocross/STL-CAM-Challenge">
+    <Image 
+        src="/src/assets/images/2024/May/CAMChallenge/CAMChallenge-2.jpg" 
+        alt="Adam Buffa Toyota Supra" 
+        title="Adam Buffa Toyota Supra"
+        width={600} 
+        height={400} 
+        layout="responsive" 
+    />
+</a>
 
 
 ### Sunday's Strategic Runs
 
 Qualifying on Sunday was crucial. I led with a 41.831 on my first run and opted out of a third run after a slightly slower second attempt, saving the wear on our Bridgestone tires. This decision paid off, securing my place in the top 16 without additional risk.
 
-<a href="https://photos.rainbowmarks.com/2024/Autocross/STL-CAM-Challenge">{% picture 2024/May/CAMChallenge/CAMChallenge-3.jpg --alt Subaru WRX %}</a>
+<a href="https://photos.rainbowmarks.com/2024/Autocross/STL-CAM-Challenge">
+    <Image 
+        src="/src/assets/images/2024/May/CAMChallenge/CAMChallenge-3.jpg" 
+        alt="Subaru WRX" 
+        title="Subaru WRX"
+        width={600} 
+        height={400} 
+        layout="responsive" 
+    />
+</a>
 
 ### Challenge Rounds: The Fight for the Top Spots
 
@@ -42,13 +69,31 @@ In the elimination rounds, efficiency was key. I managed a 41.914 in the first r
 
 In the second round, I clocked a time of 41.434, which was not as fast as I hoped, but it was enough to move me into the final round. Dave, Mike Leeder, and John Ward also advanced with impressive times.
 
-<a href="https://photos.rainbowmarks.com/2024/Autocross/STL-CAM-Challenge">{% picture 2024/May/CAMChallenge/CAMChallenge-4.jpg --alt Emily, Mazda Miata %}</a>
+<a href="https://photos.rainbowmarks.com/2024/Autocross/STL-CAM-Challenge">
+    <Image 
+        src="/src/assets/images/2024/May/CAMChallenge/CAMChallenge-4.jpg" 
+        alt="Emily, Mazda Miata" 
+        title="Emily, Mazda Miata"
+        width={600} 
+        height={400} 
+        layout="responsive" 
+    />
+</a>
 
 ### The High-Stakes Final Round
 
 The final was intense. An error in the first right-hand turn after the slalom led to a cone strike and a critical decision to ease off to preserve the tires for Dave's run. Although I finished the course leisurely, ensuring no additional strain on the car, the final round did not go as planned, and I did not actually complete the course correctly, which should have resulted in a DNF, but it was not called in.
 
-<a href="https://photos.rainbowmarks.com/2024/Autocross/STL-CAM-Challenge">{% picture 2024/May/CAMChallenge/CAMChallenge-5.jpg --alt Chris Lybarger C6 Corvette %}</a>
+<a href="https://photos.rainbowmarks.com/2024/Autocross/STL-CAM-Challenge">
+<Image 
+        src="/src/assets/images/2024/May/CAMChallenge/CAMChallenge-5.jpg" 
+        alt="Chris Lybarger C6 Corvette" 
+        title="Chris Lybarger C6 Corvette"
+        width={600} 
+        height={400} 
+        layout="responsive" 
+    />
+</a>
 
 ## Top Performers
 

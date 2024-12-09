@@ -6,9 +6,8 @@ updateDate: 2024-11-15T12:15:17-06:00
 url: "2018/ssc-kits-reach-100-sales"
 excerpt: "Celebrate TireRack's sale of the 100th SSC kit! Discover why SSC is the future of Solo and anticipate our Spring Nationals write-up."
 title: "SSC kits reach 100 sales"
+image: ~/assets/images/solomatters.JPG
 ---
-
-{% picture solomatters.JPG %}
  
  The TireRack has announced that they have sold their 100th SSC kit! I have some insider knowledge that says they sold it before the Spring Nationals, but the announcement just came out today via the SoloMatters newsletter (hey look at that screenshot, [who is that](https://www.chrishammond.com/)?)!
  

@@ -2,9 +2,9 @@
 tags: [ 350z, nissan, setup, suspension, koni, install, tutorial ]
 author: chris
 publishDate: 2010-12-31T03:00:36+00:00
-updateDate: 2024-11-18T10:51:34-06:00
+updateDate: 2024-12-09T11:30:34-06:00
 image: ~/assets/images/ProjectZ/KoniInstall/350Z-Koni-Install-1.jpg
-url: "2010/350z-koni-shock-install"
+url: 2010/350z-koni-shock-install
 excerpt: "A very detailed post about installing Koni shocks on a Nissan 350z for autocross purposes."
 title: "350Z Koni Shock Install"
 ---
@@ -29,26 +29,89 @@ I would also recommend checking out the article on SportZ Magazine's latest issu
 
 To begin the car was placed on our lift and raised off of the ground about 3 feet. We removed all four wheels from the vehicle before we did any other work to make everything easier and to get them out of the way.
 
-{% picture ProjectZ/KoniInstall/350Z-Koni-Install-6.jpg %}
+<Image 
+  src="/src/assets/images/ProjectZ/KoniInstall/350Z-Koni-Install-6.jpg" 
+  alt="Koni 350z Installation" 
+  title="Koni 350z Installation" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
 
 The shocks come in two separate boxes, one box for the fronts, and one for the rears.
-{% picture ProjectZ/KoniInstall/350Z-Koni-Install-1.jpg %}
-{% picture ProjectZ/KoniInstall/350Z-Koni-Install-7.jpg %}
-{% picture ProjectZ/KoniInstall/350Z-Koni-Install-48.jpg %}
+<Image 
+  src="/src/assets/images/ProjectZ/KoniInstall/350Z-Koni-Install-1.jpg" 
+  alt="Koni 350z Installation" 
+  title="Koni 350z Installation" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
+
+<Image 
+  src="/src/assets/images/ProjectZ/KoniInstall/350Z-Koni-Install-7.jpg" 
+  alt="Koni 350z Installation" 
+  title="Koni 350z Installation" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
+
+<Image 
+  src="/src/assets/images/ProjectZ/KoniInstall/350Z-Koni-Install-48.jpg" 
+  alt="Koni 350z Installation" 
+  title="Koni 350z Installation" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
 
 **Rear Shock Install**
 I started with the rear of the car, and it was by far the easiest method to take. The rears each require the removal of 1 bolt, and 2 nuts to remove from the car.
 
-{% picture ProjectZ/KoniInstall/350Z-Koni-Install-14.jpg %}
-{% picture ProjectZ/KoniInstall/350Z-Koni-Install-16.jpg %}
+<Image 
+  src="/src/assets/images/ProjectZ/KoniInstall/350Z-Koni-Install-14.jpg" 
+  alt="Koni 350z Installation" 
+  title="Koni 350z Installation" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
+
+<Image 
+  src="/src/assets/images/ProjectZ/KoniInstall/350Z-Koni-Install-16.jpg" 
+  alt="Koni 350z Installation" 
+  title="Koni 350z Installation" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
+
 
 Once you have one removed from the car you'll see the top mount.
-{% picture ProjectZ/KoniInstall/350Z-Koni-Install-17.jpg %}
+<Image 
+  src="/src/assets/images/ProjectZ/KoniInstall/350Z-Koni-Install-17.jpg" 
+  alt="Koni 350z Installation" 
+  title="Koni 350z Installation" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
+
 
 I removed this top nut from the shock using an impact gun. It may take a little working with to get it removed without spinning the shaft too much, but if you drive it back on and off a few times it will usually free up. Being that this was a stock shock which would only go back on the car if I sell it, I wasn't too concerned with spinning the shaft. I do not recommend using a gun to drive the nut back onto the Koni shock, more on that later.
 
 Now to reassemble the rear shocks. I didn't take a picture of the parts included with the rears but you can sort of see this bag in the picture below (yellow arrow), there is a nut in there for the bottom shock mount, a nut for the shaft, and a what is really just a large metal washer that goes into the upper shock mount.
-{% picture ProjectZ/KoniInstall/350Z-Koni-Install-7.jpg %}
+
+<Image 
+  src="/src/assets/images/ProjectZ/KoniInstall/350Z-Koni-Install-7.jpg" 
+  alt="Koni 350z Installation" 
+  title="Koni 350z Installation" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
+
 
 This is how the stock upper mount comes off of the stock shock (upside down). You'll want to set aside the metal shield that has a red arrow marked discard on it.. The washer is used to keep the rubber grommet (yellow arrow marked grommet) from pushing down on the rear shock adjustment mechanism. Please notice the installation order in the picture, you would really hate to get everything installed incorrectly wouldn't you? (see our front install for an example ?) You'll notice a little orange ring; to me it appears to be a gasket for the upper mount to the body of the car. I just left this in place throughout the install. Please see the included Koni paperwork, what little there actually is, for the proper torque settings for the nut on the top of the shock. You can tighten down this nut with a wrench, and use a pair of pliers or channel locks to hold the shaft in place, notice the flat sides of the top of the shaft for this.
 
@@ -68,12 +131,30 @@ The FSM tells you to remove the wheel, and then the under cover. I never did fig
 (This step differs on cars with TCS and VDC, this step was performed on a car with only TCS) Next you will remove the Wheel sensors from the back of the hub. The wheel sensor has a cable that is marked with the yellow arrows in this image . This image shows what the sensor looks like mounted on the back of the hub. . When removing the wheel sensor be careful, the FSM specifically says not to pull on the wheel sensor.  Pull out the two grommets where the wire is attached to the shock body, and then use a wrench or socket to remove the bolt holding the sensor itself to the hub. Place the sensor up and out of the way, try not to twist the cable too much, when you go to install the sensor again make sure that the white line does not twist upon install. I set the sensor on what I would assume is the "under cover" towards the front of the car to keep it and the cable out of the way while I removed the shock.   .
 
 Next remove the nut that holds the brake hose to the shock absorber . Pull the mount off of the shock and push the brake line aside.  
-    {% picture ProjectZ/KoniInstall/350Z-Koni-Install-51.jpg %}
+    
+<Image 
+  src="/src/assets/images/ProjectZ/KoniInstall/350Z-Koni-Install-51.jpg" 
+  alt="Koni 350z Installation" 
+  title="Koni 350z Installation" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
+
 
 You'll also need to remove the strut tower bar. To do this you'll want to fix the center bolt in place and loosen the nut on the left and right side of that center bolt. Once those are lose you'll want to turn the center top towards the rear of the car 660 degrees, that should place the silver mark of the center bolt above. Remove the 3 bolts and one nut from each of the strut bar mounts and remove the bar from the vehicle.
 
 One thing the FSM doesn't tell you to do, but the SportZ article recommends is to remove this cotter pin and nut, this will give you some slack when removing the shock and make removal a lot easier. Note: Yours should not be painted, I took mine to a horrible place and they did a horrible job repainting the front end. I also remove the nut from the sway bar link to the transverse bar (no picture).
-    {% picture ProjectZ/KoniInstall/350Z-Koni-Install-32.jpg %}
+    
+<Image 
+  src="/src/assets/images/ProjectZ/KoniInstall/350Z-Koni-Install-32.jpg" 
+  alt="Koni 350z Installation" 
+  title="Koni 350z Installation" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
+
 
 
 Remove the bolt and nut on the lower shock mount, holding the shock to the transverse link. (I don't seem to have a picture of this either). You may want to leave the bolt in the lower mount to help keep it in place while you perform the next step.

@@ -2,10 +2,10 @@
 tags: [ autocross, fr-s, ssc, setup, accident ]
 author: chris
 publishDate: 2022-01-19T13:30:15+00:00
-updateDate: 2024-11-18T11:19:52-06:00
+updateDate: 2024-12-09T11:37:52-06:00
 image: ~/assets/images/6-13-2021/side2.jpg
 keywords: autocross, insurance, crash, accident, fail
-url: "2022/autocross-accident-why-you-need-autocross-insurance"
+url: 2022/autocross-accident-why-you-need-autocross-insurance
 excerpt: "My story about an autocross crash and why you should have insurance coverage"
 title: "Autocross Crash and Why You Need Autocross Insurance"
 ---
@@ -26,13 +26,37 @@ From there we started looking at the car.
 
 The car had impacted a light pole in the parking lot, scraping down the passenger side of the FR-S. The damage started at the front fender and went all the way back to the quarter panel. The majority of the damage was the passenger door, it was pushed in quit a bit, and didn't look like it would open. The car would start and drive, so I got in and drove it outside of the course area. The wheel was definitely out of alignment, and had a LOT more play than it should.
 
-{% picture 6-13-2021/side.jpg --alt= Scion FR-S after autocross crash %}
+
+<Image 
+  src="/src/assets/images/6-13-2021/side.jpg" 
+  alt="Scion FR-S after autocross crash" 
+  title="Scion FR-S after autocross crash" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
+
 
 The side curtain and passenger seat airbags deployed. There was glass everywhere, while the window was down, in the door, it had enough of an impact that the glass from the door and in the mirror, went everywhere. Getting into the car you had to be careful to avoid setting your hand down on something and getting yourself cut up.
 
-{% picture 6-13-2021/pole.jpg --alt=Autocross light pole damage%}
 
-{% picture 6-13-2021/pole2.jpg --alt=Autocross light pole damage %}
+<Image 
+  src="/src/assets/images/6-13-2021/pole.jpg" 
+  alt="Autocross light pole damage" 
+  title="Autocross light pole damage" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
+
+<Image 
+  src="/src/assets/images/6-13-2021/pole2.jpg" 
+  alt="Autocross light pole damage" 
+  title="Autocross light pole damage" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
 
 After parking the car I started trying to assess the situation. We threw a jack under it and removed the right front wheel. The wheel had some damage to it, after removal I found that the tie rod bolt was bent about 45 degrees. At this point I figured there was no way to safely drive the car home, so I began to figure out how to get it home. I called my insurance to get roadside assistance to pick it up, but ultimately a friend was driving through town with an empty trailer and he hauled the car down to Solo Peformance Specialties for me that evening. 
 
@@ -50,9 +74,20 @@ Everything but the passenger side of the car was prestine, so who knows what I c
 
 If you're looking for a track project car, feel free to reach out to me, let's see if we can make a deal.
 
-{% picture 6-13-2021/pro-tech.jpg --alt=Scion FR-S with parts removed %}
+
+<Image 
+  src="/src/assets/images/6-13-2021/pro-tech.jpg" 
+  alt="Scion FR-S with parts removed" 
+  title="Scion FR-S with parts removed" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
 
 What's next for me? Well right now I have an order in for a new Nissan Z, and a Ford F-250 truck. I have no idea when either of those will be built.... 
 
 ## Update: 11/17/2024
 I ended up cancelling my Nissan Z order, have had the 2022 F-250 for just about 2 years now. What's next? Coming soon
+
+## Update: 12/5/2024
+Rinse and repeat! Another 2016 FRS is in the stable.

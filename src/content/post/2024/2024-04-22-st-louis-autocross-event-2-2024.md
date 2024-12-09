@@ -2,9 +2,9 @@
 tags: [ autocross, scca, mustang, friends, st.louis, local ]
 author: chris
 publishDate: 2024-04-22T10:00:15+00:00
-updateDate: 2024-10-09T13:21:54-05:00
+updateDate: 2024-12-09T11:41:54-05:00
 image: ~/assets/images/2024/April/StLouis/Event2-1.jpg
-url: "2024/st-louis-autocross-event-2-2024"
+url: 2024/st-louis-autocross-event-2-2024
 excerpt: "Event summary from the 2nd (but really first) event of the 2024 St. Louis Region SCCA Season"
 title: "From Cones to Camaraderie: Recap of St. Louis's First Autocross of 2024"
 ---
@@ -44,17 +44,49 @@ I am never really happy when I don't finish on top of PAX results, it's been a w
 ## The Photos
 Because I was working first heat, running second heat, I was only able to shoot photos of the third heat, but I managed to take 1300 photos during that time. [I have posted 300 of those photos on my RainbowMarks Photography event gallery, check it out and purchase a shot or two if you ran third](https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3)! If you ran first or second heat, sorry! Hopefully at some point this year I'll get an opportunity to take pictures of every driver. (Perhaps at the CAM Challenge in two weeks!)
 
-<a href="https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3/i-3QpjpSz/buy">
-    {% picture 2024/April/StLouis/Event2-2.jpg --alt Street Creature Mustang splitter digging into the pavement %}</a>
+<a href="https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3/i-3QpjpSz/buy">    
+    <Image 
+        src="/src/assets/images/2024/April/StLouis/Event2-2.jpg" 
+        alt="Street Creature Mustang splitter digging into the pavement" 
+        title="Street Creature Mustang splitter digging into the pavement" 
+        width={600} 
+        height={400} 
+        layout="responsive" 
+    />
+</a>
 
 <a href="https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3/i-p7Z8Bkd/buy">
-    {% picture 2024/April/StLouis/Event2-3.jpg --alt Subaru Wagon lifting the inside rear tire %}</a>
+    <Image 
+        src="/src/assets/images/2024/April/StLouis/Event2-3.jpg" 
+        alt="Subaru Wagon lifting the inside rear tire" 
+        title="Subaru Wagon lifting the inside rear tire" 
+        width={600} 
+        height={400} 
+        layout="responsive" 
+    />
+</a>
     
 <a href="https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3/i-gXFDg6V/buy">
-    {% picture 2024/April/StLouis/Event2-4.jpg --alt White Mustang attempting the drift %}</a>
+    <Image 
+        src="/src/assets/images/2024/April/StLouis/Event2-4.jpg" 
+        alt="White Mustang attempting the drift" 
+        title="White Mustang attempting the drift" 
+        width={600} 
+        height={400} 
+        layout="responsive" 
+    />
+</a>
 
 <a href="https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3/i-B5DVhgx/buy">
-    {% picture 2024/April/StLouis/Event2-5.jpg --alt White Mustang paying for the attempted drift %}</a>
+    <Image 
+        src="/src/assets/images/2024/April/StLouis/Event2-5.jpg" 
+        alt="White Mustang paying for the attempted drift" 
+        title="White Mustang paying for the attempted drift" 
+        width={600} 
+        height={400} 
+        layout="responsive" 
+    />
+</a>
 
 ## What's next? 
 The CAM Challenge is coming up here in less than two weeks, once again at the Family Arena in St. Charles, MO. If you haven't signed up yet, get signed up! Local entrants not running in CAM classes (or the X classes) can run for $45 for the weekend, with 6 runs on Saturday and 3 runs on Sunday! CAM/X drivers can enter for $125 entry with the same 9 runs but also the ability to qualify for the Challenge portion after the Sunday morning runs. If you've not run a SCCA National level event before, this is the perfect time to try it out. You'll see drivers that are way faster than what you'll find at typical location regional event, and if you're local to STL you get to do it without all the travel costs! [Sign Up Today!](https://www.motorsportreg.com/events/2024-tire-rack-scca-st-louis-cam-challenge-family-arena-national-solo-360805)

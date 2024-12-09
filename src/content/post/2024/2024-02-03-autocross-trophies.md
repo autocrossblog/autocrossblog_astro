@@ -2,9 +2,9 @@
 tags: [ autocross, trophies, regions ]
 author: chris
 publishDate: 2024-02-03T13:00:15+00:00
-updateDate: 2024-10-09T13:21:54-05:00
+updateDate: 2024-12-09T11:40:54-05:00
 image: ~/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-1.jpg
-url: "2024/autocross-trophies"
+url: 2024/autocross-trophies
 excerpt: "Where have they gone?"
 title: "Autocross Trophies, do you need them or want them?"
 ---
@@ -23,10 +23,24 @@ Glass cups, coffee mugs, pint glasses, you name it. These I still have the most 
 
 One season had some form of stickers that you could get for trophies.
 
+<Image 
+  src="/src/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-1.jpg" 
+  alt="Autocross Picture Frame Trophies" 
+  title="Autocross Picture Frame Trophies" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
 
-{% picture 2024/February/AutocrossTrophies/AutocrossTrophies-1.jpg --alt Autocross Picture Frame Trophies  %}
+<Image 
+  src="/src/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-2.jpg" 
+  alt="Autocross Glass Trophies " 
+  title="Autocross Glass Trophies " 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
 
-{% picture 2024/February/AutocrossTrophies/AutocrossTrophies-2.jpg --alt Autocross Glass Trophies  %}
 
 
 Now, year end trophies, that's where it is really at. In the past some of the coolest ones I received were:
@@ -35,7 +49,14 @@ Now, year end trophies, that's where it is really at. In the past some of the co
 
 National event trophies are a whole topic of their own for another day.
 
-{% picture 2024/February/AutocrossTrophies/AutocrossTrophies-3.jpg --alt Autocross Year End Trophies  %}
+<Image 
+  src="/src/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-3.jpg" 
+  alt="Autocross Year End Trophies" 
+  title="Autocross Year End Trophies" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
 
 Comment below, did you ever get autocross trophies at local events?
 

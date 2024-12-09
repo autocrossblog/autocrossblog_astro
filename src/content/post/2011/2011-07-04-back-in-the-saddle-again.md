@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan ]
-author: chris
+author: "chris"
 publishDate: 2011-07-04T02:56:30+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2011/back-in-the-saddle-again"
@@ -12,11 +12,11 @@ This morning I took off from our house around 6:10am and headed south on Highway
 
 I got out to the event, registered, and signed up for my work assignment, then began the dirty work. Changing the tires on the car. It's a fairly painless job, though I really drag it out most times, I could probably get it done in under 5 minutes, but typically it takes me 15-20 as I fart around doing it.
 
-I worked first heat, I was doing the timer cards, wow, I can't tell you the last time I had to write times down instead of them going into a computer {% picture PublishThumbnails/Windows-Live-Writer/Back-in-the-saddle-again_14998/wlEmoticon-openmouthedsmile_2.png --alt Smile %} I little antiquated, but the process over all worked out. Computers can definitely make things more efficient, but also add a level of overhead that most clubs don't want to deal with.
+I worked first heat, I was doing the timer cards, wow, I can't tell you the last time I had to write times down instead of them going into a computer :) I little antiquated, but the process over all worked out. Computers can definitely make things more efficient, but also add a level of overhead that most clubs don't want to deal with.
 
 The weather at Marina was awesome today, I was half prepared to freeze my ass off because Ed Runnion warned me last night to bring a jacket. I must admit, a jacket, or pants, were not needed today! A t-shirt and shorts were plenty.
 
-I ran in the second heat, my first autox runs since the El Toro ProSolo in April. I was definitely rusty. I also seemed to have forgotten how badly this car needs a differential. If anyone from OS Giken is out there and interested in trading some sponsorship for product let me know, I'm definitely open to opportunities {% picture PublishThumbnails/Windows-Live-Writer/Back-in-the-saddle-again_14998/wlEmoticon-openmouthedsmile_2.png --alt Smile %}
+I ran in the second heat, my first autox runs since the El Toro ProSolo in April. I was definitely rusty. I also seemed to have forgotten how badly this car needs a differential. If anyone from OS Giken is out there and interested in trading some sponsorship for product let me know, I'm definitely open to opportunities :)
 
 My runs for the most part improved each time today, until the last I believe. I don't know where my times were compared to much of the rest of the class, but I know I was probably 1.5+ seconds off where I should have been. The ASP cars I saw were running low 41s, while I was in the low 43s. The Tsang brothers (FSP) were in the high 42s, so I definitely need to get this car sorted out and my driving improved!
 
