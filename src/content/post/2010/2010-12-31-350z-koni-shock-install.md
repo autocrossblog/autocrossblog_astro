@@ -22,7 +22,7 @@ I finally broke down and bought some Koni Sports for the [Project Z](/category/3
 - 8241-1216R Sport Right Front
 - 8241-1217 Sport Rear (single)
 
-**Installation procedures**
+### Installation procedures
 I have the Nissan Service Manual for the 350Z, and would highly recommend purchasing one as they are invaluable when it comes to working on your vehicle. I won't be using any photos from the manual, as reproducing it on the web would most likely be a little frowned upon by Nissan. I will, however, try to include pictures with notations on installation procedures.
 
 I would also recommend checking out the article on SportZ Magazine's latest issue on the Koni install procedure, I received a copy of the article and found it to be very helpful.
@@ -66,7 +66,7 @@ The shocks come in two separate boxes, one box for the fronts, and one for the r
   layout="responsive" 
 />
 
-**Rear Shock Install**
+### Rear Shock Install
 I started with the rear of the car, and it was by far the easiest method to take. The rears each require the removal of 1 bolt, and 2 nuts to remove from the car.
 
 <Image 
@@ -123,7 +123,7 @@ Don't forget to torque down the lower mount as well. The article from SportZ Mag
 
 Repeat this process on the other rear shock for the car. This is what it looks like when finished.
 
-**Front Shock Install**
+### Front Shock Install
 The front shock install requires a bit more work than the rear install did. You will also need a spring compressor of some sort to disassemble the front shock units. I borrowed this tool from a local autozone. Basically the way it works is you pay for the tool and you return it when you are done if you want your money back. This isn't like the Wal-mart rental policy; this is actually a legit program.
 
 The FSM tells you to remove the wheel, and then the under cover. I never did figure out what the "under cover" was that it referenced, but I obviously didn't have to remove it to get the shock out if I couldn't find it.
@@ -161,7 +161,7 @@ Remove the bolt and nut on the lower shock mount, holding the shock to the trans
 
 Now you'll remove the nuts from the upper mount, you should see them exposed by the removal of the strut bar. Remove the bolt from the lower mount and you should now be able to pull the assembly off of the car. If you need to you can put a little pressure on the break disc to push the lower suspension assembly down to give you better access to remove the assembly.
 
-**Front Shock disassembly**
+### Front Shock disassembly
 **(ALWAYS USE CAUTION WHEN WORKING WITH SPRINGS)**
 Using the spring compressor from the picture above compress the spring so that it has a little play between the lower spring perch and the upper mount. This will allow you to remove the nut from the top of the shock. I used an impact gun for removal, if it doesn't come off easily on the first try, drive the nut back down and try removal again, working it in this manner helped me remove the nuts without much trouble. Without an impact gun, you'll need to try to hold the top of the shock in place with locks and turn the nut with a wrench. From past experience, try to use an impact gun for this, or you should spend hours trying to get things apart.
 
@@ -179,7 +179,7 @@ Everything else should be fairly straightforward to reinstall. Be sure to proper
 
 I'll have to do a write-up on the performance of these shocks next week. From a week and a half of driving, and one autocross event though I will include a few observations.
 
-**First Event on Konis**
+### First Event on Konis
 I ran a two day divisional less than 48 hours after installing the Koni's on the Project 350Z. The first day I started with the rear shocks at 3 turns from full soft, and the front at one full turn from full soft. To give you an idea of what settings the shocks have I believe the rears have 12 turns to get to their stiffest rebound setting, and the fronts appear to have 2.5 full turns from soft to firm. Each turn on the rear is probably Â¼ of a turn if they were adjusted from the top as the fronts are.
 
 After my 2nd run I decided to try taking out Â½ turn from the fronts. This was what I would call a mistake! The car got extremely loose on my 3rd run, which helped to kick the ABS ice-mode on, a problem I had last year at the Topeka ProSolo, and Carter had in his 350Z at Nationals last year. We figure this is caused by the car sensing one wheel is different from the others, probably off the ground when the others are on the ground, so the brakes freak out and don't want to stop the car. It doesn't pulse like ABS is kicking in, but the car stops breaking like it should and decelerates at a slower rate. My 99 Camaro had the same problem on the Topeka concrete under extremely hard braking.
@@ -188,7 +188,7 @@ For my 4th run I put Â¼ turn back into the shocks, this made a pretty good com
 
 I'm headed to OKC this weekend for the 2nd divisional event, and will report back on my settings when I return! I hope this is helpful to someone else out there in doing their install. If you have any questions, or notice any blatant errors in this please feel free to let me know via the comment section of this blog!
 
-**About the Myself (the author)**
+### About the Myself (the author)
 I've been autocrossing since March of 2000. I started out in a 1994 VW Golf III, and competed in that car for about 15 months. I competed in my first National Tour event in Peru Indiana in July, and then the SCCA Solo II Nationals in September. I finished last in both events in the newly formed STS (street touring) class. In July of 2001 I decided I wanted to buy a car that I knew could be competitive with just the minor modifications that were allowed in the stock classing structure of SCCA Solo II. I decided on F-Stock, and started looking for a 4th Generation F-Body (Camaro) that would suite my needs.
 
 I was looking around St. Louis for a few weeks for a LS-1 powered (98+) 6 speed, that wasn't in Red. I found a 1999 Z-28 in Macon Missouri and picked it up. I immediately purchased a set of Koni Shocks for the car, an extra set of wheels, and some R-compound tires. At the Solo Nationals that year (2001) I still got kicked in the rear, but not near as bad this time! I can't seem to find the results from that year, but I think I finished something like 47th out of 54. In 2002 I finished 14th in F-Stock out of 35+ entrants. I also finished 3rd in F-Stock at the Topeka ProSolo that April.
