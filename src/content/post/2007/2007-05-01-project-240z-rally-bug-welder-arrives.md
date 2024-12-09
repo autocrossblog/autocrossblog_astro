@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2007-05-01T00:00:00+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/project-240z-rally-bug-welder-arrives"

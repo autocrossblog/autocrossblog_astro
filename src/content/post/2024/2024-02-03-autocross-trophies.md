@@ -1,6 +1,6 @@
 ---
 tags: [ autocross, trophies, regions ]
-author: "chris"
+author: chris
 publishDate: 2024-02-03T13:00:15+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 image: ~/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-1.jpg

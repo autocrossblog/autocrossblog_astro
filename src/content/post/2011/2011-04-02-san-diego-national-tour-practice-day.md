@@ -1,10 +1,10 @@
 ---
 tags: [ 350z, nissan, setup ]
-author: "chris"
+author: chris
 publishDate: 2011-04-02T00:49:20+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2011/san-diego-national-tour-practice-day"
-excerpt: "Explore Chris Hammondâ€™s autocross journey, from practice runs to suspension tweaks, and his passion for racing and community at AutocrossBlog.com."
+excerpt: "Explore Chris Hammond's autocross journey, from practice runs to suspension tweaks, and his passion for racing and community at AutocrossBlog.com."
 title: "San Diego National Tour Practice Day"
 ---
 

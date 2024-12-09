@@ -1,6 +1,6 @@
 ---
 tags: [ scca, solonationals, lincoln ]
-author: "chris"
+author: chris
 image: ~/assets/images/2024/August/SoloNats-2.jpg
 publishDate: 2024-08-25T09:00:15+00:00
 updateDate: 2024-11-18T11:19:52-06:00

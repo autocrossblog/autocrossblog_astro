@@ -1,6 +1,6 @@
 ---
 tags: [ 350z ]
-author: "chris"
+author: chris
 publishDate: 2010-01-23T01:20:49+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2010/and-so-it-begins-project350zcom-now-has-a-project"

@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan ]
-author: "chris"
+author: chris
 publishDate: 2015-09-06T20:52:21+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2015/project350z-v3-coming-soon"
@@ -37,16 +37,16 @@ You might think, Chris, if you're going to prep the car for autocross, why do yo
 
 I looked at a 2005 Base model 350z today, here are my comments on that car. If the owner of that car happens to stumble on this, please take no offense, this is just my analysis of the car for the purposes of assisting anyone else looking to purchase a 350z for autocross purposes. The car I looked at today was silver, pretty obviously repainted at some point as the front end looked pretty good for a car with 150k miles on it. That being said there were plenty of issues to be found with the car, here's a quick rundown, along with my thoughts on each. From the original post, the owner said the car was stock, but inspection of the pictures on Craigslist showed otherwise. Initially I noticed that the tail lights had been replaced, the intake replaced, and the wheels replaced, further inspection of the car found other things as well.
 
-- **Bumper cover** â€“ this car had obviously had some front end damage, nothing that I could see in the frame, but the bumper cover was literally ripped/separated from the top right portion of the car.
-- **Plastic undertray** â€“ the undertray under the motor/front end was nowhere to be found. I know you can purchase this, as I replaced the one on my first 350z, but replacing the one on this car might have been an issue as the tabs where most of the screws would go into on the bumper cover were broken or missing.
-- **CAI** â€“ this car had some form of a cold air induction system, though I couldn't find a brand on it. The filter attached to it was caked in dirt and grease.
-- **Plenum spacer** â€“ As I found on my 2004 350z after purchasing it, this car appeared to have a spacer of some sort installed as well.
-- **Driver's seat** â€“ As common on the 350zs, the side bolster on this car was worn through to the foam. Honestly this isn't a huge deal as I would be replacing the seat(s) with a more race oriented seat anyways.
-- **Driver's side carpet** â€“ the driver's side carpet was worn through, and the owner had some big bulky rubber floor mat in there to cover it up. The base models I believe originally didn't come with floor mats, it is a shame someone didn't put one in this car early on to prevent this.
+- **Bumper cover**  this car had obviously had some front end damage, nothing that I could see in the frame, but the bumper cover was literally ripped/separated from the top right portion of the car.
+- **Plastic undertray**  the undertray under the motor/front end was nowhere to be found. I know you can purchase this, as I replaced the one on my first 350z, but replacing the one on this car might have been an issue as the tabs where most of the screws would go into on the bumper cover were broken or missing.
+- **CAI**  this car had some form of a cold air induction system, though I couldn't find a brand on it. The filter attached to it was caked in dirt and grease.
+- **Plenum spacer**  As I found on my 2004 350z after purchasing it, this car appeared to have a spacer of some sort installed as well.
+- **Driver's seat**  As common on the 350zs, the side bolster on this car was worn through to the foam. Honestly this isn't a huge deal as I would be replacing the seat(s) with a more race oriented seat anyways.
+- **Driver's side carpet**  the driver's side carpet was worn through, and the owner had some big bulky rubber floor mat in there to cover it up. The base models I believe originally didn't come with floor mats, it is a shame someone didn't put one in this car early on to prevent this.
 - **Dirt everywhere, so much dirt**
-- **TPS Monitors and tires** â€“ the car was equipped with 18" Performance wheels, with 225 tires on them. There were no TPS sensors, the tires were far too narrow on the wheels, plus they would need to be replaced, they were crap tires.
-- **Spare tire** â€“ the spare was still in the car, though it was not attached to the car as it should have been, the screw for that was nowhere to be found, and the jack/tools to change the spare were either missing, or misplaced.
-- **Spare tire well** â€“ The inside of the spare tire well on this car had either oil, or water in it. He claimed it was spilled oil, it sure felt like water. Either way, there is nothing that should be in there besides a spare tire, how does water get in there?
+- **TPS Monitors and tires**  the car was equipped with 18" Performance wheels, with 225 tires on them. There were no TPS sensors, the tires were far too narrow on the wheels, plus they would need to be replaced, they were crap tires.
+- **Spare tire**  the spare was still in the car, though it was not attached to the car as it should have been, the screw for that was nowhere to be found, and the jack/tools to change the spare were either missing, or misplaced.
+- **Spare tire well**  The inside of the spare tire well on this car had either oil, or water in it. He claimed it was spilled oil, it sure felt like water. Either way, there is nothing that should be in there besides a spare tire, how does water get in there?
 
 ## The biggest deal
 

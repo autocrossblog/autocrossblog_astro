@@ -1,6 +1,6 @@
 ---
 tags: [ autocross, nationaltour, national-tour, scca, mustang, friends ]
-author: "chris"
+author: chris
 publishDate: 2024-03-30T15:00:15+00:00
 updateDate: 2024-11-18T08:39:29-06:00
 image: ~/assets/images/2024/March/Moultrie/RedHillsNationalTour-6.jpg

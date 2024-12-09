@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2009-05-29T00:50:32+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2009/a-little-success-found-1-of-3-missing-screws-and-the-car-started-twice"

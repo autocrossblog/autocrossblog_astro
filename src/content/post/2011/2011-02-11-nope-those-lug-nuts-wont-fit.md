@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup ]
-author: "chris"
+author: chris
 publishDate: 2011-02-11T00:08:16+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2011/nope-those-lug-nuts-wont-fit"

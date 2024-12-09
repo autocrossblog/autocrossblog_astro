@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2008-03-17T07:11:09+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2008/datsun-240z-280z-l28e-parts-on-ebay"

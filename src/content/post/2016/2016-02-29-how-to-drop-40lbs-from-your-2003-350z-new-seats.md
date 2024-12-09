@@ -1,9 +1,9 @@
 ---
-tags: [ 350z, nissan ]
-author: "chris"
+tags: [ 350z, nissan, setup ]
+author: chris
 publishDate: 2016-02-29T23:14:25+00:00
-updateDate: 2024-11-15T12:15:17-06:00
-url: "2016/how-to-drop-40lbs-from-your-2003-350z-new-seats"
+updateDate: 2024-12-09T10:53:17-06:00
+url: 2016/how-to-drop-40lbs-from-your-2003-350z-new-seats
 excerpt: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
 title: "How to drop 40lbs from your 2003 350z, new seats!"
 ---
@@ -14,7 +14,7 @@ In prep for STU, I want to see what kind of weight I can get out of the car. I r
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SeUIINn3O50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A week or two ago, I headed out to Solo Performance to try on a few different seats. I wanted something that would drop weight and add some rigidity and support. SPS has quite the selection of seats, and had an [NRG Innovations FRP-310](https://www.soloperformance.com//NRG-Innovations-FRP-310-Racing-Bucket-Seat--Medium_p_11673.html), which is their medium, fixed back seat. I'm 6'4" and weigh 250lbs (working on dropping that weight as well), and I actually fit semi-comfortably in this seat. I chose to go with the [NRG Innovations FRP-300](https://www.soloperformance.com//NRG-Innovations-FRP-300-Racing-Bucket-Seat--Large_p_11672.html) instead however, this seat is the Large version of the one that SPS had in the shop.
+A week or two ago, I headed out to Solo Performance to try on a few different seats. I wanted something that would drop weight and add some rigidity and support. SPS has quite the selection of seats, and had an [NRG Innovations FRP-310](https://soloperformance.com/collections/seats-seat-brackets-and-accessories), which is their medium, fixed back seat. I'm 6'4" and weigh 250lbs (working on dropping that weight as well), and I actually fit semi-comfortably in this seat. I chose to go with the [NRG Innovations FRP-300](https://soloperformance.com/collections/seats-seat-brackets-and-accessories) instead however, this seat is the Large version of the one that SPS had in the shop.
 
 We weighed the seats, along with a mount, on the SPS shipping scale and were shocked at what we found, the scale read what we thought was 9 pounds for the seat and 4 pounds for the mount. Dave at SPS also ordered me a set of [BuddyClub Racing Spec Super Low Seat Rail Kit Nissan 350Z/G35 03-09](https://www.soloperformance.com//BuddyClub-Racing-Spec-Super-Low-Seat-Rail-Kit-Nissan-350ZG35-03-09_p_11496.html) to mount the seats into the car. All the parts arrived early last week, so I headed over to the shop on Sunday to work on removing the old seats and putting in the new ones.
 
@@ -24,9 +24,9 @@ In prep for STU I want to see what kind of weight I can get out of the car, I re
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SeUIINn3O50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A week or two ago I headed out to Solo Performance to try on a few different seats. I wanted something that would drop weight, and add some rigidity and support. SPS has quite the selection of seats, and had an [NRG Innovations FRP-310](https://www.soloperformance.com//NRG-Innovations-FRP-310-Racing-Bucket-Seat--Medium_p_11673.html), which is their medium, fixed back seat. I'm 6'4" and weigh 250lbs (working on dropping that weight as well), and I actually fit semi-comfortably in this seat. I chose to go with the [NRG Innovations FRP-300](https://www.soloperformance.com//NRG-Innovations-FRP-300-Racing-Bucket-Seat--Large_p_11672.html) instead however, this seat is the Large version of the one that SPS had in the shop.
+A week or two ago I headed out to Solo Performance to try on a few different seats. I wanted something that would drop weight, and add some rigidity and support. SPS has quite the selection of seats, and had an [NRG Innovations FRP-310](https://soloperformance.com/collections/seats-seat-brackets-and-accessories), which is their medium, fixed back seat. I'm 6'4" and weigh 250lbs (working on dropping that weight as well), and I actually fit semi-comfortably in this seat. I chose to go with the [NRG Innovations FRP-300](https://soloperformance.com/collections/seats-seat-brackets-and-accessories) instead however, this seat is the Large version of the one that SPS had in the shop.
 
-We weighed the seats, along with a mount, on the SPS shipping scale and were shocked at what we found, the scale read what we thought was 9 pounds for the seat and 4 pounds for the mount. Dave at SPS also ordered me a set of [BuddyClub Racing Spec Super Low Seat Rail Kit Nissan 350Z/G35 03-09](https://www.soloperformance.com//BuddyClub-Racing-Spec-Super-Low-Seat-Rail-Kit-Nissan-350ZG35-03-09_p_11496.html) to mount the seats into the car. All the parts arrived early last week, so I headed over to the shop on Sunday to work on removing the old seats, and putting in the new ones.
+We weighed the seats, along with a mount, on the SPS shipping scale and were shocked at what we found, the scale read what we thought was 9 pounds for the seat and 4 pounds for the mount. Dave at SPS also ordered me a set of [BuddyClub Racing Spec Super Low Seat Rail Kit Nissan 350Z/G35 03-09](https://soloperformance.com/collections/seats-seat-brackets-and-accessories) to mount the seats into the car. All the parts arrived early last week, so I headed over to the shop on Sunday to work on removing the old seats, and putting in the new ones.
 
 ![Seats in Bags](/assets/images/PublishThumbnails/Windows-Live-Writer/How-to-drop-40lbs-from-your-2003-350z-ne_1297A/SeatsinBags_2.jpg)
 

@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, seats ]
-author: "chris"
+author: chris
 publishDate: 2007-06-28T08:52:03+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/p240z-passenger-seat-mount-nearly-done"

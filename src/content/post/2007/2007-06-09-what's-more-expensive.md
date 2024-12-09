@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, tools ]
-author: "chris"
+author: chris
 publishDate: 2007-06-09T08:25:10+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/what-s-more-expensive"

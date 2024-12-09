@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, motor, engine, video ]
-author: "chris"
+author: chris
 publishDate: 2009-04-19T01:40:36+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/final-prep-for-engine-installation"

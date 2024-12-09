@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2007-08-29T18:51:02+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/a-day-late-dollar-short-ls1"

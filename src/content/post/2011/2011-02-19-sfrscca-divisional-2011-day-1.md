@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup ]
-author: "chris"
+author: chris
 publishDate: 2011-02-19T21:42:29+00:00
 updateDate: 2024-11-18T10:51:34-06:00
 url: "2011/sfrscca-divisional-2011-day-1"

@@ -1,5 +1,5 @@
 ---
-author: "chris"
+author: chris
 publishDate: 2023-01-23T13:29:20+00:00
 updateDate: 2024-11-18T13:26:36-06:00
 image: ~/assets/images/Helmet-1.jpg

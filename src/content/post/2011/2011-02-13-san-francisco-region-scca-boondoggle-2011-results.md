@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup, results ]
-author: "chris"
+author: chris
 publishDate: 2011-02-13T23:58:50+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2011/san-francisco-region-scca-boondoggle-2011-results"

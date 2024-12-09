@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup ]
-author: "chris"
+author: chris
 publishDate: 2010-08-10T00:47:03+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2010/ingen-super-ses-exhaust-leak-on-nissan-350z"
@@ -20,7 +20,7 @@ With the pipe out of the car I took a Dremel tool to the edges around the crack 
 
  <a href="https://www.flickr.com/photos/chammond/4873382223/"><img border="0" alt="350z Exhaust Leak" width="240" height="180" src="https://farm5.static.flickr.com/4121/4873382223_d18a9a3e9e_m.jpg" /></a> <a href="https://www.flickr.com/photos/chammond/4873378443/"><img border="0" alt="350z Exhaust Leak" width="240" height="180" src="https://farm5.static.flickr.com/4081/4873378443_2eae177604_m.jpg" /></a>
 
-After work tonight I went to O'Reilly and Kragen Auto Parts to get two new gaskets for the pipe and put everything back in the car. I started the car up and all was well, no leak! I took the car down off the jack stands, we'll see what the video looks like, but damn lucky I wasn't under the car when two of the jack stands came down! I seem to have good luck with themâ€¦.
+After work tonight I went to O'Reilly and Kragen Auto Parts to get two new gaskets for the pipe and put everything back in the car. I started the car up and all was well, no leak! I took the car down off the jack stands, we'll see what the video looks like, but damn lucky I wasn't under the car when two of the jack stands came down! I seem to have good luck with them.
 
 I took the car for a drive and thought all was well, the exhaust sounded great and I didn't hear any leaks. When I got home and pulled in the driveway however the leaks were back. I sure wish I hadn't sold the welder before we left Colorado! I would try my hand at fixing this, though I doubt I'd do well with the stainless steel.
 

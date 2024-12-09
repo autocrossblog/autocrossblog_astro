@@ -1,9 +1,9 @@
 ---
 tags: [ autocross, scion, fr-s, ssc, install, setup, specfrs ]
-author: "chris"
+author: chris
 publishDate: 2018-04-13T03:51:32+00:00
 updateDate: 2024-11-15T12:15:17-06:00
-url: "2018/autocross-alignment-in-st-louis-missouri"
+url: 2018/autocross-alignment-in-st-louis-missouri
 excerpt: "Follow the author's journey of realizing a purchasing error on car wheels, his hassle to get them replaced, and prepping for an upcoming local autocro..."
 title: "Autocross alignment in St. Louis Missouri"
 ---
@@ -20,7 +20,7 @@ Dave at Solo Performance knows his stuff, so he was able to get the car setup as
 - Front Camber: -3 degrees
 - Front Caster: 5.4 degrees
 - Front Toe: 0 inches
-- Rear Camber: â€“2.25 degrees
+- Rear Camber: 2.25 degrees
 - Rear Toe: 1/8" toe in
 
 [![SpecFRS.com Alignment](https://farm1.staticflickr.com/792/27530585808_1fe8647719_z.jpg)](https://www.flickr.com/photos/chammond/27530585808/in/photostream/)

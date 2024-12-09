@@ -1,7 +1,7 @@
 ---
 tags: [ 240z, datsun, fuel ]
 updateDate: 2024-10-09T13:21:54-05:00
-author: "chris"
+author: chris
 publishDate: 2007-07-27T09:53:11+00:00
 redirect_from: 
 url: "2007/wednesday-night-progress"

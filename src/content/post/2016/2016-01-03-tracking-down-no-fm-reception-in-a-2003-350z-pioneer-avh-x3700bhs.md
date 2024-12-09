@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan ]
-author: "chris"
+author: chris
 publishDate: 2016-01-03T23:41:23+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 image: ~/assets/images/PublishThumbnails/Open-Live-Writer/Tracking-down-no-FM-reception-in-a-2003-_13A5C/image_2.png

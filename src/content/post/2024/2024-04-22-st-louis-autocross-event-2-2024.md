@@ -1,6 +1,6 @@
 ---
 tags: [ autocross, scca, mustang, friends, st.louis, local ]
-author: "chris"
+author: chris
 publishDate: 2024-04-22T10:00:15+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 image: ~/assets/images/2024/April/StLouis/Event2-1.jpg

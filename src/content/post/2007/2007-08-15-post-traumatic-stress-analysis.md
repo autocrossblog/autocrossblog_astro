@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, motor ]
-author: "chris"
+author: chris
 publishDate: 2007-08-15T00:35:01+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/post-traumatic-stress-analysis"

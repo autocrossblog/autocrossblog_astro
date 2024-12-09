@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2007-06-27T11:15:00+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/p240z-fabricating-a-seat-bracket"

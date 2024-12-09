@@ -1,7 +1,7 @@
 ---
 tags: [ 350z, nissan ]
 updateDate: 2024-11-15T12:15:17-06:00
-author: "chris"
+author: chris
 publishDate: 2016-11-15T00:39:38+00:00
 redirect_from: 
 url: "2016/stu-2003-nissan-350z-for-sale-project350z-v3"

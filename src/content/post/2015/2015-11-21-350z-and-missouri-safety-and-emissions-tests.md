@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan ]
-author: "chris"
+author: chris
 publishDate: 2015-11-21T00:06:29+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 image: ~/assets/images/PublishThumbnails/Windows-Live-Writer/dfc33fa77b34_14347/image_thumb.png

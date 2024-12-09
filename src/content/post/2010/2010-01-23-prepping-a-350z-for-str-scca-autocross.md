@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, bsp, str, scca ]
-author: "chris"
+author: chris
 publishDate: 2010-01-23T21:59:33+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2010/prepping-a-350z-for-str-scca-autocross"

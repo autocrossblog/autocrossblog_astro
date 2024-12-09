@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2009-07-05T23:52:31+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/back-on-the-wagon"

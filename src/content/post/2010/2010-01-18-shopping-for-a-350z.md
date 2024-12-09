@@ -1,6 +1,6 @@
 ---
 tags: [ 350z ]
-author: "chris"
+author: chris
 publishDate: 2010-01-18T01:26:31+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2010/shopping-for-a-350z"

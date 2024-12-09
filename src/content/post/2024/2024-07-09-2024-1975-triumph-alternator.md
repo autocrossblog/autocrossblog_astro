@@ -1,10 +1,9 @@
 ---
 tags: [ triumph, tr6 ]
-author: "chris"
+author: chris
 image: ~/assets/images/2024/July/TR6Alternator/TR6Alternator-1.jpg
 publishDate: 2024-07-09T20:00:15+00:00
 updateDate: 2024-11-18T10:34:13-06:00
-# last_modified_at: 2024-07-08T16:50:08+00:00
 keywords: triumph, tr6, alternator, british, sports car, 13107N
 url: "2024/triumph-tr6-alternator-replacement"
 excerpt: "A little documentation on some of the struggles I had with the alternator in my Dad's 1975 TR6"
@@ -17,7 +16,18 @@ So now for a little story about the Triumph. The first of potentially many. Anot
 
 What Triumph you might ask? My Dad purchased this car in 1985 when he was stationed at Seymour Johnson Air Force Base in North Carolina. He owned the car up until he passed away in September of 2023. My brother and I have both decided that the car won't leave the family, so I've got it at home in my garage for now, at some point he will likely take it too.
 
-{% picture 2024/July/TR6Alternator/tr6.jpg --alt 1975 Triumph TR6 at the LeCave Trailhead in Wildwood Missouri, loaded with hockey equipment  %}
+<!-- {% picture 2024/July/TR6Alternator/tr6.jpg --alt 1975 Triumph TR6 at the LeCave Trailhead in Wildwood Missouri, loaded with hockey equipment  %} -->
+
+<Image 
+  src="/src/assets/images/2024/July/TR6Alternator/tr6.jpg" 
+  alt="1975 Triumph TR6 at the LeCave Trailhead in Wildwood Missouri, loaded with hockey equipment" 
+  title="1975 Triumph TR6 at the LeCave Trailhead in Wildwood Missouri, loaded with hockey equipment" 
+  width={600} 
+  height={400} 
+  layout="responsive" 
+/>
+
+
 
 So let's get into some details. The Triumph has been in decent shape for its whole life, Dad used to spend hours working on it, seeing him do that got me doing the same on my [1973 Super Beetle](https://www.projectvw.com) back in the day. The last time I drove it, either late last year, or early this year, I was taking it from the house to my parent's storage unit, wanting to get it out of our garage for the winter so that we could get some of our own vehicles in the garage, and at the time I also still had [the Corvette in the garage](https://www.autocrossblog.com/2008-corvette-for-sale). 
 

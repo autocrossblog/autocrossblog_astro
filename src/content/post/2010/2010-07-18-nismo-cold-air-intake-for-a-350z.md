@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup ]
-author: "chris"
+author: chris
 publishDate: 2010-07-18T23:39:34+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2010/nismo-cold-air-intake-for-a-350z"

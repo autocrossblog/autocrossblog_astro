@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, megasquirt ]
-author: "chris"
+author: chris
 publishDate: 2007-07-06T00:24:52+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/project-240z-what-s-next"

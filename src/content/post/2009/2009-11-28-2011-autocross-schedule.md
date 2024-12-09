@@ -1,6 +1,6 @@
 ---
 tags: [ schedule, 350z ]
-author: "chris"
+author: chris
 publishDate: 2009-11-28T02:17:21+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/2011-autocross-schedule"

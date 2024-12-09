@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan ]
-author: "chris"
+author: chris
 publishDate: 2011-06-15T00:58:01+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2011/let-there-be-sound-and-im-going-to-nationals-not-in-the-350z"

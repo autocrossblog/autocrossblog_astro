@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2007-07-21T00:30:00+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/the-motor-resides-inside-again"

@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, engine, video, megasquirt ]
-author: "chris"
+author: chris
 publishDate: 2009-04-25T21:59:13+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/wiring-up-the-engine-and-attempting-to-start"

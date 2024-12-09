@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan ]
-author: "chris"
+author: chris
 publishDate: 2015-11-07T00:48:18+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 image: ~/assets/images/PublishThumbnails/Windows-Live-Writer/Introducing-Project350z-V3_14AF6/image_thumb_1.png

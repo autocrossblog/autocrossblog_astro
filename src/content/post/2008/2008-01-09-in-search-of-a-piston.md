@@ -1,7 +1,7 @@
 ---
 tags: [ 240z, datsun ]
 updateDate: 2024-11-15T12:15:17-06:00
-author: "chris"
+author: chris
 publishDate: 2008-01-09T02:53:27+00:00
 redirect_from: 
 url: "2008/in-search-of-a-piston"

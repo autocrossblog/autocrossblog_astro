@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2009-08-12T23:00:10+00:00
 updateDate: 2024-11-17T22:47:19-06:00
 image: ~/assets/images/2009/twoyearsago.jpg

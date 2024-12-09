@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup, nationaltour, national-tour ]
-author: "chris"
+author: chris
 publishDate: 2011-04-04T01:16:23+00:00
 updateDate: 2024-11-18T08:39:29-06:00
 url: "2011/san-diego-national-tour-day-2"

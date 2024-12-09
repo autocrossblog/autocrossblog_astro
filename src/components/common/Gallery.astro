@@ -19,8 +19,6 @@ const format = 'webp'; // Desired image format
 let imagesWithMetadata = [];
 
 try {
-  //  console.log('Resolved public gallery path:', publicGalleryPath);
-
     // Get all image files in the gallery directory
     const imageFiles = (await fs.readdir(imagesDirectory)).filter((file) =>
       /\.(jpg|jpeg|png|webp)$/i.test(file)

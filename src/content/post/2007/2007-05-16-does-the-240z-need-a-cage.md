@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2007-05-16T22:54:01+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/does-the-240z-need-a-cage"

@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, 280z, engine, motor, 2.8l, parts, video ]
-author: "chris"
+author: chris
 publishDate: 2007-02-25T00:00:00+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/project-240z-day-2-of-parts-car-motor-pull"

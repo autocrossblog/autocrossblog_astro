@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2007-02-21T11:45:51+00:00
 updateDate: 2024-11-15T15:41:43-06:00
 url: "2007/you-re-invited-this-weekend-good-luck-at-the-100-acre-wood"

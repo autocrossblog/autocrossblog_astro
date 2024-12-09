@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2009-10-02T00:10:40+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/fuse-block/panel-acquired"
@@ -14,4 +14,4 @@ Part of the wiring problem I've had is that I needed to get a fuse block to star
 
 I'm not going to deal with a key for the car, this car long run isn't going to be something someone will be able to walk up and start anyways.
 
-So we'll see how far I get, I may also have to go look at this on Saturdayâ€¦. (link to welder removed)
+So we'll see how far I get, I may also have to go look at this on Saturday. (link to welder removed)

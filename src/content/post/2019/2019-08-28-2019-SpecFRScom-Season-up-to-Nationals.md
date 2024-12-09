@@ -1,6 +1,6 @@
 ---
 tags: [ autocross, fr-s, ssc, setup, specfrs ]
-author: "chris"
+author: chris
 publishDate: 2019-08-28T03:26:48+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2019/2019-specfrscom-season-up-to-nationals"

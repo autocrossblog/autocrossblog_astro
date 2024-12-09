@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, motor, pictures, photos ]
-author: "chris"
+author: chris
 publishDate: 2008-01-09T11:35:34+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2008/say-it-isn-t-so-we-ve-found-the-piston"

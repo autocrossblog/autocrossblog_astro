@@ -1,6 +1,6 @@
 ---
 tags: [ autocross, toyota, fr-s, ssc, setup, specfrs ]
-author: "chris"
+author: chris
 publishDate: 2018-06-06T18:29:53+00:00
 updateDate: 2024-11-18T10:51:34-06:00
 url: "2018/exceptional-results-in-lincoln-nebraska"

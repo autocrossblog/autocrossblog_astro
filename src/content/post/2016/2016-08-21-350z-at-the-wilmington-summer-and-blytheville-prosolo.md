@@ -1,9 +1,9 @@
 ---
-tags: [ 350z, nissan ]
-author: "chris"
+tags: [ 350z, nissan, prosolo ]
+author: chris
 publishDate: 2016-08-21T23:18:44+00:00
-updateDate: 2024-11-15T12:15:17-06:00
-url: "2016/350z-at-the-wilmington-summer-and-blytheville-prosolo"
+updateDate: 2024-12-09T10:15:17-06:00
+url: 2016/350z-at-the-wilmington-summer-and-blytheville-prosolo
 excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
 title: "350z at the Wilmington Summer and Blytheville ProSolo"
 ---
@@ -14,7 +14,7 @@ So the 2016 ProSolo series is nearing its end, with the final two events of the 
 
 I ended up disconnecting the rear sway bar after the Saturday morning runs, that made a world of difference on the car. I was finally able to control the car without constant fear of the back end breaking free on me. That being said, the back end did plenty of braking free all weekend, mainly through the finish!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YouTube:Yh6jAPgv2-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yh6jAPgv2-0?si=XYyOL-OZ5K8H47ml" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I didn't end up getting the times I needed to in the car, finished somewhere 5th or 6th place, not even worth remembering!
 

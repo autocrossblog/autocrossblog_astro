@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2008-12-09T03:12:31+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2008/progress-on-the-240z-yeah-right"

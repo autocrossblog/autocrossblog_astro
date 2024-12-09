@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2009-04-17T00:21:12+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/a-weekend-of-working-on-the-240z-coming-up"

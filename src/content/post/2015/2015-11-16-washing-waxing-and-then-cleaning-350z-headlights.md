@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan ]
-author: "chris"
+author: chris
 publishDate: 2015-11-16T00:57:03+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 image: ~/assets/images/PublishThumbnails/Windows-Live-Writer/1c3584c943ab_12BEC/Headlight-progress_2.jpg

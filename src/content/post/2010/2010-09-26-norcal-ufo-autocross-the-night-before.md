@@ -1,5 +1,5 @@
 ---
-author: "chris"
+author: chris
 publishDate: 2010-09-26T00:29:14+00:00
 updateDate: 2024-11-15T11:49:11-06:00
 url: "2010/norcal-ufo-autocross-the-night-before"

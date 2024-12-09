@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2007-03-04T08:16:23+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/good-news-on-the-project-front"

@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup, suspension, koni, install, tutorial ]
-author: "chris"
+author: chris
 publishDate: 2010-12-31T03:00:36+00:00
 updateDate: 2024-11-18T10:51:34-06:00
 image: ~/assets/images/ProjectZ/KoniInstall/350Z-Koni-Install-1.jpg

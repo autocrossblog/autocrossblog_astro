@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan ]
-author: "chris"
+author: chris
 publishDate: 2012-01-19T02:00:07+00:00
 updateDate: 2024-11-18T10:51:34-06:00
 url: "2012/undoing-the-modifications-to-the-350z-suspension-and-exhaust"

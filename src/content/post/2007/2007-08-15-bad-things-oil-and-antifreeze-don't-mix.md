@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2007-08-15T05:34:02+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/bad-things-oil-and-antifreeze-don-t-mix"

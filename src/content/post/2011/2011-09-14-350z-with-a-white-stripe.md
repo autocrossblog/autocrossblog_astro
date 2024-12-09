@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan ]
-author: "chris"
+author: chris
 publishDate: 2011-09-14T01:10:33+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 image: ~/assets/images/2024/April/350zWhiteStripe/350zWhiteStripe-1.jpg

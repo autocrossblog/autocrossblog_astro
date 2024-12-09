@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup, photos, photography, camera, gopro ]
-author: "chris"
+author: chris
 publishDate: 2011-01-31T19:42:27+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2011/how-do-you-travel-with-your-video-equipment"

@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, interior ]
-author: "chris"
+author: chris
 publishDate: 2009-08-18T00:56:52+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 image: ~/assets/images/240z/sansdash.jpg

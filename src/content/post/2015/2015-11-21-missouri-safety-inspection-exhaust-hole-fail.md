@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan ]
-author: "chris"
+author: chris
 publishDate: 2015-11-21T00:14:28+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 image: ~/assets/images/PublishThumbnails/Windows-Live-Writer/Missouri-Safety-inspection-exhaust-hole-_14613/image_2.png
@@ -23,6 +23,6 @@ I figured out that my SLIP light that keeps coming on is not related to my wheel
 
 This morning I took the car back to Dobbs to get the safety and emissions inspections done. Good news is that the car passed the emissions check! The bad news is that apparently exhaust repairs need to be welds, not tape...
 
-So, next weekend I'll head down to Solo Performance Specialtiesâ€‹ and weld something onto the pipe to close up the exhaust.
+So, next weekend I'll head down to Solo Performance Specialties and weld something onto the pipe to close up the exhaust.
 
 This winter I will replace the exhaust entirely, but for now I just need to pass the darn safety inspection.

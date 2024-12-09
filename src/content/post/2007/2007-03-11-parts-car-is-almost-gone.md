@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2007-03-11T05:36:48+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/parts-car-is-almost-gone"

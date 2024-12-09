@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup ]
-author: "chris"
+author: chris
 publishDate: 2010-04-01T00:27:05+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2010/buying-a-modded-car"

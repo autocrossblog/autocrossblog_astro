@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, megasquirt ]
-author: "chris"
+author: chris
 publishDate: 2007-07-16T09:14:37+00:00
 updateDate: 2024-11-18T08:39:29-06:00
 url: "2007/all-in-a-day-s-paint"

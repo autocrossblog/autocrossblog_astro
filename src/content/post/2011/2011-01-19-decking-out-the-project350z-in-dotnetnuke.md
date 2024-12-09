@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, vinyl ]
-author: "chris"
+author: chris
 publishDate: 2011-01-19T01:48:43+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2011/decking-out-the-project350z-in-dotnetnuke"

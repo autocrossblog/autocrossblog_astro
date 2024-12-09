@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, seats, friends ]
-author: "chris"
+author: chris
 publishDate: 2009-11-19T17:10:59+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2009/no-seats-and-check-out-our-sister-site"

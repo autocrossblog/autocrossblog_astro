@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup ]
-author: "chris"
+author: chris
 publishDate: 2011-03-05T23:02:50+00:00
 updateDate: 2024-11-18T10:51:34-06:00
 url: "2011/excellent-customer-service-from-gopro"

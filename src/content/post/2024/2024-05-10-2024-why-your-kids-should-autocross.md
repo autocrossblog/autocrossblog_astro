@@ -1,6 +1,6 @@
 ---
 tags: [ autocross, family, education, teens ]
-author: "chris"
+author: chris
 publishDate: 2024-05-10T12:00:15+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 image: ~/assets/images/2024/May/teenautocross.jpg
@@ -43,4 +43,4 @@ Autocross events are communal, bringing together like-minded individuals. This c
 As one of the more affordable motorsport options, autocross allows teens to engage in racing without the high costs associated with other types of motorsports, making it accessible for families.
 
 #### Conclusion
-Autocross is not merely about driving fast; itâ€™s a comprehensive educational tool that offers numerous benefits. It equips teens with advanced driving skills, encourages a mature attitude towards driving, and provides a supportive community, all within a framework that prioritizes safety and responsibility.
+Autocross is not merely about driving fast; it's a comprehensive educational tool that offers numerous benefits. It equips teens with advanced driving skills, encourages a mature attitude towards driving, and provides a supportive community, all within a framework that prioritizes safety and responsibility.

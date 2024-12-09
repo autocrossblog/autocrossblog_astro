@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2009-09-03T22:26:45+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/labor-day-weekend-and-working-on-the-240z"

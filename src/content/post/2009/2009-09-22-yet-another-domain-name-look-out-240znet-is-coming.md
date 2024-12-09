@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2009-09-22T23:14:50+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/yet-another-domain-name-look-out-240znet-is-coming"

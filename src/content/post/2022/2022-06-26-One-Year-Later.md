@@ -1,6 +1,6 @@
 ---
 tags: [ autocross, fr-s, ssc, setup, accident ]
-author: "chris"
+author: chris
 publishDate: 2022-06-27T10:00:15+00:00
 updateDate: 2024-11-16T23:05:53-06:00
 image: ~/assets/images/6-27-2022/LightPole-1.jpg

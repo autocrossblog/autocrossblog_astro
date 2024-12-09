@@ -1,9 +1,9 @@
 ---
 tags: [ autocross, toyota, scion, fr-s, ssc ]
-author: "chris"
+author: chris
 publishDate: 2018-04-26T02:58:53+00:00
-updateDate: 2024-10-09T13:21:54-05:00
-url: "2018/ssc-contingency-opportunities"
+updateDate: 2024-12-09T10:21:54-05:00
+url: 2018/ssc-contingency-opportunities
 excerpt: "Blog post that lists off some SCCA Contingency availabile to SSC, this post was for 2018"
 title: "SSC Contingency Opportunities"
 ---
@@ -21,10 +21,10 @@ What's the catch with contingencies? Well, you typically (almost always) have to
 [![Spec FR-S Decked Out](https://farm1.staticflickr.com/964/39900291410_b5302163bd.jpg)](https://www.flickr.com/photos/chammond/39900291410/in/dateposted/)
 
 For SSC, here are the contingencies that I believe to be applicable:
-- TRD â€“ ProSolo
-- Falken Tire â€“ ProSolo & Champ/Match Tours
+- TRD ProSolo
+- Falken Tire ProSolo & Champ/Match Tours
 - Hawk Performance Brakes - ProSolo & Champ/Match Tours
-- [Solo Performance Specialties](https://www.soloperformance.com/) â€“ Champ/Match Tours
-- RaceChick.com â€“ ProSolo (ladies)
+- [Solo Performance Specialties](https://www.soloperformance.com/) Champ/Match Tours
+- RaceChick.com ProSolo (ladies)
 
 The amounts will all vary, but Falken for example will pay $300 for first, $200 for second and $100 for third.

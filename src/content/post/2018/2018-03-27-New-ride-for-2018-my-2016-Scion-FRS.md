@@ -1,6 +1,6 @@
 ---
 tags: [ toyota, scion, fr-s ]
-author: "chris"
+author: chris
 publishDate: 2018-03-27T03:32:58+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2018/new-ride-for-2018-my-2016-scion-frs"

@@ -1,6 +1,6 @@
 ---
 tags: [ video, 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2009-10-08T18:05:00+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/back-in-action-in-the-garage-first-video-from-colorado"

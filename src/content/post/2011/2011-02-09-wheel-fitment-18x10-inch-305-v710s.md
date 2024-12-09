@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup, wheels ]
-author: "chris"
+author: chris
 publishDate: 2011-02-09T01:06:57+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 image: ~/assets/images/350z/rpf1s.jpg

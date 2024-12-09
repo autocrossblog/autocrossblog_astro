@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2008-09-30T23:47:03+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2008/fall-2008-it-begins-again"

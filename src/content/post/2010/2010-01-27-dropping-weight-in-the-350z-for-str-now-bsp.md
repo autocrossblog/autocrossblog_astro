@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup, bsp ]
-author: "chris"
+author: chris
 publishDate: 2010-01-27T23:53:21+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2010/dropping-weight-in-the-350z-for-str-now-bsp"

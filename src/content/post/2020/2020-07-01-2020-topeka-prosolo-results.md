@@ -1,6 +1,6 @@
 ---
 tags: [ autocross, fr-s, ssc, setup, results, specfrs ]
-author: "chris"
+author: chris
 publishDate: 2020-07-01T16:01:15+00:00
 updateDate: 2024-11-18T10:51:34-06:00
 image: ~/assets/images/TopekaProSoloTrophy.jpg

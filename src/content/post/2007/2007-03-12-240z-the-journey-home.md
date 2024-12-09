@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, 280z ]
-author: "chris"
+author: chris
 publishDate: 2007-03-12T05:11:11+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/240z-the-journey-home"

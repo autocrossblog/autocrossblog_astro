@@ -1,6 +1,6 @@
 ---
 tags: [ electric ]
-author: "chris"
+author: chris
 publishDate: 2009-10-08T18:22:16+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/should-i-make-the-240z-electric"

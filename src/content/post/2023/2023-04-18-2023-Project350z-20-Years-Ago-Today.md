@@ -1,6 +1,6 @@
 ---
 tags: [ 350z ]
-author: "chris"
+author: chris
 publishDate: 2023-04-18T10:00:20+00:00
 updateDate: 2024-11-15T12:19:51-06:00
 image: ~/assets/images/April2003/April2003-1.jpg

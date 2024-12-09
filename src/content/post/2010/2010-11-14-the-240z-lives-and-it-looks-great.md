@@ -1,6 +1,6 @@
 ---
 tags: [ datsun, 240z, colorado ]
-author: "chris"
+author: chris
 publishDate: 2010-11-14T01:50:22+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 image: ~/assets/images/green.jpg

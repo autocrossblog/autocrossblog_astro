@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2009-08-24T00:59:55+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/organizing-the-garage-and-guess-what-i-found"

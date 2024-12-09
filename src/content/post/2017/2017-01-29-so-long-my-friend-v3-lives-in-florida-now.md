@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan ]
-author: "chris"
+author: chris
 publishDate: 2017-01-29T15:37:08+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2017/so-long-my-friend-v3-lives-in-florida-now"

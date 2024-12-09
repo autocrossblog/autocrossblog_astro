@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup, suspension, video ]
-author: "chris"
+author: chris
 publishDate: 2011-03-25T02:10:52+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2011/success-the-bushings-are-removed-from-the-upper-control-arms"
@@ -14,7 +14,7 @@ Last night I spent some time trying to get the bushings out again, I didn't have
 
 Tonight I mounted the vise to my workbench and got to work. It didn't take long, with the vise in place I was able to knock out the first bushing. The 2nd and 3rd took a little work, but were much easier than the first one.
 
-The 4th one was a breeze, though I think it was too easy for a reason. I may have cut a little too deep into the control armâ€¦ bah! I may have to go ahead and order another OEM replacement arm just to be safe. Fortunately, the cut doesn't go across the whole arm, but we'll see. I would hate to think what could happen if that arm broke while I was driving down the highway.
+The 4th one was a breeze, though I think it was too easy for a reason. I may have cut a little too deep into the control arm bah! I may have to go ahead and order another OEM replacement arm just to be safe. Fortunately, the cut doesn't go across the whole arm, but we'll see. I would hate to think what could happen if that arm broke while I was driving down the highway.
 
 Here's a shot of the arm sans bushing, the cut is on the inside (far side):
 

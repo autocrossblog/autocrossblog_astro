@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, video, 280z ]
-author: "chris"
+author: chris
 publishDate: 2007-02-24T00:00:00+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/project-240z-day-1-of-parts-car-motor-pull-2-24"

@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2007-04-01T08:50:08+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/end-of-march-15-days-left"

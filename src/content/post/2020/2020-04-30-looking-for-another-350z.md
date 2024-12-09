@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan ]
-author: "chris"
+author: chris
 publishDate: 2020-04-30T15:29:20+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 image: ~/assets/images/i/12-31-12/hg7.jpg

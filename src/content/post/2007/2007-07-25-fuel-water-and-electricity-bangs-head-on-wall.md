@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, megasquirt ]
-author: "chris"
+author: chris
 publishDate: 2007-07-25T11:30:59+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/fuel-water-and-electricity-bangs-head-on-wall"

@@ -1,5 +1,5 @@
 ---
-author: "chris"
+author: chris
 publishDate: 2007-08-15T08:54:26+00:00
 updateDate: 2024-11-15T11:49:11-06:00
 url: "2007/project240z-post-traumatic-stress-analysis"

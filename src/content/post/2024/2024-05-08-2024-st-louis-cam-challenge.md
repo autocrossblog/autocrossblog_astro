@@ -1,6 +1,6 @@
 ---
 tags: [ autocross, nationaltour, national-tour, scca, mustang, friends, st.louis, local, cam ]
-author: "chris"
+author: chris
 publishDate: 2024-05-08T10:00:15+00:00
 updateDate: 2024-11-18T08:39:29-06:00
 image: ~/assets/images/2024/May/CAMChallenge/BethCones.jpg
@@ -25,7 +25,7 @@ The CAM Challenge follows a structured format:
 
 Driving the **Solo Performance Specialties 2012 Mustang GT**, I started strong. Despite a cone penalty which invalidated my potentially leading run of 42.178 seconds on Saturday morning, I finished in 5th place with a clean 42.938 seconds.
 
-The afternoon session showed significant improvement, despite being shortened. I clinched a 4th place finish in class with a clean run of 41.832 seconds, overcoming previous cone penalties and positioning myself well for Sundayâ€™s challenge.
+The afternoon session showed significant improvement, despite being shortened. I clinched a 4th place finish in class with a clean run of 41.832 seconds, overcoming previous cone penalties and positioning myself well for Sunday's challenge.
 
 <a href="https://photos.rainbowmarks.com/2024/Autocross/STL-CAM-Challenge">{% picture 2024/May/CAMChallenge/CAMChallenge-2.jpg --alt Adam Buffa Toyota Supra %}</a>
 

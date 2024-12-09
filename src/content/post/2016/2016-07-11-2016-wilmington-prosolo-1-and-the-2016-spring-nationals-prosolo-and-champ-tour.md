@@ -1,7 +1,7 @@
 ---
 tags: [ 350z, nissan, prosolo, ohio, peru, indiana, grissom ]
 updateDate: 2024-11-18T10:51:34-06:00
-author: "chris"
+author: chris
 publishDate: 2016-07-11T00:44:14+00:00
 redirect_from: 
 url: "2016/2016-wilmington-prosolo-1-and-the-2016-spring-nationals-prosolo-and-champ-tour"

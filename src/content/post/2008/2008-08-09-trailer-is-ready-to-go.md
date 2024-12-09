@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun ]
-author: "chris"
+author: chris
 publishDate: 2008-08-09T06:24:26+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2008/trailer-is-ready-to-go"

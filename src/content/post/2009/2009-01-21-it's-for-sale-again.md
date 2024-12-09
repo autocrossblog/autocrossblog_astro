@@ -1,6 +1,6 @@
 ---
 tags: [ 240z, datsun, megasquirt, forsale ]
-author: "chris"
+author: chris
 publishDate: 2009-01-21T03:54:20+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/its-for-sale-again"

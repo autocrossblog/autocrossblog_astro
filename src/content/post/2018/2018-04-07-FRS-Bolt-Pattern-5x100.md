@@ -1,6 +1,6 @@
 ---
 tags: [ autocross, toyota, scion, fr-s, ssc, install, setup ]
-author: "chris"
+author: chris
 publishDate: 2018-04-07T03:10:51+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2018/frs-bolt-pattern-5x100"

@@ -1,6 +1,6 @@
 ---
 tags: [ autocross, scion, fr-s, ssc, setup, specfrs ]
-author: "chris"
+author: chris
 publishDate: 2018-04-16T02:14:13+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2018/first-event-in-ssc"

@@ -1,6 +1,6 @@
 ---
 tags: [ 350z, nissan, setup ]
-author: "chris"
+author: chris
 publishDate: 2011-04-10T01:01:13+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2011/el-toro-prosolo-day-1"
