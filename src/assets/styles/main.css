@@ -46,29 +46,3 @@
     padding: 6px 10px;
   }
 }
-
-/* Ensure the image fits the container without cropping */
-.pswp__img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain; /* Ensures the entire image is visible */
-}
-
-/* Center the lightbox content */
-.pswp__item {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%; /* Ensures the lightbox scales properly to viewport height */
-}
-
-/* Optional: Adjust the lightbox background for better contrast */
-.pswp__bg {
-  background-color: rgba(0, 0, 0, 0.9); /* Slightly darker for better focus */
-}
-
-@media (max-width: 768px) {
-  .pswp__item {
-    padding: 0 10px; /* Add slight padding to avoid edge clipping */
-  }
-}

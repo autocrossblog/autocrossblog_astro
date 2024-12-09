@@ -12,18 +12,9 @@
     const gallery = document.querySelector('.gallery');
     const children = gallery ? gallery.querySelectorAll('a') : null;
 
-    if (!gallery) {
-      console.error('Gallery element not found.');
-      return;
+    if (!gallery || !children || children.length === 0) {
+      return; // Exit if gallery or child links are missing
     }
-
-    if (!children || children.length === 0) {
-      console.error('No child links (anchor tags) found in the gallery.');
-      return;
-    }
-
-    console.log('Gallery found:', gallery);
-    console.log('Child links:', children);
 
     const lightbox = new PhotoSwipeLightbox({
       gallery: '.gallery',
@@ -51,7 +42,7 @@
             let captionHTML = 'No caption available';
             if (currSlideElement) {
               const hiddenCaption = currSlideElement.getAttribute('data-pswp-description');
-              captionHTML = hiddenCaption ? hiddenCaption : captionHTML;
+              captionHTML = hiddenCaption || captionHTML;
             }
 
             el.innerHTML = captionHTML;
@@ -62,63 +53,31 @@
 
     // Handle image content load
     lightbox.on('contentLoad', (e) => {
-      console.log('ContentLoad event:', e);
-
-      // Handle lazy loading scenario
-      if (e.isLazy) {
-        console.warn('Slide is undefined for lazy-loaded content:', e);
-        return;
-      }
+      if (e.isLazy) return;
 
       const slide = e.content?.slide;
-      if (!slide) {
-        console.warn('Slide is undefined in contentLoad event:', e);
-        return;
-      }
-
       const element = slide?.data?.element;
-      if (!element) {
-        console.warn('Slide element is missing:', slide);
-        return;
-      }
+      const srcset = element?.getAttribute('data-srcset');
 
-      const srcset = element.getAttribute('data-srcset');
-      if (!srcset) {
-        console.warn('Missing srcset for slide:', slide);
-        return;
-      }
+      if (!slide || !element || !srcset) return;
 
-      // Wait for the container to be ready
-      if (!slide.container) {
-        console.warn('Slide container not ready, deferring action:', slide);
-        // Attach a listener for `afterAppendSlide` to handle the container once it's ready
-        slide.pswp.on('afterAppendSlide', () => {
-          if (slide.container) {
-            const img = slide.container.querySelector('img');
-            if (img) {
-              img.setAttribute('srcset', srcset);
-              img.setAttribute('sizes', '(max-width: 768px) 90vw, (max-width: 1200px) 50vw, 30vw');
-              console.log('Deferred update for img srcset and sizes:', img);
-            } else {
-              console.warn('Deferred action: img still missing in container:', slide.container);
-            }
-          }
-        });
-        return;
-      }
+      // Handle immediate or deferred update
+      const updateImage = (container) => {
+        const img = container?.querySelector('img');
+        if (img) {
+          img.setAttribute('srcset', srcset);
+          img.setAttribute('sizes', '(max-width: 768px) 90vw, (max-width: 1200px) 50vw, 30vw');
+        }
+      };
 
-      // Handle immediate action for non-lazy-loaded slides
-      const img = slide.container.querySelector('img');
-      if (img) {
-        img.setAttribute('srcset', srcset);
-        img.setAttribute('sizes', '(max-width: 768px) 90vw, (max-width: 1200px) 50vw, 30vw');
-        console.log('Immediate update for img srcset and sizes:', img);
+      if (slide.container) {
+        updateImage(slide.container);
       } else {
-        console.warn('Immediate action: img missing in container:', slide.container);
+        slide.pswp.on('afterAppendSlide', () => {
+          updateImage(slide.container);
+        });
       }
     });
-
-
 
     lightbox.init();
   };
