@@ -1,6 +1,6 @@
 site:
   name: AutocrossBlog
-  site: 'https://astro.autocrossblog.com'
+  site: 'https://www.autocrossblog.com'
   base: '/' # '/AutocrossBlog_astro/'
   trailingSlash: false
 

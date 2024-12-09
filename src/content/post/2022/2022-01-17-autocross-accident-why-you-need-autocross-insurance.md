@@ -90,4 +90,4 @@ What's next for me? Well right now I have an order in for a new Nissan Z, and a 
 I ended up cancelling my Nissan Z order, have had the 2022 F-250 for just about 2 years now. What's next? Coming soon
 
 ## Update: 12/5/2024
-Rinse and repeat! Another 2016 FRS is in the stable.
+[Rinse and repeat! Another 2016 FRS is in the stable.](/2024/newwebsite)
