@@ -1,5 +1,5 @@
 ---
---- 
+---
 <script>
   import PhotoSwipeLightbox from 'photoswipe/lightbox';
   import 'photoswipe/style.css';
@@ -9,9 +9,25 @@
   }
 
   window.initPhotoSwipe = () => {
+    const gallery = document.querySelector('.gallery');
+    const children = gallery ? gallery.querySelectorAll('a') : null;
+
+    if (!gallery) {
+      console.error('Gallery element not found.');
+      return;
+    }
+
+    if (!children || children.length === 0) {
+      console.error('No child links (anchor tags) found in the gallery.');
+      return;
+    }
+
+    console.log('Gallery found:', gallery);
+    console.log('Child links:', children);
+
     const lightbox = new PhotoSwipeLightbox({
-      gallery: '.gallery', // Ensure this matches the gallery container class
-      children: 'a', // Ensure child elements are the anchor tags in the gallery
+      gallery: '.gallery',
+      children: 'a',
       initialZoomLevel: (zoomLevelObject) => {
         return isPhonePortrait() ? zoomLevelObject.vFill : zoomLevelObject.fit;
       },
@@ -30,7 +46,6 @@
         html: '', // Placeholder for captions
         onInit: (el, pswp) => {
           pswp.on('change', () => {
-            // Safely check for currSlide and data existence
             const currSlideElement = pswp.currSlide?.data?.element || null;
 
             let captionHTML = 'No caption available';
@@ -45,29 +60,72 @@
       });
     });
 
+    // Handle image content load
     lightbox.on('contentLoad', (e) => {
-  const slide = e.slide;
+      console.log('ContentLoad event:', e);
 
-  if (slide?.data?.element) {
-    const srcset = slide.data.element.getAttribute('data-srcset');
-    const img = slide.container?.querySelector('img');
+      // Handle lazy loading scenario
+      if (e.isLazy) {
+        console.warn('Slide is undefined for lazy-loaded content:', e);
+        return;
+      }
 
-    if (srcset && img) {
-      img.setAttribute('srcset', srcset);
-      img.setAttribute('sizes', '(max-width: 768px) 90vw, (max-width: 2000px) 50vw, 30vw');
-      console.log('Applied srcset:', srcset);
-    }
-  } else {
-    console.warn('Slide data or element is missing:', slide);
-  }
-});
+      const slide = e.content?.slide;
+      if (!slide) {
+        console.warn('Slide is undefined in contentLoad event:', e);
+        return;
+      }
+
+      const element = slide?.data?.element;
+      if (!element) {
+        console.warn('Slide element is missing:', slide);
+        return;
+      }
+
+      const srcset = element.getAttribute('data-srcset');
+      if (!srcset) {
+        console.warn('Missing srcset for slide:', slide);
+        return;
+      }
+
+      // Wait for the container to be ready
+      if (!slide.container) {
+        console.warn('Slide container not ready, deferring action:', slide);
+        // Attach a listener for `afterAppendSlide` to handle the container once it's ready
+        slide.pswp.on('afterAppendSlide', () => {
+          if (slide.container) {
+            const img = slide.container.querySelector('img');
+            if (img) {
+              img.setAttribute('srcset', srcset);
+              img.setAttribute('sizes', '(max-width: 768px) 90vw, (max-width: 1200px) 50vw, 30vw');
+              console.log('Deferred update for img srcset and sizes:', img);
+            } else {
+              console.warn('Deferred action: img still missing in container:', slide.container);
+            }
+          }
+        });
+        return;
+      }
+
+      // Handle immediate action for non-lazy-loaded slides
+      const img = slide.container.querySelector('img');
+      if (img) {
+        img.setAttribute('srcset', srcset);
+        img.setAttribute('sizes', '(max-width: 768px) 90vw, (max-width: 1200px) 50vw, 30vw');
+        console.log('Immediate update for img srcset and sizes:', img);
+      } else {
+        console.warn('Immediate action: img missing in container:', slide.container);
+      }
+    });
+
+
 
     lightbox.init();
   };
 
-  // Initialize the lightbox
   document.addEventListener('DOMContentLoaded', () => {
-    window.initPhotoSwipe();
+    setTimeout(() => {
+      window.initPhotoSwipe();
+    }, 200); // Ensure DOM is fully loaded
   });
-  
 </script>

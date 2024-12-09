@@ -38,7 +38,7 @@ try {
         const exif = exifParser.create(buffer).parse();
 
         const title = exif.tags?.ImageDescription || `Image: ${fileName}`;
-        const description = exif.tags?.UserComment || 'No description available.';
+        const description = exif.tags?.ImageDescription || 'No description available.';
 
         // Generate responsive image sizes
         const resizedImages = await generateGalleryImages(srcPath, breakpoints, format, outputDir);
@@ -48,7 +48,8 @@ try {
           console.warn(`No resized images found for: ${file}`);
           return null;
         }
-
+        //console.log('resizedImages.images:', resizedImages.images);
+        //console.log('resizedImages.images[0].height: ', resizedImages.images[2].height);
         return {
           thumbnail: {
             path: `/assets/images${galleryPath.replace('/src/assets/images', '')}/${resizedImages.images[0].path.split('/').pop()}`,
@@ -64,6 +65,7 @@ try {
           description,
           alt: title, // Use title as alt text
           srcset: resizedImages.srcset, // Add the `srcset` for responsive images
+          
         };
 
       })
@@ -93,8 +95,6 @@ try {
             width={image.thumbnail.width}
             height={image.thumbnail.height}
             loading="lazy"
-            srcset={image.srcset}
-            sizes="(max-width: 768px) 90vw, (max-width: 1200px) 50vw, 30vw"
           />
         </a>
 

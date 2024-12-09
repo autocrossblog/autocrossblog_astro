@@ -108,6 +108,7 @@ export const adaptOpenGraphImages = async (
  * @param {string} outputDir - Directory to save the resized images.
  * @returns {Promise<{ images: Array<{ path: string, width: number, height: number }>, srcset: string }>}
  */
+
 export async function generateGalleryImages(inputPath, breakpoints, format, outputDir) {
   const results = [];
 
@@ -116,22 +117,35 @@ export async function generateGalleryImages(inputPath, breakpoints, format, outp
 
   const srcset = [];
 
+  // Get the original image's metadata to calculate aspect ratio
+  const metadata = await sharp(inputPath).metadata();
+  if (!metadata.width || !metadata.height) {
+    throw new Error('Unable to retrieve image dimensions for aspect ratio calculation.');
+  }
+
+  const aspectRatio = metadata.width / metadata.height;
+
   for (const width of breakpoints) {
     const outputFilename = `${path.basename(inputPath, path.extname(inputPath))}-${width}.${format}`;
     const outputPath = path.join(outputDir, outputFilename);
+
+    let height = Math.round(width / aspectRatio); // Calculate height based on the aspect ratio
 
     try {
       await fs.access(outputPath);
       //console.log(`Image already exists: ${outputPath}`);
     } catch {
       //console.log(`Generating image: ${outputPath}`);
-      await sharp(inputPath).resize({ width }).toFormat(format).toFile(outputPath);
+      await sharp(inputPath)
+        .resize({ width, height }) // Set both width and calculated height
+        .toFormat(format)
+        .toFile(outputPath);
     }
 
     // Generate a relative path for the public directory
     const relativePath = path.relative('public', outputPath).replace(/\\/g, '/');
     srcset.push(`/${relativePath} ${width}w`);
-    results.push({ path: `/${relativePath}`, width });
+    results.push({ path: `/${relativePath}`, width, height }); // Include height in the results
   }
 
   //console.log('Generated images:', results);
