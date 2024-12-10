@@ -6,7 +6,7 @@ updateDate: 2024-12-09T11:30:34-06:00
 image: ~/assets/images/ProjectZ/KoniInstall/350Z-Koni-Install-1.jpg
 url: 2010/350z-koni-shock-install
 excerpt: "A very detailed post about installing Koni shocks on a Nissan 350z for autocross purposes."
-title: "350Z Koni Shock Install"
+title: 350Z Koni Shock Install
 ---
 
 *This post was originally posted on Solo2.org in **June of 2004**, but the site has gone away (it might come back) so the post was lost. I think I've corrected all the links and am posting it here. I will be doing the same with other old posts.*
