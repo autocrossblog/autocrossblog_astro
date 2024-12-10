@@ -6,10 +6,8 @@ updateDate: 2024-12-09T10:15:17-06:00
 url: 2016/350z-at-the-wilmington-summer-and-blytheville-prosolo
 excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
 title: "350z at the Wilmington Summer and Blytheville ProSolo"
+image: ~/assets/images/PublishThumbnails/Open-Live-Writer/Wilmin_12D77/P350z-July2016_2.jpg
 ---
-
-<a href="/assets/images/PublishThumbnails/Open-Live-Writer/Wilmin_12D77/P350z-July2016_2.jpg"><img alt="P350z-July2016" border="0"  src="/assets/images/PublishThumbnails/Open-Live-Writer/Wilmin_12D77/P350z-July2016_thumb.jpg" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; float: none; padding-top: 0px; padding-left: 0px; margin-left: auto; display: block; padding-right: 0px; border-top-width: 0px; margin-right: auto" title="P350z-July2016" width="100%" /></a>
-
 So the 2016 ProSolo series is nearing its end, with the final two events of the year being held within 6 hours of the house, I entered both. The Wilmington event turned out to be another disappointing one for me, not because of the location or people, but simply due to my lack of ability to drive this car lately.
 
 I ended up disconnecting the rear sway bar after the Saturday morning runs, that made a world of difference on the car. I was finally able to control the car without constant fear of the back end breaking free on me. That being said, the back end did plenty of braking free all weekend, mainly through the finish!

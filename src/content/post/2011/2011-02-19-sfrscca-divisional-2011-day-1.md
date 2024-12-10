@@ -7,16 +7,13 @@ url: "2011/sfrscca-divisional-2011-day-1"
 excerpt: "Read about a user's experience with Injen Systems' customer service and the resolution of an issue with Super SES exhaust for a 350z."
 title: "SFRSCCA Divisional 2011 Day 1"
 ---
-
 How was today?
-
 
 ## COLD AND WET!
 
-
 <a href="https://www.flickr.com/photos/chammond/5458127935/"><img style="display: inline; float: right" border="0" alt="Hard to see but there is snow on them thar hills #autocross" align="right" src="https://farm6.static.flickr.com/5293/5458127935_f28fd5c35f_m.jpg" width="240" height="179" /></a>Beyond that? Very cold and very wet. I went to Great America today for the SFRSCCA Divisional Autocross. I got there around 7am and put the Kumho tires on the car, big mistake! I was sort of drying out, the sky was almost clear, but the drive down there was rainy, and there was snow! You can't see it very well in this picture, but yes, there was snow in the "hills" around the Bay Area.
 
-So I installed the wheels/tires and walked the course a few times. The driver's meeting got delayed, then the start of the event got delayed. Then the rain started back up <img style="border-bottom-style: none; border-right-style: none; border-top-style: none; border-left-style: none" class="wlEmoticon wlEmoticon-sadsmile" alt="Sad smile" src="/assets/images/PublishThumbnails/Windows-Live-Writer/SFRSCCA-Divisional-2011-Day-1_10487/wlEmoticon-sadsmile_2.png" />
+So I installed the wheels/tires and walked the course a few times. The driver's meeting got delayed, then the start of the event got delayed. Then the rain started back up.
 
 Let me tell you this, Kumho V710s don't work well when it is &lt;40 degrees and raining. My first run I went out and it felt horrible, I turned a 66.*, I wasn't too thrilled about that. Here's a video of that run.
 
