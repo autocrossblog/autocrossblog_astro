@@ -8,7 +8,7 @@ excerpt: "Blog post about our first autocross in the SSC car!"
 title: "First event in SSC"
 ---
 
-Today was the first St. Louis Region Solo event in the 2018 series, so it was the first time out in the car, and I must say, it was great (albeit cold, windy, and even snowing/sleeting/raining at times)! [Natalie](https://www.youtube.com/watch?v=SGoV08aTlmU) got to take the first runs in the car, actually the first 6! She hasn't seriously autocrossed since 2008 when we had the [Corvette](/category/corvette/), but I believe this year will be different and she'll run quite a few local events and then we'll see if I can't talk her into Solo Nationals as well. Natalie managed to get down to a 51.997 on her 4th run, but trying harder on run 5 and 6 she went the other direction on the clock. We'll see where she placed within the ladies challenge once the results are published later this week.
+Today was the first St. Louis Region Solo event in the 2018 series, so it was the first time out in the car, and I must say, it was great (albeit cold, windy, and even snowing/sleeting/raining at times)! [Natalie](https://www.youtube.com/watch?v=SGoV08aTlmU) got to take the first runs in the car, actually the first 6! She hasn't seriously autocrossed since 2008 when we had the [Corvette](/tag/corvette), but I believe this year will be different and she'll run quite a few local events and then we'll see if I can't talk her into Solo Nationals as well. Natalie managed to get down to a 51.997 on her 4th run, but trying harder on run 5 and 6 she went the other direction on the clock. We'll see where she placed within the ladies challenge once the results are published later this week.
 
 ![YouTube Video](https://www.youtube.com/embed/HtN1BvhQrfI)
 

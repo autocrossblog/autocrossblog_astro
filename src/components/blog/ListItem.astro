@@ -1,7 +1,7 @@
 ---
 import type { ImageMetadata } from 'astro';
 import { Icon } from 'astro-icon/components';
-import Image from '~/components/common/Image.astro';
+import WindImage from '~/components/common/WindImage.astro';
 import PostTags from '~/components/blog/Tags.astro';
 
 import { APP_BLOG } from 'astrowind:config';
@@ -30,7 +30,7 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post', po
         <a class="relative block group" href={link ?? 'javascript:void(0)'}>
           <div class="relative h-0 pb-[56.25%] md:pb-[75%] md:h-72 lg:pb-[56.25%] overflow-hidden bg-gray-400 dark:bg-slate-700 rounded shadow-lg">
             {image && (
-              <Image
+              <WindImage
                 src={image}
                 class="absolute inset-0 object-cover w-full h-full mb-6 rounded shadow-lg bg-gray-400 dark:bg-slate-700"
                 widths={[400, 900]}
@@ -47,7 +47,7 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post', po
       ) : (
         <div class="relative h-0 pb-[56.25%] md:pb-[75%] md:h-72 lg:pb-[56.25%] overflow-hidden bg-gray-400 dark:bg-slate-700 rounded shadow-lg">
           {image && (
-            <Image
+            <WindImage
               src={image}
               class="absolute inset-0 object-cover w-full h-full mb-6 rounded shadow-lg bg-gray-400 dark:bg-slate-700"
               widths={[400, 900]}

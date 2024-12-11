@@ -13,7 +13,7 @@ title: "Saying Goodbye"
 ![CJH_06-05-07-10-02-39 by chrishammond, on Flickr](https://farm3.static.flickr.com/2488/4140330336_61e4511b6a_m.jpg)
 We've been together for almost 4 years, you and I. It was love at first sight, but it took an internet chat conversation with 4 guys to get you where I wanted you. Once your previous owner let a price slip I jumped on the opportunity to buy you, and a week later you, and a billion parts, were loaded up into a trailer for the trip home.
 
-I got you home and you fit right in next to your younger sister, it wasn't long before she left our family to join Dozzle in Kansas City ([she's been recently reincarnated though](/category/350z/)).
+I got you home and you fit right in next to your younger sister, it wasn't long before she left our family to join Dozzle in Kansas City ([she's been recently reincarnated though](/tag/350z)).
 ![CJH_06-05-07-15-55-11 by chrishammond, on Flickr](https://farm3.static.flickr.com/2572/4139593465_736007c3d4_m.jpg)
 
 The next 6 months you didn't get much attention, but you did gain an unsightly brother, a 1978 2+2 that you would learn to love later in life, as he provided a replacement heart for you, along with eye sockets and chest plate to cover the heart.

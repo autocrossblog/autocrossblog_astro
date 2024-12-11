@@ -59,7 +59,7 @@ Now, the differences between my old 2003 and my new 2004, here they are (differe
 So what comes next? Well, more modifications to get the car ready for the STR Street Touring Roadster class in the SCCA. When I'll get to all those I'm not sure. I'm going to try to go over the car thoroughly tomorrow in the garage,
     see if there are any other custom parts I don't know about. At some point in the coming weeks I'll come up with a list of things I need to get done to the car before the full blown autocross season starts up.
 
-Also tomorrow I've got a guy coming to take a look at the [Project240z](/category/240z/). I would like to keep that, but I know I shouldn't, I won't ever get it finished, especially now that I have
+Also tomorrow I've got a guy coming to take a look at the [Project240z](/tag/240z). I would like to keep that, but I know I shouldn't, I won't ever get it finished, especially now that I have
     this 350z!
 
-On January 30th I'm going to take the [Project350z](/category/350z/) out to its first Autocross.
+On January 30th I'm going to take the [Project350z](/tag/350z) out to its first Autocross.

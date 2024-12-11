@@ -1,7 +1,7 @@
 ---
 import { Icon } from 'astro-icon/components';
 
-import Image from '~/components/common/Image.astro';
+import WindImage from '~/components/common/WindImage.astro';
 import PostTags from '~/components/blog/Tags.astro';
 import SocialShare from '~/components/common/SocialShare.astro';
 
@@ -12,6 +12,8 @@ import BlogPostingJSONLD from "~/components/blog/BlogJsonLd.astro";
 import { getCollection } from 'astro:content';
 
 import Gallery from '~/components/common/Gallery.astro';
+
+import { Image } from 'astro:assets';
 
 import type { Post } from '~/types';
 
@@ -94,7 +96,7 @@ const author = authors.find((a) => a.slug === authorSlug)?.data || {
 
       {
         post.image ? (
-          <Image
+          <WindImage
             src={post.image}
             class="max-w-full lg:max-w-[900px] mx-auto mb-6 sm:rounded-md bg-gray-400 dark:bg-slate-700"
             widths={[400, 900]}
@@ -118,7 +120,7 @@ const author = authors.find((a) => a.slug === authorSlug)?.data || {
     <div
       class="mx-auto px-6 sm:px-6 max-w-3xl prose prose-md lg:prose-xl dark:prose-invert dark:prose-headings:text-slate-300 prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-bold prose-a:text-primary dark:prose-a:text-blue-400 prose-img:rounded-md prose-img:shadow-lg mt-8 prose-headings:scroll-mt-[80px] prose-li:my-0"
     >
-      <slot />
+      <post.Content components={{ WindImage, Image }} />
       <Gallery galleryPath={post.galleryPath} />
     </div>
 

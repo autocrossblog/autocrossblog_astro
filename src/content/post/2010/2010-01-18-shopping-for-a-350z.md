@@ -14,6 +14,6 @@ I've been monitoring Craigslist here locally for a while now, and it appears tha
 
 It's a 2004 Enthusiast model, with an Injen SES Exhaust, a Nismo short shifter, 18" wheels off a Performance model and a few other mods. Because it was Sunday we didn't get to look in the car, except through the windows, or under the hood. I'm hoping to possibly drive back up there one evening this week to take a look and test drive of the car. 
 
-To speed up the purchasing process I'm hoping to get rid of the 240z soon, if you're interested in a [1973 Datsun 240z check out the site](/category/240z/)!
+To speed up the purchasing process I'm hoping to get rid of the 240z soon, if you're interested in a [1973 Datsun 240z check out the site](/tag/240z)!
 
 I'll be updating the website here over the next couple weeks as hopefully things ramp up!

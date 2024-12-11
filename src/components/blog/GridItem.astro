@@ -2,7 +2,7 @@
 import { APP_BLOG } from 'astrowind:config';
 import type { Post } from '~/types';
 
-import Image from '~/components/common/Image.astro';
+import WindImage from '~/components/common/WindImage.astro';
 
 import { findImage } from '~/utils/images';
 import { getPermalink } from '~/utils/permalinks';
@@ -25,7 +25,7 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post', po
       image &&
         (link ? (
           <a href={link}>
-            <Image
+            <WindImage
               src={image}
               class="w-full md:h-full rounded shadow-lg bg-gray-400 dark:bg-slate-700"
               widths={[400, 900]}
@@ -39,7 +39,7 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post', po
             />
           </a>
         ) : (
-          <Image
+          <WindImage
             src={image}
             class="w-full md:h-full rounded shadow-lg bg-gray-400 dark:bg-slate-700"
             widths={[400, 900]}

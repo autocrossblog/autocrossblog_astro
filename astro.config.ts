@@ -29,7 +29,11 @@ export default defineConfig({
       applyBaseStyles: false,
     }),
     sitemap(),
-    mdx(),
+    mdx({
+      extendDefaultComponents: {
+        WindImage: '~/components/common/WindImage.astro',
+      },
+    }),
     icon({
       include: {
         tabler: ['*'],
@@ -62,10 +66,10 @@ export default defineConfig({
       JavaScript: true,
       SVG: true,
       Logger: 1, // Minimal logging for compress
-      hooks: {
-        onCompressionStart: (file) => console.log(`Compressing: ${file}`),
-        onCompressionEnd: (file) => console.log(`Finished: ${file}`),
-      },
+     // hooks: {
+     //   onCompressionStart: (file) => console.log(`Compressing: ${file}`),
+     //   onCompressionEnd: (file) => console.log(`Finished: ${file}`),
+     // },
     }),
     astrowind({
       config: './src/config.yaml',
