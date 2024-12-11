@@ -4,6 +4,7 @@ import FormContainer from '~/components/ui/Form.astro';
 import Headline from '~/components/ui/Headline.astro';
 import WidgetWrapper from '~/components/ui/WidgetWrapper.astro';
 import type { Contact as Props } from '~/types';
+import { ANALYTICS } from 'astrowind:config';
 
 const {
   title = await Astro.slots.render('title'),
@@ -72,6 +73,10 @@ const {
             </div>
           )}
 
+          <!-- CAPTCHA -->
+          <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+          <div class="cf-turnstile" data-sitekey={ANALYTICS.vendors.cloudflare.id}></div>
+          
           <!-- Disclaimer -->
           {disclaimer && (
             <p class="text-sm text-gray-600 mt-4">{disclaimer.label}</p>
