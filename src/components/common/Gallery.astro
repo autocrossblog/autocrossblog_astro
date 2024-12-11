@@ -1,4 +1,5 @@
 ---
+// Import required modules
 import path from 'path';
 import fs from 'fs/promises';
 import 'photoswipe/dist/photoswipe.css';
@@ -6,72 +7,75 @@ import { generateGalleryImages } from '~/utils/images';
 import exifParser from 'exif-parser';
 import PhotoSwipeInit from '~/components/common/PhotoSwipeInit.astro';
 
+// Extract the gallery path from Astro props
 const { galleryPath } = Astro.props;
 
 if (!galleryPath) {
-  return null;
+  return null; // Exit early if no gallery path is provided
 }
 
+// Define paths and configurations
 const imagesDirectory = path.resolve(`.${galleryPath}`);
+const generatedImagesPath = path.join('./generated-images', galleryPath.replace('/src/assets/images', ''));
 const publicGalleryPath = path.join('./public/assets/images', galleryPath.replace('/src/assets/images', ''));
 const breakpoints = [320, 640, 1280, 1600, 2000]; // Define responsive widths
 const format = 'webp'; // Desired image format
 let imagesWithMetadata = [];
 
 try {
-    // Get all image files in the gallery directory
-    const imageFiles = (await fs.readdir(imagesDirectory)).filter((file) =>
-      /\.(jpg|jpeg|png|webp)$/i.test(file)
-    );
+  // Ensure generated-images directory exists
+  await fs.mkdir(generatedImagesPath, { recursive: true });
 
-    // Generate resized images and metadata
-    imagesWithMetadata = await Promise.all(
-      imageFiles.map(async (file) => {
-        const srcPath = path.join(imagesDirectory, file);
-        const outputDir = path.join(publicGalleryPath, path.dirname(file));
-        const fileName = path.parse(file).name;
+  // Read image files from the directory
+  const imageFiles = (await fs.readdir(imagesDirectory)).filter((file) =>
+    /\.(jpg|jpeg|png|webp)$/i.test(file)
+  );
 
-        // Read EXIF metadata
-        const buffer = await fs.readFile(srcPath);
-        const exif = exifParser.create(buffer).parse();
+  // Process each image and generate metadata
+  imagesWithMetadata = await Promise.all(
+    imageFiles.map(async (file) => {
+      const srcPath = path.join(imagesDirectory, file);
+      const outputDir = path.join(generatedImagesPath, path.dirname(file));
+      const publicOutputDir = path.join(publicGalleryPath, path.dirname(file));
+      const fileName = path.parse(file).name;
 
-        const title = exif.tags?.ImageDescription || `Image: ${fileName}`;
-        const description = exif.tags?.ImageDescription || 'No description available.';
+      // Read EXIF metadata
+      const buffer = await fs.readFile(srcPath);
+      const exif = exifParser.create(buffer).parse();
 
-        // Generate responsive image sizes
-        const resizedImages = await generateGalleryImages(srcPath, breakpoints, format, outputDir);
-        //console.log('resizedImages: ', resizedImages);
+      const title = exif.tags?.ImageDescription || `Image: ${fileName}`;
+      const description = exif.tags?.UserComment || 'No description available.';
 
-        if (!resizedImages.images.length) {
-          console.warn(`No resized images found for: ${file}`);
-          return null;
-        }
-        //console.log('resizedImages.images:', resizedImages.images);
-        //console.log('resizedImages.images[0].height: ', resizedImages.images[2].height);
-        return {
-          thumbnail: {
-            path: `/assets/images${galleryPath.replace('/src/assets/images', '')}/${resizedImages.images[0].path.split('/').pop()}`,
-            width: resizedImages.images[0].width,
-            height: resizedImages.images[0].height,
-          },
-          fullImage: {
-            path: `/assets/images${galleryPath.replace('/src/assets/images', '')}/${resizedImages.images[resizedImages.images.length - 1].path.split('/').pop()}`,
-            width: resizedImages.images[resizedImages.images.length - 1].width,
-            height: resizedImages.images[resizedImages.images.length - 1].height,
-          },
-          title,
-          description,
-          alt: title, // Use title as alt text
-          srcset: resizedImages.srcset, // Add the `srcset` for responsive images
-          
-        };
+      // Generate responsive image sizes and copy them to public/assets/images
+      const resizedImages = await generateGalleryImages(srcPath, breakpoints, format, outputDir, publicOutputDir);
 
-      })
-    );
+      if (!resizedImages.images.length) {
+        console.warn(`No resized images found for: ${file}`);
+        return null;
+      }
 
-    // Remove null entries
-      imagesWithMetadata = imagesWithMetadata.filter(Boolean);
-  } catch (error) {
+      return {
+        thumbnail: {
+          path: `/assets/images${galleryPath.replace('/src/assets/images', '')}/${resizedImages.images[0].path.split('/').pop()}`,
+          width: resizedImages.images[0].width,
+          height: resizedImages.images[0].height,
+        },
+        fullImage: {
+          path: `/assets/images${galleryPath.replace('/src/assets/images', '')}/${resizedImages.images[resizedImages.images.length - 1].path.split('/').pop()}`,
+          width: resizedImages.images[resizedImages.images.length - 1].width,
+          height: resizedImages.images[resizedImages.images.length - 1].height,
+        },
+        title,
+        description,
+        alt: title, // Use title as alt text
+        srcset: resizedImages.srcset, // Add the `srcset` for responsive images
+      };
+    })
+  );
+
+  // Remove null entries (failed processing)
+  imagesWithMetadata = imagesWithMetadata.filter(Boolean);
+} catch (error) {
   console.error(`Error processing gallery images from ${galleryPath}:`, error);
 }
 ---
@@ -80,7 +84,7 @@ try {
   {imagesWithMetadata.length > 0 ? (
     imagesWithMetadata.map((image, index) => (
       <div class="gallery-item" key={index}>
-       <a
+        <a
           href={image.fullImage.path}
           data-pswp-width={image.fullImage.width}
           data-pswp-height={image.fullImage.height}
@@ -93,37 +97,16 @@ try {
             width={image.thumbnail.width}
             height={image.thumbnail.height}
             loading="lazy"
+            srcset={image.srcset}
+            sizes="(max-width: 768px) 90vw, (max-width: 1200px) 50vw, 30vw"
           />
         </a>
-
-        <p class="gallery-title">{image.title}</p> 
+        <p class="gallery-title">{image.title}</p>
       </div>
     ))
   ) : (
     <p>No images available for the gallery.</p>
   )}
-</div>
-
-<!-- PhotoSwipe Root -->
-<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="pswp__bg"></div>
-  <div class="pswp__scroll-wrap">
-    <div class="pswp__container">
-      <div class="pswp__item"></div>
-      <div class="pswp__item"></div>
-      <div class="pswp__item"></div>
-    </div>
-    <div class="pswp__ui pswp__ui--hidden">
-      <div class="pswp__top-bar">
-        <button type="button" class="pswp__button pswp__button--close" aria-label="Close"></button>
-        <button type="button" class="pswp__button pswp__button--zoom" aria-label="Zoom"></button>
-        <div class="pswp__counter"></div>
-        <div class="pswp__caption">
-          <div class="pswp__caption__center"></div>
-        </div>
-      </div>
-    </div>
-  </div>
 </div>
 
 <PhotoSwipeInit />

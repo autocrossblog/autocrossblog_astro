@@ -109,11 +109,12 @@ export const adaptOpenGraphImages = async (
  * @returns {Promise<{ images: Array<{ path: string, width: number, height: number }>, srcset: string }>}
  */
 
-export async function generateGalleryImages(inputPath, breakpoints, format, outputDir) {
+export async function generateGalleryImages(inputPath, breakpoints, format, outputDir, publicOutputDir) {
   const results = [];
 
-  // Ensure the output directory exists
+  // Ensure both output directories exist
   await fs.mkdir(outputDir, { recursive: true });
+  await fs.mkdir(publicOutputDir, { recursive: true });
 
   const srcset = [];
 
@@ -128,27 +129,37 @@ export async function generateGalleryImages(inputPath, breakpoints, format, outp
   for (const width of breakpoints) {
     const outputFilename = `${path.basename(inputPath, path.extname(inputPath))}-${width}.${format}`;
     const outputPath = path.join(outputDir, outputFilename);
+    const publicOutputPath = path.join(publicOutputDir, outputFilename);
 
     let height = Math.round(width / aspectRatio); // Calculate height based on the aspect ratio
 
     try {
+      // Check if the image already exists in `generated-images`
       await fs.access(outputPath);
-      //console.log(`Image already exists: ${outputPath}`);
+      console.log(`Image already exists: ${outputPath}`);
     } catch {
-      //console.log(`Generating image: ${outputPath}`);
+      console.log(`Generating image: ${outputPath}`);
+      // Generate the image if it doesn't exist
       await sharp(inputPath)
         .resize({ width, height }) // Set both width and calculated height
         .toFormat(format)
         .toFile(outputPath);
     }
 
+    // Copy the image from `generated-images` to `public/assets/images`
+    try {
+      await fs.copyFile(outputPath, publicOutputPath);
+      console.log(`Copied image to public directory: ${publicOutputPath}`);
+    } catch (error) {
+      console.error(`Error copying image to public directory: ${error.message}`);
+    }
+
     // Generate a relative path for the public directory
-    const relativePath = path.relative('public', outputPath).replace(/\\/g, '/');
+    const relativePath = path.relative('public', publicOutputPath).replace(/\\/g, '/');
     srcset.push(`/${relativePath} ${width}w`);
     results.push({ path: `/${relativePath}`, width, height }); // Include height in the results
   }
 
-  //console.log('Generated images:', results);
   return {
     images: results,
     srcset: srcset.join(', '), // Generate `srcset` string
