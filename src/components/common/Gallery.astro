@@ -44,7 +44,7 @@ try {
       const exif = exifParser.create(buffer).parse();
 
       const title = exif.tags?.ImageDescription || `Image: ${fileName}`;
-      const description = exif.tags?.UserComment || 'No description available.';
+      const description = exif.tags?.ImageDescription || 'No description available.';
 
       // Generate responsive image sizes and copy them to public/assets/images
       const resizedImages = await generateGalleryImages(srcPath, breakpoints, format, outputDir, publicOutputDir);
