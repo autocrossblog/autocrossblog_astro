@@ -45,7 +45,14 @@ Saturday and Sunday for the Tour went well. Saturday morning started out wet, we
 
 From Dixie, the car was loaded up on the trailer and headed to Chattanooga (with Brian), while Natalie and I headed south to Orlando for a few days at a work convention. On the way back up to Chattanooga on Thursday morning to get the car, Brian sent me a txt telling me that someone had attempted to break into the car while it was sitting on the trailer at his shop. Somehow they were unsuccessful at getting in, but they did manage to bang up the driver's door and window (about $1500-2,000 worth of damage).
 
-![image](/assets/images/PublishThumbnails/Open-Live-Writer/The-2016-Autocross-Season-So-Far_137CF/image_thumb.png)
+<Image 
+    src="/src/assets/images/PublishThumbnails/Open-Live-Writer/The-2016-Autocross-Season-So-Far_137CF/image_2.png" 
+    alt="350Z Autocross Car with Damage" 
+    title="350Z Autocross Car with Damage" 
+    width={600} 
+    height={400} 
+    layout="responsive" 
+/>
 
 ### Jack Daniel's
 

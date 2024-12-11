@@ -58,7 +58,7 @@ export default defineConfig({
           removeAttributeQuotes: false,
         },
       },
-      Image: true,
+      Image: false,
       JavaScript: true,
       SVG: true,
       Logger: 1, // Minimal logging for compress
@@ -106,5 +106,38 @@ export default defineConfig({
         ],
       },
     },
+    build: {
+      rollupOptions: {
+        plugins: [
+          {
+            name: 'log-build',
+            buildStart() {
+              console.log('Build started...');
+            },
+            generateBundle(_, bundle) {
+              console.log('Generating bundle...');
+              for (const [fileName, output] of Object.entries(bundle)) {
+                console.log(`Processing file: ${fileName}, type: ${output.type}`);
+              }
+            },
+          },
+          {
+            name: 'track-image-processing',
+            load(id) {
+              if (/\.(png|jpe?g|webp|svg|gif)$/i.test(id)) {
+                console.time(`Processing ${id}`);
+              }
+            },
+            transform(code, id) {
+              if (/\.(png|jpe?g|webp|svg|gif)$/i.test(id)) {
+                console.timeEnd(`Processing ${id}`);
+              }
+              return null;
+            },
+          },
+        ],
+      },
+    },
   },
+  
 });

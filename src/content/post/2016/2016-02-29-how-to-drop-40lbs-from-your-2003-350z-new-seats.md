@@ -28,7 +28,14 @@ A week or two ago I headed out to Solo Performance to try on a few different sea
 
 We weighed the seats, along with a mount, on the SPS shipping scale and were shocked at what we found, the scale read what we thought was 9 pounds for the seat and 4 pounds for the mount. Dave at SPS also ordered me a set of [BuddyClub Racing Spec Super Low Seat Rail Kit Nissan 350Z/G35 03-09](https://soloperformance.com/collections/seats-seat-brackets-and-accessories) to mount the seats into the car. All the parts arrived early last week, so I headed over to the shop on Sunday to work on removing the old seats, and putting in the new ones.
 
-![Seats in Bags](/assets/images/PublishThumbnails/Windows-Live-Writer/How-to-drop-40lbs-from-your-2003-350z-ne_1297A/SeatsinBags_2.jpg)
+<Image 
+    src="/src/assets/images/PublishThumbnails/Windows-Live-Writer/How-to-drop-40lbs-from-your-2003-350z-ne_1297A/SeatsinBags_2.jpg" 
+    alt="Seats in Bags" 
+    title="Seats in Bags" 
+    width={600} 
+    height={400} 
+    layout="responsive" 
+/>
 
 It is good to have a friend in the business, while I could have installed the seats in my own garage, having others around while working on the car and watching various other work get done on customer vehicles is motivating.
 
@@ -54,7 +61,15 @@ How do they fit? Well, they fit the driver great, while they aren't all that com
 The ONLY problem with the seats, the large (didn't test the medium size) is a little too wide up top for the stock door panels on the 350z. The doors press against them when they close, and due to the styrofoam body of the panels, they now have indentations in them from the doors pressing against the seats. I figured I have two options, 1) shave the seats down, removing the cover to file them or 2) leave them as is and not care about the door panels. I'm going with option 2 for now, the car has a specific purpose, and that is to autocross, if I ever get annoyed by the indentations/damage to the panels perhaps I can find panels to replace them.
 
 ### Seat Height
-![NRG FRP-310 Seat installed in 350z](/assets/images/PublishThumbnails/Windows-Live-Writer/How-to-drop-40lbs-from-your-2003-350z-ne_1297A/2016-02-28%2016.45.43_thumb.jpg)
+<Image 
+    src="/src/assets/images/PublishThumbnails/Windows-Live-Writer/How-to-drop-40lbs-from-your-2003-350z-ne_1297A/2016-02-28 16.45.43_2.jpg" 
+    alt="NRG FRP-310 Seat installed in 350z" 
+    title="NRG FRP-310 Seat installed in 350z" 
+    width={600} 
+    height={400} 
+    layout="responsive" 
+/>
+
 The one thing I didn't test, is how the seats will do with a helmet on. I have a feeling I will likely rub a little bit on the top, but if necessary, I can always pull the padding from the bottom of the seat (and be sure to add weight) to drop down an inch or two in the seat while autocrossing. With times for autocross being fairly short, sitting without padding for those periods shouldn't be a huge deal.
 
 [Check out some of the installation photos with close up shots of the various weights of the seats.](https://www.flickr.com/photos/chammond/albums/72157664702657730)

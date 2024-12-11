@@ -3,7 +3,7 @@ tags: [ 350z, nissan ]
 author: chris
 publishDate: 2015-11-07T00:48:18+00:00
 updateDate: 2024-11-15T12:15:17-06:00
-image: ~/assets/images/PublishThumbnails/Windows-Live-Writer/Introducing-Project350z-V3_14AF6/image_thumb_1.png
+image: ~/assets/images/PublishThumbnails/Windows-Live-Writer/Introducing-Project350z-V3_14AF6/image_4.png
 url: "2015/introducing-project350z-v3"
 excerpt: "Follow the journey of restoring and prepping a 2003 Nissan 350z for competitve autocrossing in SCCA's STU class. Stay tuned for updates."
 title: "Introducing Project350z V3"
