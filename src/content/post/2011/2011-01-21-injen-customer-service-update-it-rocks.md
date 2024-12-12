@@ -8,7 +8,7 @@ excerpt: "Read about a user's experience with Injen Systems' customer service an
 title: "Injen Customer Service Update! It rocks!"
 ---
 
-[So a while back now I complained](/unable-to-get-any-customer-service-from-injen-systems) that I wasn't able to get any customer service from Injen Systems on the Super SES exhaust that was on my 350z when I purchased it.
+[So a while back now I complained](/2010/unable-to-get-any-customer-service-from-injen-systems) that I wasn't able to get any customer service from Injen Systems on the Super SES exhaust that was on my 350z when I purchased it.
 
 Well I am happy to say that I no longer have that problem! Injen contacted me and apologized for the lack of responses previously. I was still somewhat cautious, but they did say that they could help me by sending me the parts I needed to fix the leaking system (at a cost, but I didn't expect them for free).
 

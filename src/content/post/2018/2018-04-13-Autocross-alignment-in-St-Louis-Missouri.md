@@ -10,7 +10,7 @@ title: "Autocross alignment in St. Louis Missouri"
 
 With the parts installed on the car, it was time to get wheels and tires mounted/balanced and installed. I also needed to get an alignment on the car as I knew it wasn't close to the autocross specs that Tire Rack had in their recommendations. So I took my car to the only place I trust for an [autocross alignment](https://soloperformance.com/pages/sps-performance-garage-wheel-alignments-tire-installation-and-other-services) in Missouri, [Solo Performance Specialties](https://www.soloperformance.com/).
 
-The tires mounted up nice and easy on the Konig Ampliforms, after I got the wheels with the [right bolt pattern of course](/frs-bolt-pattern-5x100). They were mounted onto the car and it was up on to the alignment rack next.
+The tires mounted up nice and easy on the Konig Ampliforms, after I got the wheels with the [right bolt pattern of course](/2018/frs-bolt-pattern-5x100). They were mounted onto the car and it was up on to the alignment rack next.
 
 [![SpecFRS.com](https://farm1.staticflickr.com/889/39569348460_4f34229364_z.jpg)](https://www.flickr.com/photos/chammond/39569348460/in/photostream/)
 

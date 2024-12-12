@@ -8,7 +8,7 @@ excerpt: "Follow the author's journey as they repair and replace the suspension 
 title: "Starting on the suspension"
 ---
 
-With the [success last night](/it-runs-twice-and-theres-audio-video-proof) I decided I had to work on the car this evening a bit. The first thing I did was get it up on all four jack stands so that they were under the frame and not under control arms of the car. This would allow me to begin working on the suspension pieces. 
+With the [success last night](/2009/it-runs-twice-and-theres-audio-video-proof) I decided I had to work on the car this evening a bit. The first thing I did was get it up on all four jack stands so that they were under the frame and not under control arms of the car. This would allow me to begin working on the suspension pieces. 
 
 When I got the car from Jeff, uhhh over three years ago now, it came with a second suspension that had been pulled off another car. This other suspension has springs (yellow), new(er) struts, a larger front sway bar, and also the addition of a rear sway bar. It also is a lot cleaner then the current suspension. So tonight I started pulling off the front suspension, starting with the sway bar, and moving on to removing the rest, at least what I could, of the right front.
 
