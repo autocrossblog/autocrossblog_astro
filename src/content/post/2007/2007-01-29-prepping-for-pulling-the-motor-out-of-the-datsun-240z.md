@@ -2,8 +2,8 @@
 tags: [ 240z, datsun ]
 author: chris
 publishDate: 2007-01-29T00:00:00+00:00
-updateDate: 2024-10-09T13:21:54-05:00
-url: "2007/prepping-for-pulling-the-motor-out-of-the-datsun-240z"
+updateDate: 2024-12-12T08:21:54-05:00
+url: 2007/prepping-for-pulling-the-motor-out-of-the-datsun-240z
 excerpt: "This video shows you some of the preparation work I had to do to get the motor out of the 240z for the first time."
 title: "Prep to pull the motor out of the Datsun 240z"
 ---

@@ -3,7 +3,7 @@ tags: [ 240z, datsun ]
 author: chris
 publishDate: 2007-03-12T22:20:14+00:00
 updateDate: 2024-11-15T12:15:17-06:00
-url: "2007/project240zcom-photos"
+url: 2007/project240zcom-photos
 excerpt: "Explore the new photos page on Project240z.com, now featuring images from our Flickr Group."
 title: "Project240Z.com Photos"
 ---
