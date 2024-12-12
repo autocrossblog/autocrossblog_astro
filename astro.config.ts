@@ -129,12 +129,12 @@ export default defineConfig({
             name: 'track-image-processing',
             load(id) {
               if (/\.(png|jpe?g|webp|svg|gif)$/i.test(id)) {
-                console.time(`Processing ${id}`);
+                //console.time(`Processing ${id}`);
               }
             },
             transform(code, id) {
               if (/\.(png|jpe?g|webp|svg|gif)$/i.test(id)) {
-                console.timeEnd(`Processing ${id}`);
+                //console.timeEnd(`Processing ${id}`);
               }
               return null;
             },

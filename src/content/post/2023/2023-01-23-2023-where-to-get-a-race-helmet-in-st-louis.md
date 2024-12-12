@@ -1,13 +1,15 @@
 ---
+title: "Where to buy a race helmet in St. Louis?"
+excerpt: "Looking for a place to try on a helmet in St. Louis? Solo Performance Specialties is the best place to get a helmet!"
 author: chris
 publishDate: 2023-01-23T13:29:20+00:00
-updateDate: 2024-11-18T13:26:36-06:00
+updateDate: 2024-12-12T11:26:36-06:00
 image: ~/assets/images/Helmet-1.jpg
 keywords: race, gear, st louis, saint, louis, saint louis, helmets,safety
-url: "2023/where-to-get-a-race-helmet-in-st-louis"
-excerpt: "Looking for a place to try on a helmet in St. Louis?"
-title: "Where to buy a race helmet in St. Louis?"
+url: 2023/where-to-get-a-race-helmet-in-st-louis
+
 ---
+To be safe in motorsports you need a high quality helmet! 
 
 If you're looking for a racing helmet in St. Louis Missouri, you should be looking at [Solo Performance Specialties](https://www.soloperformance.com/).
 
