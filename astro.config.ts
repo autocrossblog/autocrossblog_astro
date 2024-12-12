@@ -62,7 +62,7 @@ export default defineConfig({
           removeAttributeQuotes: false,
         },
       },
-      Image: false,
+      Image: true,
       JavaScript: true,
       SVG: true,
       Logger: 1, // Minimal logging for compress
@@ -121,7 +121,7 @@ export default defineConfig({
             generateBundle(_, bundle) {
               console.log('Generating bundle...');
               for (const [fileName, output] of Object.entries(bundle)) {
-                console.log(`Processing file: ${fileName}, type: ${output.type}`);
+                //console.log(`Processing file: ${fileName}, type: ${output.type}`);
               }
             },
           },

@@ -18,7 +18,10 @@ if (!galleryPath) {
 const imagesDirectory = path.resolve(`.${galleryPath}`);
 const generatedImagesPath = path.join('./generated-images', galleryPath.replace('/src/assets/images', ''));
 const publicGalleryPath = path.join('./public/assets/images', galleryPath.replace('/src/assets/images', ''));
-const breakpoints = [320, 640, 1280, 1600, 2000]; // Define responsive widths
+const breakpoints = [400, 768, 1024, 2040]; // Define responsive widths
+// widths={[400, 768, 1024, 2040]}
+// sizes="(max-width: 767px) 400px, (max-width: 1023px) 768px, (max-width: 2039px) 1024px, 2040px"
+
 const format = 'webp'; // Desired image format
 let imagesWithMetadata = [];
 
