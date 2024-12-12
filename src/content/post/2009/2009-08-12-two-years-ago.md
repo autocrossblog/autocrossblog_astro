@@ -30,7 +30,7 @@ A few things have happened in the two years since that fateful day. A few months
 
 I sold the Corvette.
 
-[I got the Datsun running again with another motor](/packing-the-garage-driving-the-car), same turbo setup. 
+[I got the Datsun running again with another motor](/2009/packing-the-garage-driving-the-car), same turbo setup. 
 
 We moved to Colorado. <a href="https://www.going2colorado.com">www.going2colorado.com</a>
 

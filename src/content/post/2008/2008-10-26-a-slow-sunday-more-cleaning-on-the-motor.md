@@ -8,7 +8,7 @@ excerpt: "Follow along with our latest garage project, dealing with missing part
 title: "A slow Sunday, more cleaning on the motor."
 ---
 
-So I woke up this morning, [earlier than yesterday](/little-progress-little-time), but still not as early as one would have liked. First things first I ran to Radio Shack to get an AC power source for my Chase Cam so that I could use it to record video today.
+So I woke up this morning, [earlier than yesterday](/2008/little-progress-little-time), but still not as early as one would have liked. First things first I ran to Radio Shack to get an AC power source for my Chase Cam so that I could use it to record video today.
 
 I then started working around the garage, I didn't shoot too much video today because I wasn't doing too much interesting when I wasn't working on the motor. I took the oil pan off to make sure I drained any water from the block due to my impromptu cleaning yesterday. I also put two items on the motor, the thermo stat and one of the inlet/outlets for the coolant. I would have done more but I ran into a problem today.
 

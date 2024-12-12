@@ -10,6 +10,6 @@ title: "Cleaning up the passenger floorboard"
 
 I spent some time this evening cleaning up the passenger floorboard. I have a LOT of welding to do there! I'm going to do some more practicing tomorrow.
 
-To view tonight's video click the link below
+Here's the video tonight's video 
 
-[cleaning-up-the-passenger-floor](/cleaning-up-the-passenger-floor)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qvV-b7SJ_UA?si=Rcf5GaqPTAor15wD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

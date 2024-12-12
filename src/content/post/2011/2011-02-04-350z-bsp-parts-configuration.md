@@ -13,7 +13,7 @@ This post will be a continually updated (on project350z.com) list of parts (to b
 Each part will be marked as Planned or Installed depending on the current status. In no particular order:
 
 ## Wheels
-- [Enkei Racing RPF1 ~~18x9.5/10.5 +15~~ 18"x10" +38 Black](/wheels-for-a-bsp-350z-arp-studs-sway-bars)
+- [Enkei Racing RPF1 ~~18x9.5/10.5 +15~~ 18"x10" +38 Black](/2011/wheels-for-a-bsp-350z-arp-studs-sway-bars)
 - NISMO/ARP studs (INSTALLED 2/12/11)
 
 ## Tires
