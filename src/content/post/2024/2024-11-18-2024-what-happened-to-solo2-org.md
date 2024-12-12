@@ -1,11 +1,10 @@
 ---
+title: "What happened to Solo2.org?"
 url: '2024/solo2-org'
 image: ~/assets/images/2024/November/solo2-org.webp
-# last_modified_at: ''2024-07-08T16:50:08+00:00''
 author: chris
 excerpt: "Where did the Ultimate Autocross Website go?"
 publishDate: 2024-11-18T13:20:15+00:00
-title: "What happened to Solo2.org?"
 keywords: '"autocross, solo2.org"'
 updateDate: 2024-11-18T13:45:00-06:00
 tags:  [ autocross, website ] 

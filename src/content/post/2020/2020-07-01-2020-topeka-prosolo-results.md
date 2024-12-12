@@ -4,7 +4,7 @@ author: chris
 publishDate: 2020-07-01T16:01:15+00:00
 updateDate: 2024-11-18T10:51:34-06:00
 image: ~/assets/images/TopekaProSoloTrophy.jpg
-url: "2020/2020-topeka-prosolo-results"
+url: 2020/2020-topeka-prosolo-results
 excerpt: "Follow the revival journey of Project 350z as we scout for a lower mileage, manual transmission model, closest to St. Louis."
 title: "2020 Topeka ProSolo Results"
 ---
@@ -17,7 +17,7 @@ I was able to get out to Topeka in time get the Falken RT660s mounted on the car
 
 My first pass at the lights I turned a .391 reaction time, where a .500 is "perfect", and anything less than .500 is RED. My second attempt resulted in a .744, not red, but definitely not in the .5-600 range that I expect when I'm starting. My third attempt was a .575 much more respectable. I ended up taking 8 practice starts, and while I wasn't really happy with them, I felt at least comfortable enough for the weekend that I didn't buy more.
 
-Friday night I took the car by the car wash, grabbed a Vegan Lifestyle bowl from Chipotle and ran around to a couple of liquor stores in Topeka looking to add to my whiskey/bourbon collection. Friday night I spent my first night in a hotel with social distancing and cleaning in place. The Hampton Inn had the rooms "tapes" off with a seal that said they were clean, if the seal was broken you knew it hadn't been cleaned. The elevator had a sign outside of it requesting that only 2 people use an elevator at a time. Overall the hotel experience was great, except for the fact that it was completely full with pre-teens running around on Saturday evening, obviously a sports tournament of some sort brought a lot of kids in, without any masks to be found.
+Friday night I took the car by the car wash, grabbed a Vegan Lifestyle bowl from Chipotle and ran around to a couple of liquor stores in Topeka looking to add to my whiskey/bourbon collection. Friday night I spent my first night in a hotel with social distancing and cleaning in place. The Hampton Inn had the rooms "taped" off with a seal that said they were clean, if the seal was broken you knew it hadn't been cleaned. The elevator had a sign outside of it requesting that only 2 people use an elevator at a time. Overall the hotel experience was great, except for the fact that it was completely full with pre-teens running around on Saturday evening, obviously a sports tournament of some sort brought a lot of kids in, without any masks to be found.
 
 ![Elevator Etiquette](https://live.staticflickr.com/65535/50063439742_606cb2d0b6_q.jpg "Elevator Etiquette")
 
@@ -47,7 +47,7 @@ Once Craig crossed the line the announcer stated that I had made up over 8 tenth
 
 Here's the video of my best left and right side runs (Sunday morning and Saturday afternoon respectively). The left side run uses my GoPro Hero8 with stability enabled, on a fixed mount on the roof of the car. The right side run uses the same camera with stability, but on my rotating mount. I honestly don't feel like there is a big difference between the two mounts with the "hypersmooth" enabled in the GoPro Hero8.
 
-[![YouTube Video](https://www.youtube.com/embed/ZZk2lKqEbd0)](https://www.youtube.com/embed/ZZk2lKqEbd0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZk2lKqEbd0?si=oOEyi7yE71GrGrAu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 My drive home on Sunday was uneventful, changed tires, loaded up the car, and hit the road. I averaged around 32mpg between Topeka and St. Louis, getting home just after dark so that I could unload the car and see the family before everyone fell asleep.
 
