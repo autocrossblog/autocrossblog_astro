@@ -4,7 +4,6 @@ excerpt: "Looking for a place to try on a helmet in St. Louis? Solo Performance 
 author: chris
 publishDate: 2023-01-23T13:29:20+00:00
 updateDate: 2024-12-12T11:26:36-06:00
-image: ~/assets/images/Helmet-1.jpg
 keywords: race, gear, st louis, saint, louis, saint louis, helmets,safety
 url: 2023/where-to-get-a-race-helmet-in-st-louis
 image: ~/assets/images/2023/2023Helmet.webp
