@@ -1,18 +1,17 @@
 ---
-tags: [ autocross, scion, fr-s, ssc, setup, specfrs ]
+title: "First event in SSC"
+excerpt: "Blog post about our first autocross in the SSC car, a 2016 Scion FRS running in Solo Spec Coupe. The car is great! Or was, but more on that later."
 author: chris
 publishDate: 2018-04-16T02:14:13+00:00
-updateDate: 2024-10-09T13:21:54-05:00
+updateDate: 2024-12-13T08:21:34-05:00
 url: "2018/first-event-in-ssc"
-excerpt: "Blog post about our first autocross in the SSC car!"
-title: "First event in SSC"
+image: ~/assets/images/2018/couplesautox.jpg
+tags: [ autocross, scion, fr-s, ssc, setup, specfrs ]
 ---
 
 Today was the first St. Louis Region Solo event in the 2018 series, so it was the first time out in the car, and I must say, it was great (albeit cold, windy, and even snowing/sleeting/raining at times)! [Natalie](https://www.youtube.com/watch?v=SGoV08aTlmU) got to take the first runs in the car, actually the first 6! She hasn't seriously autocrossed since 2008 when we had the [Corvette](/tag/corvette), but I believe this year will be different and she'll run quite a few local events and then we'll see if I can't talk her into Solo Nationals as well. Natalie managed to get down to a 51.997 on her 4th run, but trying harder on run 5 and 6 she went the other direction on the clock. We'll see where she placed within the ladies challenge once the results are published later this week.
 
-![YouTube Video](https://www.youtube.com/embed/HtN1BvhQrfI)
-
-<iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/HtN1BvhQrfI" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtN1BvhQrfI?si=hcGtnosIOhDSID3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![Couples Autocross](https://farm1.staticflickr.com/819/41484915701_c0dbb0aa1c.jpg)
 

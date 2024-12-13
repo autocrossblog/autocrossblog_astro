@@ -1,11 +1,11 @@
 ---
-tags: [ autocross, toyota, scion, fr-s, ssc, setup, specfrs ]
+title: "2018 Blytheville ProSolo Results for SSC"
+excerpt: "A blog post with the results from the 2018 Blytheville ProSolo held in Blytheville Arkansas. The results were excellent!"
 author: chris
 publishDate: 2018-05-03T01:52:44+00:00
 updateDate: 2024-11-15T12:15:17-06:00
-url: "2018/2018-blytheville-prosolo-results-for-ssc"
-excerpt: "Follow the author's journey of realizing a purchasing error on car wheels, his hassle to get them replaced, and prepping for an upcoming local autocro..."
-title: "2018 Blytheville ProSolo Results for SSC"
+url: 2018/2018-blytheville-prosolo-results-for-ssc
+tags: [ autocross, toyota, scion, fr-s, ssc, setup, specfrs, prosolo ]
 ---
 
 [![SSC Cars in Impound waiting for the Challenges](https://farm1.staticflickr.com/906/26990079767_9da6e5a1e9.jpg)](https://www.flickr.com/photos/chammond/26990079767/in/album-72157690612809440/)
@@ -41,7 +41,7 @@ Kevin ended up in the 2nd to last pairing out of the round of 32, lined up and d
 
 Here's the video from on top of the car of Kevin's Super Challenge win.
 
-[![YouTube Video](https://www.youtube.com/embed/H97rPchYJ4E)](https://www.youtube.com/embed/H97rPchYJ4E)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H97rPchYJ4E?si=b5vObFYJ4Cr9x06B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Autocross Settings:
 **Front Swaybar:** Soft setting  
