@@ -3,16 +3,14 @@ tags: [ autocross, toyota, fr-s, ssc, install, setup, specfrs ]
 author: chris
 publishDate: 2018-04-02T06:26:11+00:00
 updateDate: 2024-11-15T12:15:17-06:00
-url: "2018/solo-spec-coupe-parts-installation"
+url: 2018/solo-spec-coupe-parts-installation
 excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
 title: "Solo Spec Coupe Parts Installation"
 ---
 
 After a long couple of days working on the FR-S, interspersed with family events and other activities, I finally have the suspension components installed on the FR-S.
 
-<iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/2HGBNpxXpxs" width="560"></iframe>
-
-[![YouTube Video](https://www.youtube.com/embed/2HGBNpxXpxs)](https://www.youtube.com/watch?v=2HGBNpxXpxs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2HGBNpxXpxs?si=YF00ldnQjkXlqmH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 If you're interested in doing the installation yourself, be sure to check out the [TireRack write-up](https://www.tirerack.com/tires/tiretech/techpage.jsp?techid=338). I am not going to recreate the write-up, it covers a lot of what you need to know, I am going to cover some of the items that I feel the write-up misses.
 
