@@ -15,6 +15,10 @@ export const headerData = {
       text: 'Contact',
       href: getPermalink('/contact'),
     },
+    {
+      text: 'Car Setup',
+      href: getPermalink('/setup'),
+    },
   ],
   // actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
 };
