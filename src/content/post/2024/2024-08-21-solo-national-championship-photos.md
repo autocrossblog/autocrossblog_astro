@@ -1,13 +1,14 @@
 ---
 title: "2024 Solo National Championship Photos"
+excerpt: "Special photo package available for the 2024 Solo National Championships"
 author: chris
-image: ~/assets/images/2024/August/SoloNats-1.jpg
 publishDate: 2024-08-21T12:00:15+00:00
 updateDate: 2024-12-12T11:49:51-05:00
-keywords: scca, lincoln, national championships, solo nationals
 url: "2024/2024-national-championship-photos"
-excerpt: "Special photo package available for the 2024 Solo National Championships"
 tags: [ scca, solonationals, lincoln ]
+image: ~/assets/images/2024/August/SoloNats-1.jpg
+keywords: scca, lincoln, national championships, solo nationals
+
 ---
 If you're heading to the 2024 Solo National Championships in Lincoln Nebraska starting late next week you should check this out! 
 
@@ -22,3 +23,4 @@ There's no limit to the number of drivers or classes per car, so you can walk aw
 [Find our more info](https://rainbowmarks.com/Events/2024/08/SoloNationals) or [skip the details and go straight to the buying process](https://rainbowmarks.square.site/product/2024-solo-nationals/4)!
 
 You can also visit those URLs and sign up to get an email after the event when the photos are posted and available for viewing!
+

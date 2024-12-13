@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, setup ]
+title: "Wheels for a BSP 350z, ARP Studs, Sway Bars"
+excerpt: "Read about a user's experience with Injen Systems' customer service and the resolution of an issue with Super SES exhaust for a 350z."
 author: chris
 publishDate: 2011-02-05T23:07:21+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2011/wheels-for-a-bsp-350z-arp-studs-sway-bars"
-excerpt: "Read about a user's experience with Injen Systems' customer service and the resolution of an issue with Super SES exhaust for a 350z."
-title: "Wheels for a BSP 350z, ARP Studs, Sway Bars"
+tags: [ 350z, nissan, setup ]
 ---
 
 So now that wheels and tires (used) are taken care of, at least for part of the season, I need to locate some longer/stronger wheel studs for the 350z.
@@ -43,3 +43,4 @@ The first event of 2011 for the San Francisco Region SCCA is on the 13th, so a w
 - Install the sway bars
 - Make sure that the new wheels/tires fit on the car.
 - Make sure I can fit 4 wheels/tires in the car so I can get to the event.
+

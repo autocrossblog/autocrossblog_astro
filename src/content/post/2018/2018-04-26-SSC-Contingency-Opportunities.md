@@ -4,7 +4,7 @@ excerpt: "Blog post that lists off some SCCA Contingency availabile to SSC, this
 author: chris
 publishDate: 2018-04-26T02:58:53+00:00
 updateDate: 2024-12-09T10:21:54-05:00
-url: 2018/ssc-contingency-opportunities
+url: "2018/ssc-contingency-opportunities"
 tags: [ autocross, toyota, scion, fr-s, ssc, specfrs ]
 ---
 
@@ -28,3 +28,4 @@ For SSC, here are the contingencies that I believe to be applicable:
 - RaceChick.com ProSolo (ladies)
 
 The amounts will all vary, but Falken for example will pay $300 for first, $200 for second and $100 for third.
+

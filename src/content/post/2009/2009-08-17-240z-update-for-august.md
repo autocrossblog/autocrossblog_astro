@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun ]
+title: "240Z update for August"
+excerpt: "Follow my journey as I purchase and install light bulbs and fuses for my 240Z. Discover the highs and lows of rewiring a car to be street legal."
 author: chris
 publishDate: 2009-08-17T02:56:15+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/240z-update-for-august"
-excerpt: "Follow my journey as I purchase and install light bulbs and fuses for my 240Z. Discover the highs and lows of rewiring a car to be street legal."
-title: "240Z update for August"
+tags: [ 240z, datsun ]
 ---
 
 So I didn't actually get anything physically done on the 240Z this weekend, but I did manage to get $40 worth of light bulbs and fuses for the car. 
@@ -13,3 +13,4 @@ So I didn't actually get anything physically done on the 240Z this weekend, but 
 
  
  (My first blog post from my fresh install of Windows 7)
+

@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun ]
+title: "Back on the wagon"
+excerpt: "The blog shares the author's journey of restoring a Datsun, detailing the removal of the rear hatch, plans for extra parts, and experimenting with pai..."
 author: chris
 publishDate: 2009-07-05T23:52:31+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/back-on-the-wagon"
-excerpt: "The blog shares the author's journey of restoring a Datsun, detailing the removal of the rear hatch, plans for extra parts, and experimenting with pai..."
-title: "Back on the wagon"
+tags: [ 240z, datsun ]
 ---
 
 So I finally got some more time on the Datsun over the past few days. Friday I went down to my boss' house and used his bead blaster to clean up some of the suspension pieces (photos of those later this week).
@@ -23,3 +23,4 @@ After that I started playing around with some paint stripper.Here's the result o
 I don't think I want to buy enough stripper to spray down the whole car! That'll be a lot of chemicals, though it does end up cleaner than if I went to completely sand the whole car down.
 
 More work later this week.
+

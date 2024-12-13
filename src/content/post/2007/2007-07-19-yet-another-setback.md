@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun ]
+title: "Yet another setback!"
+excerpt: "Explore a personal blog about house hunting, unexpected home improvement challenges, and a passion for car maintenance and modifications."
 author: chris
 publishDate: 2007-07-19T09:14:00+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/yet-another-setback"
-excerpt: "Explore a personal blog about house hunting, unexpected home improvement challenges, and a passion for car maintenance and modifications."
-title: "Yet another setback!"
+tags: [ 240z, datsun ]
 ---
 
 Tonight Natalie and I went and looked at a house, it's got ~5 acres, a 2 stall barn, a hay shed, and an oversized two car garage. That covers the basics. While looking around in the garage I found a circuit breaker, sweet, setup just for the garage. It's even got a section marked "Welder"! score, 220 already wired in the garage. Where do I sign?
@@ -17,3 +17,4 @@ After I found that, all the stuff I had overnighted from Summit last night is pr
 The other night I attempted to find two nuts to fit over this to aid in backing this adapter out, I failed at finding any. So I took my vice grips and clamped down, the adapter came out rather easily. I stuck that adapter into the block on the turbo motor, and stuck the oil filter on. Problem solved, no more oil cooler, at least not for now. Though I could have saved myself a few hundred bucks had I just done that two nights ago :(
 
 Later tonight I went back out to the garage (around 11:30) and started looking at how I'm going to fabricate my mount for the VR sensor to read the 36-1 wheel. I think I have a good setup figured out and will fabricate that immediately after work tomorrow so I can try to finish up any welding I may need to do (I think that's the last thing) because I know the Rally Bug will be needing the welder back soon!
+

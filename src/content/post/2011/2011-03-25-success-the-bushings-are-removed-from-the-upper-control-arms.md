@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, setup, suspension, video ]
+title: "Success! The bushings are removed from the upper control arms"
+excerpt: "Explore this blog post about the importance of having the right tools, using a home repair task as an example. See images and video of the process."
 author: chris
 publishDate: 2011-03-25T02:10:52+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2011/success-the-bushings-are-removed-from-the-upper-control-arms"
-excerpt: "Explore this blog post about the importance of having the right tools, using a home repair task as an example. See images and video of the process."
-title: "Success! The bushings are removed from the upper control arms"
+tags: [ 350z, nissan, setup, suspension, video ]
 ---
 
 Well, it just goes to show you. Having the right tool for a job is the key to getting the job done right.
@@ -25,3 +25,4 @@ and here's the removed bushings (sans some of the burned out rubber):
 [![remnants of the front bushings](https://static.flickr.com/5014/5557378579_bf4def4f27.jpg)](https://www.flickr.com/photos/17726343@N00/5557378579/)
 
 and here's a video of the process over the past two days:
+

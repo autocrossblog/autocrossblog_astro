@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun ]
+title: "End of March, 15 days left"
+excerpt: "Follow along with a father and son as they work to rebuild a car, tackling everything from rust repair to engine modification. Learn from their DIY jo..."
 author: chris
 publishDate: 2007-04-01T08:50:08+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/end-of-march-15-days-left"
-excerpt: "Follow along with a father and son as they work to rebuild a car, tackling everything from rust repair to engine modification. Learn from their DIY jo..."
-title: "End of March, 15 days left"
+tags: [ 240z, datsun ]
 ---
 
 So Dad and I have been working on the car pretty much all day, and last night as well.
@@ -21,3 +21,4 @@ I took the angle grinder to the car as well [removing from rust from in front of
 Dad ran new fuel lines for most of the rubber lines. We also bought some hardware to fabricate the throttle controls as the linkage from the parts car and this car don't quite match up together.
 
 Tomorrow I'm going to work on the floors and see what I rust I can remove and cover them up with a fresh coat of paint. More photos posted on the Photos page!
+

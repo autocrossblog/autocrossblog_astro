@@ -4,9 +4,9 @@ excerpt: "Looking for a place to try on a helmet in St. Louis? Solo Performance 
 author: chris
 publishDate: 2023-01-23T13:29:20+00:00
 updateDate: 2024-12-12T11:26:36-06:00
-keywords: race, gear, st louis, saint, louis, saint louis, helmets,safety
-url: 2023/where-to-get-a-race-helmet-in-st-louis
+url: "2023/where-to-get-a-race-helmet-in-st-louis"
 image: ~/assets/images/2023/2023Helmet.webp
+keywords: race, gear, st louis, saint, louis, saint louis, helmets,safety
 
 ---
 To be safe in motorsports you need a high quality helmet! 
@@ -23,3 +23,4 @@ Brand specifics will obviously vary, do you need/want the most expensive coolest
 
 ## Can I buy a helmet online?
 Absolutely you can buy a helmet online. [SoloPerformance.com](https://soloperformance.com/collections/helmets-and-accessories) has one of the largest selections of helmets online, they sell hundreds of helmets a year.
+

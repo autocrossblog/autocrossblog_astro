@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, setup, suspension ]
+title: "Autocross 350z Modifications List"
+excerpt: "Explore a comprehensive and regularly updated list of modifications for the 350z, including its suspension, engine, wheels, and interior."
 author: chris
 publishDate: 2011-05-16T03:04:29+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2011/autocross-350z-modifications-list"
-excerpt: "Explore a comprehensive and regularly updated list of modifications for the 350z, including its suspension, engine, wheels, and interior."
-title: "Autocross 350z Modifications List"
+tags: [ 350z, nissan, setup, suspension ]
 ---
 
 I realized recently that I didn't have an ongoing list of modifications for the 350z. So I figured I should create one. The idea is that this will be continually updated, with the list of current parts. If I end up removing parts I'll strike them through on the list.
@@ -43,3 +43,4 @@ I realized recently that I didn't have an ongoing list of modifications for the 
 ## Exterior Modifications
 
 - None
+

@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan ]
+title: "Back in the saddle again"
+excerpt: "Discover the cherished Bell Helmet's adventure from Colorado to California, lost during a move, and its unexpected reunion with the owner."
 author: "chris"
 publishDate: 2011-07-04T02:56:30+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2011/back-in-the-saddle-again"
-excerpt: "Discover the cherished Bell Helmet's adventure from Colorado to California, lost during a move, and its unexpected reunion with the owner."
-title: "Back in the saddle again"
+tags: [ 350z, nissan ]
 ---
 
 This morning I took off from our house around 6:10am and headed south on Highway 1. I was on the road to Marina, CA. The trip was nice and uneventful, traffic was great, but I'm sure that had to do with the fact that it was so early on a Sunday morning of a three day weekend.
@@ -30,3 +30,4 @@ Settings:
 - Tire psi: 25/23 f/r
 - Shocks: Front 7 clicks compression 1 full turn rebound
 - Rear 3 clicks rebound
+

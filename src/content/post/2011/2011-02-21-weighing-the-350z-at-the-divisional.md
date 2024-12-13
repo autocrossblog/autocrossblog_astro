@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, setup ]
+title: "Weighing the 350z at the Divisional"
+excerpt: "Engage in the debate about the proposed move of the 350z from BSP to ESP in SCCA Autocross classing. Discover the pros and cons discussed on the SCCAF..."
 author: chris
 publishDate: 2011-02-21T00:09:56+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2011/weighing-the-350z-at-the-divisional"
-excerpt: "Engage in the debate about the proposed move of the 350z from BSP to ESP in SCCA Autocross classing. Discover the pros and cons discussed on the SCCAF..."
-title: "Weighing the 350z at the Divisional"
+tags: [ 350z, nissan, setup ]
 ---
 
 So there's been much debate (or really just many people telling me I am crazy) over on SCCAForums in the thread I started to discuss the proposed move of the 350z from BSP to ESP in SCCA Autocross classing.
@@ -32,3 +32,4 @@ And what did it weigh in at?
 **3062lbs**
 
 That matches up fairly closely to my 2003 Enthusiast I had from 03-06 in b-stock trim. A few other mods on this one, though the old one had a lighter exhaust setup. The 2003 weighed 3075lbs.
+

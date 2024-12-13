@@ -4,7 +4,7 @@ excerpt: "A blog post with the results from the 2018 Blytheville ProSolo held in
 author: chris
 publishDate: 2018-05-03T01:52:44+00:00
 updateDate: 2024-11-15T12:15:17-06:00
-url: 2018/2018-blytheville-prosolo-results-for-ssc
+url: "2018/2018-blytheville-prosolo-results-for-ssc"
 tags: [ autocross, toyota, scion, fr-s, ssc, setup, specfrs, prosolo ]
 ---
 
@@ -52,3 +52,4 @@ Here's the video from on top of the car of Kevin's Super Challenge win.
 **Rear Tire Pressure:** 32 psi
 
 [![Challenge Winners](https://farm1.staticflickr.com/869/26990122027_c44c9d1814.jpg)](https://www.flickr.com/photos/chammond/26990122027/in/album-72157690612809440/)
+

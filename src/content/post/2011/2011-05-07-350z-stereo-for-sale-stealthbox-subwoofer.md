@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, parts, stereo ]
+title: "350z Stereo For Sale, Stealthbox Subwoofer"
+excerpt: "Selling used car audio equipment: JL Audio speakers, amplifiers, a subwoofer, and a Pioneer head unit. All in working order, $950 cash."
 author: chris
 publishDate: 2011-05-07T03:54:25+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2011/350z-stereo-for-sale-stealthbox-subwoofer"
-excerpt: "Selling used car audio equipment: JL Audio speakers, amplifiers, a subwoofer, and a Pioneer head unit. All in working order, $950 cash."
-title: "350z Stereo For Sale, Stealthbox Subwoofer"
+tags: [ 350z, nissan, parts, stereo ]
 ---
 
 I took all of this stuff out of my car a few months ago and am just now getting around to selling.
@@ -38,3 +38,4 @@ Everything is in working order as far as I know, worked fine when I removed it f
 
 
 <strong>Photos      <br /></strong><img border="0" alt="" src="https://farm6.static.flickr.com/5310/5629476064_d7f491783e.jpg" />     <br /><img border="0" alt="" src="https://farm6.static.flickr.com/5101/5629477564_3011a9a1bb.jpg" />     <br /><img border="0" alt="" src="https://farm6.static.flickr.com/5185/5629481608_0831b3432b.jpg" />     <br /><img border="0" alt="" src="https://farm6.static.flickr.com/5022/5629491412_49f098e033.jpg" />     <br /><img border="0" alt="" src="https://farm6.static.flickr.com/5266/5629499594_4476951bbd.jpg" />     <br /><img border="0" alt="" src="https://farm6.static.flickr.com/5222/5628920001_ff51902a1f.jpg" />     <br /><img border="0" alt="" src="https://farm6.static.flickr.com/5147/5629503768_7fe2ae0cb6.jpg" />     <br /><img border="0" alt="" src="https://farm6.static.flickr.com/5304/5628924297_9f09a1ec95.jpg" />     <br /><img border="0" alt="" src="https://farm6.static.flickr.com/5149/5629506200_779834a0a4.jpg" />     <br /><img border="0" alt="" src="https://farm6.static.flickr.com/5309/5628927973_b20f29dac8.jpg" />     <br /><img border="0" alt="" src="https://farm6.static.flickr.com/5027/5628932103_115563482f.jpg" /></p>
+

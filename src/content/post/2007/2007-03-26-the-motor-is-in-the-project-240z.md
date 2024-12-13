@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun, megasquirt ]
+title: "The motor is in the Project 240z!"
+excerpt: "Follow along as we make progress in our Project 240z, from separating the transmission to successfully installing the motor."
 author: chris
 publishDate: 2007-03-26T10:26:27+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/the-motor-is-in-the-project-240z"
-excerpt: "Follow along as we make progress in our Project 240z, from separating the transmission to successfully installing the motor."
-title: "The motor is in the Project 240z!"
+tags: [ 240z, datsun, megasquirt ]
 ---
 
 Look out Jeffs, the motor is in the Project 240z! Dad and I spent all day today working on the car, and I even swung by one of Jeef's old employer's to pickup some parts today as well.
@@ -23,3 +23,4 @@ Does anyone have a Ford Cobra MAF lying around anywhere? I'm in need of one.
 Photos have been uploaded and can be found on the photos page!
 
 <A class=image_link id=set_thumb_link_434601234 title="Still half naked" href="https://www.flickr.com/photos/chammond/434601234/in/set-72157594465585463/"><IMG height=75 alt="Still half naked" src="https://farm1.static.flickr.com/147/434601234_58ef1f58a1_s.jpg" width=75></A><A class=image_link id=set_thumb_link_434599950 title=IMG_0348 href="https://www.flickr.com/photos/chammond/434599950/in/set-72157594465585463/"><IMG height=75 alt=IMG_0348 src="https://farm1.static.flickr.com/176/434599950_7246302834_s.jpg" width=75></A><A class=image_link id=set_thumb_link_434599157 title="Front shot" href="https://www.flickr.com/photos/chammond/434599157/in/set-72157594465585463/"><IMG height=75 alt="Front shot" src="https://farm1.static.flickr.com/179/434599157_b7ed799d0d_s.jpg" width=75></A><A class=image_link id=set_thumb_link_434597905 title=IMG_0346 href="https://www.flickr.com/photos/chammond/434597905/in/set-72157594465585463/"><IMG height=75 alt=IMG_0346 src="https://farm1.static.flickr.com/178/434597905_4b30695c0a_s.jpg" width=75></A><A class=image_link id=set_thumb_link_434596885 title=IMG_0345 href="https://www.flickr.com/photos/chammond/434596885/in/set-72157594465585463/"><IMG height=75 alt=IMG_0345 src="https://farm1.static.flickr.com/168/434596885_c18ef8a0db_s.jpg" width=75></A><A class=image_link id=set_thumb_link_434595665 title=IMG_0344 href="https://www.flickr.com/photos/chammond/434595665/in/set-72157594465585463/"><IMG height=75 alt=IMG_0344 src="https://farm1.static.flickr.com/188/434595665_bd2b1910cd_s.jpg" width=75></A>
+

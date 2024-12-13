@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, setup ]
+title: "San Diego National Tour Practice Day"
+excerpt: "Explore Chris Hammond's autocross journey, from practice runs to suspension tweaks, and his passion for racing and community at AutocrossBlog.com."
 author: chris
 publishDate: 2011-04-02T00:49:20+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2011/san-diego-national-tour-practice-day"
-excerpt: "Explore Chris Hammond's autocross journey, from practice runs to suspension tweaks, and his passion for racing and community at AutocrossBlog.com."
-title: "San Diego National Tour Practice Day"
+tags: [ 350z, nissan, setup ]
 ---
 
 Today was a practice day at the San Diego National Tour. This morning I took part in the Evolution School advantage program, basically you get a ton of seat time in the morning before the practice course opens up for the rest of the entrants for the National Tour. My r-comps were on a truck on the way to the tour, so I ran my street tires for the morning session. I also had the car set at full soft (bump/rebound), most definitely not the configuration needed, and my evo instructor Brian let me know.
@@ -30,3 +30,4 @@ I ended up going with the following settings on the Konis:
 **Rebound:** 2.5 clicks (10 clicks available)
 
 I'm still trying to get the time lapse video from drive down to San Diego yesterday together. I can't get Windows Live Movie Maker working very well on my laptop. I'm hoping it finishes up here soon.
+

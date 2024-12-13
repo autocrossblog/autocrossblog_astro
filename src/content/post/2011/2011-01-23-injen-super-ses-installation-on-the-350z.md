@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, setup ]
+title: "Injen Super SES Installation on the 350z"
+excerpt: "Installing the Injen Super SES on the 350z."
 author: chris
 publishDate: 2011-01-23T01:07:18+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2011/injen-super-ses-installation-on-the-350z"
-excerpt: "Installing the Injen Super SES on the 350z."
-title: "Injen Super SES Installation on the 350z"
+tags: [ 350z, nissan, setup ]
 ---
 
 If you followed the blog post earlier this week you already know that Injen came through and got me the replacement midpipes for my Super SES Exhaust which I removed late last year.
@@ -32,3 +32,4 @@ I also took a number of photos of the exhaust before putting it on.
 <a title="Old and New" href="https://www.flickr.com/photos/17726343@N00/5379280999/"><img alt="Old and New" src="https://static.flickr.com/5244/5379280999_31ac336e52.jpg" style="border-width: 0px;border-style: solid;" /></a>    
 
 The old and new mid pipes, you can see on the new one that there is extra reinforcement now to prevent the cracking that caused the leak on the original setup.
+

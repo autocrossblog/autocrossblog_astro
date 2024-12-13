@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, setup, results ]
+title: "San Francisco Region SCCA Boondoggle 2011 Results"
+excerpt: "Results from the SFRSCCA Boondoggle in 2011"
 author: chris
 publishDate: 2011-02-13T23:58:50+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2011/san-francisco-region-scca-boondoggle-2011-results"
-excerpt: "Results from the SFRSCCA Boondoggle in 2011"
-title: "San Francisco Region SCCA Boondoggle 2011 Results"
+tags: [ 350z, nissan, setup, results ]
 ---
 
 So today was the first day for a few things
@@ -25,3 +25,4 @@ Here's my fourth run, I wish I had adjusted the rear camera a bit better, but I 
 I was shooting video with the ChaseCam and my original GoPro, my GoPro HD had some issues and no longer works. I'm hoping I can get a replacement for it ASAP as next weekend is a two day divisional also being held at Great America, though fortunately this time on a bigger lot, today was awful cramped mid day when all the second session drivers and first session drivers were trying to park and such.
 
 So how did I end up for the day? Well, I was running in the Index ( X ) class, and I got stomped! I finished 17 out of 22 in the class, 41st or so overall on the event index. I think I would have been in 3rd place out of 6 had I been running BSP with the regular class.
+

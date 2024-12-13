@@ -1,13 +1,14 @@
 ---
-tags: [ scca, solonationals, lincoln ]
+title: "2024 Solo National Championships Writeup"
+excerpt: "Let's talk about a week in Lincoln Nebraska"
 author: chris
 publishDate: 2024-10-09T10:00:15+00:00
 updateDate: 2024-12-03T11:59:22-06:00
+url: "2024/2024-solo-nationals"
+tags: [ scca, solonationals, lincoln ]
 image: ~/assets/images/2024/August/SoloNats-3.jpg
 keywords: scca, lincoln, national championships, solo nationals
-url: "2024/2024-solo-nationals"
-excerpt: "Let's talk about a week in Lincoln Nebraska"
-title: "2024 Solo National Championships Writeup"
+
 galleryPath: "/src/assets/images/2024/August/MuseumOfSpeed"
 
 ---
@@ -68,3 +69,4 @@ Nothing too eventful happened, but it was great to get to call Evan William's G 
 
 ## What's next?
 So what's coming next? Well, the next weekend after Nationals I ran a local event in an AS Z06, that was fun! I am leaning towards running in SSC again in 2025 though, so I will be working on purchasing a new ride for that endeavor hopefully in the next month or two!
+

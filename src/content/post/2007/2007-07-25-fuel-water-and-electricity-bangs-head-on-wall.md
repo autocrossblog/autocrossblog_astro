@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun, megasquirt ]
+title: "Fuel, Water and Electricity *bangs head on wall*"
+excerpt: "Discover how a group of friends troubleshoot fuel leaks, coolant leaks, and blown fuses in a car makeover, strengthening teamwork and engineering skil..."
 author: chris
 publishDate: 2007-07-25T11:30:59+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/fuel-water-and-electricity-bangs-head-on-wall"
-excerpt: "Discover how a group of friends troubleshoot fuel leaks, coolant leaks, and blown fuses in a car makeover, strengthening teamwork and engineering skil..."
-title: "Fuel, Water and Electricity *bangs head on wall*"
+tags: [ 240z, datsun, megasquirt ]
 ---
 
 Fuel leaks, coolant leaks, and blown fuses. That about sums up the evening...
@@ -38,3 +38,4 @@ c) see if the coolant is still leaking and then fix the leak.
 Of those items right now, C scares me the most, I'm hoping I don't have to replace a head gasket or anything of the like.
 
 I'll have video up from tonight, both my usual format, and some HD video as well.
+

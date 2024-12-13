@@ -4,9 +4,8 @@ excerpt: "Wow, what a week! Last Wednesday I loaded up the SpecFRS onto a borrow
 author: chris
 publishDate: 2018-06-06T18:29:53+00:00
 updateDate: 2024-11-18T10:51:34-06:00
-url: 2018/exceptional-results-in-lincoln-nebraska
+url: "2018/exceptional-results-in-lincoln-nebraska"
 tags: [ autocross, toyota, fr-s, ssc, setup, specfrs ]
-
 ---
 
 Wow, what a week! Last Wednesday I loaded up the SpecFRS onto a borrowed trailer and left St. Louis the following morning to drive to Lincoln Nebraska for spring Nationals, 4 days of racing. The drive out was uneventful, spent it trying to listen to old "The Forward" podcasts, I'm not a huge podcast guy, even though I used to have my own back in the day, but I've been trying to listen to Armstrong's podcast from the beginning, long drives are about the only time I can actually listen to it.
@@ -35,3 +34,4 @@ For the Champ Tour, Chris finished out day 1 way back, outside of the trophies, 
 **Front Tire Pressure:** 32 psi  
 **Rear Tire Pressure:** 32 psi  
 **Brake Pads:** Ferodo DS2500
+

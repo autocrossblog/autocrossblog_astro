@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, setup, scca, video, nationaltour, national-tour ]
+title: "San Diego National Tour Day 1"
+excerpt: "Experience exhilarating autocross racing at the San Diego National Tour. Dive into intense competition, camaraderie, and Z car glory. #Autocross #RacingLife"
 author: chris
 publishDate: 2011-04-03T00:27:44+00:00
 updateDate: 2024-11-18T08:39:29-06:00
 url: "2011/san-diego-national-tour-day-1"
-excerpt: "Experience exhilarating autocross racing at the San Diego National Tour. Dive into intense competition, camaraderie, and Z car glory. #Autocross #RacingLife"
-title: "San Diego National Tour Day 1"
+tags: [ 350z, nissan, setup, scca, video, nationaltour, national-tour ]
 ---
 
 I'm worn out, so this will likely not be as long as it should be, but here's a quick summary of the day today.
@@ -25,3 +25,4 @@ I don't have the videos from today squared away yet, but you can watch the time 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bJF5nh5_5SQ?si=7lHP_Ebnh8x8Et3O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 Well in the time it look to post this, I got one video up, from Run 1
+

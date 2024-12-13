@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun ]
+title: "Time to start"
+excerpt: "Follow the author's journey restoring a 240Z car motor, detailing errors of the past and plans for engine rehabilitation."
 author: chris
 publishDate: 2007-11-28T10:27:12+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/time-to-start"
-excerpt: "Follow the author's journey restoring a 240Z car motor, detailing errors of the past and plans for engine rehabilitation."
-title: "Time to start"
+tags: [ 240z, datsun ]
 ---
 
 So I think the time has come. I hope to begin work on the 240Z again this week. First step, finish taking apart the blown motor and find the missing piston! Next step after that, start to take apart the L28E motor sitting on the floor. It's been sitting for almost a year now, and I've learned my lesson about not taking a look at what you have (see previous "First step" above).
@@ -15,3 +15,4 @@ So I hope to get the L28E motor somewhat apart so that I can replace the seals o
 
 
 Nick, if you're reading this and you aren't working all weekend I hope to see you and the new friend over here this weekend! At least on Saturday, Sunday I should really spend time with the wife for our first Wedding Anniversary!
+

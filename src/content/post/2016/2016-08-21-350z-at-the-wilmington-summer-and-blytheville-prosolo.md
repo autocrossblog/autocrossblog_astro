@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, prosolo ]
+title: "350z at the Wilmington Summer and Blytheville ProSolo"
+excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
 author: chris
 publishDate: 2016-08-21T23:18:44+00:00
 updateDate: 2024-12-09T10:15:17-06:00
-url: 2016/350z-at-the-wilmington-summer-and-blytheville-prosolo
-excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals."
-title: "350z at the Wilmington Summer and Blytheville ProSolo"
+url: "2016/350z-at-the-wilmington-summer-and-blytheville-prosolo"
+tags: [ 350z, nissan, prosolo ]
 image: ~/assets/images/PublishThumbnails/Open-Live-Writer/Wilmin_12D77/P350z-July2016_2.jpg
 ---
 So the 2016 ProSolo series is nearing its end, with the final two events of the year being held within 6 hours of the house, I entered both. The Wilmington event turned out to be another disappointing one for me, not because of the location or people, but simply due to my lack of ability to drive this car lately.
@@ -21,3 +21,4 @@ The Blytheville ProSolo went just about the same, though because there were only
 Off to the ProSolo Finale here coming up in 2 weeks, then SoloNationals, hoping that I can fair better there than I have all year. There's also one local event coming up as well, perhaps that event will be the season's turning point!
 
 Stay tuned for a new look on the 350z in the next few days.
+

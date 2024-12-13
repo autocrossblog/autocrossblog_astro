@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun ]
+title: "P240Z A bit done here, a bit done there."
+excerpt: "Explore a weekend of work on car restoration including driver's seat mounting, rust removal tests and prepping for paint, with attached images."
 author: chris
 publishDate: 2007-07-08T08:46:28+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/p240z-a-bit-done-here-a-bit-done-there"
-excerpt: "Explore a weekend of work on car restoration including driver's seat mounting, rust removal tests and prepping for paint, with attached images."
-title: "P240Z A bit done here, a bit done there."
+tags: [ 240z, datsun ]
 ---
 
 Take 2, stupid internet browsers, I typed this once, I guess that's what I get for not typing it up in Windows Live Writer instead of in the browser.
@@ -28,3 +28,4 @@ I've gotta try to hit the junk yard tomorrow, also will be racing Jansoon's M3, 
 
 Here are photos of the driver's side seat mounts, as well as the prep work for paint.
  <a id="set_thumb_link_752096840" class="image_link" title="From the Rear" href="https://www.flickr.com/photos/chammond/752096840/in/set-72157594465585463/"><img width="75" height="75" alt="From the Rear" src="https://farm2.static.flickr.com/1177/752096840_be37281eb3_s.jpg" /></a><a id="set_thumb_link_752099866" class="image_link" title="Rear Driver Side" href="https://www.flickr.com/photos/chammond/752099866/in/set-72157594465585463/"><img width="75" height="75" alt="Rear Driver Side" src="https://farm2.static.flickr.com/1337/752099866_3f9362f400_s.jpg" /></a><a id="set_thumb_link_751250551" class="image_link" title="Driver Side" href="https://www.flickr.com/photos/chammond/751250551/in/set-72157594465585463/"><img width="75" height="75" alt="Driver Side" src="https://farm2.static.flickr.com/1430/751250551_7f15e2f898_s.jpg" /></a><a id="set_thumb_link_752105664" class="image_link" title="Driver Side Seat Mounts" href="https://www.flickr.com/photos/chammond/752105664/in/set-72157594465585463/"><img width="75" height="75" alt="Driver Side Seat Mounts" src="https://farm2.static.flickr.com/1101/752105664_01ab7202dc_s.jpg" /></a><a id="set_thumb_link_752109062" class="image_link" title="Driver Side Seat Mount Tab" href="https://www.flickr.com/photos/chammond/752109062/in/set-72157594465585463/"><img width="75" height="75" alt="Driver Side Seat Mount Tab" src="https://farm2.static.flickr.com/1340/752109062_9ff7b177a0_s.jpg" /></a><a id="set_thumb_link_751260177" class="image_link" title="Passenger Side (not prepped)" href="https://www.flickr.com/photos/chammond/751260177/in/set-72157594465585463/"><img width="75" height="75" alt="Passenger Side (not prepped)" src="https://farm2.static.flickr.com/1184/751260177_0bdd7c588c_s.jpg" /></a><a id="set_thumb_link_751263123" class="image_link" title="Driver Side (prepped)" href="https://www.flickr.com/photos/chammond/751263123/in/set-72157594465585463/"><img width="75" height="75" alt="Driver Side (prepped)" src="https://farm2.static.flickr.com/1081/751263123_04840461b3_s.jpg" /></a>
+

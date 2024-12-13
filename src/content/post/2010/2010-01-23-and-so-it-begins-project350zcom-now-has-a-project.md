@@ -1,11 +1,11 @@
 ---
-tags: [ 350z ]
+title: "And so it begins, Project350z.com now has a project"
+excerpt: "Explore the journey of trading a faulty Projectquattro.com for a 2004 Nissan 350Z Enthusiast, its features, comparisons with a 2003 model, and future..."
 author: chris
 publishDate: 2010-01-23T01:20:49+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2010/and-so-it-begins-project350zcom-now-has-a-project"
-excerpt: "Explore the journey of trading a faulty Projectquattro.com for a 2004 Nissan 350Z Enthusiast, its features, comparisons with a 2003 model, and future..."
-title: "And so it begins, Project350z.com now has a project"
+tags: [ 350z ]
 ---
 
 So begins the latest project, Projectquattro.com has been disposed of, after the incident a few weeks ago, where it took out a light pole, it was time for the car to go. I ended up not getting
@@ -63,3 +63,4 @@ Also tomorrow I've got a guy coming to take a look at the [Project240z](/tag/240
     this 350z!
 
 On January 30th I'm going to take the [Project350z](/tag/350z) out to its first Autocross.
+

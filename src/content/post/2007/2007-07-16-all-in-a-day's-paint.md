@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun, megasquirt ]
+title: "All in a day's paint"
+excerpt: "Follow the journey of DIY car repairs and modifications in a garage. Witness the transformation of an old vehicle into something new and learn along."
 author: chris
 publishDate: 2007-07-16T09:14:37+00:00
 updateDate: 2024-11-18T08:39:29-06:00
 url: "2007/all-in-a-day-s-paint"
-excerpt: "Follow the journey of DIY car repairs and modifications in a garage. Witness the transformation of an old vehicle into something new and learn along."
-title: "All in a day's paint"
+tags: [ 240z, datsun, megasquirt ]
 ---
 
 After yesterday's fun, Eric and I spent some time in the garage today. I was awoken this morning around 8:00am by the doorbell; the Dish Network guy showed up right on time. More on that topic tomorrow on [The Mad Blogger](https://themadblogger.com/). After I got the Dish guy going, I sent Eric an SMS to let him know I was out in the garage working.
@@ -38,3 +38,4 @@ And here are some after shots:
 We ended up painting a few coats over most areas of the interior and then let the car sit for a while to dry. Once dry, we rolled the car back into the garage and started running fuel lines. We ran both the feed and return lines for the fuel cell, mounted the pump again after removing it for paint, and fixed the fuel lines to the transmission tunnel.
 
 Tomorrow, I'll be working on the motor again. I hope to get the intake and exhaust manifolds back on the motor so that we can put it in the car Tuesday or Wednesday night. From there, it'll be time to start wiring up the Megasquirt.
+

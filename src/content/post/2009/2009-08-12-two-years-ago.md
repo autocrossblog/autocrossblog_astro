@@ -1,12 +1,12 @@
 ---
-tags: [ 240z, datsun ]
+title: "Project240z - Two years ago the motor blew up"
+excerpt: "Relive the journey of a Datsun 240z that toasted its first motor in autocross, its revival, and the ongoing journey in car restoration."
 author: chris
 publishDate: 2009-08-12T23:00:10+00:00
 updateDate: 2024-11-17T22:47:19-06:00
-image: ~/assets/images/2009/twoyearsago.jpg
 url: "2009/two-years-ago"
-excerpt: "Relive the journey of a Datsun 240z that toasted its first motor in autocross, its revival, and the ongoing journey in car restoration."
-title: "Project240z - Two years ago the motor blew up"
+tags: [ 240z, datsun ]
+image: ~/assets/images/2009/twoyearsago.jpg
 ---
 
 Two years ago today was the day that the Datsun toasted Motor #1 on it's first autocross run! Here's a shot of that first competition run.
@@ -35,3 +35,4 @@ I sold the Corvette.
 We moved to Colorado. <a href="https://www.going2colorado.com">www.going2colorado.com</a>
 
 In the next few weeks I hope to get more of the 240 back together, starting to work on the electrical system and such. Then during the first week of September the car goes to www.hanksvillehotrods.com for a new exhaust, maybe I can talk them into a cage too ;)
+

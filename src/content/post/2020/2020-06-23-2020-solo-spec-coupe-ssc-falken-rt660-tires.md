@@ -1,12 +1,12 @@
 ---
-tags: [ 240z, datsun ]
+title: "2020 Solo Spec Coupe (SSC) Falken RT660 Tires"
+excerpt: "The time has come, Falken has updated the tire for SSC for 2020 with their latest and greatest Azenis RT660. "
 author: chris
 publishDate: 2020-06-23T15:21:04+00:00
 updateDate: 2024-07-01T11:50:00-05:00
-image: ~/assets/images/6-21-2020.jpg
 url: "2020/2020-solo-spec-coupe-ssc-falken-rt660-tires"
-excerpt: "The time has come, Falken has updated the tire for SSC for 2020 with their latest and greatest Azenis RT660. "
-title: "2020 Solo Spec Coupe (SSC) Falken RT660 Tires"
+tags: [ 240z, datsun ]
+image: ~/assets/images/6-21-2020.jpg
 ---
 
 The time has come, Falken has updated the tire for SSC for 2020 with their latest and greatest Azenis RT660. I'll save you all the story about how there was testing in September (I couldn't stay for it), and how they were delayed getting to the states and you have the option of running either the RT-615k or the RT-660 for the 2020 season. All you really need to know is that the RT-660 is a much better tire, and highly recommended (required mostly) if you're running the SSC autocross class with the SCCA.
@@ -28,3 +28,4 @@ Here's a video from our fastest run, Run #6, at the event, using our JD1 Camera 
 **Rear Konis:** 1.5 turns from soft  
 **Front Tire Pressure:** 30 psi  
 **Rear Tire Pressure:** 29 psi
+

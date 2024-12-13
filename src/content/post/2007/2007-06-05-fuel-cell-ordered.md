@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun, megasquirt ]
+title: "Fuel Cell Ordered...."
+excerpt: "Ordered a fuel cell for the Project240z"
 author: chris
 publishDate: 2007-06-05T07:34:16+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/fuel-cell-ordered"
-excerpt: "Ordered a fuel cell for the Project240z"
-title: "Fuel Cell Ordered...."
+tags: [ 240z, datsun, megasquirt ]
 ---
 
 Well I ordered the fuel cell for the 240Z today, as well as 20ft of fuel line and AN fittings, as well as a wiring kit for a fuel pump. Tomorrow I'll probably be ordering a fuel pump.
@@ -19,3 +19,4 @@ Installing the fuel cell/lines/pump.
 I need to come up with some sort of exhaust for the car, as Atlanta has noise requirements that need to be met.
 
 Wiring up the MegaSquirt (this will be the biggest step and my biggest fear, as I have no electronics experience)
+

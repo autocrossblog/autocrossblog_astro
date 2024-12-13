@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, setup, autocross, instruction ]
+title: "How do you get better at Autocross?"
+excerpt: "Join us in recounting a thrilling day of autocross racing in California, including course walk-throughs, heat runs, and personal insights."
 author: chris
 publishDate: 2010-09-30T14:35:12+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2010/how-do-you-get-better-at-autocross"
-excerpt: "Join us in recounting a thrilling day of autocross racing in California, including course walk-throughs, heat runs, and personal insights."
-title: "How do you get better at Autocross?"
+tags: [ 350z, nissan, setup, autocross, instruction ]
 ---
 
 ![Project350z Autocrossing](https://farm5.static.flickr.com/4091/5028275443_f27b042640_m.jpg)
@@ -18,3 +18,4 @@ I am in that boat, I haven't autocrossed competitively in over 2 years, since I 
 You can also attend autocross schools, I've been to those put on by [Evolution Performance Driving School](https://evoschool.com/) multiple times, and highly recommend it as an option, though I think you should have a year or so of autocross under your belt before you attend one. Also check your local area for autocross schools put on by clubs, they are a great way to get started, and actually that was how I got into autocross back in 2000, by attending a local autox school in St. Louis.
 
 So how do I plan to get better at autocross? By going to as many events as my budget, life, and wife will let me go to! I'm fortunate that I live in the Bay Area (SF, CA) as there are events here almost every weekend, and in a lot of weekends multiple events going on.
+

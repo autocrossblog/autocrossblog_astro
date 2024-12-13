@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun, megasquirt ]
+title: "Fuel cell arrived, list of things to get done!"
+excerpt: "The fuel cell for the 240z arrived!"
 author: chris
 publishDate: 2007-06-07T10:00:07+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/fuel-cell-arrived-list-of-things-to-get-done"
-excerpt: "The fuel cell for the 240z arrived!"
-title: "Fuel cell arrived, list of things to get done!"
+tags: [ 240z, datsun, megasquirt ]
 ---
 
 Alright, so my fuel cell arrived today! It sure is purty, and big
@@ -30,3 +30,4 @@ Pictures and video of this weekends work coming early next week!
 As for what's after this weekend? Well getting all the wires for the Megasquirt run! Hopefully Nick can assist me with that next week over a few nights and we'll see if I can't get this darn car ready to run!
 
 Update: I found a source for Plexiglass and ordered a few square feet, some black and some smoked!
+

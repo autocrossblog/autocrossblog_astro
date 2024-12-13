@@ -1,11 +1,11 @@
 ---
-tags: [ 350z ]
+title: "Shopping for a 350z"
+excerpt: "Follow the journey of a Colorado Autocross enthusiast's motivated search for a new 350z, from Craigslist hunting to potential test drives."
 author: chris
 publishDate: 2010-01-18T01:26:31+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2010/shopping-for-a-350z"
-excerpt: "Follow the journey of a Colorado Autocross enthusiast's motivated search for a new 350z, from Craigslist hunting to potential test drives."
-title: "Shopping for a 350z"
+tags: [ 350z ]
 ---
 
 So the 2010 Autocross season is starting up soon, and here in Colorado the winter series is running strong. I had a little incident with the #projectquattro a few weeks ago, which also has spurred along the motivation to get a 350z.
@@ -17,3 +17,4 @@ It's a 2004 Enthusiast model, with an Injen SES Exhaust, a Nismo short shifter, 
 To speed up the purchasing process I'm hoping to get rid of the 240z soon, if you're interested in a [1973 Datsun 240z check out the site](/tag/240z)!
 
 I'll be updating the website here over the next couple weeks as hopefully things ramp up!
+

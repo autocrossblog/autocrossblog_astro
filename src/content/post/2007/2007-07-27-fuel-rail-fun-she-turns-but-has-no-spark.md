@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun, fuel, megasquirt ]
+title: "Fuel Rail Fun! She turns, but has no spark"
+excerpt: "Follow the author's journey of overcoming fuel rail issue and powering up the car, only to uncover a spark issue. A tale of persistence and auto repai..."
 author: chris
 publishDate: 2007-07-27T10:31:04+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/fuel-rail-fun-she-turns-but-has-no-spark"
-excerpt: "Follow the author's journey of overcoming fuel rail issue and powering up the car, only to uncover a spark issue. A tale of persistence and auto repai..."
-title: "Fuel Rail Fun! She turns, but has no spark"
+tags: [ 240z, datsun, fuel, megasquirt ]
 ---
 
 First off, let me say that today was a good day! It didn't start off that way  however. After last night's fuel rail issues I needed to get the rail  tapped and get myself a new fitting. At lunch I headed over to [Solo Performance Specialties](https://www.soloperformance.com/) World  Headquarters to have Dave assist with tapping the rail. He didn't have a 3/8 NPT  tap so I had to head over to Grainger down the street from the SPS offices and  pick up a tap. $33 later I was in business and heading back to Dave's. He  assisted with tapping the rail again and then I headed south.
@@ -27,3 +27,4 @@ I called Whittle up and he suggested a few things. First thing was to pull a  sp
 So that's where I'm at right now. I've got a bit to do tomorrow, I need to  diagnose why I'm not getting spark. I'll check a few things first, see if  perhaps the VR sensor is wired backwards, which would cause this. I'll also  check to make sure I have the VR sensor in the correct location. I'm taking off  from work tomorrow to try and finish things up on the car this weekend so I can  race on Sunday. We'll see if I reach my goal!
 
 Overall I was very pleased with the progress tonight, even if the car didn't  start I gave it a shot, turned it over and everything seems to work minus the  spark issue. We'll see how things go tomorrow and I'll post video from tonight's  attempt and hopefully tomorrow's success.
+

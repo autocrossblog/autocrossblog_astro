@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun, seat ]
+title: "P240Z Passenger Seat!"
+excerpt: "Follow the journey of a 240Z car seat installation, complete with trial-and-errors, welding insights, and detailed pictures for every step of the proc..."
 author: chris
 publishDate: 2007-06-30T22:42:00+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/p240z-passenger-seat"
-excerpt: "Follow the journey of a 240Z car seat installation, complete with trial-and-errors, welding insights, and detailed pictures for every step of the proc..."
-title: "P240Z Passenger Seat!"
+tags: [ 240z, datsun, seat ]
 ---
 
 Well, after figuring out that the seat mounts I had made earlier in the week wouldn't fit I went back out to work on the 240Z this morning with a bitter taste in my mouth.
@@ -39,3 +39,4 @@ In order to actually thread the nuts on the rear bolts I have to tilt the seat b
 Tomorrow I'll be installing the driver's seat, most likely in the same manner as the passenger side, I'll also be starting on mounting the fuel cell, cutting out sections of the rear floorpan, and then fabricating a frame for the cell to sit in. The ultimate goal for this 15 Gallon cell is to build a frame that will allow me to easily remove the fuel cell and install a smaller cell. Using the larger cell for Time Trial and HPDE events, and having a 5 gallon cell to use for autocross events, saving weight in the rear of the car.
 
 More tomorrow!
+

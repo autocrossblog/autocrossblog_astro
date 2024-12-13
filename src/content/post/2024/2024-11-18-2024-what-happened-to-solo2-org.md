@@ -1,13 +1,14 @@
 ---
 title: "What happened to Solo2.org?"
-url: '2024/solo2-org'
-image: ~/assets/images/2024/November/solo2-org.webp
-author: chris
 excerpt: "Where did the Ultimate Autocross Website go?"
+author: chris
 publishDate: 2024-11-18T13:20:15+00:00
-keywords: '"autocross, solo2.org"'
 updateDate: 2024-11-18T13:45:00-06:00
-tags:  [ autocross, website ] 
+url: "'2024/solo2-org'"
+tags: [ autocross, website ] 
+image: ~/assets/images/2024/November/solo2-org.webp
+keywords: '"autocross, solo2.org"'
+
 ---
 
 ## The beginning
@@ -26,3 +27,4 @@ Ultimately with the rise of Facebook and groups there, along with a few other fo
 Now the domain redirects here to AutocrossBlog.com.
 
 Never say never though, SOLO2.ORG might come back one day.
+

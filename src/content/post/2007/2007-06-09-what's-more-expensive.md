@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun, tools ]
+title: "What's more expensive?"
+excerpt: "So I seriously think I have spent more money on tools than I have spent on the car or parts for the car!"
 author: chris
 publishDate: 2007-06-09T08:25:10+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/what-s-more-expensive"
-excerpt: "So I seriously think I have spent more money on tools than I have spent on the car or parts for the car!"
-title: "What's more expensive?"
+tags: [ 240z, datsun, tools ]
 ---
 
 So I seriously think I have spent more money on tools than I have spent on the car or parts for the car!
@@ -15,3 +15,4 @@ I bought more stuff at Sears tonight, also went to the Metal Supermarket and pic
 Tomorrow I'm heading south to look at a trailer, pictures tomorrow if it comes home with me.
 
 Before I ran off and spent too much money this evening I took the front rotors off the spare suspension, took them to Carquest to have them turned and I'll pick them up tomorrow afternoon after looking at the trailer.
+

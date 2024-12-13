@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, setup ]
+title: "Wheels for a 350z in STR"
+excerpt: "Follow along as we navigate the considerations for car wheel selection, discussing different sizes, benefits, and costs for the upcoming 2010 Autocros..."
 author: chris
 publishDate: 2010-01-27T23:45:20+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2010/wheels-for-a-350z-in-str"
-excerpt: "Follow along as we navigate the considerations for car wheel selection, discussing different sizes, benefits, and costs for the upcoming 2010 Autocros..."
-title: "Wheels for a 350z in STR"
+tags: [ 350z, nissan, setup ]
 ---
 
 So I'm slowly starting to figure out what I need to do to get the car ready for the 2010 Autocross season. I've been looking around, reading the 2010 SCCA Solo rules, covering the details of the class. I've got some more research to do, but for now I'm starting to figure out which wheels I am going to run on the car.
@@ -19,3 +19,4 @@ the downfall of 18" wheels would be that they are likely going to be heavier tha
 If I do decide to go with 18" wheels, that'll unfortunately cost more from a tire perspective, and also more for the  wheels, but the advantages may outweigh the disadvantages. I don't know if I'll be able to find the proper size (18"x9") in the Enkei RPF1s, though I wouldn't mind those wheels again. They are nice and light weight, which is definitely something I need to be concerned with in the heavy 350z.
 
 I'm not going to be buying for a couple weeks, if that soon, but I'm definitely going to spend some more time looking at wheel options.
+

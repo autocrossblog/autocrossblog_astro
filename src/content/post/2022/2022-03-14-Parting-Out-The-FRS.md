@@ -1,12 +1,12 @@
 ---
-tags: [ autocross, fr-s, ssc, setup, accident, specfrs ]
+title: "Parting out the Scion FR-S"
+excerpt: "Follow one car owner's journey of parting out a 2016 Scion FR-S, from wheel removal to selling off OEM parts and SSC suspension bits."
 author: chris
 publishDate: 2022-03-14T10:30:15+00:00
 updateDate: 2024-11-15T12:15:17-06:00
-image: ~/assets/images/3-14-2022/Side-1.jpg
 url: "2022/parting-out-the-frs"
-excerpt: "Follow one car owner's journey of parting out a 2016 Scion FR-S, from wheel removal to selling off OEM parts and SSC suspension bits."
-title: "Parting out the Scion FR-S"
+tags: [ autocross, fr-s, ssc, setup, accident, specfrs ]
+image: ~/assets/images/3-14-2022/Side-1.jpg
 ---
 
 The time has finally come, time that I finally have, to try to start getting the 2016 Scion FR-S parted out.
@@ -25,3 +25,4 @@ Other things I need to do:
 If you're interested in any of the car, or SSC bits, let me know.
 
 Car is located in Wildwood Missouri, just outside of St. Louis. The motor has less than 45k miles on it and runs great.
+

@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun, engine, motor ]
+title: "It runs again!"
+excerpt: "Follow our journey from a garage sale to reviving a 240Z car, experimenting with different workarounds until we finally get the vroom back!"
 author: chris
 publishDate: 2009-05-09T17:42:24+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/it-runs-again"
-excerpt: "Follow our journey from a garage sale to reviving a 240Z car, experimenting with different workarounds until we finally get the vroom back!"
-title: "It runs again!"
+tags: [ 240z, datsun, engine, motor ]
 ---
 
 So today we had a garage sale, nothing that resides in the garage was actually sold, but we did sell a lot of stuff that we wanted to get rid of before the move. Post sale the 240Z got some love. Here's the timeline, without times.
@@ -35,3 +35,4 @@ Crank crank vroom vroom vroom, turbo whistle
 It was a successful day!
 
 So tomorrow I'll get the radiator back on the car, and put the exhaust system on the car, and we'll see what she does then. The car is nowhere near done, but it feels great to have a car that starts again!!!
+

@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun ]
+title: "Bad things oil and antifreeze don't mix"
+excerpt: "A blog post about bad things found in the Datsun 240z motor"
 author: chris
 publishDate: 2007-08-15T05:34:02+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/bad-things-oil-and-antifreeze-don-t-mix"
-excerpt: "A blog post about bad things found in the Datsun 240z motor"
-title: "Bad things oil and antifreeze don't mix"
+tags: [ 240z, datsun ]
 ---
 
 So I'm in the garage working on the 1973 Datsun 240z. 
@@ -16,3 +16,4 @@ This 2.8L turbo motor is likely a complete loss.
 
 
 Protip: You don't want to find antifreeze and oil mixed together in your engine.
+

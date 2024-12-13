@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan ]
+title: "Old Project Z posts"
+excerpt: "Rediscover the journey of Project Z's restoration with access to old blog posts about the 2003 and 2004 350z on SOLO2.ORG."
 author: chris
 publishDate: 2011-06-24T01:35:12+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2011/old-project-z-posts"
-excerpt: "Rediscover the journey of Project Z's restoration with access to old blog posts about the 2003 and 2004 350z on SOLO2.ORG."
-title: "Old Project Z posts"
+tags: [ 350z, nissan ]
 ---
 
 I've been doing some work on SOLO2.ORG the past two evenings, working on restoring a bunch of my old blog posts from over there from the early days of the site. There was a lot of content that went missing over the various conversions of the site the past 4-5 years.
@@ -34,3 +34,4 @@ I'm not going to pull the posts over here into Project350z.com (though I might u
 - Project Z breaks 47k miles in Sauget 4/26/2005  
 - Project Z gets a new Swaybar 8/12/2005  
 - Project Z rolls over 64000 Miles 1/12/2006
+

@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun ]
+title: "240Z Downpipe arrived!"
+excerpt: "Follow the author's journey as they navigate the installation of a turbo downpipe on a Z31 motor, sharing helpful tips and insights."
 author: chris
 publishDate: 2007-05-09T09:41:34+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2007/240z-downpipe-arrived"
-excerpt: "Follow the author's journey as they navigate the installation of a turbo downpipe on a Z31 motor, sharing helpful tips and insights."
-title: "240Z Downpipe arrived!"
+tags: [ 240z, datsun ]
 ---
 
 Well today a key component of my project arrived, the downpipe for the Turbo showed up. At first I flipped out thinking it was the wrong downpipe.
@@ -15,3 +15,4 @@ Well today a key component of my project arrived, the downpipe for the Turbo sho
 Then someone on Hybrid Z kindly pointed out that I need to remove the stock wastegate housing in order  to install this downpipe, which I believe is off a Z31 motor, instead of an L28ET motor like I have.
 
 I'll be testing this out tomorrow, then I hope to try to get it over to Hackman to get it powder coated!
+

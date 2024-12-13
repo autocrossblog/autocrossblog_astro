@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, setup, nationaltour, national-tour ]
+title: "San Diego National Tour Day 2"
+excerpt: "Experience exhilarating autocross racing at the San Diego National Tour. Dive into intense competition, camaraderie, and Z car glory. #Autocross #RacingLife"
 author: chris
 publishDate: 2011-04-04T01:16:23+00:00
 updateDate: 2024-11-18T08:39:29-06:00
 url: "2011/san-diego-national-tour-day-2"
-excerpt: "Experience exhilarating autocross racing at the San Diego National Tour. Dive into intense competition, camaraderie, and Z car glory. #Autocross #RacingLife"
-title: "San Diego National Tour Day 2"
+tags: [ 350z, nissan, setup, nationaltour, national-tour ]
 ---
 
 I was pretty down today. Going into the first set of runs I had a headache that didn't seem to want to go away and I wasn't happy with my performance the day before. I was actually sitting there thinking, why do I do this? I really was thinking, I love seeing friends and talking to everyone, but I was pretty down on the racing part of things.
@@ -21,3 +21,4 @@ I'll have videos up in the next couple of days, I have some photos uploading at 
 <a href="https://www.flickr.com/photos/chammond/sets/72157626299376321/">https://www.flickr.com/photos/chammond/sets/72157626299376321/</a>
 
 <a title="IMG_9328" href="https://www.flickr.com/photos/17726343@N00/5587474265/"><img border="0" alt="Project 350z at San Diego National Tour" src="https://static.flickr.com/5069/5587474265_c1f4f02b0d.jpg" /></a>
+

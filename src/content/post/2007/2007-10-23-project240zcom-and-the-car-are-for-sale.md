@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun, megasquirt ]
+title: "Project240z.com and the car are for sale!"
+excerpt: "At one point I listed the car and website for sale"
 author: chris
 publishDate: 2007-10-23T03:09:58+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/project240zcom-and-the-car-are-for-sale"
-excerpt: "At one point I listed the car and website for sale"
-title: "Project240z.com and the car are for sale!"
+tags: [ 240z, datsun, megasquirt ]
 ---
 
 With my <a href="https://www.corvettez06.org">recent acquisition</a> I'm going to have to clear out the garage of all of my Datsun parts and cars to make room for a few other vehicles.
@@ -43,3 +43,4 @@ I'm not sure what all I want to ask for this, it could be a very fun project, wi
 If you're interested start making me an offer, if I consider it reasonable I'll respond.
 
 Currently not looking to part things out, yet.
+

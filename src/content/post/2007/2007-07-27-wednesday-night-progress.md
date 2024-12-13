@@ -1,12 +1,13 @@
 ---
-tags: [ 240z, datsun, fuel ]
-updateDate: 2024-10-09T13:21:54-05:00
+title: "Wednesday Night Progress on the Datsun 240z"
+excerpt: "Well, Wednesday night was an eventful night. When I got home from work I  jumped under the car and tried to track down my coolant leak"
 author: chris
 publishDate: 2007-07-27T09:53:11+00:00
-redirect_from: 
+updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/wednesday-night-progress"
-excerpt: "Well, Wednesday night was an eventful night. When I got home from work I  jumped under the car and tried to track down my coolant leak"
-title: "Wednesday Night Progress on the Datsun 240z"
+tags: [ 240z, datsun, fuel ]
+redirect_from: 
+
 ---
 
 Well, Wednesday night was an eventful night. When I got home from work I  jumped under the car and tried to track down my coolant leak. I found small  traces of coolant here and there, but I didn't find any big problems. While  under the car I found a few other things. I noticed that the oil return line off  the bottom of the turbo wasn't hooked up. Thankfully I found that, had I tried  to start the car with that disconnected we would of had a real mess on our  hands.
@@ -19,3 +20,4 @@ The cause of the fuel leak ended up being the 45 degree fitting we had on the  i
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/URmn1lSll2U?si=EkPTY0F9lLL_SJK6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

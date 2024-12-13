@@ -1,13 +1,14 @@
 ---
-tags: [ scca, solonationals, lincoln ]
+title: "10 Things to Prepare for at the 2024 Solo National Championships"
+excerpt: "Not sure what to expect at Nationals? We've got you covered"
 author: chris
-image: ~/assets/images/2024/August/SoloNats-2.jpg
 publishDate: 2024-08-25T09:00:15+00:00
 updateDate: 2024-11-18T11:19:52-06:00
+url: "2024/10-things-2024-national-championships"
+tags: [ scca, solonationals, lincoln ]
+image: ~/assets/images/2024/August/SoloNats-2.jpg
 keywords: scca, lincoln, national championships, solo nationals
-url: 2024/10-things-2024-national-championships
-excerpt: "Not sure what to expect at Nationals? We've got you covered"
-title: "10 Things to Prepare for at the 2024 Solo National Championships"
+
 ---
 So you're heading to your first Solo National Championships, it can be overwhelming, you've likely never experienced anything like you're going to see this week in Lincoln Nebraska, so I'm going to try to take some time to give you a heads up! Hopefully it will help you have an even more fun week!
 
@@ -52,23 +53,15 @@ Stay connected and informed throughout the event by using the Sportity app, whic
 In the past, results and awards at Solo Nationals were traditionally handed out at banquets on Sunday, Wednesday, and Friday nights. However, the format has changed, and now trophies are awarded directly in the grid after the competition ends for the day. It's important to pay attention to when and where the awards are being given out. Even if you don't end up taking home a trophy, it's a great experience to stick around and cheer on your fellow competitors.
 
 ---
-
-### 5 More Things to Know for Your First Solo Nationals
-
-**11. Weather Preparedness**  
-The weather in Lincoln can be quite variable in early September. Be prepared for anything from hot, sunny days to sudden thunderstorms. It will also be WINDY. Make sure to bring appropriate clothing, sunscreen, hats, and rain gear to keep yourself comfortable in all conditions. It's also a good idea to keep an eye on the weather forecast and be ready to adjust your plans if needed. Staying prepared will help you focus on your runs and enjoy the event, no matter what the weather brings.
-
-**12. Car Preparation and Maintenance**  
-Nationals is a rigorous event for both drivers and their cars. Before you head to Lincoln, ensure your vehicle is in top condition. Bring along spare parts, tools, and fluids to handle any unexpected repairs or maintenance needs. Doing regular checks between runs can prevent minor issues from turning into major problems, keeping you competitive and on track.
-
-**13. Navigating Event Schedules and Heat Assignments**  
-With so many competitors and multiple heats, staying on top of your schedule and heat assignments is crucial. Knowing when you need to be at the grid and when you have downtime will help you plan your day effectively. Make sure you're aware of any schedule changes and be prepared to adjust accordingly to stay on track for your runs.
-
-**14. Community and Networking Opportunities**  
-Beyond the competition, Solo Nationals is a fantastic place to network with other drivers, meet people from different regions, and build lasting friendships. Take the time to introduce yourself to others, share experiences, and learn from more seasoned competitors. The community at Nationals is welcoming, and you'll find plenty of opportunities to connect with like-minded enthusiasts.
-
-**15. Local Attractions and Activities**  
-Lincoln and its surrounding areas offer a variety of attractions and activities. If you have some downtime, consider exploring local parks, museums, or other points of interest. This can make your Nationals experience even more memorable and give you a taste of what Lincoln has to offer beyond the event.
+title: "10 Things to Prepare for at the 2024 Solo National Championships"
+excerpt: "Not sure what to expect at Nationals? We've got you covered"
+author: chris
+publishDate: 2024-08-25T09:00:15+00:00
+updateDate: 2024-11-18T11:19:52-06:00
+url: "2024/10-things-2024-national-championships"
+tags: [ scca, solonationals, lincoln ]
+image: ~/assets/images/2024/August/SoloNats-2.jpg
+keywords: scca, lincoln, national championships, solo nationals
 
 ---
 
@@ -77,3 +70,4 @@ Attending the 2024 Solo Nationals as a first-timer will be an unforgettable expe
 Good luck, and see you on the course!
 
 What did we miss? Add your thoughts to the comments below!
+

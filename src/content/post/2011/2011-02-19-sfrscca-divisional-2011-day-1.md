@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, setup ]
+title: "SFRSCCA Divisional 2011 Day 1"
+excerpt: "Read about a user's experience with Injen Systems' customer service and the resolution of an issue with Super SES exhaust for a 350z."
 author: chris
 publishDate: 2011-02-19T21:42:29+00:00
 updateDate: 2024-11-18T10:51:34-06:00
 url: "2011/sfrscca-divisional-2011-day-1"
-excerpt: "Read about a user's experience with Injen Systems' customer service and the resolution of an issue with Super SES exhaust for a 350z."
-title: "SFRSCCA Divisional 2011 Day 1"
+tags: [ 350z, nissan, setup ]
 ---
 How was today?
 
@@ -28,3 +28,4 @@ The Falkens were MUCH better, not perfect, but way better than the V710s in the 
 Here's a video of the third run
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cGIZVNTaNbU?si=L-7V6UY5UwWRrr8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

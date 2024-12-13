@@ -1,11 +1,11 @@
 ---
-tags: [ 240z, datsun, forsale ]
+title: "I'm selling it, I'm not selling it, I'm selling it, I'm not selling it?"
+excerpt: "Follow the author's adventure as he contemplates whether to sell his Datsun or spend weekends in March restoring it with his buddy, Terec."
 author: chris
 publishDate: 2009-02-21T15:29:17+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/im-selling-it-im-not-selling-it-im-selling-it-im-not-selling-it"
-excerpt: "Follow the author's adventure as he contemplates whether to sell his Datsun or spend weekends in March restoring it with his buddy, Terec."
-title: "I'm selling it, I'm not selling it, I'm selling it, I'm not selling it?"
+tags: [ 240z, datsun, forsale ]
 ---
 
 I don't know what I'm doing with the Datsun just yet. I should sell it, but I couldn't sleep the other night because I was thinking about what fun it would be to spend a few weekends in March working on the 240Z.
@@ -17,3 +17,4 @@ Now, I just need to get my book done, and hire my good buddy Terec for a weekend
 Happy Belated Bday to Terec as well, 2/18.
 
 So, am I selling the car? I don't know. I want to buy another 350Z, but it would make a lot more sense to not do that and try to get this datsun running.
+

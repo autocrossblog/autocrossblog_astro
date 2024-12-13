@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, setup, video, gopro ]
+title: "My GoPro HD Died"
+excerpt: "A blog post with video of my 350z Stud install beofre the GoPro hero HD died"
 author: chris
 publishDate: 2011-02-13T01:16:19+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2011/my-gopro-hd-died"
-excerpt: "A blog post with video of my 350z Stud install beofre the GoPro hero HD died"
-title: "My GoPro HD Died"
+tags: [ 350z, nissan, setup, video, gopro ]
 ---
 
 So I ran into a few issues today with my GoPro HD. I was working on the car, and was going to do another time lapse, even picked up a second battery last night so that I was sure I would get as much as possible.
@@ -19,3 +19,4 @@ Here's the video I did get today.
 I did get a lot done on the car today. I replaced all the OEM studs with longer ARP studs, as well as I managed to get both the front and rear Hotchkis sway bars installed.
 
 It looks like I won't have any HD Video of tomorrows Autocross, but I will take my older GoPro (non-hd) to see if I can get some, along with my ChaseCam. The car is loaded up and ready to go, tires are stuffed inside!
+

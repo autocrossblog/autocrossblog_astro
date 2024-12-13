@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan ]
+title: "Project350z V3, coming soon?"
+excerpt: "Follow the journey of ownership, modification, and eventual goodbye to the 350z in this compelling car enthusiast's blog post."
 author: chris
 publishDate: 2015-09-06T20:52:21+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2015/project350z-v3-coming-soon"
-excerpt: "Follow the journey of ownership, modification, and eventual goodbye to the 350z in this compelling car enthusiast's blog post."
-title: "Project350z V3, coming soon?"
+tags: [ 350z, nissan ]
 ---
 
 So the time has come, I am currently car shopping again. I've been threatening it for a while now, but with the 2015 Solo National Championships going on this week, and a few other life things figured out, it is time to make the 2016 autocross season happen!
@@ -55,3 +55,4 @@ So after listing off all the things wrong with the car, I do keep in mind that i
 ## What comes next?
 
 At this point I don't know when I will purchase my next 350z. I hope to find something this fall, we have one more [Gateway Autocross Association](https://www.gatewayautox.com/) event later this year, I would love to run my own car for that, but that might not be possible.
+

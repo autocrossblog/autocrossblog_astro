@@ -4,9 +4,9 @@ excerpt: "Explore the ups and downs of the 2016 ProSolo series, experiences with
 author: chris
 publishDate: 2018-04-02T06:26:11+00:00
 updateDate: 2024-11-15T12:15:17-06:00
-url: 2018/solo-spec-coupe-parts-installation
-image: ~/assets/images/2018/scionsusp.webp
+url: "2018/solo-spec-coupe-parts-installation"
 tags: [ autocross, toyota, fr-s, ssc, install, setup, specfrs ]
+image: ~/assets/images/2018/scionsusp.webp
 ---
 
 After a long couple of days working on the FR-S, interspersed with family events and other activities, I finally have the suspension components installed on the FR-S.
@@ -46,3 +46,4 @@ Putting the rear shocks together, I ended up using the spring compressor to remo
 [![Install Completed](https://farm1.staticflickr.com/787/41176740751_44eec849c8.jpg)](https://www.flickr.com/photos/chammond/41176740751/in/album-72157694192449114/)
 
 - [TRD Lowering Springs install guide](https://www.billswebspace.com/PTR07-18130inst.pdf)
+

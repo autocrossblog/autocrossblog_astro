@@ -1,12 +1,12 @@
 ---
-image: ~/assets/images/2024/November/350z-lose-weight.webp'
-publishDate: 2011-01-31T00:49:00+00:00
 title: "The 350z goes on a Diet"
 excerpt: "Discover how a 350z shed 100lbs of unnecessary weight for better autocross performance. From subwoofers and amps to speakers and wiring, this blog dives into the stereo removal process, the challenges faced, and the benefits of a lighter car in motorsports. Watch the video and learn why weight savings matter for speed and control!"
 author: chris
-url: '2011/the-350z-goes-on-a-diet'
-tags:  [ 350z, nissan, setup, weight ] 
+publishDate: 2011-01-31T00:49:00+00:00
 updateDate: 2024-11-22T09:21:54-05:00
+url: "'2011/the-350z-goes-on-a-diet'"
+tags: [ 350z, nissan, setup, weight ] 
+image: ~/assets/images/2024/November/350z-lose-weight.webp'
 ---
 
 On Saturday the 350z went on a diet, losing (rough guess here) about 3% of it's total weight.
@@ -29,3 +29,4 @@ Not a bad diet for a day's work. I'll talk more about what I am doing for tunes 
 
 ## Why bother losing weight for autocross? 
 A better power to weight ratio in your car will improve your performance.
+

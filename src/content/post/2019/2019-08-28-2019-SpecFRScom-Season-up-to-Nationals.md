@@ -1,11 +1,11 @@
 ---
-tags: [ autocross, fr-s, ssc, setup, specfrs ]
+title: "2019 SpecFRS.com Season up to Nationals"
+excerpt: "2019 Season in review for SpecFRS"
 author: chris
 publishDate: 2019-08-28T03:26:48+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2019/2019-specfrscom-season-up-to-nationals"
-excerpt: "2019 Season in review for SpecFRS"
-title: "2019 SpecFRS.com Season up to Nationals"
+tags: [ autocross, fr-s, ssc, setup, specfrs ]
 ---
 
 [![Instagram Post](https://www.instagram.com/p/BwS-GexFfU8/)](https://www.instagram.com/p/BwS-GexFfU8/ "View this post on Instagram")
@@ -34,3 +34,4 @@ The only thing we've changed this season is to adjusted air pressures down a bit
 **Front Tire Pressure:** 31 psi  
 **Rear Tire Pressure:** 30 psi  
 **Brake Pads:** Ferodo DS2500
+

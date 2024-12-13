@@ -1,11 +1,11 @@
 ---
 title: "On the road again, temporary tag for smog"
-tags: [ 350z, nissan, setup, california ]
+excerpt: "A blog about some of the trials and tribulations of trying to get a 350z that has been modified to pass SMOG testing in California."
 author: chris
 publishDate: 2010-04-06T09:32:07+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2010/on-the-road-again-temporary-tag-for-smog"
-excerpt: "A blog about some of the trials and tribulations of trying to get a 350z that has been modified to pass SMOG testing in California."
+tags: [ 350z, nissan, setup, california ]
 image: ~/assets/images/2010/smogtest.webp
 ---
 
@@ -24,3 +24,4 @@ Monday morning I headed off to the DMV, arriving there at 7:10am, with 5 other c
 I was able to get a two month temp tag from the state for the 350z, so now I'm somewhat legal to drive around as I work to get the car to pass smog. Hopefully I can get that done here in the next couple of weeks. 
 
 Sunday I'm going to the [Z Car Garage](https://www.zcargarage.com/) for a ZONC (Z cars of Northern California) dyno day. I'm curious to see what numbers the car puts down in it's current form and then want to get it dyno'd again after swapping the Cats to see if there's a big difference. I'll take plenty of pictures down there, I'm looking forward to meeting some other Z guys this weekend.
+

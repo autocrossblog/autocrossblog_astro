@@ -1,11 +1,11 @@
 ---
-tags: [ 350z, nissan, wheels, forsale, parts ]
+title: "For Sale (4) 18x10inch +38 Enkei RPF1 w/ 710s"
+excerpt: "Discover how to build a GoPro camera mount for capturing car shots. Learn from the trial, error and results of our first 350z GoPro mount assembly."
 author: chris
 publishDate: 2011-12-28T00:36:14+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2011/for-sale-4-18x10-38-enkei-rpf1-w-710s"
-excerpt: "Discover how to build a GoPro camera mount for capturing car shots. Learn from the trial, error and results of our first 350z GoPro mount assembly."
-title: "For Sale (4) 18x10inch +38 Enkei RPF1 w/ 710s"
+tags: [ 350z, nissan, wheels, forsale, parts ]
 ---
 
 Asking **$1600** local (delivery extra, I have small vehicles so transport is a pain). Currently located in Half Moon Bay, California, just south of San Francisco.
@@ -35,3 +35,4 @@ Click on photos for a Larger View
 <a href="https://www.flickr.com/photos/chammond/6586040951/in/photostream"><img border="0" alt="https://farm8.staticflickr.com/7015/6586040951_bba7ecc0d7_m.jpg" src="https://farm8.staticflickr.com/7015/6586040951_bba7ecc0d7_m.jpg" /> </a><a href="https://www.flickr.com/photos/chammond/6586039061/in/photostream"><img border="0" alt="https://farm8.staticflickr.com/7165/6586039061_fe47d6ce12_m.jpg" src="https://farm8.staticflickr.com/7165/6586039061_fe47d6ce12_m.jpg" /></a>    
 
 On car <img border="0" alt="https://farm6.staticflickr.com/5301/5587442397_fbd968141e.jpg" src="https://farm6.staticflickr.com/5301/5587442397_fbd968141e.jpg" />
+

@@ -1,12 +1,12 @@
 ---
-tags: [ 350z, nissan ]
+title: "Washing, Waxing and then Cleaning 350z Headlights"
+excerpt: "Follow the journey of restoring and prepping a 2003 Nissan 350z for competitve autocrossing in SCCA's STU class. Stay tuned for updates."
 author: chris
 publishDate: 2015-11-16T00:57:03+00:00
 updateDate: 2024-11-15T12:15:17-06:00
-image: ~/assets/images/PublishThumbnails/Windows-Live-Writer/1c3584c943ab_12BEC/Headlight-progress_2.jpg
 url: "2015/washing-waxing-and-then-cleaning-350z-headlights"
-excerpt: "Follow the journey of restoring and prepping a 2003 Nissan 350z for competitve autocrossing in SCCA's STU class. Stay tuned for updates."
-title: "Washing, Waxing and then Cleaning 350z Headlights"
+tags: [ 350z, nissan ]
+image: ~/assets/images/PublishThumbnails/Windows-Live-Writer/1c3584c943ab_12BEC/Headlight-progress_2.jpg
 ---
 
 This weekend, being what is likely the last warm weekend of 2015, I decided it was time to wash/claybar/wax the 350z. The weather was beautiful, I spent most of Saturday afternoon performing the first two steps, washing and clay bar'ng the car. The car was pretty clean, but there were some decent cone marks/residue on the side skirts from the previous owner, most of the time spent with the clay bar was there, though there were various other locations on the car that needed attention as well.
@@ -30,3 +30,4 @@ Step 1) Don't be afraid here, but you are going to scratch the crap out of your 
 Step 2) The instructions for the product don't tell you much about this, but Step 2 is a spray can of clear coat that will restore the gloss and shine to your headlamps. Be sure to tape off the area around the lamp if you haven't done this already for Step 1. Basically you spray the clear coat on in two separate applications, waiting 3-5 minutes for the first coat to dry.
 
 I must admit, I was not thrilled about scratching up the headlights even more to use this kit, but the end results was most definitely worth it!
+
