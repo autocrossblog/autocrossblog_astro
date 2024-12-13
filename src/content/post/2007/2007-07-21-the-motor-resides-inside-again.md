@@ -10,7 +10,7 @@ tags: [ 240z, datsun ]
 
 After work last night I got to work on the car. Eric and Russ came over to lend their assistance as well. Russ got started on the leaking wheel cylinder, Eric started putting the Intake/exhaust/turbo back onto the motor, while I worked on fabricating a bracket to mount the VR sensor onto the side of the motor.
 
-While they were both productive, I actually never got my portion of the project finished last night, though I hope to finish it up tonight. Once the intake/exhaust and turbo was all back together we went ahead and began the task of putting the motor back in the car. I've got some High Definition video of that [process here on this Video Page](/engine-insertion-take-2).
+While they were both productive, I actually never got my portion of the project finished last night, though I hope to finish it up tonight. Once the intake/exhaust and turbo was all back together we went ahead and began the task of putting the motor back in the car. I've got some High Definition video of that [process here on this Video Page](/2007/engine-insertion-take-2).
 
 With Eric and Russ' help we also managed to get the drive shaft connected up and the transmission into the cross member under the tunnel. Tonight I'm going to pick up more bolts, so we can mount the fuel cell bracket to the floor of the car and then we can hookup all the fuel lines. We'll also be installing the fuel rail and injectors tonight so we can hook up the fuel lined up front.
 

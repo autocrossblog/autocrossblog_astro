@@ -14,5 +14,5 @@ I've posted two new videos for the 240Z. Yesterday I spent some time finishing u
 
 And then Russ came over and we spent a few hours doing a few necessary things. We removed parts for the brakes and cleaned up items so that I can get everything turned this weekend. I installed the new Rocker arm cover gasket. Russ started fabricating block off plates for the various items that will be coming off the motor, you know, all those inhibiting emissions items!
 
-[project-240z-brakes-and-unecessary-items](/project-240z-brakes-and-unecessary-items)
+[project-240z-brakes-and-unecessary-items](/2007/project-240z-brakes-and-unecessary-items)
 

@@ -18,5 +18,5 @@ What's next? Cleanup time. I'm going to be ordering a fuel rail, injectors, pres
 
 More on that later this week. Hopefully video later tonight, if not sometime tomorrow.
 
-[Here's a link to the Video](/engine-removal-video-1-of-2)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KtoVDHAM91k?si=lCxPdHSDC8SJznef" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -10,7 +10,7 @@ tags: [ 240z, datsun ]
 
 Apparently that's the word on the 240z. I sold it in January 2010 (or somewhere close to there) and since then it has apparently changed owners twice (possibly more).
 
-I emailed [the guy who sent me photos in October after he painted it](/the-240z-lives-and-it-looks-great), to see how it was, and he tells me it was sold in December 
+I emailed [the guy who sent me photos in October after he painted it](/2010/the-240z-lives-and-it-looks-great), to see how it was, and he tells me it was sold in December 
     
 If you are the new owner, drop me a line, I'm curious how things are going.
 

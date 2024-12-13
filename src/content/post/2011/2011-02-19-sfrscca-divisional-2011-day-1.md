@@ -19,7 +19,7 @@ Let me tell you this, Kumho V710s don't work well when it is &lt;40 degrees and 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WV9E75Gkc-Y?si=c_Mme4Fqbd4iAoic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-But I was too lazy to go get my street tires ([freshly mounted the previous night mind you](/night-before-the-project-350zs-first-divisional)). Big mistake, I went out on my second run and decided I would take things slower, expecting to actually go around the course faster. I slowed down and ran a 69.*. That broke this camel's back, I ran off to get my street wheels, drill, and jack so that I could swap to the Falken Azenis RT-615s.
+But I was too lazy to go get my street tires ([freshly mounted the previous night mind you](/2011/night-before-the-project-350zs-first-divisional)). Big mistake, I went out on my second run and decided I would take things slower, expecting to actually go around the course faster. I slowed down and ran a 69.*. That broke this camel's back, I ran off to get my street wheels, drill, and jack so that I could swap to the Falken Azenis RT-615s.
 
 Thankfully Grant (in a Nismo 370z) followed me over and helped me bring 2 of the tires back to my grid spot. I don't think I would have gotten them changed in time had he not helped! Thanks for the help Grant!
 

@@ -30,7 +30,7 @@ The events didn't do so great, the ProSolo I finished 5th out of 7 in the class.
 
 After the ProSolo they held the National Tour (Champ tour). I finished better overall, there were 14 drivers in the tour, versus 7 in the Pro. I finished 7th, 2 out of trophies. Though I never did get the feeling I got on my last run of the ProSolo, the fast feeling.
 
-After the poor showings in the National events I decided it was time to tear the car apart and see if change is what I need. I decided it was time to put the "old" suspension back on the car. What is the old suspension you might ask, well you can [read about it here](/bsp-350z-suspension-parts-and-exhaust-for-sale), I never did sell the suspension off the old car, so I decided it was time to try that out. The car has been up on jack stands for a month now, I finally got around to getting everything finished up today.
+After the poor showings in the National events I decided it was time to tear the car apart and see if change is what I need. I decided it was time to put the "old" suspension back on the car. What is the old suspension you might ask, well you can [read about it here](/2012/bsp-350z-suspension-parts-and-exhaust-for-sale), I never did sell the suspension off the old car, so I decided it was time to try that out. The car has been up on jack stands for a month now, I finally got around to getting everything finished up today.
 
 One additional thing I installed, there was a little issue with the potential legality of the previous camber arms on the rear end of the car. The arms came on the car when I purchased it, but I decided I didn't want to run the risk of them being challenged with a protest at a future event. So I ordered the Kinetix Racing Rear Camber/Traction package
 

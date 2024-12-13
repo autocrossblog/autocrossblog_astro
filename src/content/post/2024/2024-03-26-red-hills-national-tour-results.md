@@ -9,7 +9,7 @@ tags: [ autocross, nationaltour, national-tour, scca, mustang, friends ]
 image: ~/assets/images/2024/March/Moultrie/RedHillsNationalTour-6.jpg
 ---
 
-[Last Thursday I wrote a blog post about the trip down to Moultrie Georgia for the 2024 Red Hills Solo National Tour](https://www.autocrossblog.com/roadtrip-to-moultrie), this post will serve as the event review from the event. My first National Tour event in a number of years. 
+[Last Thursday I wrote a blog post about the trip down to Moultrie Georgia for the 2024 Red Hills Solo National Tour](/2024/roadtrip-to-moultrie), this post will serve as the event review from the event. My first National Tour event in a number of years. 
 
 We arrived in Moultrie late Thursday night and got checked in to our hotel. The lot was exceptionally small, so getting the truck and trailer situated took Dave some work, but fortunately being a Thursday night there weren't many customer vehicles on the lot, so we had plenty of room for the rig. 
 

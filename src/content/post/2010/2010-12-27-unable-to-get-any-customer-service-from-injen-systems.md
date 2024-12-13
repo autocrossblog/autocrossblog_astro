@@ -23,5 +23,5 @@ I responded with photos of the exhaust and what I needed. I have heard nothing b
 I sure wish I could get some help, I actually liked the exhaust on my 350z, but this has to be the worst customer service ever!
 
 
-**UPDATE:** [I'm glad to say that Injen came through and got me the replacement parts I needed](injen-customer-service-update-it-rocks)!
+**UPDATE:** [I'm glad to say that Injen came through and got me the replacement parts I needed](/2011/injen-customer-service-update-it-rocks)!
 

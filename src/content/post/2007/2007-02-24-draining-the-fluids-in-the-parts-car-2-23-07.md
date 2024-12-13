@@ -8,7 +8,7 @@ url: "2007/draining-the-fluids-in-the-parts-car-2-23-07"
 tags: [ 240z, 280z, datsun ]
 ---
 
-I spent a bit of time this evening working on the 280Z.  [Here's the video!](/draining-the-fluids-in-the-parts-car-2-23-07)
+I spent a bit of time this evening working on the 280Z.  [Here's the video!](/2007/draining-the-fluids-in-the-parts-car-2-23-07)
 
 Here's what I got done.
 

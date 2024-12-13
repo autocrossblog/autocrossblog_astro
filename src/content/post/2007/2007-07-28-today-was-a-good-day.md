@@ -32,5 +32,5 @@ Around 10pm I figured it was probably a little too late to try to keep starting 
 
 I've got a few things to try in the morning before I head off to the muffler shop to see if I can't get an exhaust put on the car.
 
-[Here's some video from tonight, trying to start the car.](/trying-to-start-the-car)
+[Here's some video from tonight, trying to start the car.](/2007/trying-to-start-the-car)
 

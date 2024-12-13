@@ -10,7 +10,7 @@ tags: [ 240z, datsun ]
 
 I sanded the area that I bondo'd yesterday on the 240Z. I also then cleaned and sprayed it with primer. Now the Project 240Z officially consists of 6, count them 6, colors. Blue, orange, white, black, brown, and grey. After that I removed the gas tank so I can have that cleaned up like we had done with the radiator last week. 
 
-Check out the video [/bondo-and-gas-tank-removal](/bondo-and-gas-tank-removal)
+Check out the video [/bondo-and-gas-tank-removal](/2007/bondo-and-gas-tank-removal)
 
 For now, I think Krekeler is safe, the car most likely won't be ready for the first St. Louis region event on 4/15. So..... anyone looking for a codriver in SM2 for the first event??? :)
 

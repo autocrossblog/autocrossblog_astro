@@ -12,5 +12,5 @@ So I spent some time tonight working on trying to remove the intake manifold fro
 
 I'll probably take this time to look at replacing the fuel rail and injectors while I have it out of the car. I need to pull it out so I can retap some of the holes I need to fill, as well as clean it out, I'm sure it has all sorts of crap in there that I'd rather not blow into the motor the first time it starts up.
 
-[Here is a link to the video from this evening](/240z-intake-manifold-bolts). Nothing too interesting, but a cool camera angle. Removing the motor on Saturday should make for some good video...
+[Here is a link to the video from this evening](/2007/240z-intake-manifold-bolts). Nothing too interesting, but a cool camera angle. Removing the motor on Saturday should make for some good video...
 

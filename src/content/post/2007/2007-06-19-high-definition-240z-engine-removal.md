@@ -12,5 +12,8 @@ I finally got the video working from my new camera. I installed Windows Vista ag
 
 You can see/download the video with the URL below. But please right click and save the file, it is large. 180mb, but I think the quality is well worth the wait for the download.
 
-2024 Update: [Uploaded to YouTube](https://www.youtube.com/watch?v=gk4KsPQu9z4). 180mb large? Lol 2007 me was so funny
+2024 Update: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gk4KsPQu9z4?si=E5nyys2N7SOdQGT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+180mb large? Lol 2007 me was so funny
 
