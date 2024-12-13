@@ -3,8 +3,8 @@ tags: [ 350z, nissan ]
 author: chris
 publishDate: 2015-11-21T00:06:29+00:00
 updateDate: 2024-11-15T12:15:17-06:00
-image: ~/assets/images/PublishThumbnails/Windows-Live-Writer/dfc33fa77b34_14347/image_2.png
-url: "2015/350z-and-missouri-safety-and-emissions-tests"
+image: ~/assets/images/PublishThumbnails/Windows-Live-Writer/dfc33fa77b34_14347/image_2.jpg
+url: 2015/350z-and-missouri-safety-and-emissions-tests
 excerpt: "Follow the journey of restoring and prepping a 2003 Nissan 350z for competitve autocrossing in SCCA's STU class. Stay tuned for updates."
 title: "350z and Missouri Safety and Emissions tests"
 ---
@@ -24,3 +24,4 @@ Also failed for a couple of exhaust issues, 3 of the 6 (8?) gaskets on the exhau
 Finally, they couldn't even do the emissions testing, because me resetting the codes to try to fix the ABS also cleared all the emissions sensors, so I have to drive the car for a while (how far?) after I get all the exhaust repairs done to try and get the sensors enough mileage to run through their data and hopefully be able to get the car back in for inspection on Friday morning.
 
 <a href="https://www.instagram.com/p/-P8sroOuJ3/?taken-by=thechristoc">https://www.instagram.com/p/-P8sroOuJ3/?taken-by=thechristoc</a>
+
