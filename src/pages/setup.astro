@@ -1,0 +1,89 @@
+---
+import Hero from '~/components/widgets/Hero.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import Layout from '~/layouts/PageLayout.astro';
+//import Steps2 from '~/components/widgets/Steps2.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+
+const metadata = {
+  title: 'Autocross Photos',
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+  tagline="2016 Scion FRS Solo Spec Coupe"
+  image={{
+    src: '~/assets/images/2024/December/frs-1.jpg',
+    alt: '2016 Scion FRS setup for SSC Autocross',
+  }}
+>
+  <Fragment slot="title">
+    Optimized for the thrill of
+    <span class="text-accent dark:text-white highlight">SSC Autocross</span>
+  </Fragment>
+
+  <Fragment slot="subtitle">
+    Dive into the details of a perfectly tuned
+    <span class="text-accent dark:text-white highlight">2016 Scion FRS</span>
+    built to dominate Solo Spec Coupe.
+  </Fragment>
+</Hero>
+
+<!-- Stats Widget ****************** -->
+
+<Stats
+  title="Car Setup Details"
+  stats={[
+    { title: 'Car Model', amount: '2016 Scion FRS' },
+    { title: 'Class', amount: 'SSC (Solo Spec Coupe)' },
+    { title: 'Event-ready Weight', amount: '2,800 lbs' },
+    { title: 'Years Racing', amount: '8+' },
+  ]}
+/>
+
+
+  <!-- Features3 Widget ************** -->
+
+  <Features3
+    title="2016 FRS SSC Autocross Settings"
+    subtitle="Optimized for Performance"
+    columns={2}
+    isBeforeContent={true}
+    items={[
+      {
+        title: 'Front Swaybar',
+        description: 'Soft setting',
+        icon: 'tabler:adjustments-horizontal',
+      },
+      {
+        title: 'Rear Swaybar',
+        description: 'Stiff setting',
+        icon: 'tabler:adjustments-horizontal',
+      },
+      {
+        title: 'Front Konis',
+        description: '0.5 turn from soft',
+        icon: 'tabler:settings',
+      },
+      {
+        title: 'Rear Konis',
+        description: '1.5 turns from soft',
+        icon: 'tabler:settings',
+      },
+      {
+        title: 'Front Tire Pressure',
+        description: '30 psi',
+        icon: 'tabler:gauge',
+      },
+      {
+        title: 'Rear Tire Pressure',
+        description: '29 psi',
+        icon: 'tabler:gauge',
+      },
+    ]}
+  />
+
+</Layout>
