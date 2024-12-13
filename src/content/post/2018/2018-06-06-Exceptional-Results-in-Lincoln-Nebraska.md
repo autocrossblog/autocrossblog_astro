@@ -1,6 +1,6 @@
 ---
 title: "Exceptional Results in Lincoln Nebraska!"
-excerpt: "Wow, what a week! Last Wednesday I loaded up the SpecFRS onto a borrowed trailer and left St. Louis the following morning to drive to Lincoln Nebraska for spring Nationals"
+excerpt: "Wow, what a week! Last Wednesday I loaded up the SpecFRS onto a borrowed trailer and left St. Louis the following morning to drive to Lincoln Nebraska"
 author: chris
 publishDate: 2018-06-06T18:29:53+00:00
 updateDate: 2024-11-18T10:51:34-06:00

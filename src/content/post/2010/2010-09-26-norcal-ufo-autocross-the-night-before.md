@@ -1,6 +1,6 @@
 ---
 title: "NorCal UFO Autocross, The Night Before"
-excerpt: "Join me on my autocrossing journey with the Northern California United 510 Owner's club in Marina, CA. Get insights into the challenges and thrills of autocross, from vehicle maintenance to race regulations. Tune in for photos and videos!"
+excerpt: "Join me on my autocrossing journey with the Northern California United 510 Owner's club in Marina, CA. Get insights into the challenges and thrills of autocross."
 author: chris
 publishDate: 2010-09-26T00:29:14+00:00
 updateDate: 2024-11-15T11:49:11-06:00

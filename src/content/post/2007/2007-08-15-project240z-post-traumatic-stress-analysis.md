@@ -1,6 +1,6 @@
 ---
 title: "Project240Z Post Traumatic Stress Analysis"
-excerpt: "Join our blogger as they venture into the garage for an in-depth investigation into a motor failure, detailing their step-by-step process, from draining oil to uncovering misplaced rocket arm guides. Packed with photos and plans for future exploration, this post delves into the mystery of the misbehaving motor."
+excerpt: "Join our blogger as they venture into the garage for an in-depth investigation into a motor failure, detailing their step-by-step process."
 author: chris
 publishDate: 2007-08-15T08:54:26+00:00
 updateDate: 2024-12-11T20:49:11-06:00

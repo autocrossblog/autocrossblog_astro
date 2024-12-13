@@ -1,6 +1,6 @@
 ---
 title: "The 350z goes on a Diet"
-excerpt: "Discover how a 350z shed 100lbs of unnecessary weight for better autocross performance. From subwoofers and amps to speakers and wiring, this blog dives into the stereo removal process, the challenges faced, and the benefits of a lighter car in motorsports. Watch the video and learn why weight savings matter for speed and control!"
+excerpt: "Discover how a 350z shed 100lbs of unnecessary weight for better autocross performance. From subwoofers and amps to speakers and wiring, this blog dives into the stereo removal process"
 author: chris
 publishDate: 2011-01-31T00:49:00+00:00
 updateDate: 2024-11-22T09:21:54-05:00

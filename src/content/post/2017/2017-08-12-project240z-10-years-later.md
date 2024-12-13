@@ -1,6 +1,6 @@
 ---
 title: "Project240z 10 Years Later"
-excerpt: "Relive the unfortunate autocross run of the classic 240z at Gateway Motorsports Park ten years ago. The blog post unfolds the dramatic event and shares a cautionary tale for car enthusiasts about the importance of proper tuning before competition."
+excerpt: "Relive the unfortunate autocross run of the classic 240z at Gateway Motorsports Park ten years ago. The blog post unfolds the dramatic event."
 author: chris
 publishDate: 2017-08-12T19:33:11+00:00
 updateDate: 2024-11-15T11:49:11-06:00
