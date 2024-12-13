@@ -6,8 +6,6 @@ publishDate: 2016-11-15T00:39:38+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2016/stu-2003-nissan-350z-for-sale-project350z-v3"
 tags: [ 350z, nissan ]
-redirect_from: 
-
 ---
 
 **SOLD!**
@@ -88,5 +86,5 @@ The interior is the Frost interior, originally with the leather, heated, electri
 - Head unit: Pioneer Bluetooth XM-capable double-din touchscreen head unit w/iPod connection
 - Shift knob: Tomei composite
 - Shift boot: Alcantara one from eBay
-- Glass Tint: medium (approx 35%
+- Glass Tint: medium (approx 35%)
 

@@ -5,6 +5,7 @@ author: chris
 publishDate: 2010-09-26T00:29:14+00:00
 updateDate: 2024-11-15T11:49:11-06:00
 url: "2010/norcal-ufo-autocross-the-night-before"
+tags: [ autocross, 350z, project350z ]
 ---
 
 Well, it looks like it is finally time to autocross the beast again! It's been since January. I'm headed to the Northern California United 510 Owner's club autocross tomorrow in Marina, CA. Hopefully the car holds together and makes it there, runs, and makes it home! I'm curious to see if the leaky exhaust causes me any troubles (sound level, or just w/ people).

@@ -6,8 +6,6 @@ publishDate: 2016-07-11T00:44:14+00:00
 updateDate: 2024-11-18T10:51:34-06:00
 url: "2016/2016-wilmington-prosolo-1-and-the-2016-spring-nationals-prosolo-and-champ-tour"
 tags: [ 350z, nissan, prosolo, ohio, peru, indiana, grissom ]
-redirect_from: 
-
 ---
 
 So here we are, another month has gone by since the last blog post, time for an update here on the status of Project350z.

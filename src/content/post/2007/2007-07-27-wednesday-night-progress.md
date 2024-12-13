@@ -6,7 +6,6 @@ publishDate: 2007-07-27T09:53:11+00:00
 updateDate: 2024-10-09T13:21:54-05:00
 url: "2007/wednesday-night-progress"
 tags: [ 240z, datsun, fuel ]
-redirect_from: 
 
 ---
 

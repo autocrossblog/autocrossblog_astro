@@ -7,6 +7,7 @@ updateDate: 2024-12-12T11:26:36-06:00
 url: "2023/where-to-get-a-race-helmet-in-st-louis"
 image: ~/assets/images/2023/2023Helmet.webp
 keywords: race, gear, st louis, saint, louis, saint louis, helmets,safety
+tags: [ gear, st. louis, safety ]
 
 ---
 To be safe in motorsports you need a high quality helmet! 

@@ -5,6 +5,7 @@ author: chris
 publishDate: 2007-08-15T08:54:26+00:00
 updateDate: 2024-12-11T20:49:11-06:00
 url: "2007/project240z-post-traumatic-stress-analysis"
+tags: [ datsun, 240z, project240z, engine, failure ]
 ---
 
 I went out to the garage tonight with the hopes of trying to figure out what went wrong on Sunday.
