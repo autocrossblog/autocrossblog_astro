@@ -4,7 +4,7 @@ excerpt: "Discover how a 350z shed 100lbs of unnecessary weight for better autoc
 author: chris
 publishDate: 2011-01-31T00:49:00+00:00
 updateDate: 2024-11-22T09:21:54-05:00
-url: "'2011/the-350z-goes-on-a-diet'"
+url: 2011/the-350z-goes-on-a-diet
 tags: [ 350z, nissan, setup, weight ] 
 image: ~/assets/images/2024/November/350z-lose-weight.webp'
 ---

@@ -4,7 +4,7 @@ excerpt: "Where did the Ultimate Autocross Website go?"
 author: chris
 publishDate: 2024-11-18T13:20:15+00:00
 updateDate: 2024-11-18T13:45:00-06:00
-url: "'2024/solo2-org'"
+url: 2024/solo2-org
 tags: [ autocross, website ] 
 image: ~/assets/images/2024/November/solo2-org.webp
 keywords: '"autocross, solo2.org"'
