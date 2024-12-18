@@ -50,5 +50,5 @@ const metadata = merge(
     {post.Content ? <post.Content /> : <Fragment set:html={post.content || ''} />}
   </SinglePost>
   <ToBlogLink />
-  <RelatedPosts post={post} />
+  <RelatedPosts post={post}  data-pagefind-ignore="all" />
 </Layout>
