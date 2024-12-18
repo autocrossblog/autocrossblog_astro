@@ -5,7 +5,12 @@ import Layout from "~/layouts/PageLayout.astro";
   <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
   <script is:inline src="/pagefind/pagefind-ui.js"></script>
 
-  <div id="search"></div>
+
+  <section class="px-6 sm:px-6 py-12 sm:py-16 lg:py-20 mx-auto max-w-4xl"  data-pagefind-ignore="all">
+    <h1>Search the Blog</h1>
+    <div id="search"></div>
+  </section>
+
   <script>
     // @ts-expect-error
     import { PagefindUI } from "@pagefind/default-ui";
