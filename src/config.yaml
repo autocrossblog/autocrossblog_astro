@@ -67,6 +67,7 @@ analytics:
   vendors:
     googleAnalytics:
       id: "G-438M5WVM2K"
+      partytown: false
     cloudflare: #turnstile
       id: "0x4AAAAAAA1-cZp-m0OLmLCR"
 ui:
