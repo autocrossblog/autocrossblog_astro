@@ -12,6 +12,7 @@ const load = async function () {
   let images: Record<string, () => Promise<unknown>> | undefined = undefined;
   try {
     images = import.meta.glob('~/assets/images/**/*.{jpeg,jpg,png,tiff,webp,gif,svg,JPEG,JPG,PNG,TIFF,WEBP,GIF,SVG}');
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
   } catch (error) {
     // Continue regardless of error
   }
@@ -30,17 +31,20 @@ export const fetchLocalImages = async () => {
 export const findImage = async (
   imagePath?: string | ImageMetadata | null
 ): Promise<string | ImageMetadata | undefined | null> => {
-  if (!imagePath || typeof imagePath !== 'string') return imagePath;
-
-  if (
-    imagePath.startsWith('http://') ||
-    imagePath.startsWith('https://') ||
-    imagePath.startsWith('/')
-  ) {
+  // Not string
+  if (typeof imagePath !== 'string') {
     return imagePath;
   }
 
-  if (!imagePath.startsWith('~/assets/images')) return imagePath;
+  // Absolute paths
+  if (imagePath.startsWith('http://') || imagePath.startsWith('https://') || imagePath.startsWith('/')) {
+    return imagePath;
+  }
+
+  // Relative paths or not "~/assets/"
+  if (!imagePath.startsWith('~/assets/images')) {
+    return imagePath;
+  }
 
   const images = await fetchLocalImages();
   const key = imagePath.replace('~/', '/src/');
@@ -54,7 +58,9 @@ export const adaptOpenGraphImages = async (
   openGraph: OpenGraph = {},
   astroSite: URL | undefined = new URL('')
 ): Promise<OpenGraph> => {
-  if (!openGraph?.images?.length) return openGraph;
+  if (!openGraph?.images?.length) {
+    return openGraph;
+  }
 
   const images = openGraph.images;
   const defaultWidth = 1200;
@@ -64,7 +70,11 @@ export const adaptOpenGraphImages = async (
     images.map(async (image) => {
       if (image?.url) {
         const resolvedImage = (await findImage(image.url)) as ImageMetadata | string | undefined;
-        if (!resolvedImage) return { url: '' };
+        if (!resolvedImage) {
+          return {
+            url: '',
+          };
+        }
 
         let _image;
         if (
@@ -90,9 +100,14 @@ export const adaptOpenGraphImages = async (
             height: 'height' in _image && typeof _image.height === 'number' ? _image.height : undefined,
           };
         }
-        return { url: '' };
+        return {
+          url: '',
+        };
       }
-      return { url: '' };
+
+      return {
+        url: '',
+      };
     })
   );
 
