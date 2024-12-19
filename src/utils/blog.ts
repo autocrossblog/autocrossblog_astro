@@ -198,25 +198,39 @@ export const getStaticPathsBlogPost = async () => {
 
 /** */
 export const getStaticPathsBlogCategory = async ({ paginate }: { paginate: PaginateFunction }) => {
+  
   if (!isBlogEnabled || !isBlogCategoryRouteEnabled) return [];
   const posts = await fetchPosts();
-  const categories = {};
-  posts.map((post) => {
+  const categories: Record<string, Post['category']> = {};
+  
+  // Group posts by category
+  posts.forEach((post) => {
     if (post.category?.slug) {
-      categories[post.category?.slug] = post.category;
+      categories[post.category.slug] = post.category;
     }
   });
-  return Array.from(Object.keys(categories)).flatMap((categorySlug) =>
-    paginate(
-      posts.filter((post) => post.category?.slug && categorySlug === post.category?.slug),
+
+  // Generate paginated paths for each category
+  return Object.keys(categories).flatMap((categorySlug) => {
+    const paginated = paginate(
+      posts.filter((post) => post.category?.slug === categorySlug),
       {
-        params: { category: categorySlug, blog: CATEGORY_BASE || undefined },
         pageSize: blogPostsPerPage,
-        props: { category: categories[categorySlug] },
+        params: { category: categorySlug, blog: CATEGORY_BASE || undefined },
       }
-    )
-  );
+    );
+
+    // Add `category` to `props` for each paginated page
+    return paginated.map((page) => ({
+      ...page,
+      props: {
+        ...page.props, // Include any existing props
+        category: categories[categorySlug], // Pass category data
+      },
+    }));
+  });
 };
+
 
 /** */
 export const getStaticPathsBlogTag = async ({ paginate }: { paginate: PaginateFunction }) => {

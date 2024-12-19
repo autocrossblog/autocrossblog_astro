@@ -48,12 +48,6 @@ apps:
       robots:
         index: true
 
-    category:
-      isEnabled: false
-      pathname: 'category' # Category main path /category/some-category, you can change this to "group" (/group/some-category)
-      robots:
-        index: true
-
     tag:
       isEnabled: true
       pathname: 'tag' # Tag main path /tag/some-tag, you can change this to "topics" (/topics/some-category)

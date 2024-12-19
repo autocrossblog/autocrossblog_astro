@@ -37,7 +37,7 @@ export const getCanonical = (path = ''): string | URL => {
 };
 
 /** */
-export const getPermalink = (slug = '', type = 'page'): string => {
+export const getPermalink = (slug = '', type = 'page', url?: string): string => {
   let permalink: string;
 
   if (
