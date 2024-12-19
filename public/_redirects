@@ -65,6 +65,9 @@
 /category/brz/ /tag/brz/ 301
 /category/ssc/ /tag/ssc/ 301
 /category/specfrs/ /tag/specfrs/ 301
+/category/frs/ /tag/fr-s/ 301
+/category/fr-s/ /tag/fr-s/ 301
+/tag/frs/ /tag/fr-s/ 301
 /category/z/ /tag/z/ 301
 /category/accident/ /tag/accident/ 301
 /category/gear/ /tag/gear/ 301
