@@ -1,10 +1,11 @@
 ---
-title: "Saying Goodbye"
-excerpt: "Follow along as we navigate the considerations for car wheel selection, discussing different sizes, benefits, and costs for the upcoming 2010 Autocros..."
+title: "Saying Goodbye to the Datsun 240z"
+excerpt: "A good bye post for Project240z. Chris summarizes the history with the 1973 Datsun 240z, highlighting some of the key moments with the car through videos and pictures."
 author: chris
 publishDate: 2010-02-01T00:02:26+00:00
-updateDate: 2024-11-15T12:15:17-06:00
-url: "2010/saying-goodbye"
+updateDate: 2024-12-19T23:31:18-06:00
+url: 2010/saying-goodbye
+image: ~/assets/images/2024/December/goodbye.jpg
 tags: [ friends, 240z, datsun, colorado, california ]
 ---
 
