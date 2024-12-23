@@ -238,13 +238,10 @@ export const astroAsseetsOptimizer: ImagesOptimizer = async (
       });
 
       //const filenameWithWidth = `${result.src.replace(/\.\w+$/, '')}-${w}.webp`;
-      //const filenameWithWidth = `${(typeof image === 'string' ? image : image.src).split('/').pop().replace(/\.\w+$/, '')}-${w}w.webp`;
-      const originalName = (typeof image === 'string' ? image : image.src)
-      .split('/')
-      .pop()
-      .replace(/\.\w+$/, ''); // Remove file extension
+      const filenameWithWidth = `${(typeof image === 'string' ? image : image.src).split('/').pop().replace(/\.\w+$/, '')}-${w}w.webp`;
+      //const originalName = (typeof image === 'string' ? image : image.src).split('/').pop().replace(/\.\w+$/, ''); // Remove file extension
 
-    const filenameWithWidth = `${originalName}-${w}w.webp`;
+      //const filenameWithWidth = `${originalName}-${w}w.webp`;
 
       console.log('filename:',filenameWithWidth);
       return {
