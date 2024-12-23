@@ -65,6 +65,9 @@ export default defineConfig({
           removeAttributeQuotes: false,
         },
       },
+      img: {
+        concurrency: 8, // Adjust based on CPU cores
+      },
       Image: true,
       JavaScript: true,
       SVG: true,
@@ -79,13 +82,6 @@ export default defineConfig({
     }),
     pagefind(),
   ],
-
-  image: {
-    domains: ['cdn.pixabay.com'],
-    service: {
-      sharp: true,
-    },
-  },
 
   markdown: {
     remarkPlugins: [readingTimeRemarkPlugin],

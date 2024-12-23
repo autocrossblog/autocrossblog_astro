@@ -225,22 +225,37 @@ export const astroAsseetsOptimizer: ImagesOptimizer = async (
     return [];
   }
 
-
   return Promise.all(
-    breakpoints.map(async (w: number) => {
+    breakpoints.map(async (w) => {
       const aspect = _width / _height;
       const h = Math.round(w / aspect);
-      const result = await getImage({ src: image, width: w, height: h, inferSize: true, ...(format ? { format: format } : {}) });
+      const result = await getImage({
+        src: image,
+        width: w,
+        height: h,
+        inferSize: true,
+        ...(format ? { format: format } : {}),
+      });
 
-      //console.log('Result: ', result);
+      //const filenameWithWidth = `${result.src.replace(/\.\w+$/, '')}-${w}.webp`;
+      //const filenameWithWidth = `${(typeof image === 'string' ? image : image.src).split('/').pop().replace(/\.\w+$/, '')}-${w}w.webp`;
+      const originalName = (typeof image === 'string' ? image : image.src)
+      .split('/')
+      .pop()
+      .replace(/\.\w+$/, ''); // Remove file extension
+
+    const filenameWithWidth = `${originalName}-${w}w.webp`;
+
+      console.log('filename:',filenameWithWidth);
       return {
-        src: result?.src,
+        src: filenameWithWidth,
         width: result?.attributes?.width ?? w,
         height: result?.attributes?.height,
       };
     })
   );
 };
+
 
 export const isUnpicCompatible = (image: string) => {
   console.log('not compat');
