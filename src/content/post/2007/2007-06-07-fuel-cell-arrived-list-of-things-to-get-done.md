@@ -1,6 +1,6 @@
 ---
 title: "Fuel cell arrived, list of things to get done!"
-excerpt: "The fuel cell for the 240z arrived!"
+excerpt: "The fuel cell for the 240z arrived! A blog post covering some of the questions and next steps for the installation."
 author: chris
 publishDate: 2007-06-07T10:00:07+00:00
 updateDate: 2024-10-09T13:21:54-05:00

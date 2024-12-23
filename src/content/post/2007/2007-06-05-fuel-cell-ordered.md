@@ -1,6 +1,6 @@
 ---
 title: "Fuel Cell Ordered...."
-excerpt: "Ordered a fuel cell for the Project240z"
+excerpt: "Ordered a fuel cell for the Project240z, a blog post summarizing some of that process before getting the installing the cell in the Datsun 240z."
 author: chris
 publishDate: 2007-06-05T07:34:16+00:00
 updateDate: 2024-10-09T13:21:54-05:00

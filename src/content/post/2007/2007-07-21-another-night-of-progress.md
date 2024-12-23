@@ -1,6 +1,6 @@
 ---
 title: "Another night of progress"
-excerpt: "Follow the progress of a DIY car modification project, detailing the process of wiring, welding, and mechanical adjustments."
+excerpt: "Follow the progress of a Datsun 240z DIY car modification project, detailing the process of wiring, welding, and mechanical adjustments."
 author: chris
 publishDate: 2007-07-21T10:12:38+00:00
 updateDate: 2024-11-15T12:15:17-06:00

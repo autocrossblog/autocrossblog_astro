@@ -1,9 +1,9 @@
 ---
 title: "Missing Piston Alert!"
-excerpt: "Photo of the piston that blew up in the motor"
+excerpt: "Photo of the piston that blew up in the motor in the 1973 Datsun 240z, take a look if you aren't afraid"
 author: chris
 publishDate: 2007-10-12T15:43:38+00:00
-updateDate: 2024-10-09T13:21:54-05:00
+updateDate: 2024-12-23T09:36:54-05:00
 url: "2007/missing-piston-alert"
 tags: [ 240z, datsun ]
 ---

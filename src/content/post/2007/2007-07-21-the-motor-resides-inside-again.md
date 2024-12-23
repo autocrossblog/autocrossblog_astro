@@ -1,16 +1,18 @@
 ---
 title: "The motor resides inside again!"
-excerpt: "A blog post discussing progress on the 240z with the motor back in the car, along with some photos"
+excerpt: "A blog post discussing progress on the 240z with the motor back in the car, along with some photos. Follow along as we work on our 1973 Datsun 240z"
 author: chris
 publishDate: 2007-07-21T00:30:00+00:00
-updateDate: 2024-10-09T13:21:54-05:00
+updateDate: 2024-12-23T09:29:54-05:00
 url: "2007/the-motor-resides-inside-again"
 tags: [ 240z, datsun ]
 ---
 
 After work last night I got to work on the car. Eric and Russ came over to lend their assistance as well. Russ got started on the leaking wheel cylinder, Eric started putting the Intake/exhaust/turbo back onto the motor, while I worked on fabricating a bracket to mount the VR sensor onto the side of the motor.
 
-While they were both productive, I actually never got my portion of the project finished last night, though I hope to finish it up tonight. Once the intake/exhaust and turbo was all back together we went ahead and began the task of putting the motor back in the car. I've got some High Definition video of that [process here on this Video Page](/2007/engine-insertion-take-2).
+While they were both productive, I actually never got my portion of the project finished last night, though I hope to finish it up tonight. Once the intake/exhaust and turbo was all back together we went ahead and began the task of putting the motor back in the car. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gk4KsPQu9z4?si=PBE35EWjPzD4g74_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 With Eric and Russ' help we also managed to get the drive shaft connected up and the transmission into the cross member under the tunnel. Tonight I'm going to pick up more bolts, so we can mount the fuel cell bracket to the floor of the car and then we can hookup all the fuel lines. We'll also be installing the fuel rail and injectors tonight so we can hook up the fuel lined up front.
 
