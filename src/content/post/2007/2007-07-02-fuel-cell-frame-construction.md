@@ -1,6 +1,6 @@
 ---
 title: "Fuel Cell frame construction"
-excerpt: "Work on the fuel cell frame, including welding!"
+excerpt: "Work on the fuel cell frame, including welding! Follow along as the author builds the frame to hold the fuel cell."
 author: chris
 publishDate: 2007-07-02T08:50:36+00:00
 updateDate: 2024-10-09T13:21:54-05:00

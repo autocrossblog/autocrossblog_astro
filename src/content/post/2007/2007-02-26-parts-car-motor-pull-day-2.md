@@ -9,7 +9,6 @@ tags: [ 350z ]
 ---
 
 Thanks to Terec for coming over today and helping me [get the motor pulled out of the 78 280Z 2+2 parts car today](/2007/project-240z-day-2-of-parts-car-motor-pull)!
-
     
 Here's what we got done.
     - Pulled the motor and transmission

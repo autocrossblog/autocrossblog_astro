@@ -1,9 +1,9 @@
 ---
 title: "Nope those lug nuts won't fit"
-excerpt: "blog post about lug nuts that won't fit on the wheels of a Nissan 350z"
+excerpt: "A blog post about lug nuts that won't fit on the wheels of a Nissan 350z, always be sure to use the right lug nuts on your car!"
 author: chris
 publishDate: 2011-02-11T00:08:16+00:00
-updateDate: 2024-10-09T13:21:54-05:00
+updateDate: 2024-12-23T09:42:54-05:00
 url: "2011/nope-those-lug-nuts-wont-fit"
 tags: [ 350z, nissan, setup ]
 ---

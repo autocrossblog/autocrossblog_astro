@@ -19,7 +19,7 @@ And then a short time later (same run) here's my getting out to push it
 
 Here's what we found when we just happened to pull plug #2
 
-<img title="" alt="This isn&#39;t good by you." src="https://farm2.static.flickr.com/1408/1099448933_14d8ebae20.jpg" width="500" height="333" />
+<img title="" alt="This is not good." src="https://farm2.static.flickr.com/1408/1099448933_14d8ebae20.jpg" width="500" height="333" />
 
 And then this is what it looked like when I went to drain the oil from the motor
 

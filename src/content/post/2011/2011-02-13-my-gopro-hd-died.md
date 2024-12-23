@@ -1,6 +1,6 @@
 ---
 title: "My GoPro HD Died"
-excerpt: "A blog post with video of my 350z Stud install beofre the GoPro hero HD died"
+excerpt: "A blog post with video of my 350z Stud install beofre the GoPro hero HD died while recording a time lapse of work on the car."
 author: chris
 publishDate: 2011-02-13T01:16:19+00:00
 updateDate: 2024-10-09T13:21:54-05:00
