@@ -9,7 +9,14 @@ tags: [ 350z ]
 image: ~/assets/images/2003/April/April2003-1.jpg
 keywords: "350z, 20 years"
 ---
-import WindImage from '~/components/common/WindImage.astro';
+import { Image } from 'astro:assets';
+import image1 from '~/assets/images/2003/April/April2003-1.jpg';
+import image2 from '~/assets/images/2003/April/April2003-2.jpg';
+import image3 from '~/assets/images/2003/April/April2003-3.jpg';
+import image4 from '~/assets/images/2003/April/April2003-4.jpg';
+import image5 from '~/assets/images/2003/April/April2003-5.jpg';
+import image6 from '~/assets/images/2003/April/April2003-6.jpg';
+import image7 from '~/assets/images/2003/April/April2003-7.jpg';
 
 20 Years.
 
@@ -21,66 +28,66 @@ Here are photos from the day I purchased the car. Actually, this was the day I p
 
 The last photo is of the 99 Z-28 that I traded in that day for the 350Z.
 
-<WindImage 
-  src="~/assets/images/2003/April/April2003-1.jpg" 
+<Image 
+  src={image1}
   alt="2003 Nissan 350Z at Pickup" 
   title="2003 Nissan 350Z at Pickup" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
     format="webp"
 />
-<WindImage 
-  src="~/assets/images/2003/April/April2003-2.jpg" 
+<Image 
+  src={image2} 
   alt="2003 Nissan 350Z at Pickup" 
   title="2003 Nissan 350Z at Pickup" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
     format="webp"
 />
-<WindImage 
-  src="~/assets/images/2003/April/April2003-3.jpg" 
+<Image 
+  src={image3}
   alt="2003 Nissan 350Z at Pickup window sticker" 
   title="2003 Nissan 350Z at Pickup window sticker" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
     format="webp"
 />
-<WindImage 
-  src="~/assets/images/2003/April/April2003-4.jpg" 
+<Image 
+  src={image4}
   alt="2003 Nissan 350Z at Pickup getting washed" 
   title="2003 Nissan 350Z at Pickup getting washed" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
     format="webp"
 />
-<WindImage 
-  src="~/assets/images/2003/April/April2003-5.jpg" 
+<Image 
+  src={image5} 
   alt="2003 Nissan 350Z at Bommarito Nissan Hazelwood" 
   title="2003 Nissan 350Z at Bommarito Nissan Hazelwood" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
     format="webp"
 />
-<WindImage 
-  src="~/assets/images/2003/April/April2003-6.jpg" 
+<Image 
+  src={image6}
   alt="2003 Nissan 350Z from right rear" 
   title="2003 Nissan 350Z from right rear" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
     format="webp"
 />
-<WindImage 
-  src="~/assets/images/2003/April/April2003-7.jpg" 
+<Image 
+  src={image7}
   alt="2003 Nissan 350Z at Pickup with my 1999 Z-28 in the background" 
   title="2003 Nissan 350Z at Pickup with my 1999 Z-28 in the background" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
     format="webp"
 />

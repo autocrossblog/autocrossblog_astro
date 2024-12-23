@@ -8,7 +8,10 @@ url: "2024/autocross-trophies"
 tags: [ autocross, trophies, regions ]
 image: ~/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-1.jpg
 ---
-import WindImage from '~/components/common/WindImage.astro';
+import { Image } from 'astro:assets';
+import image1 from '~/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-1.jpg';
+import image2 from '~/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-2.jpg';
+import image3 from '~/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-3.jpg';
 
 Here in the St. Louis region, you used to compete for a trophy at every event you entered. You could stick around after the event, and if you qualified, you would get a trophy to take home. When I started autocrossing, this was my motivation. I wanted to earn a trophy every time I competed.
 
@@ -24,22 +27,22 @@ Glass cups, coffee mugs, pint glasses, you name it. These I still have the most 
 
 One season had some form of stickers that you could get for trophies.
 
-<WindImage 
-  src="~/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-1.jpg" 
+<Image 
+  src={image1}
   alt="Autocross Picture Frame Trophies" 
   title="Autocross Picture Frame Trophies" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
     format="webp"
 />
 
-<WindImage 
-  src="~/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-2.jpg" 
+<Image 
+  src={image2}
   alt="Autocross Glass Trophies " 
   title="Autocross Glass Trophies " 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
     format="webp"
 />
@@ -52,12 +55,12 @@ Now, year end trophies, that's where it is really at. In the past some of the co
 
 National event trophies are a whole topic of their own for another day.
 
-<WindImage 
-  src="~/assets/images/2024/February/AutocrossTrophies/AutocrossTrophies-3.jpg" 
+<Image 
+  src={image3}
   alt="Autocross Year End Trophies" 
   title="Autocross Year End Trophies" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
     format="webp"
 />

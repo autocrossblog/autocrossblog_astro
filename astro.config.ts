@@ -34,7 +34,7 @@ export default defineConfig({
     sitemap(),
     mdx({
       extendDefaultComponents: {
-        WindImage: '~/components/common/WindImage.astro',
+        Image: 'astro:assets',
       },
     }),
     icon({
@@ -71,11 +71,11 @@ export default defineConfig({
       Image: true,
       JavaScript: true,
       SVG: true,
-      Logger: 1, // Minimal logging for compress
-     // hooks: {
-     //   onCompressionStart: (file) => console.log(`Compressing: ${file}`),
-     //   onCompressionEnd: (file) => console.log(`Finished: ${file}`),
-     // },
+      Logger: 0, // Minimal logging for compress
+//      hooks: {
+//        onCompressionStart: (file) => console.log(`Compressing: ${file}`),
+//        onCompressionEnd: (file) => console.log(`Finished: ${file}`),
+//      },
     }),
     astrowind({
       config: './src/config.yaml',

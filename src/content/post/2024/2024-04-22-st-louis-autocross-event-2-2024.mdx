@@ -8,7 +8,11 @@ url: "2024/st-louis-autocross-event-2-2024"
 tags: [ autocross, scca, mustang, friends, st.louis, local ]
 image: ~/assets/images/2024/April/StLouis/Event2-1.jpg
 ---
-import WindImage from '~/components/common/WindImage.astro';
+import { Image } from 'astro:assets';
+import image1 from '~/assets/images/2024/April/StLouis/Event2-2.jpg';
+import image2 from '~/assets/images/2024/April/StLouis/Event2-3.jpg';
+import image3 from '~/assets/images/2024/April/StLouis/Event2-4.jpg';
+import image4 from '~/assets/images/2024/April/StLouis/Event2-5.jpg';
 
 The first local autocross of the year was officially Event #2 for the St. Louis Region SCCA. Why Event #2 if it was the first? Event #1 ended up getting scrapped due to lot availability issues and the committee just left the original titles of the events the same. 
 
@@ -46,48 +50,48 @@ I am never really happy when I don't finish on top of PAX results, it's been a w
 Because I was working first heat, running second heat, I was only able to shoot photos of the third heat, but I managed to take 1300 photos during that time. [I have posted 300 of those photos on my RainbowMarks Photography event gallery, check it out and purchase a shot or two if you ran third](https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3)! If you ran first or second heat, sorry! Hopefully at some point this year I'll get an opportunity to take pictures of every driver. (Perhaps at the CAM Challenge in two weeks!)
 
 <a href="https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3/i-3QpjpSz/buy">    
-    <WindImage 
-        src="~/assets/images/2024/April/StLouis/Event2-2.jpg" 
+    <Image 
+        src={image1}
         alt="Street Creature Mustang splitter digging into the pavement" 
         title="Street Creature Mustang splitter digging into the pavement" 
-        width={600} 
-        height={400} 
+        width={1024} 
+        height={768} 
         layout="responsive" 
     format="webp"
 />
 </a>
 
 <a href="https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3/i-p7Z8Bkd/buy">
-    <WindImage 
-        src="~/assets/images/2024/April/StLouis/Event2-3.jpg" 
+    <Image 
+        src={image2}
         alt="Subaru Wagon lifting the inside rear tire" 
         title="Subaru Wagon lifting the inside rear tire" 
-        width={600} 
-        height={400} 
+        width={1024} 
+        height={768} 
         layout="responsive" 
     format="webp"
 />
 </a>
     
 <a href="https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3/i-gXFDg6V/buy">
-    <WindImage 
-        src="~/assets/images/2024/April/StLouis/Event2-4.jpg" 
+    <Image 
+        src={image3}
         alt="White Mustang attempting the drift" 
         title="White Mustang attempting the drift" 
-        width={600} 
-        height={400} 
+        width={1024} 
+        height={768} 
         layout="responsive" 
     format="webp"
 />
 </a>
 
 <a href="https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3/i-B5DVhgx/buy">
-    <WindImage 
-        src="~/assets/images/2024/April/StLouis/Event2-5.jpg" 
+    <Image 
+        src={image4}
         alt="White Mustang paying for the attempted drift" 
         title="White Mustang paying for the attempted drift" 
-        width={600} 
-        height={400} 
+        width={1024} 
+        height={768} 
         layout="responsive" 
     format="webp"
 />

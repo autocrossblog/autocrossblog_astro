@@ -7,10 +7,15 @@ updateDate: 2024-12-09T11:57:13-06:00
 url: "2024/triumph-tr6-alternator-replacement"
 tags: [ triumph, tr6 ]
 image: ~/assets/images/2024/July/TR6Alternator/TR6Alternator-1.jpg
-keywords: triumph, tr6, alternator, british, sports car, 13107N
-
+keywords: "triumph, tr6, alternator, british, sports car, 13107N"
 ---
-import WindImage from '~/components/common/WindImage.astro';
+import { Image } from 'astro:assets';
+import image1 from '~/assets/images/2024/July/TR6Alternator/tr6.jpg';
+import image2 from '~/assets/images/2024/July/TR6Alternator/TR6Alternator-2.jpg';
+import image3 from '~/assets/images/2024/July/TR6Alternator/TR6Alternator-3.jpg';
+import image6 from '~/assets/images/2024/July/TR6Alternator/TR6Alternator-6.jpg';
+import image7 from '~/assets/images/2024/July/TR6Alternator/TR6Alternator-7.jpg';
+import image4 from '~/assets/images/2024/July/TR6Alternator/TR6Alternator-4.jpg';
 
 So now for a little story about the Triumph. The first of potentially many. Another Project car!
 
@@ -18,14 +23,14 @@ So now for a little story about the Triumph. The first of potentially many. Anot
 
 What Triumph you might ask? My Dad purchased this car in 1985 when he was stationed at Seymour Johnson Air Force Base in North Carolina. He owned the car up until he passed away in September of 2023. My brother and I have both decided that the car won't leave the family, so I've got it at home in my garage for now, at some point he will likely take it too.
 
-<WindImage 
-  src="~/assets/images/2024/July/TR6Alternator/tr6.jpg" 
+<Image 
+  src={image1}
   alt="1975 Triumph TR6 at the LeCave Trailhead in Wildwood Missouri, loaded with hockey equipment" 
   title="1975 Triumph TR6 at the LeCave Trailhead in Wildwood Missouri, loaded with hockey equipment" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
-    format="webp"
+  format="webp"
 />
 
 So let's get into some details. The Triumph has been in decent shape for its whole life, Dad used to spend hours working on it, seeing him do that got me doing the same on my [1973 Super Beetle](https://www.projectvw.com) back in the day. The last time I drove it, either late last year, or early this year, I was taking it from the house to my parent's storage unit, wanting to get it out of our garage for the winter so that we could get some of our own vehicles in the garage, and at the time I also still had [the Corvette in the garage](/2024/2008-corvette-for-sale). 
@@ -40,26 +45,26 @@ I started by getting back over to the storage unit and grabbing the battery out 
 
 With the car home I decided it was time to order an alternator, first looking at Moss Motor's website to see what they had in terms of an Alternator for a 1975 Triumph TR6. They had a rebuilt unit, available for cars with an air pump, for $450, quite pricey (I didn't realize at the time that included the refundable $200 core charge). I thought there might be a better option so I searched around, initially at local autoparts stores and online, but I simply couldn't find an alternator that would work. After searching for a bit I started stumbling on some threads in old british car forums suggesting that you could swap out a 75 alternator with one off of a 78-80 Ford Fiesta.
 
-<WindImage 
-  src="~/assets/images/2024/July/TR6Alternator/TR6Alternator-2.jpg" 
+<Image 
+  src={image2} 
   alt="Existing Lucas alternator in the 1975 Triumph TR6" 
   title="Existing Lucas alternator in the 1975 Triumph TR6" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
-    format="webp"
+  format="webp"
 />
 
 From reading, it appeared that it should simply be a drop in replacement without modification to wiring, so I figured I would go that route, a benefit of the change would be improved amperage of the Fiesta alternator as well. I ordered a unit from RockAuto, part number 13107N. Upon receipt I realized it wouldn't quite be as drop in friendly as I had hoped. When I tried to mount it to the side of the engine I realized that the holes wouldn't align to allow me to mount it and use the tensioner that was used on the previous Lucas alternator.
 
-<WindImage 
-  src="~/assets/images/2024/July/TR6Alternator/TR6Alternator-3.jpg" 
+<Image 
+  src={image3} 
   alt="Old and New alternator sitting on the garage floor" 
   title="Old and New alternator sitting on the garage floor" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
-    format="webp"
+  format="webp"
 />
 
 ## Getting Help for the Triumph Alternator
@@ -68,14 +73,14 @@ Reaching out to Dave at [Solo Performance Specialties](https://www.soloperforman
 
 Clocking an alternator seemed pretty straightforward, undo three sets of nuts and bolts, remove the cover, rotate the cover (120 degrees so that the flange lines up) to the right position, and then put it back together. And it went just as simple as that. I had it apart and back together in under 15 minutes, but as I was done and getting up from where I had been working on the alternator I came across a small piece of what looked like a magnet on the floor. I thought "oh damn, I broke something". So I took the alternator back part and started looking for broken bits inside to see if I broke something. After looking it over, it sure looked like things were in their appropriate location, so I put the alternator back together and got to putting it back into the car.
 
-<WindImage 
-  src="~/assets/images/2024/July/TR6Alternator/TR6Alternator-6.jpg" 
+<Image 
+  src={image6} 
   alt="Random thing found on the ground after clocking alternator" 
   title="Random thing found on the ground after clocking alternator" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
-    format="webp"
+  format="webp"
 />
 
 Upon putting the alternator back in the car I figured out my next problem. With clocking it, the hole in the flange where the bolt would go through was no longer big enough for the previously used mounting bolt. That was an easy fix though, I grabbed a 5/16" drill bit and a hand drill and opened it up a bit to make everything fit. From there it was a matter of plugging in the wires, putting the belt on the pulley and starting up the car. 
@@ -103,14 +108,14 @@ So off to RockAuto I went, ordering ANOTHER 13107N alternator for a 78-80 Ford F
 
 I seriously considered taking the new alternator to Autozone to test it out BEFORE I did anything to it, but went ahead and began the process of clocking it. This time however, things went differently. When I pulled it apart I immediately noticed two pieces down inside that stuck out and ultimately blocked the shaft of the alternator from being reinserted. They looked awfully familiar, just like the broken piece of randomness I found after clocking the other new alternator. What I figured out was that I had apparently broken those bits off in the first new alternator, though I only found one piece, not two from that one.
 
-<WindImage 
-  src="~/assets/images/2024/July/TR6Alternator/TR6Alternator-7.jpg" 
+<Image 
+  src={image7} 
   alt="Picture of voltage regulator brushes, not from a Triumph alternator, just a screengrab from a YouTube video" 
   title="Picture of voltage regulator brushes, not from a Triumph alternator, just a screengrab from a YouTube video" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
-    format="webp"
+  format="webp"
 />
 
 Anyways, this time around I made sure not to break those off, I think they are brushes, they ultimately are part of the voltage regulator and press up against part of the copper shaft when the alternator is spinning. I ended up having to take the voltage regulator off the back of the case, tie a string around those two spring loaded brushes to push them back into their position and hold them in place. I then reinserted the voltage regulator, finished clocking the body and then cut/removed the string. This allowed the brushes so go back in place.
@@ -123,16 +128,15 @@ As soon as I put the new alternator in, hooked up the wires and the belt, I star
 
 A couple of last items for anyone who stumbles on this post when working on their 1975 Triumph TR6 alternator. The alternator actually has 3 wires, though you'll see above in the pictures that I only have two hooked up, and I only had 2 hooked up on the lucas alternator that I pulled out. The third wire is another 12V, I believe that third wire was used on the OEM alternator, but on newer units it isn't required. The wire was just sitting free in the engine bay as seen in the photo below. I will tie it off to keep it safely not connected to anything.
 
-<WindImage 
-  src="~/assets/images/2024/July/TR6Alternator/TR6Alternator-4.jpg" 
+<Image 
+  src={image4} 
   alt="Third wire for TR6 alternator" 
   title="Third wire for TR6 alternator" 
-  width={600} 
-  height={400} 
+  width={1024} 
+  height={768} 
   layout="responsive" 
-    format="webp"
+  format="webp"
 />
-
 
 ## Extra alternators?
 So now I have a couple of alternators sitting around the garage. I figure if I can order a new voltage regulator I can repair the 13107N that hasn't been used. I'll also hold on to the Lucas unit in case I need to CORE that at some point.
@@ -140,4 +144,3 @@ So now I have a couple of alternators sitting around the garage. I figure if I c
 Now that the car is running again I need to get it inspected so I can get plates on it and drive it around town!
 
 ### Have any questions? Ask below!
-

@@ -1,5 +1,4 @@
 import { getImage } from 'astro:assets';
-import { transformUrl, parseUrl } from 'unpic';
 
 import type { ImageMetadata } from 'astro';
 import type { HTMLAttributes } from 'astro/types';
@@ -214,7 +213,7 @@ const getBreakpoints = ({
 };
 
 /* ** */
-export const astroAsseetsOptimizer: ImagesOptimizer = async (
+export const astroAssetsOptimizer: ImagesOptimizer = async (
   image,
   breakpoints,
   _width,
@@ -225,27 +224,16 @@ export const astroAsseetsOptimizer: ImagesOptimizer = async (
     return [];
   }
 
+
   return Promise.all(
-    breakpoints.map(async (w) => {
+    breakpoints.map(async (w: number) => {
       const aspect = _width / _height;
       const h = Math.round(w / aspect);
-      const result = await getImage({
-        src: image,
-        width: w,
-        height: h,
-        inferSize: true,
-        ...(format ? { format: format } : {}),
-      });
+      const result = await getImage({ src: image, width: w, height: h, inferSize: true, ...(format ? { format: format } : {}) });
 
-      //const filenameWithWidth = `${result.src.replace(/\.\w+$/, '')}-${w}.webp`;
-      const filenameWithWidth = `${(typeof image === 'string' ? image : image.src).split('/').pop().replace(/\.\w+$/, '')}-${w}w.webp`;
-      //const originalName = (typeof image === 'string' ? image : image.src).split('/').pop().replace(/\.\w+$/, ''); // Remove file extension
-
-      //const filenameWithWidth = `${originalName}-${w}w.webp`;
-
-      console.log('filename:',filenameWithWidth);
+      //console.log('Result: ', result);
       return {
-        src: filenameWithWidth,
+        src: result?.src,
         width: result?.attributes?.width ?? w,
         height: result?.attributes?.height,
       };
@@ -253,58 +241,6 @@ export const astroAsseetsOptimizer: ImagesOptimizer = async (
   );
 };
 
-
-export const isUnpicCompatible = (image: string) => {
-  console.log('not compat');
-  
-  return typeof parseUrl(image) !== 'undefined';
-};
-
-/* ** */
-export const unpicOptimizer: ImagesOptimizer = async (image, breakpoints, width, height, format = undefined) => {
-  if (!image || typeof image !== 'string') {
-    return [];
-  }
-
-//  console.log('unpic image',image);
- // console.log('params');
-  
-/*  console.log({
-    image,
-    breakpoints,
-    width,
-    height,
-    format,
-  })
-  
-*/
-
-  const urlParsed = parseUrl(image);
-  if (!urlParsed) {
-    console.log('Failed to parse url');
-    return [];
-  }
-
-  
-  return Promise.all(
-    breakpoints.map(async (w: number) => {
-      const _height = width && height ? computeHeight(w, width / height) : height;
-      const url =
-        transformUrl({
-          url: image,
-          width: w,
-          height: _height,
-          cdn: urlParsed.cdn,
-          ...(format ? { format: format } : {}),
-        }) || image;
-      return {
-        src: String(url),
-        width: w,
-        height: _height,
-      };
-    })
-  );
-};
 
 /* ** */
 export async function getImagesOptimized(

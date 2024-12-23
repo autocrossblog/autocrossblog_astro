@@ -8,6 +8,9 @@ import FAQs from '~/components/widgets/FAQs.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
 
+import heroImage from '~/assets/images/hero-image.png';
+
+
 const metadata = {
   title: 'AutocrossBlog, the ultimate site for autox information!',
   ignoreTitleTemplate: true,
@@ -28,7 +31,7 @@ const metadata = {
       },
       { text: 'About us', href: '/about' },
     ]}
-    image={{ src: '~/assets/images/hero-image.png', alt: 'AutocrossBlog Hero Image', aspectRatio: '2:1.999' }}
+    image={{ src: heroImage, alt: 'AutocrossBlog Hero Image', aspectRatio: '2:1.999' }}
   >
     <Fragment slot="title">
       Looking for the best autocross blog and content on the web? <span class="hidden xl:inline">You've found it!</span>
