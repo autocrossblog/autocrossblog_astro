@@ -46,3 +46,53 @@
     padding: 6px 10px;
   }
 }
+
+
+/* General utility classes */
+.layout-fixed {
+  object-fit: cover;
+  object-position: top left;
+  width: var(--width, auto);
+  height: var(--height, auto);
+}
+
+.layout-constrained {
+  max-width: var(--width, 100%);
+  max-height: var(--height, 100%);
+  aspect-ratio: var(--aspect-ratio, auto);
+  width: 100%;
+}
+
+.layout-fullWidth {
+  width: 100%;
+  height: var(--height, auto);
+  aspect-ratio: var(--aspect-ratio, auto);
+}
+
+.layout-responsive {
+  width: 100%;
+  height: auto;
+  aspect-ratio: var(--aspect-ratio, auto);
+}
+
+.layout-contained {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  aspect-ratio: var(--aspect-ratio, auto);
+}
+
+.layout-cover {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  object-position:center;
+}
+
+/* Background utility for optional background handling */
+.background-image {
+  background-image: var(--background-url, none);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
