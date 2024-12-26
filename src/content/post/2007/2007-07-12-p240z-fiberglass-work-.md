@@ -3,7 +3,7 @@ title: "P240Z Fiberglass work "
 excerpt: "Follow along as this blogger shares their experience repairing car floorboards using fiberglass, offering before and after photos."
 author: chris
 publishDate: 2007-07-12T09:00:59+00:00
-updateDate: 2024-11-15T12:15:17-06:00
+updateDate: 2024-12-25T23:59:17-06:00
 url: "2007/p240z-fiberglass-work"
 tags: [ 240z, datsun ]
 ---
