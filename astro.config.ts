@@ -68,7 +68,7 @@ export default defineConfig({
       img: {
         concurrency: 8, // Adjust based on CPU cores
       },
-      Image: true,
+      Image: false,
       JavaScript: true,
       SVG: true,
       Logger: 0, // Minimal logging for compress
