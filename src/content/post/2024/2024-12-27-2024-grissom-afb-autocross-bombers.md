@@ -7,7 +7,7 @@ publishDate: 2024-12-27T15:45:00+06:00
 url: 2024/grissom-autocross
 tags: [autocross, sites]
 image: ~/assets/images/2024/December/not-peru.png
-keywords: "autocross, st. louis, scca, schedule"
+keywords: "autocross,  air force, grissom, alert, bomber, b52"
 ---
 import { Image } from 'astro:assets';
 import image1 from '~/assets/images/2024/December/not-peru2.png';
