@@ -31,6 +31,7 @@ Imagine weaving through cones where Cold War aircrews once raced against time.  
 I ran my first autocross at Grissom in the year 2000, the first year I autocrossed. I lived on Grissom AFB for just about a year, back in 92-93 when my father was stationed there before it was converted to a reserve base. I love getting back to Indiana to compete on this site!
 
 Here's a photo of what things look like from Google Maps at Grissom.
+
 <Image 
   src={image1}
   alt="Grissom Air Reserve Base Alert Area Satellite View" 
