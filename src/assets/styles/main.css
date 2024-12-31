@@ -96,3 +96,21 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+
+
+.pagefind-ui__results-area{
+  background: #ccc !important;
+  padding:15px !important;
+}
+
+.py-20, .py-12{
+  padding-top:2em !important;
+  padding-bottom:2em !important;
+}
+
+
+input, textarea, select {
+  color: var(--aw-color-input-text);
+  background-color: var(--aw-color-input-bg);
+  padding:.5em;
+}

@@ -66,7 +66,7 @@ export default defineConfig({
         },
       },
       img: {
-        concurrency: 8, // Adjust based on CPU cores
+        concurrency: 4, // Adjust based on CPU cores
       },
       Image: false,
       JavaScript: true,
