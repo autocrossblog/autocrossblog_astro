@@ -1,0 +1,74 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Note from '~/components/widgets/Note.astro';
+import Features from '~/components/widgets/Features.astro';
+import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
+import FAQs from '~/components/widgets/FAQs.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import CallToAction from '~/components/widgets/CallToAction.astro';
+
+import heroImage from '~/assets/images/hero-image.png';
+
+
+const metadata = {
+  title: 'AutocrossBlog, the ultimate site for autox information!',
+  ignoreTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Read the latest!',
+        href: '/blog',
+        target: '_self',
+        icon: 'tabler:download',
+      },
+      { text: 'About us', href: '/about' },
+    ]}
+    image={{ src: heroImage, alt: 'AutocrossBlog Hero Image', aspectRatio: '2:1.999' }}
+  >
+    <Fragment slot="title">
+      Thank you <span class="hidden xl:inline">for reaching out!</span>
+    </Fragment>
+
+  </Hero>
+
+  <!-- BlogLatestPost Widget **************** -->
+
+  <BlogLatestPosts
+    id="blog"
+    title="Read our blog posts"
+    information={`Check out our latest event reviews and setup thoughts!`}
+  >
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </BlogLatestPosts>
+
+
+
+
+  <!-- CallToAction Widget *********** -->
+
+  <CallToAction
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Read the blog!',
+        href: '/blog',
+        target: '_blank',
+        icon: 'tabler:download',
+      },
+    ]}
+  >
+    <Fragment slot="title"> AutocrossBlog </Fragment>
+
+    <Fragment slot="subtitle"> The ultimate autocross website! </Fragment>
+  </CallToAction>
+</Layout>
