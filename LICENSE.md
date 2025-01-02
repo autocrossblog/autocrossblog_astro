@@ -1,3 +1,10 @@
+All content, blog posts, images, are Copyright (c) 2025 Chris Hammond
+
+
+
+
+AstroWind code and modifications
+
 MIT License
 
 Copyright (c) 2023 onWidget
