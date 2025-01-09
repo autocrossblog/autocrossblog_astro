@@ -76,8 +76,9 @@ Autocross is a timed competition where drivers navigate a defined course on a pa
 - Street Prepared, Street Touring, etc.: Intermediate levels of modification.
 
 ### Understanding PAX/Index
-- A handicap system to level the playing field across classes.
+- A handicap system to level the playing field across classes - This is often times used by the fastest drivers to compare themselves to other fast drivers. 
 - Allows drivers to compare times regardless of vehicle type.
+- Also referred to as Calculator racing.
 
 
 
@@ -86,6 +87,7 @@ Autocross is a timed competition where drivers navigate a defined course on a pa
 ### Tips for Practice and Improvement
 - Attend practice events and fun runs.
 - Experiment with different techniques and learn from mistakes.
+- Don't worry about modifying your car right away, you can pick up many seconds, sometimes 10+, just by learning the limits of your car and pushing/improving your driving. 
 
 ### Resources
 - Books: "Speed Secrets" by Ross Bentley.
