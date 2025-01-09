@@ -12,27 +12,27 @@ This is a work in progress, if you have any feedback [reach out](/contact) and l
 ## 1. Introduction to Autocross
 
 ### What is Autocross?
-Autocross is a timed competition where drivers navigate a defined course on a paved surface, typically a large parking lot or airfield, using traffic cones. It’s a sport that emphasizes car control and precision over outright speed.
+Autocross is a timed competition where drivers navigate a defined course on a paved surface, typically a large parking lot or airfield, using traffic cones. It’s a sport that emphasizes car control and precision over outright speed. Cars are classes based on a variety of characteristics and modification levels. This classing tries to level the playing field so that an old Yugo isn't competing against a brand new C8 Corvette.
 
 ### Why Participate?
-- Affordable way to experience motorsport.
+- Affordable way to experience motorsport - you can compete in just about (there are some limitations) any car that you already own. 
 - Improves driving skills and car control.
-- A welcoming and supportive community.
+- A welcoming and supportive community - you'll find all sorts of individuals and groups autocrossing. Often times they are like minded individuals who want to improve their driving and get more competitive in the sport. 
 
 ## 2. Getting Started
 
 ### Finding Local Events
-- Check local car clubs or national organizations like the [SCCA](https://www.scca.com/).
-- Search for events on social media or motorsport forums.
+- Check local car clubs or national organizations like the [SCCA - Sports Car Club of America](https://www.scca.com/).
+- Search for events on social media or motorsport forums - nowadays most groups have moved online to Facebook groups, you might search for a local group there.
 
 ### Necessary Equipment
-- A car in good mechanical condition.
-- A helmet (check local event requirements for specifications).
-- Comfortable clothes and shoes suitable for driving.
+- A car in good mechanical condition - Do the brakes work well? Are the wheel bearings nice and tight? Do you have all your lug nuts? Is the battery nice and secure?
+- A helmet (check local event requirements for specifications) - most of the time you need a helmet that has a Snell rating of 2010 or greater (2010, 2015, 2020 are currently legal for SCCA competition). 
+- Comfortable clothes and shoes suitable for driving - with this sport you aren't required to have fire resistant clothing as might be required with other motorsports competition.
 
 ### Registration and Costs
-- Register online or at the event.
-- Typical entry fees range from $30 to $50.
+- Register online or at the event - This will vary by region, a lot of regions allow (some require) pre-registration via [MotorsportsReg.com](https://www.motorsportsreg.com)
+- Typical entry fees range from $40 to $60 - Again this will vary by region. 
 
 
 
