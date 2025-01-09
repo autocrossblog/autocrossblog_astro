@@ -1,6 +1,7 @@
 ---
 title: 'Terms and Conditions'
 layout: '~/layouts/MarkdownLayout.astro'
+excerpt: "Terms of service for AutocrossBlog.com'
 ---
 
 _Last updated_: December 03, 2024
