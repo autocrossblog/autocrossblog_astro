@@ -1,7 +1,7 @@
 ---
 title: 'Privacy Policy'
 layout: '~/layouts/MarkdownLayout.astro'
-excerpt: "AutocrossBlog.com's privacy policy'
+excerpt: "AutocrossBlog.com's privacy policy"
 ---
 
 _Last updated_: December 03, 2024
