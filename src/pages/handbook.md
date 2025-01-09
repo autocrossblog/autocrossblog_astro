@@ -1,13 +1,12 @@
 ---
-title: 'Autocross Handbook from AutocrossBlog.com'
+title: 'Autocross Handbook'
 layout: '~/layouts/MarkdownLayout.astro'
+excerpt: "An introductory guide to the sport of autocross, primarily focusing on the sport in North America where you drive your street car around cones for time."
 ---
 
 _Last updated_: January 08, 2025
 
 This is a work in progress, if you have any feedback [reach out](/contact) and let me know!
-
-# Autocross Handbook
 
 ## 1. Introduction to Autocross
 
@@ -107,14 +106,16 @@ Autocross is a timed competition where drivers navigate a defined course on a pa
 ## 8. FAQs
 
 ### Do I need a special car to start?
-No! Any car in safe, running condition can compete.
+No! Any car in safe, running condition can compete. Rules may vary by where you run, cars with too high a center of gravity may not be considered safe.
 
 ### How many runs do I get?
-Typically, 3 to 6 runs per event depending on the organizer.
+Typically, 3 to 6 runs per event depending on the organizer. 
 
 ### What happens if I hit a cone?
-Each cone hit adds a time penalty (usually 2 seconds).
+Each cone hit adds a time penalty (usually 2 seconds, though some clubs use a 1 second penalty).
 
+### What do you win in autocross?
+Trophies may be available with different organizations for some events. At a National level with SCCA you can often times win contingency money, where a manufacturer of a vehicle or tire provides prize money or other incentives. 
 
 
 ## 9. Useful Links

@@ -11,7 +11,7 @@ metadata:
   title:
     default: AutocrossBlog
     template: '%s — AutocrossBlog'
-  description: Explore autocross insights with Chris Hammond's 24+ years of experience. Get tips, event recaps, and SCCA schedule updates on the ultimate Autocross Blog."
+  description: Explore autocross insights with Chris Hammond's 24+ years of experience. Get tips, event recaps, and SCCA schedule updates on the ultimate Autocross Blog.
   robots:
     index: true
     follow: true
