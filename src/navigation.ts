@@ -11,7 +11,7 @@ export const headerData = {
       text: 'Blog',
       href: getBlogPermalink(),
     },
-    { text: 'Autocross Handbook', href: getPermalink('/handbook') },
+    { text: 'Handbook', href: getPermalink('/handbook') },
     {
       text: 'Contact',
       href: getPermalink('/contact'),
@@ -35,7 +35,7 @@ export const footerData = {
         { text: 'About', href: '/about' },
         { text: 'Blog', href: '/blog' },
         { text: 'AutocrossRank.com', href: "https://www.autocrossrank.com/" },
-        { text: 'Autocross Handbook', href: "/handbook" },
+        { text: 'Handbook', href: "/handbook" },
       ],
     },
   ],
