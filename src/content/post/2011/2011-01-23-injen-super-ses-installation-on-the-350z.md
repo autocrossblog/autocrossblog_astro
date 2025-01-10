@@ -1,11 +1,11 @@
 ---
 title: "Injen Super SES Installation on the 350z"
-excerpt: "Installing the Injen Super SES on the 350z."
+excerpt: "Swapping my 350z's OEM exhaust for the Injen Super SES: saving 10lbs, boosting performance, and capturing it all with photos and a time-lapse!"
 author: chris
 publishDate: 2011-01-23T01:07:18+00:00
-updateDate: 2024-10-09T13:21:54-05:00
+updateDate: 2025-01-10T10:51:54-05:00
 url: "2011/injen-super-ses-installation-on-the-350z"
-tags: [ 350z, nissan, setup ]
+tags: [ 350z, nissan, setup, project350z ]
 ---
 
 If you followed the blog post earlier this week you already know that Injen came through and got me the replacement midpipes for my Super SES Exhaust which I removed late last year.
