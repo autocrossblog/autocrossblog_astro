@@ -1,6 +1,6 @@
 ---
 title: "What happened to Solo2.org?"
-excerpt: "Where did the Ultimate Autocross Website go?"
+excerpt: "Where did the Ultimate Autocross Website go? What happened to all the blog post and people? "
 author: chris
 publishDate: 2024-11-18T13:20:15+00:00
 updateDate: 2024-11-18T13:45:00-06:00
