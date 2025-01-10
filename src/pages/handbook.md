@@ -4,7 +4,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 excerpt: "An introductory guide to the sport of autocross, primarily focusing on the sport in North America where you drive your street car around cones for time."
 ---
 
-_Last updated_: January 08, 2025
+_Last updated_: January 10, 2025
 
 This is a work in progress, if you have any feedback [reach out](/contact) and let me know!
 
@@ -109,13 +109,16 @@ Autocross is a timed competition where drivers navigate a defined course on a pa
 No! Any car in safe, running condition can compete. Rules may vary by where you run, cars with too high a center of gravity may not be considered safe.
 
 ### How many runs do I get?
-Typically, 3 to 6 runs per event depending on the organizer. 
+Typically, 3 to 6 runs per event depending on the organizer. Often times the number of runs provided will vary, based on the number of entrants, the time of year (amount of daylight), and even how smoothly things are running for the event. At National autocross competitions you will very rarely get more than 3 runs (3 each day for a multi-day event).
 
 ### What happens if I hit a cone?
 Each cone hit adds a time penalty (usually 2 seconds, though some clubs use a 1 second penalty).
 
 ### What do you win in autocross?
 Trophies may be available with different organizations for some events. At a National level with SCCA you can often times win contingency money, where a manufacturer of a vehicle or tire provides prize money or other incentives. 
+
+### What is ProSolo?
+ProSolo is a unique style of autocross that combines drag racing and traditional autocross. Two cars start side-by-side on mirror-image courses, launching from a drag-style Christmas tree. Drivers race against the clock, and the best times from each course are combined to determine the winner. The head-to-head aspect adds excitement and a different challenge to the sport. There is also typically a bracket competition at the end of the event in which cars from different classes are released at different times, based on their ProSolo Index.
 
 
 ## 9. Useful Links
