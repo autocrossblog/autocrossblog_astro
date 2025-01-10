@@ -1,6 +1,6 @@
 ---
 title: "SSC Contingency Opportunities"
-excerpt: "Blog post that lists off some SCCA Contingency availabile to SSC, this post was for 2018"
+excerpt: "Blog post that lists off some SCCA Contingency availabile to SSC, this post was for 2018. Contingencies in autocross are payouts from sponsors for winning or placing in trophies."
 author: chris
 publishDate: 2018-04-26T02:58:53+00:00
 updateDate: 2024-12-09T10:21:54-05:00

@@ -1,6 +1,6 @@
 ---
 title: "Weekend plans, suspension install on the Project 350z"
-excerpt: "A blog post about weekend plans back in March of 2011"
+excerpt: "A blog post about weekend plans back in March of 2011. I was working on installing a suspension on the 2004 Nissan 350z"
 author: chris
 publishDate: 2011-03-19T01:00:15+00:00
 updateDate: 2024-10-09T13:21:54-05:00
