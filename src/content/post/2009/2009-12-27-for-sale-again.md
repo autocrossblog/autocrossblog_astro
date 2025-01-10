@@ -1,6 +1,6 @@
 ---
 title: "For sale again?"
-excerpt: "The 1973 Datsun 240z was for sale back in the day, did you buy it? If so reach out."
+excerpt: "The 1973 Datsun 240z was for sale back in the day, did you buy it? If so reach out. This post was originally used to try to sell it."
 author: chris
 publishDate: 2009-12-27T01:10:09+00:00
 updateDate: 2024-10-09T13:21:54-05:00

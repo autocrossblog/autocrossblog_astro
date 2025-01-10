@@ -1,9 +1,9 @@
 ---
 title: "Fun power tools and more 240Z progress"
-excerpt: "More power tool fun for the 240z!"
+excerpt: "DIY car projects: Assembling a vertical sander, fabricating a blockoff plate, and tackling intake manifold mods with lessons, tools, and tips along the way!"
 author: chris
 publishDate: 2007-06-13T19:51:12+00:00
-updateDate: 2024-10-09T13:21:54-05:00
+updateDate: 2025-01-10T10:21:54-05:00
 url: "2007/fun-power-tools-and-more-240z-progress"
 tags: [ 240z, datsun, tools ]
 ---

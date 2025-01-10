@@ -1,6 +1,6 @@
 ---
 title: "San Francisco Region SCCA Boondoggle 2011 Results"
-excerpt: "Results from the SFRSCCA Boondoggle autocross in 2011, I competed in my Nissan 350z at the event"
+excerpt: "Results from the SFRSCCA Boondoggle autocross in 2011, I competed in my Nissan 350z at the event with the San Francisco Region SCCA."
 author: chris
 publishDate: 2011-02-13T23:58:50+00:00
 updateDate: 2024-10-09T13:21:54-05:00

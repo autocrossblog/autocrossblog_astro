@@ -1,6 +1,6 @@
 ---
 title: "Project240z.com and the car are for sale!"
-excerpt: "At one point I listed the car and website for sale"
+excerpt: "At one point I listed the car and website for sale, this blog post is the details of that listing, the car sold, the website was never transacted."
 author: chris
 publishDate: 2007-10-23T03:09:58+00:00
 updateDate: 2024-10-09T13:21:54-05:00

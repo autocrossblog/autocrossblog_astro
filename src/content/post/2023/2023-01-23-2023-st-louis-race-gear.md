@@ -1,6 +1,6 @@
 ---
 title: "St Louis Race Gear"
-excerpt: "Racing gear in St. Louis Missouri can be found at Solo Performance Specialties"
+excerpt: "Racing gear in St. Louis Missouri can be found at Solo Performance Specialties, the ultimate provider of motorsports gear in the St. Louis area"
 author: chris
 publishDate: 2023-01-23T10:29:20+00:00
 updateDate: 2024-10-09T13:21:54-05:00
