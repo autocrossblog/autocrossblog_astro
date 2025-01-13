@@ -4,7 +4,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 excerpt: "An introductory guide to the sport of autocross, primarily focusing on the sport in North America where you drive your street car around cones for time."
 ---
 
-_Last updated_: January 10, 2025
+_Last updated_: January 12, 2025
 
 This is a work in progress, if you have any feedback [reach out](/contact) and let me know!
 
@@ -13,12 +13,24 @@ This is a work in progress, if you have any feedback [reach out](/contact) and l
 ### What is Autocross?
 Autocross is a timed competition where drivers navigate a defined course on a paved surface, typically a large parking lot or airfield, using traffic cones. It’s a sport that emphasizes car control and precision over outright speed. Cars are classes based on a variety of characteristics and modification levels. This classing tries to level the playing field so that an old Yugo isn't competing against a brand new C8 Corvette.
 
+Cars run individually on a course, against the clock, not door to door against other drivers, though for efficiency sake often times multiple cars will be on course together, they typically started 15-25 seconds apart to create a safety gap.
+
+
 ### Why Participate?
 - Affordable way to experience motorsport - you can compete in just about (there are some limitations) any car that you already own. 
 - Improves driving skills and car control.
 - A welcoming and supportive community - you'll find all sorts of individuals and groups autocrossing. Often times they are like minded individuals who want to improve their driving and get more competitive in the sport. 
+- Competition - people enjoy competing, some people really thrive in a motorsports competition where they can rapidly improve their skills with practice.
+
+### What are the courses like?
+- Almost every autocross you compete in will be a different course layout.
+- Courses are marked by orange traffic cones with a variety of different configurations in order to control the flow/direction of the course.
+
 
 ## 2. Getting Started
+
+### When is Autocross Season
+- This will vary greatly by the part of the country (climate) you are in. Here in the midwest, the season typically runs from March until mid-October. In Arizona, Florida and parts of California, you'll often find clubs that run year round.
 
 ### Finding Local Events
 - Check local car clubs or national organizations like the [SCCA - Sports Car Club of America](https://www.scca.com/).
@@ -39,7 +51,7 @@ Autocross is a timed competition where drivers navigate a defined course on a pa
 
 ### What to Expect at Your First Event
 - Arrive early to allow time for check-in and setup.
-- Meet other participants and ask questions.
+- Meet other participants and ask questions! 
 
 ### Check-in and Tech Inspection Process
 - Show your driver’s license and sign a waiver.
@@ -100,6 +112,7 @@ Autocross is a timed competition where drivers navigate a defined course on a pa
 - **PAX:** Performance Adjustment Index.
 - **DNF:** Did Not Finish.
 - **Slalom:** A series of cones set up in a straight line requiring weaving through them.
+- **Chicago Box** 
 
 
 
