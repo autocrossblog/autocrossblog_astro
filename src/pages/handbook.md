@@ -93,7 +93,21 @@ Cars run individually on a course, against the clock, not door to door against o
 
 
 
-## 6. Improving Your Skills
+## 6. Course Info
+
+### How are courses marked?
+- Courses are laid out using orange traffic cones to define boundaries and control direction.
+- Cones are placed in specific configurations to create challenges like slaloms, sharp turns, and straightaways.
+- Some cones may have pointer cones next to them to indicate the intended direction of travel.
+- Corner workers are stationed to reset cones if they are knocked over during a run.
+
+### Cone Penalties
+- Hitting a cone usually results in a time penalty (1-2 seconds per cone, depending on the club).
+- Missing a gate or navigating the course incorrectly results in a DNF (Did Not Finish).
+
+
+
+## 7. Improving Your Skills
 
 ### Tips for Practice and Improvement
 - Attend practice events and fun runs.
@@ -107,7 +121,7 @@ Cars run individually on a course, against the clock, not door to door against o
 
 
 
-## 7. Glossary of Terms
+## 8. Glossary of Terms
 - **Apex:** The inside point of a turn.
 - **PAX:** Performance Adjustment Index.
 - **DNF:** Did Not Finish.
@@ -116,7 +130,7 @@ Cars run individually on a course, against the clock, not door to door against o
 
 
 
-## 8. FAQs
+## 9. FAQs
 
 ### Do I need a special car to start?
 No! Any car in safe, running condition can compete. Rules may vary by where you run, cars with too high a center of gravity may not be considered safe.
@@ -134,7 +148,7 @@ Trophies may be available with different organizations for some events. At a Nat
 ProSolo is a unique style of autocross that combines drag racing and traditional autocross. Two cars start side-by-side on mirror-image courses, launching from a drag-style Christmas tree. Drivers race against the clock, and the best times from each course are combined to determine the winner. The head-to-head aspect adds excitement and a different challenge to the sport. There is also typically a bracket competition at the end of the event in which cars from different classes are released at different times, based on their ProSolo Index.
 
 
-## 9. Useful Links
+## 10. Useful Links
 
 ### Organizations
 - [Sports Car Club of America (SCCA)](https://www.scca.com/)
