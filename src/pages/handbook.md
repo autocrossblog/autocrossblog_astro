@@ -4,9 +4,40 @@ layout: '~/layouts/MarkdownLayout.astro'
 excerpt: "An introductory guide to the sport of autocross, primarily focusing on the sport in North America where you drive your street car around cones for time."
 ---
 
-_Last updated_: January 12, 2025
+_Last updated_: January 13, 2025
 
 This is a work in progress, if you have any feedback [reach out](/contact) and let me know!
+
+## Table of Contents
+- [1. Introduction to Autocross](#1-introduction-to-autocross)
+  - [What is Autocross?](#what-is-autocross)
+  - [Why Participate?](#why-participate)
+  - [What are the courses like?](#what-are-the-courses-like)
+- [2. Getting Started](#2-getting-started)
+  - [When is Autocross Season](#when-is-autocross-season)
+  - [Finding Local Events](#finding-local-events)
+  - [Necessary Equipment](#necessary-equipment)
+  - [Registration and Costs](#registration-and-costs)
+- [3. Event Day Basics](#3-event-day-basics)
+  - [What to Expect at Your First Event](#what-to-expect-at-your-first-event)
+  - [Check-in and Tech Inspection Process](#check-in-and-tech-inspection-process)
+  - [Walkthrough and Course Map Tips](#walkthrough-and-course-map-tips)
+- [4. Driving Techniques](#4-driving-techniques)
+  - [Basic Car Control](#basic-car-control)
+  - [Navigating Cones and Turns](#navigating-cones-and-turns)
+  - [Common Mistakes and How to Avoid Them](#common-mistakes-and-how-to-avoid-them)
+- [5. Classes and Categories](#5-classes-and-categories)
+  - [Overview of Car Classifications](#overview-of-car-classifications)
+  - [Understanding PAX/Index](#understanding-paxindex)
+- [6. Course Info](#6-course-info)
+  - [How are courses marked?](#how-are-courses-marked)
+  - [Cone Penalties](#cone-penalties)
+- [7. Improving Your Skills](#7-improving-your-skills)
+  - [Tips for Practice and Improvement](#tips-for-practice-and-improvement)
+  - [Resources](#resources)
+- [8. Glossary of Terms](#8-glossary-of-terms)
+- [9. FAQs](#9-faqs)
+- [10. Useful Links](#10-useful-links)
 
 ## 1. Introduction to Autocross
 
