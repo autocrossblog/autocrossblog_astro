@@ -1,11 +1,14 @@
 ---
 title: 'Autocross Handbook'
-layout: '~/layouts/MarkdownLayout.astro'
-excerpt: "An introductory guide to the sport of autocross, primarily focusing on the sport in North America where you drive your street car around cones for time."
+excerpt: "An introductory guide to the sport of autocross."
+author: chris
+publishDate: 2025-01-08T00:00:00+06:00
+updateDate: 2025-01-15T00:00:00-06:00
+url: /handbook
+tags: [ 'autocross' ]
+image: ~/assets/images/2025/AutocrossHandbook.jpg
+keywords: "autocross,  air force, grissom, alert, bomber, b52"
 ---
-
-_Last updated_: January 13, 2025
-
 This is a work in progress, if you have any feedback [reach out](/contact) and let me know!
 
 ## Table of Contents
