@@ -1,47 +1,61 @@
 ---
+import merge from 'lodash.merge';
 import Layout from '~/layouts/Layout.astro';
 import Header from '~/components/widgets/Header.astro';
 import Footer from '~/components/widgets/Footer.astro';
 import Announcement from '~/components/widgets/Announcement.astro';
 import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
 import { headerData, footerData } from '~/navigation';
 
 import { Icon } from 'astro-icon/components';
 import { getFormattedDate } from '~/utils/utils';
 import { findImage } from '~/utils/images';
 
-import type { MetaData } from '~/types';
+import type { MetaData as MetaDataType } from '~/types';
 
 export interface Props {
-  metadata?: MetaData;
+  metadata?: MetaDataType;
 }
 
 // Debugging Astro.props and frontmatter
 //console.log('Astro.props:', Astro.props);
 
-const { frontmatter, headings } = Astro.props;
-const {
-  title,
-  publishDate,
-  updateDate,
-  tags,
-  image,
-  keywords,
-  excerpt,
-} = frontmatter || {};
-
-
-// Ensure publishDate and updateDate are Date objects
-const formattedPublishDate = publishDate ? new Date(publishDate) : null;
-const formattedUpdateDate = updateDate ? new Date(updateDate) : null;
-
 // Debug individual fields
 //console.log('Astro.props.frontmatter:', frontmatter);
 //console.log('publishDate:', formattedPublishDate);
-const bookimage = (await findImage(image)) as ImageMetadata | string | undefined;
+
+
+const { frontmatter, headings } = Astro.props as Props;
+const bookimage = (await findImage(frontmatter.image)) as ImageMetadata | string | undefined;
+const metadata = merge(
+  {
+  title: frontmatter.title,
+  publishDate: frontmatter.publishDate,
+  updateDate: frontmatter.updateDate,
+  tags: frontmatter.tags,
+  image: frontmatter.image,
+  keywords: frontmatter.keywords,
+  excerpt: frontmatter.excerpt,
+  openGraph: {
+      type: 'article',
+      ...(bookimage
+        ? { images: [{ url: bookimage, width: (bookimage as ImageMetadata)?.width, height: (bookimage as ImageMetadata)?.height }] }
+        : {}),
+    },
+//} = metadata || {}
+  },{ ...(frontmatter?.metadata ? { ...frontmatter.metadata, canonical: frontmatter.metadata?.canonical || url } : {}) }
+) as MetaData;
+
+
+
+// Ensure publishDate and updateDate are Date objects
+const formattedPublishDate = frontmatter.publishDate ? new Date(frontmatter.publishDate) : null;
+const formattedUpdateDate = frontmatter.updateDate ? new Date(frontmatter.updateDate) : null;
+
 ---
 
-<Layout metadata={frontmatter}>
+<Layout metadata={metadata}>
   <slot name="announcement">
     <Announcement />
   </slot>
@@ -52,19 +66,19 @@ const bookimage = (await findImage(image)) as ImageMetadata | string | undefined
     <article>
   <!-- Header Section -->
   <header
-      class={image
+      class={bookimage
         ? 'intersect-once intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade'
         : 'intersect-once intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade'}
     >
       <h1
         class="px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold leading-tighter tracking-tighter font-heading"
       >
-        {title}
+        {frontmatter.title}
       </h1>
       <p
         class="max-w-3xl mx-auto mt-4 mb-8 px-4 sm:px-6 text-xl md:text-2xl text-muted dark:text-slate-400 text-justify"
       >
-        {excerpt}
+        {frontmatter.excerpt}
       </p>
 
       <div class="flex justify-between flex-col sm:flex-row max-w-3xl mx-auto mt-0 mb-2 px-4 sm:px-6 sm:items-center">
@@ -89,7 +103,7 @@ const bookimage = (await findImage(image)) as ImageMetadata | string | undefined
             class="max-w-full lg:max-w-[900px] mx-auto mb-6 sm:rounded-md bg-gray-400 dark:bg-slate-700"
             widths={[400, 900]}
             sizes="(max-width: 900px) 400px, 900px"
-            alt={title || ''}
+            alt={frontmatter.title || ''}
             width={900}
             height={506}
             loading="eager"
