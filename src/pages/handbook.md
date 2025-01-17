@@ -2,8 +2,8 @@
 layout: ~/layouts/HandbookLayout.astro
 title: Autocross Handbook
 excerpt: 'The ultimate autocross handbook for new and old drivers alike!'
-publishDate: 2025-01-08T00:00:00+06:00
-updateDate: 2025-01-17T00:00:00+06:00
+publishDate: 2025-01-08T10:00:00+06:00
+updateDate: 2025-01-17T09:30:00+06:00
 url: /handbook
 tags: [ 'autocross' ]
 image: ~/assets/images/2025/AutocrossHandbook.jpg
@@ -19,6 +19,10 @@ Autocross is a timed competition where drivers navigate a defined course on a pa
 
 Cars run individually on a course, against the clock, not door to door against other drivers, though for efficiency sake often times multiple cars will be on course together, they typically started 15-25 seconds apart to create a safety gap.
 
+Courses are "staffed" by competitors. One of the key tenants of autocross is that the competitors also work the event, helping out to provide key services necessary to host an event. Most people will spend time working the course, chasing down and replacing cones that are knocked over or moved out of their "box" that marks their position on the course.
+
+When competing, hitting a cone will typically cause you a 2-second time penalty, adding time to your run. Cones are marked by chalked (sometimes paint) boxes, if the cones remains upright and touching some part of the box, hitting it does not cause a penalty. If the cones is knocked over, or moved outside of the box, it is counted for a penalty.
+
 
 ### Why Participate?
 - Affordable way to experience motorsport - you can compete in just about (there are some limitations) any car that you already own. 
@@ -29,6 +33,7 @@ Cars run individually on a course, against the clock, not door to door against o
 ### What are the courses like?
 - Almost every autocross you compete in will be a different course layout.
 - Courses are marked by orange traffic cones with a variety of different configurations in order to control the flow/direction of the course.
+- Some courses will be small and tight, often times constrained by the size of the lot/surface available for use. Other courses will be large and spacious with room to really get on the throttle of your vehicle.
 
 
 ## 2. Getting Started
@@ -44,22 +49,27 @@ Cars run individually on a course, against the clock, not door to door against o
 - A car in good mechanical condition - Do the brakes work well? Are the wheel bearings nice and tight? Do you have all your lug nuts? Is the battery nice and secure?
 - A helmet (check local event requirements for specifications) - most of the time you need a helmet that has a Snell rating of 2010 or greater (2010, 2015, 2020 are currently legal for SCCA competition). 
 - Comfortable clothes and shoes suitable for driving - with this sport you aren't required to have fire resistant clothing as might be required with other motorsports competition.
+- Do you still have seat belts, use them. Many people will use additional harnesses (even as simple as just an additional canvas chest strap) to help keep you secure in the vehicle. The less effort you are exerting trying to keep yourself in place, the more effort you can focus on your driving.
 
 ### Registration and Costs
 - Register online or at the event - This will vary by region, a lot of regions allow (some require) pre-registration via [MotorsportsReg.com](https://www.motorsportsreg.com)
 - Typical entry fees range from $40 to $60 - Again this will vary by region. 
+- Some regions will require you to be a club member, most often times for insurance reasons. Typically there are temporary membership options available when required.
 
 
 
 ## 3. Event Day Basics
 
 ### What to Expect at Your First Event
-- Arrive early to allow time for check-in and setup.
+- Arrive early to allow time for check-in and setup. How early? I would suggest 90 minutes or more before they say the first car will run. This will give you time to get a lay of the land and understand all the things you need to do before you compete.
 - Meet other participants and ask questions! 
+- When you pull in to an event site you will most likely be asked to sign a waiver, this provides a little acknowledgement and coverage for insurance purposes for the organization hosting the event. If you are under 18, or have dependents who are under 18 you'll likely need to go through a process of filling out a minor waiver of some form.
+- When you get onsite ask the waiver person(s) where you need to go next, let htem know this is your first time and they will likely help get you pointed in the right direction.
 
 ### Check-in and Tech Inspection Process
-- Show your driver’s license and sign a waiver.
-- Have your car inspected for safety (e.g., brakes, battery, loose items).
+- Show your driver’s license, pay if necessary. 
+- Get your work assignment, many regions will assign you a work assignment when you check in to registration. Ask for help at this point if you are unsure what you need to be doing.
+- Following registration you will typically go through "tech" inspection. You will have your car inspected for safety (e.g., belts, brakes, battery, loose items). It is always the vehicle owner/driver's responsibility to ensure they have a safe vehicle, tech inspection is a quick check over some basic items. Many regions will offer an annual tech inspection for regular competitors, meaning you can avoid the tech inspection process at future events. 
 
 ### Course Walk
 - Most clubs will allow you to walk the course before you run the event, those that don't might give you a "parade" lap in which you drive around the course at a slow pace to get a preview.
