@@ -37,7 +37,7 @@ const formattedUpdateDate = updateDate ? new Date(updateDate) : null;
 
 // Debug individual fields
 //console.log('Astro.props.frontmatter:', frontmatter);
-console.log('publishDate:', formattedPublishDate);
+//console.log('publishDate:', formattedPublishDate);
 const bookimage = (await findImage(image)) as ImageMetadata | string | undefined;
 ---
 
@@ -147,7 +147,7 @@ const bookimage = (await findImage(image)) as ImageMetadata | string | undefined
   </slot>
 </Layout>
 
-<script>
+<script is:inline>
   function openTOC() {
     document.querySelector('.toc-drawer').style.transform = 'translateX(0)';
     document.querySelector('.toc-drawer').style.zIndex = '2000'; // Ensure it's above other elements
