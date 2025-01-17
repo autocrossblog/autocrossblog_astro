@@ -1,6 +1,6 @@
 ---
 layout: ~/layouts/HandbookLayout.astro
-title: Autocross Handbook
+title: "Autocross Handbook"
 excerpt: 'The ultimate autocross handbook for new and old drivers alike!'
 publishDate: 2025-01-08T10:00:00+06:00
 updateDate: 2025-01-17T09:30:00+06:00
