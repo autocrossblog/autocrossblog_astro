@@ -1,0 +1,349 @@
+---
+import Layout from '~/layouts/Layout.astro';
+import Header from '~/components/widgets/Header.astro';
+import Footer from '~/components/widgets/Footer.astro';
+import Announcement from '~/components/widgets/Announcement.astro';
+import { Image } from 'astro:assets';
+import { headerData, footerData } from '~/navigation';
+
+import { Icon } from 'astro-icon/components';
+import { getFormattedDate } from '~/utils/utils';
+import { findImage } from '~/utils/images';
+
+import type { MetaData } from '~/types';
+
+export interface Props {
+  metadata?: MetaData;
+}
+
+// Debugging Astro.props and frontmatter
+//console.log('Astro.props:', Astro.props);
+
+const { frontmatter, headings } = Astro.props;
+const {
+  title,
+  publishDate,
+  updateDate,
+  tags,
+  image,
+  keywords,
+  excerpt,
+} = frontmatter || {};
+
+
+// Ensure publishDate and updateDate are Date objects
+const formattedPublishDate = publishDate ? new Date(publishDate) : null;
+const formattedUpdateDate = updateDate ? new Date(updateDate) : null;
+
+// Debug individual fields
+//console.log('Astro.props.frontmatter:', frontmatter);
+console.log('publishDate:', formattedPublishDate);
+const bookimage = (await findImage(image)) as ImageMetadata | string | undefined;
+---
+
+<Layout metadata={frontmatter}>
+  <slot name="announcement">
+    <Announcement />
+  </slot>
+  <slot name="header">
+    <Header {...headerData} isSticky showRssFeed showToggleTheme />
+  </slot>
+  <section class="py-8 sm:py-16 lg:py-20 mx-auto">
+    <article>
+  <!-- Header Section -->
+  <header
+      class={image
+        ? 'intersect-once intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade'
+        : 'intersect-once intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade'}
+    >
+      <h1
+        class="px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold leading-tighter tracking-tighter font-heading"
+      >
+        {title}
+      </h1>
+      <p
+        class="max-w-3xl mx-auto mt-4 mb-8 px-4 sm:px-6 text-xl md:text-2xl text-muted dark:text-slate-400 text-justify"
+      >
+        {excerpt}
+      </p>
+
+      <div class="flex justify-between flex-col sm:flex-row max-w-3xl mx-auto mt-0 mb-2 px-4 sm:px-6 sm:items-center">
+        <p>
+          <Icon name="tabler:clock" class="w-4 h-4 inline-block -mt-0.5 dark:text-gray-400" />
+          <time datetime={String(formattedPublishDate)} class="inline-block">{getFormattedDate(formattedPublishDate)}</time>          
+          {
+            formattedUpdateDate && (
+              <>
+                <br />
+                <small>Last Updated <time datetime={String(formattedUpdateDate)} class="inline-block">{getFormattedDate(formattedUpdateDate)}</time></small>
+              </>
+            )
+          }
+        </p>
+      </div>
+
+      {
+        bookimage ? (
+          <Image
+            src={bookimage}
+            class="max-w-full lg:max-w-[900px] mx-auto mb-6 sm:rounded-md bg-gray-400 dark:bg-slate-700"
+            widths={[400, 900]}
+            sizes="(max-width: 900px) 400px, 900px"
+            alt={title || ''}
+            width={900}
+            height={506}
+            loading="eager"
+            decoding="async"
+            inferSize={true}
+          />
+        ) : (
+          <div class="max-w-3xl mx-auto px-4 sm:px-6">
+            <div class="border-t dark:border-slate-700" />
+          </div>
+        )
+      }
+    </header>
+
+  <!-- Drawer Toggle Button for Mobile -->
+  <button class="toc-drawer-toggle" onclick="openTOC()">☰ Table of Contents</button>
+
+  <!-- TOC Drawer for Mobile -->
+  <aside class="toc-drawer">
+    <button class="toc-drawer-close" onclick="closeTOC()">✕ Close</button>
+    <h2>Table of Contents</h2>
+    <ul>
+      {headings.map(heading => (
+        <li style={`padding-left: ${heading.depth === 3 ? '20px' : '0'}`}>
+          <a href={`#${heading.slug}`} onclick="closeTOC()">{heading.text}</a>
+        </li>
+      ))}
+    </ul>
+  </aside>
+
+  <!-- Main Layout for Desktop TOC and Content -->
+  <div class="layout">
+    <aside class="toc-desktop">
+      <h2>Table of Contents</h2>
+      <ul>
+        {headings.map(heading => (
+          <li style={`padding-left: ${heading.depth === 3 ? '20px' : '0'}`}>
+            <a href={`#${heading.slug}`}>{heading.text}</a>
+          </li>
+        ))}
+      </ul>
+    </aside>
+
+    <main
+      class="content mx-auto px-6 sm:px-6 prose prose-md lg:prose-xl dark:prose-invert dark:prose-headings:text-slate-300 prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-bold prose-a:text-primary dark:prose-a:text-blue-400 prose-img:rounded-md prose-img:shadow-lg mt-8 prose-headings:scroll-mt-[80px] prose-li:my-0"
+    >
+      <slot />
+    </main>
+  </div>
+</article>
+</section>
+
+  <slot name="footer">
+    <Footer {...footerData} />
+  </slot>
+</Layout>
+
+<script>
+  function openTOC() {
+    document.querySelector('.toc-drawer').style.transform = 'translateX(0)';
+    document.querySelector('.toc-drawer').style.zIndex = '2000'; // Ensure it's above other elements
+  }
+
+  function closeTOC() {
+    document.querySelector('.toc-drawer').style.transform = 'translateX(-100%)';
+  }
+</script>
+
+<style>
+/* Header Section Styles */
+.handbook-header {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.featured-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.handbook-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.handbook-excerpt {
+  font-size: 1.25rem;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.handbook-meta {
+  margin-bottom: 20px;
+}
+
+.handbook-meta div {
+  margin-bottom: 10px;
+}
+
+.handbook-meta strong {
+  font-weight: bold;
+}
+
+.tags {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.tag {
+  background-color: #007acc;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 3px;
+  font-size: 0.9rem;
+}
+
+/* Main layout for desktop */
+.layout {
+  display: flex; /* Align TOC and content side-by-side */
+  align-items: flex-start; /* Ensure content starts at the top */
+  gap: 20px; /* Add space between TOC and content */
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 20px;
+}
+
+/* Floating TOC for Desktop */
+.toc-desktop {
+  position: sticky; /* Keeps TOC visible while scrolling */
+  top: 20px; /* Keeps it aligned with the viewport top */
+  width: 250px; /* Fixed width for TOC */
+  max-height: calc(100vh - 40px); /* Keeps TOC within the viewport height */
+  overflow-y: auto; /* Scrollable if content overflows */
+  flex-shrink: 0; /* Prevent TOC from shrinking */
+  padding: 10px;
+  border-right: 1px solid #ccc; /* Visual separation from content */
+  background-color: #f9f9f9; /* Light background for visibility */
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional shadow for contrast */
+}
+
+.toc-desktop h2 {
+  margin-top: 0;
+}
+
+.toc-desktop ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.toc-desktop li {
+  margin: 10px 0;
+}
+
+.toc-desktop a {
+  text-decoration: none;
+  color: #007acc;
+}
+
+.toc-desktop a:hover {
+  text-decoration: underline;
+}
+
+/* TOC Drawer for Mobile */
+.toc-drawer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 250px;
+  background-color: #f9f9f9;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  overflow-y: auto;
+  transform: translateX(-100%);
+  transition: transform 0.3s ease-in-out;
+  z-index: 2000; /* Ensure the drawer appears above other elements */
+}
+
+.toc-drawer h2 {
+  margin-top: 0;
+}
+
+.toc-drawer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.toc-drawer li {
+  margin: 10px 0;
+}
+
+.toc-drawer a {
+  text-decoration: none;
+  color: #007acc;
+}
+
+.toc-drawer a:hover {
+  text-decoration: underline;
+}
+
+/* Drawer Close Button */
+.toc-drawer-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+/* Drawer Toggle Button */
+.toc-drawer-toggle {
+  position: fixed;
+  bottom: 20px; /* Move to bottom-left corner */
+  left: 20px;
+  z-index: 2100; /* Ensure the toggle button is above other elements */
+  background-color: #007acc;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.toc-drawer-toggle:hover {
+  background-color: #005f99;
+}
+
+/* Main content */
+.content {
+  flex: 1; /* Allow main content to take the remaining space */
+}
+
+/* Responsive Rules */
+@media (min-width: 769px) {
+  .toc-drawer,
+  .toc-drawer-toggle {
+    display: none; /* Hide mobile TOC and button on desktop */
+  }
+}
+
+@media (max-width: 768px) {
+  .toc-desktop {
+    display: none; /* Hide desktop TOC on mobile */
+  }
+}
+</style>
