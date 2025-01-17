@@ -24,7 +24,7 @@ metadata:
     type: website
   twitter:
     handle: '@AutocrossBlog'
-    site: '@AutocrossBlog'
+    site: 'AutocrossBlog.com'
     cardType: summary_large_image
 
 i18n:
