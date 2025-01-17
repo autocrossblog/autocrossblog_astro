@@ -3,7 +3,7 @@ layout: ~/layouts/HandbookLayout.astro
 title: Autocross Handbook
 excerpt: 'The ultimate autocross handbook for new and old drivers alike!'
 publishDate: 2025-01-08T00:00:00+06:00
-updateDate: 2025-01-16T00:00:00+06:00
+updateDate: 2025-01-17T00:00:00+06:00
 url: /handbook
 tags: [ 'autocross' ]
 image: ~/assets/images/2025/AutocrossHandbook.jpg
@@ -61,10 +61,11 @@ Cars run individually on a course, against the clock, not door to door against o
 - Show your driver’s license and sign a waiver.
 - Have your car inspected for safety (e.g., brakes, battery, loose items).
 
-### Walkthrough and Course Map Tips
-- Walk the course at least once to familiarize yourself.
-- Look ahead while driving to plan your line through the cones.
-
+### Course Walk
+- Most clubs will allow you to walk the course before you run the event, those that don't might give you a "parade" lap in which you drive around the course at a slow pace to get a preview.
+- Walk the course at least once to familiarize yourself - Many people will walk the course multiples times, 2, 3, even 10 to 12 times at a National level event where you can walk the course before hand.
+- If the club allows it, and you can find someone to let you do it, ride along with other drivers. This is a great way to see the course at speed and to see how different drivers take different approaches to a course.
+- Look ahead while walking the course, try to plan your line through the cones.
 
 
 ## 4. Driving Techniques
