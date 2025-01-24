@@ -1,0 +1,32 @@
+---
+interface Props {
+  videoId: string;
+  title: string;
+  publishDate: string; // ISO format, e.g., "2025-01-24"
+  description: string;
+}
+const { videoId, title, publishDate, description } = Astro.props;
+
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": title,
+  "description": description,
+  "thumbnailUrl": `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`,
+  "uploadDate": publishDate,
+  "embedUrl": `https://www.youtube.com/embed/${videoId}`,
+  "contentUrl": `https://www.youtube.com/watch?v=${videoId}`,
+};
+---
+<div class="video-container">
+  <iframe
+    src={`https://www.youtube.com/embed/${videoId}`}
+    title={title}
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    loading="lazy"
+  ></iframe>
+</div>
+
+<script type="application/ld+json" set:html={JSON.stringify(structuredData, null, 2)}></script>
