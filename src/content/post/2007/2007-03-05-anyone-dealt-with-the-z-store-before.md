@@ -9,4 +9,3 @@ tags: [ 240z, datsun ]
 ---
 
 I emailed the Z Store on Tuesday, and haven't heard back from them. I'm looking at their MSA Type III body kit for the Project 240z. Anyone ever dealt with them, or seen the body kit before?
-
