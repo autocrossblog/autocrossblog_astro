@@ -1,17 +1,18 @@
 ---
 layout: ~/layouts/HandbookLayout.astro
 title: "Autocross Handbook"
-excerpt: 'The ultimate autocross handbook for new and old drivers alike!'
-description: "The ultimate autocross handbook for new and old drivers alike. You'll find content that will help you get up to speed at your first event!"
+excerpt: 'The ultimate autocross handbook/manual for new and old drivers alike!'
+description: "The ultimate autocross handbook for new and old drivers alike. You'll find content that will help you get up to speed at your first event! Read the manual!"
 publishDate: 2025-01-08T10:00:00+06:00
-updateDate: 2025-01-25T09:30:00+06:00
+updateDate: 2025-01-25T23:30:00+06:00
 url: /handbook
-tags: [ 'autocross' ]
+tags: [ 'autocross', 'handbook', 'how to' ]
 image: ~/assets/images/2025/AutocrossHandbook.jpg
-keywords: "autocross,  air force, grissom, alert, bomber, b52"
+keywords: "autocross,  manual, handbook"
 ---
+Welcome to my autocross handbook/manual. Here I am working on putting together a complete guide on getting started in autocross along with some tips and tricks that will hopefully help you along the way to many years of great competition in the sport. 
 
-This is a work in progress, if you have any feedback [reach out](/contact) and let me know!
+This is a work in progress, if you have any feedback [reach out](/contact) and let me know! -Chris Hammond
 
 ## 1. Introduction to Autocross
 
