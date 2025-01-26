@@ -4,7 +4,7 @@ title: "Autocross Handbook"
 excerpt: 'The ultimate autocross handbook for new and old drivers alike!'
 description: "The ultimate autocross handbook for new and old drivers alike. You'll find content that will help you get up to speed at your first event!"
 publishDate: 2025-01-08T10:00:00+06:00
-updateDate: 2025-01-17T09:30:00+06:00
+updateDate: 2025-01-25T09:30:00+06:00
 url: /handbook
 tags: [ 'autocross' ]
 image: ~/assets/images/2025/AutocrossHandbook.jpg
@@ -142,7 +142,10 @@ When competing, hitting a cone will typically cause you a 2-second time penalty,
 - **PAX:** Performance Adjustment Index.
 - **DNF:** Did Not Finish.
 - **Slalom:** A series of cones set up in a straight line requiring weaving through them.
-- **Chicago Box** 
+- **Chicago Box:**
+- **Pylon:**
+- **DNS:**
+- **+1:**
 
 
 
@@ -176,7 +179,6 @@ ProSolo is a unique style of autocross that combines drag racing and traditional
 
 ### Local Club Directories
 - Search for clubs in your region via SCCA’s website or motorsport forums.
-
 
 
 Happy autocrossing!
