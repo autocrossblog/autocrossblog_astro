@@ -12,5 +12,5 @@ Well, I got absolutely nothing done on the car today. I did manage to buy a few 
 
 Instead I spent the day helping my buddy Eric. He mistakenly LOST his girlfriend's parrot last night. So today we went bird hunting all day. Finally around 7pm Kendra stepped up and showed she had a bigger pair than both Eric or I. She climbed a tree about 3-4 stories up and got the bird to come down to her.
 
-A more detailed blog post will be on [ChrisHammond.com](https://chrishammond.com) later this weekend.
+A more detailed blog post will be on [ChrisHammond.com](https://wwwchrishammond.com) later this weekend.
 
