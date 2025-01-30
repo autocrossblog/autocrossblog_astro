@@ -56,7 +56,7 @@ export default defineConfig({
     ),
     compress({
       CSS: true,
-      HTML: true,
+      HTML: false,
       Image: false,
       JavaScript: true,
       SVG: false,
