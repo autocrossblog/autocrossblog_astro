@@ -12,5 +12,5 @@ I've gone ahead and created a videos section of the Project240z website. As I cr
 
 ## Update: December 2024
 
-There isn't currently a dedicated [videos page](/tags/video) here on the site, you'll find videos from throughout the years embedded within the blog posts on the site.
+There isn't currently a dedicated [videos page](/tag/video) here on the site, you'll find videos from throughout the years embedded within the blog posts on the site.
 
