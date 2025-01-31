@@ -8,7 +8,7 @@ url: "2007/all-in-a-day-s-paint"
 tags: [ 240z, datsun, megasquirt ]
 ---
 
-After yesterday's fun, Eric and I spent some time in the garage today. I was awoken this morning around 8:00am by the doorbell; the Dish Network guy showed up right on time. More on that topic tomorrow on [The Mad Blogger](https://themadblogger.com/). After I got the Dish guy going, I sent Eric an SMS to let him know I was out in the garage working.
+After yesterday's fun, Eric and I spent some time in the garage today. I was awoken this morning around 8:00am by the doorbell; the Dish Network guy showed up right on time. After I got the Dish guy going, I sent Eric an SMS to let him know I was out in the garage working.
 
 The first thing I needed to do was lay some fiberglass in the passenger floorboard. I had missed a few spots on that side earlier in the week and laid some extra resin in the floor to smooth out the pockmarks from the cleaned-up rust.
 

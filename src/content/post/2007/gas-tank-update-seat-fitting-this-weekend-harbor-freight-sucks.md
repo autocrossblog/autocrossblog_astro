@@ -12,5 +12,5 @@ I ended up not getting another gas tank this past weekend. I had planned on pick
 
 I'm picking up a seat from [www.soloperformance.com](https://www.soloperformance.com) tomorrow to do some test fitting this weekend. I'll probably go with a Corbeau A4, but need to make sure it will fit in the car, and of course with me in it, before I order anything. I'm thinkin the black microsuede sure would look nice!
 
-This section of the post should be one for [The Mad Blogger](https://themadblogger.com/), but I'll post it here anyways. Harbor Freight sucks. I ordered a welder from them last week, called today and found out it was on backorder with no expected date of arrival. I'll call them tomorrow, and if it's still not expected soon I'll cancel the order and figure something else out.... Anyone want to come over and weld some things this weekend, bring a welder!!!!
+This section of the post should be one for another site, but I'll post it here anyways. Harbor Freight sucks. I ordered a welder from them last week, called today and found out it was on backorder with no expected date of arrival. I'll call them tomorrow, and if it's still not expected soon I'll cancel the order and figure something else out.... Anyone want to come over and weld some things this weekend, bring a welder!!!!
 
