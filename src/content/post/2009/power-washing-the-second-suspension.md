@@ -7,6 +7,9 @@ updateDate: 2024-11-15T12:15:17-06:00
 url: "2009/power-washing-the-second-suspension"
 tags: [ 240z, datsun ]
 ---
+We got back from Colorado on Saturday night.
 
-We got back from Colorado on Saturday night. Sunday afternoon I was out in the driveway power washing the extra suspension for the 240z. I got quite a bit done, it looks a lot better than before, and I also managed to get most of the disassembled so that I could get it sand blasted. I did manage to get grease all over the driveway though, which then go on the dogs when Natalie decided to try to wash the dogs in the driveway while I was out there. Whoops! Lesson learned, grease gets everywhere.
+Sunday afternoon I was out in the driveway power washing the extra suspension for the 240z. I got quite a bit done, it looks a lot better than before, and I also managed to get most of the disassembled so that I could get it sand blasted.
+
+I did manage to get grease all over the driveway though, which then got on the dogs when Natalie decided to try to wash the dogs in the driveway while I was out there. Whoops! Lesson learned, grease gets everywhere.
 
