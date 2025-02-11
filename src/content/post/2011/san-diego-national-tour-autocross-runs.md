@@ -53,4 +53,4 @@ On run 2 I went out and tried to throw down a good time, I was pretty frustrated
 
 Finally, a run I could be happy with, the first one all weekend. This run ended up putting me into 6th place in BSP and 1st in our own little ZSP class we had going internally in BSP.
 
-<YouTubeEmbed videoId="87-7fxQtQgU" title="San Diego National Tour Autocross Day 2 Run 2" publishDate="2011-04-05T00:52:19+00:00" description="San Diego National Tour Autocross Runs" />
+<YouTubeEmbed videoId="GXltNILjtpY" title="San Diego National Tour Autocross Day 2 Run 3" publishDate="2011-04-05T00:52:19+00:00" description="San Diego National Tour Autocross Runs" />
