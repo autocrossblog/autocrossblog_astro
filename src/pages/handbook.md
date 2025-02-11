@@ -4,11 +4,11 @@ title: "Autocross Handbook"
 excerpt: 'The ultimate autocross handbook/manual for new and old drivers alike!'
 description: "The ultimate autocross handbook for new and old drivers alike. You'll find content that will help you get up to speed at your first event! Read the manual!"
 publishDate: 2025-01-08T10:00:00+06:00
-updateDate: 2025-01-25T23:30:00+06:00
+updateDate: 2025-02-11T09:30:00+06:00
 url: /handbook
-tags: [ 'autocross', 'handbook', 'how to' ]
+tags: [ 'autocross', 'handbook', 'how to', 'faq' ]
 image: ~/assets/images/2025/AutocrossHandbook.jpg
-keywords: "autocross,  manual, handbook"
+keywords: "autocross,  manual, handbook, how to, learn, autox, lesson, teach, instruct"
 ---
 Welcome to my autocross handbook/manual. Here I am working on putting together a complete guide on getting started in autocross along with some tips and tricks that will hopefully help you along the way to many years of great competition in the sport. 
 
@@ -117,6 +117,7 @@ When competing, hitting a cone will typically cause you a 2-second time penalty,
 - Cones are placed in specific configurations to create challenges like slaloms, sharp turns, and straightaways.
 - Some cones may have pointer cones next to them to indicate the intended direction of travel.
 - Corner workers are stationed to reset cones if they are knocked over during a run.
+- Some courses will be "lined" with flour or some other powder substance to visually help with seeing the course.
 
 ### Cone Penalties
 - Hitting a cone usually results in a time penalty (1-2 seconds per cone, depending on the club).
@@ -143,11 +144,10 @@ When competing, hitting a cone will typically cause you a 2-second time penalty,
 - **PAX:** Performance Adjustment Index.
 - **DNF:** Did Not Finish.
 - **Slalom:** A series of cones set up in a straight line requiring weaving through them.
-- **Chicago Box:**
-- **Pylon:**
-- **DNS:**
-- **+1:**
-
+- **Chicago Box:** An element on a course, also referred to as a Peterson box. 
+- **Pylon:** An orange cone!
+- **DNS:** Did Not Start.
+- **+1:** When you hit a cone you typically get a +1, meaning you get 2 seconds added to your finishing time for that run. Each cone is +1, so each cone counts for an additional 2 seconds.
 
 
 ## 9. FAQs
