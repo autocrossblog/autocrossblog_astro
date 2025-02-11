@@ -155,6 +155,9 @@ When competing, hitting a cone will typically cause you a 2-second time penalty,
 ### Do I need a special car to start?
 No! Any car in safe, running condition can compete. Rules may vary by where you run, cars with too high a center of gravity may not be considered safe.
 
+### What class does my car run in?
+That question is one that can take a while to answer. We will build out some details here on the Handbook on how to figure out what class your car runs in, it might be multiple!
+
 ### How many runs do I get?
 Typically, 3 to 6 runs per event depending on the organizer. Often times the number of runs provided will vary, based on the number of entrants, the time of year (amount of daylight), and even how smoothly things are running for the event. At National autocross competitions you will very rarely get more than 3 runs (3 each day for a multi-day event).
 
