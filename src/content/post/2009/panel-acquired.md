@@ -4,7 +4,7 @@ excerpt: "Join a computer geek as he overcomes his fear and ignorance to wire up
 author: chris
 publishDate: 2009-10-02T00:10:40+00:00
 updateDate: 2024-11-15T12:15:17-06:00
-url: "2009/fuse-block/panel-acquired"
+url: "2009/fuse-block-panel-acquired"
 tags: [ 240z, datsun ]
 ---
 
