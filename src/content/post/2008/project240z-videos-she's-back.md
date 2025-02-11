@@ -5,17 +5,16 @@ author: chris
 publishDate: 2008-08-09T23:31:43+00:00
 updateDate: 2024-11-15T12:15:17-06:00
 url: "2008/project240z-videos-she-s-back"
-tags: [ 240z, datsun ]
+tags: [ 240z, datsun, video ]
 ---
+import YouTubeEmbed from "/src/components/common/YouTubeEmbed.astro";
 
 So it has been a while since I've posted any P240Z videos, too long in fact. Well here are two, one that i failed to post back in March, and one that I just made today!
 
 ## March 2008
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TfeIKACQKSg?si=LeRALh6Lx8SpdIp5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTubeEmbed videoId="TfeIKACQKSg" title="P240Z Starting on the new Motor" publishDate="2008-03-11T23:31:43+00:00" description="Started on the new L28E motor for the 240Z. I had problems with the video for this, thus the small window of video. I may try to redo this later in the week." />
 
 ## 8/9/2008
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h-Fg35IDrNs?si=1v6pFgKfGRyuLdxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<YouTubeEmbed videoId="h-Fg35IDrNs" title="Project240Z.com Garage Cleanup The Return" publishDate="2008-08-09T23:31:43+00:00" description="It has been a almost a year (2 days shy?) since the motor went in the 240Z. It has been in storage most of that time and today is the day it came home. I had to make room in the garage before I could get it in though." />
