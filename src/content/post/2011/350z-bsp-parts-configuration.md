@@ -1,6 +1,6 @@
 ---
 title: "350z BSP Parts Configuration"
-excerpt: "A blog post with details of our 2004 350z setup for BSP"
+excerpt: "A blog post with details of our 2004 350z setup for BSP, after originally having plans to run STU"
 author: chris
 publishDate: 2011-02-04T03:16:23+00:00
 updateDate: 2025-01-24T09:53:17-06:00

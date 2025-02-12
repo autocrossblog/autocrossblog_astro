@@ -1,6 +1,6 @@
 ---
 title: "Buying a modded car"
-excerpt: "Explore why it's essential to know an item's history before purchasing, especially from friends."
+excerpt: "Explore why it's essential to know an item's history before purchasing, especially from friends. Things to look out for."
 author: chris
 publishDate: 2010-04-01T00:27:05+00:00
 updateDate: 2025-01-10T10:53:17-06:00

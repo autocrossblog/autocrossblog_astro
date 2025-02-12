@@ -1,6 +1,6 @@
 ---
 title: "Prepping for the 350z Stud Install"
-excerpt: "A blog post about prepping for Stud installation on a 2004 Nissan 350z to better mount wheels."
+excerpt: "A blog post about prepping for Stud installation on a 2004 Nissan 350z to better mount wheels. Stronger studs are important when constantly changing!"
 author: chris
 publishDate: 2011-02-12T01:52:45+00:00
 updateDate: 2024-11-16T22:59:22-06:00
