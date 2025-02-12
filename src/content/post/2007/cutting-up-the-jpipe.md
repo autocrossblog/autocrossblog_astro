@@ -1,6 +1,6 @@
 ---
 title: "Cutting up the JPipe"
-excerpt: "A blog post cutting up the J-Pipe"
+excerpt: "A blog post cutting up the J-Pipe for the L28ET motor. Repairing some damage on it to try to make it work on the car. "
 author: chris
 publishDate: 2007-05-24T17:20:07+00:00
 updateDate: 2024-10-09T13:21:54-05:00
