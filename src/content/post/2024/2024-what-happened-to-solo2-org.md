@@ -1,6 +1,6 @@
 ---
 title: "What happened to Solo2.org?"
-excerpt: "Where did the Ultimate Autocross Website go? What happened to all the blog post and people? "
+excerpt: "Where did the Ultimate Autocross Website go? What happened to all the blog post and people? Updated as of February 2025"
 author: chris
 publishDate: 2024-11-18T13:20:15+00:00
 updateDate: 2024-11-18T13:45:00-06:00
@@ -10,6 +10,8 @@ image: ~/assets/images/2024/November/solo2-org.webp
 keywords: '"autocross, solo2.org"'
 
 ---
+## Update: February 2025
+Is something afoot? Perhaps. Perhaps not.
 
 ## The beginning
 In the beginning, there was Christoc.com's Racing Forums, that was quickly replaced with Pylon.CC, and ultimately became SOLO2.ORG. CRF started out with a little guerilla marketing, I would take photos at autocrosses (film) and then print out all the photos, at the next event I would distribute those photos to the various cars in each photo and include a printed out small flyer promoting the Forums.
