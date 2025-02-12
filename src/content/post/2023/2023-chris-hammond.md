@@ -1,9 +1,9 @@
 ---
 title: "The Intersection of Tech and Community: Chris Hammond's Journey"
-excerpt: "A list of vehicles that Chris Hammond has owned"
+excerpt: "A list of vehicles that Chris Hammond has owned, somewhat regularly updated to try to keep current!"
 author: chris
 publishDate: 2023-06-12T10:00:20+00:00
-updateDate: 2024-11-16T21:56:01-06:00
+updateDate: 2025-02-12T12:56:01-06:00
 url: "2023/chris-hammond"
 image: ~/assets/images/chrishammond.jpg
 keywords: Chris Hammond
@@ -44,5 +44,5 @@ Chris has owned far too many cars over the years and this website documents a nu
 - 1975 Triumph TR-6 (Dad's)  
 - 2015 Ford Explorer (Dad's)  
 - 2008 Chevrolet Corvette (Dad's)  
-- 2022 Nissan Pathfinder
-
+- 2022 Nissan Pathfinder  
+- 2016 Scion FR-S  
