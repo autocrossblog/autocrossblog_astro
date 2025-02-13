@@ -4,7 +4,7 @@ title: "Autocross Handbook"
 excerpt: 'The ultimate autocross handbook/manual for new and old drivers alike!'
 description: "The ultimate autocross handbook for new and old drivers alike. You'll find content that will help you get up to speed at your first event! Read the manual!"
 publishDate: 2025-01-08T10:00:00+06:00
-updateDate: 2025-02-11T09:30:00+06:00
+updateDate: 2025-02-12T23:47:00+06:00
 url: /handbook
 tags: [ 'autocross', 'handbook', 'how to', 'faq' ]
 image: ~/assets/images/2025/AutocrossHandbook.jpg
@@ -170,6 +170,8 @@ Trophies may be available with different organizations for some events. At a Nat
 ### What is ProSolo?
 ProSolo is a unique style of autocross that combines drag racing and traditional autocross. Two cars start side-by-side on mirror-image courses, launching from a drag-style Christmas tree. Drivers race against the clock, and the best times from each course are combined to determine the winner. The head-to-head aspect adds excitement and a different challenge to the sport. There is also typically a bracket competition at the end of the event in which cars from different classes are released at different times, based on their ProSolo Index.
 
+### Do I need insurance for Autocross?
+Most automotive insurance policies will have very specific wording around NOT covering timed or competitive events. That means, [if you were to have an accident](/2022/autocross-accident-why-you-need-autocross-insurance/), you most likely would not have coverage for your vehicle. You might consider getting coverage that is specific to the sport of autocross, we'll have more information about that.
 
 ## 10. Useful Links
 
