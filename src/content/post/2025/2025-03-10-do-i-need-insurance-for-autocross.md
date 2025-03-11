@@ -12,11 +12,9 @@ keywords: "autocross, video, what if, insurance"
 A common question, or perhaps misconception:
 
 ## Does regular auto insurance cover accidents at an autocross event?
-
 No!
 
-## Longe3 explanation of autocross insurance options
-
+## Longer explanation of autocross insurance options
 Most auto insurance policies have limits as to what they will cover, and many, if not all, specifically state that they do not covered timed competitions or events held on a track. Read your policy some time, you won't like what you find.
 
 Some local "time trial" events even claim you NEED to have automobile insurance to participate in their events, but good luck with getting that coverage enacted after something bad happens.
