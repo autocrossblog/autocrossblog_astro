@@ -9,7 +9,7 @@ tags: [autocross, insurance, faq]
 image: ~/assets/images/6-13-2021/side2.jpg
 keywords: "autocross, video, what if, insurance"
 ---
-A common question, or perhaps misconception:
+A common question, or perhaps misconception: My regular automobile insurance covers my car at an autocross event. I'm just driving around cones in a parking lot! 
 
 ## Does regular auto insurance cover accidents at an autocross event?
 No!
