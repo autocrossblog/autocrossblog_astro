@@ -5,7 +5,7 @@ author: chris
 publishDate: 2025-03-10T22:28:00+06:00
 # updateDate: 2024-12-12T11:20:15-06:00
 url: 2025/does-auto-insurance-cover-autocross-accidents
-tags: [autocross, insurance]
+tags: [autocross, insurance, faq]
 image: ~/assets/images/6-13-2021/side2.jpg
 keywords: "autocross, video, what if, insurance"
 ---
