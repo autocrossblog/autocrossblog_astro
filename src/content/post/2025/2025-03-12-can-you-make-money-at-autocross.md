@@ -140,4 +140,4 @@ Contingency programs **do provide real money in autocross**, but unless you’re
 
 That said, if you're fast, strategic about what brands you support, and consistently place well, **contingency money can be a valuable way to fund your racing habit.**  
 
-So, are you cashing in on contingency? Let us know on Facebook! 💰🏁  
+So, are you cashing in on contingency? [Let us know on Facebook](https://www.facebook.com/AutocrossBlog/posts/pfbid0zrMPRCrhaxor6fmm12haJYXK9Aj1rYsvpChkgzSqtbEaB6TKxZWR1xNvrKLu67DVl)! 💰🏁  
