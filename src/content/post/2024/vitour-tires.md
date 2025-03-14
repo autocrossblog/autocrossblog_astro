@@ -9,6 +9,11 @@ tags: [ autocross, tires ]
 image: ~/assets/images/2024/vitourtire.jpg
 ---
 
+## Update March 2025
+These tires are apparently legal.... questionable, but legal now I guess 
+
+
+
 If you're looking for information on the Vitour Tempesta P1 tire for the sport of autocross you've come to the right place!
 
 The tire isn't legal for national level autocross competition. Don't waste your money on it buying a set. 
