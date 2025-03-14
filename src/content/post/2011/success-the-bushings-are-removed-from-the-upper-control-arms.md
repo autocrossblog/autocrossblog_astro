@@ -1,5 +1,5 @@
 ---
-title: "Success! The bushings are removed from the upper control arms"
+title: "Success! The bushings are removed from the upper arms"
 excerpt: "Explore this blog post about the importance of having the right tools, using a home repair task as an example. See images and video of the process."
 author: chris
 publishDate: 2011-03-25T02:10:52+00:00

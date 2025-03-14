@@ -1,5 +1,5 @@
 ---
-title: "2004 Nissan 350z Enthusiast model for sale, Half Moon Bay, CA (SOLD)"
+title: "2004 Nissan 350z Enthusiast for sale, Half Moon Bay, CA (SOLD)"
 excerpt: "For sale: well-maintained 2004 350z Enthusiast with less than 75k miles. Optional extra suspension kit. Located in Half Moon Bay, CA."
 author: chris
 publishDate: 2012-11-02T14:24:16+00:00

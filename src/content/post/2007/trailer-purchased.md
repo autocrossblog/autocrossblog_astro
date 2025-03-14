@@ -1,6 +1,6 @@
 ---
 title: "Trailer Purchased"
-excerpt: "I purchased a trailer!"
+excerpt: "I purchased a trailer to tow the car around with! Pictures coming soon for what the trailer looks like"
 author: chris
 publishDate: 2007-06-10T07:39:35+00:00
 updateDate: 2024-10-09T13:21:54-05:00

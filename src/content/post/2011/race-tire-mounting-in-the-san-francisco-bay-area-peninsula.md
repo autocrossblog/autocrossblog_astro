@@ -1,5 +1,5 @@
 ---
-title: "Race tire mounting in the San Francisco Bay Area (Peninsula)"
+title: "Race tire mounting in the San Francisco Bay Area"
 excerpt: "Exploring the costs of tire mounting for autocross and the hunt for a well-priced tire shop in the San Francisco Bay Area."
 author: chris
 publishDate: 2011-01-16T04:18:45+00:00

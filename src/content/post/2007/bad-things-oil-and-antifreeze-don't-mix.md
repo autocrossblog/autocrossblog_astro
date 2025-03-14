@@ -1,6 +1,6 @@
 ---
 title: "Bad things oil and antifreeze don't mix"
-excerpt: "A blog post about bad things found in the Datsun 240z motor"
+excerpt: "A blog post about bad things found in the Datsun 240z motor, I pulled the drain plug on the motor, out comes antifreeze, then oil... bad things here. "
 author: chris
 publishDate: 2007-08-15T05:34:02+00:00
 updateDate: 2024-10-09T13:21:54-05:00
