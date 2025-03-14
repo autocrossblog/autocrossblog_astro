@@ -1,6 +1,6 @@
 ---
 title: "The Intersection of Tech and Community: Chris Hammond's Journey"
-excerpt: "A list of vehicles that Chris Hammond has owned, somewhat regularly updated to try to keep current!"
+excerpt: "A list of vehicles that Chris Hammond has owned, somewhat regularly updated to try to keep current! Not the MLB Chris Hammond however"
 author: chris
 publishDate: 2023-06-12T10:00:20+00:00
 updateDate: 2025-02-12T12:56:01-06:00
@@ -11,7 +11,7 @@ tags: [ about ]
 ---
 
 ## A little about the owner here:
-Balancing professional pursuits with community involvement isn't easy, but [Chris Hammond](https://www.chrishammond.com/) seems to have found the sweet spot. 
+Balancing professional pursuits with community involvement isn't easy, but [Chris Hammond](https://www.chrishammond.com/) seems to have found the sweet spot. Speaking of sweet spots, did you know there's a former MLB player names Chris Hammond?
 
 Based in St. Louis, MO, Chris has made significant contributions to his local community, all while advancing his career in the tech industry. Find out more about Chris' inspiring journey on his [personal blog](https://www.chrishammond.com/).
 

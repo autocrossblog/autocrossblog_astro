@@ -1,14 +1,14 @@
 ---
 title: "Buying an Autocross Helmet"
-excerpt: "Information on buying an autocross helmet from Solo Performance Specialties"
+excerpt: "Information on buying an autocross helmet from Solo Performance Specialties, the ultimate supplier of race gear in St. Louis"
 author: chris
 publishDate: 2011-01-26T20:34:42+00:00
-updateDate: 2024-10-09T13:21:54-05:00
+updateDate: 2025-03-14T11:21:54-05:00
 url: "2011/buying-an-autocross-helmet"
 tags: [ 350z, nissan, setup ]
 ---
 
-If you're looking to buy an [Autocross Helmet](https://soloperformance.com/collections/helmets-and-accessories) you should check out [SoloPerformance.com](https://www.soloperformance.com)
+If you're looking to buy an [Autocross Helmet](https://soloperformance.com/collections/helmets-and-accessories) you should check out [SoloPerformance.com](https://www.soloperformance.com) in St. Louis Missouri.
 
 I've been a long time Solo Performance customer, and just recently purchased a number of items from them, including this stylish new [autocross helmet](https://soloperformance.com/collections/helmets-and-accessories)!
 

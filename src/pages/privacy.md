@@ -1,10 +1,11 @@
 ---
 title: 'Privacy Policy'
 layout: '~/layouts/MarkdownLayout.astro'
-excerpt: "AutocrossBlog.com's privacy policy"
+excerpt: "Discover AutocrossBlog's Privacy Policy. Learn how we collect, use, and protect your data, ensuring transparency and security for your online experience."
+description: "
 ---
 
-_Last updated_: December 03, 2024
+_Last updated_: March 14 2025
 
 This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use AutocrossBlog.com ("the Service") and explains Your privacy rights and how the law protects You.
 
@@ -27,7 +28,7 @@ For the purposes of this Privacy Policy:
 - **Service** refers to the AutocrossBlog.com website.
 - **Service Provider** refers to any natural or legal person who processes data on behalf of the Company, including third-party services assisting in delivering or analyzing the Service.
 - **Usage Data** refers to data collected automatically, such as page visit durations or other analytics.
-- **Website** refers to AutocrossBlog.com, accessible at [https://www.AutocrossBlog.com](https://www.AutocrossBlog.com).
+- **Website** refers to AutocrossBlog.com, accessible at [https://www.autocrossblog.com](https://www.autocrossblog.com).
 - **You** means the individual accessing the Service or the entity on behalf of which the individual is accessing or using the Service.
 
 ## Collecting and Using Your Personal Data

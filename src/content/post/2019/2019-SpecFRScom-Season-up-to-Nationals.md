@@ -1,6 +1,6 @@
 ---
 title: "2019 SpecFRS.com Season up to Nationals"
-excerpt: "2019 Season in review for SpecFRS up to August 2019, just before the 2019 Solo Nationals"
+excerpt: "2019 Season in review for SpecFRS up to August 2019, just before the 2019 Solo Nationals. Also listed are our settings for the car setup."
 author: chris
 publishDate: 2019-08-28T03:26:48+00:00
 updateDate: 2024-10-09T13:21:54-05:00

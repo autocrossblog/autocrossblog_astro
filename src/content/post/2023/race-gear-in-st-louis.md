@@ -1,6 +1,6 @@
 ---
 title: "Race Gear in St. Louis Missouri"
-excerpt: "Finding Racing supplies and gear in St. Louis Missouri"
+excerpt: "Finding Racing supplies and gear in St. Louis Missouri, Solo Performance is your one stop shop for gear!"
 author: chris
 publishDate: 2023-01-24T10:00:15+00:00
 updateDate: 2024-10-09T13:21:54-05:00
