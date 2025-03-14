@@ -2,7 +2,6 @@
 title: 'Privacy Policy'
 layout: '~/layouts/MarkdownLayout.astro'
 excerpt: "Discover AutocrossBlog's Privacy Policy. Learn how we collect, use, and protect your data, ensuring transparency and security for your online experience."
-description: "
 ---
 
 _Last updated_: March 14 2025
