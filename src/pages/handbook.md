@@ -1,10 +1,10 @@
 ---
 layout: ~/layouts/HandbookLayout.astro
 title: "Autocross Handbook"
-excerpt: 'The ultimate autocross handbook/manual for new and old drivers alike!'
+excerpt: 'The ultimate autocross manual and guide for new and old drivers alike!'
 description: "The ultimate autocross handbook for new and old drivers alike. You'll find content that will help you get up to speed at your first event! Read the manual!"
 publishDate: 2025-01-08T10:00:00+06:00
-updateDate: 2025-02-12T23:47:00+06:00
+updateDate: 2025-03-13T19:47:00+06:00
 url: /handbook
 tags: [ 'autocross', 'handbook', 'how to', 'faq' ]
 image: ~/assets/images/2025/AutocrossHandbook.jpg
@@ -165,13 +165,13 @@ Typically, 3 to 6 runs per event depending on the organizer. Often times the num
 Each cone hit adds a time penalty (usually 2 seconds, though some clubs use a 1 second penalty).
 
 ### What do you win in autocross?
-Trophies may be available with different organizations for some events. At a National level with SCCA you can often times win contingency money, where a manufacturer of a vehicle or tire provides prize money or other incentives. 
+Trophies may be available with different organizations for some events. [At a National level with SCCA you can often times win contingency money](/2025/can-you-make-money-at-autocross), where a manufacturer of a vehicle or tire provides prize money or other incentives. 
 
 ### What is ProSolo?
 ProSolo is a unique style of autocross that combines drag racing and traditional autocross. Two cars start side-by-side on mirror-image courses, launching from a drag-style Christmas tree. Drivers race against the clock, and the best times from each course are combined to determine the winner. The head-to-head aspect adds excitement and a different challenge to the sport. There is also typically a bracket competition at the end of the event in which cars from different classes are released at different times, based on their ProSolo Index.
 
 ### Do I need insurance for Autocross?
-Most automotive insurance policies will have very specific wording around NOT covering timed or competitive events. That means, [if you were to have an accident](/2022/autocross-accident-why-you-need-autocross-insurance/), you most likely would not have coverage for your vehicle. You might consider getting coverage that is specific to the sport of autocross, we'll have more information about that.
+Most automotive insurance policies will have very specific wording around NOT covering timed or competitive events. That means, [if you were to have an accident](/2022/autocross-accident-why-you-need-autocross-insurance/), you most likely would not have coverage for your vehicle. You might consider getting coverage that is specific to the sport of autocross, [we have more information about that](/2025/does-auto-insurance-cover-autocross-accidents).
 
 ## 10. Useful Links
 
