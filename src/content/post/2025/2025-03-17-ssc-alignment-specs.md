@@ -5,7 +5,7 @@ author: chris
 publishDate: 2025-03-17T08:05:00+06:00
 # updateDate: 2024-12-12T11:20:15-06:00
 url: 2025/ssc-alignment-specs
-tags: [autocross, setup, autocross, specfrs, ssc, alignment, moultrie, national tour]
+tags: [autocross, setup, specfrs, ssc, alignment, moultrie, national tour]
 image: ~/assets/images/2025/march/alignment.jpg
 keywords: "autocross, ssc, specfrs, alignment, setup, moultrie"
 ---
