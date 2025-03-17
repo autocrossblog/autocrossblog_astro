@@ -54,6 +54,15 @@ const metadata = {
     subtitle="Optimized for Performance"
     columns={3}
     isBeforeContent={true}
+    classes={{
+      headline: "HeadClass",
+      container: 'grid justify-center', /* Centers items */
+      items: {
+        container: 'justify-center text-center', /* Centers grid content */
+        title: 'text-center', /* Centers item titles */
+        icon: 'mx-auto', /* Centers icons */
+      },
+    }}
     items={[
       {
         title: 'Front Swaybar',
