@@ -4,7 +4,7 @@ excerpt: "A post with the Autocross Schedule for St. Louis Region Sports Car Clu
 author: chris
 publishDate: 2024-12-23T12:05:15+06:00
 # updateDate: 2024-12-12T11:20:15-06:00
-url: 2024/2025STLSchedule
+url: 2024/2025stlschedule
 tags: [autocross, 2025 season, schedule]
 image: ~/assets/images/2024/December/schedule-1.jpg
 keywords: "autocross, st. louis, scca, schedule"
