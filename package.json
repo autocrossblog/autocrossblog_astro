@@ -54,7 +54,7 @@
     "@types/mdx": "^2.0.13",
     "@typescript-eslint/eslint-plugin": "^8.23.0",
     "@typescript-eslint/parser": "^8.22.0",
-    "astro": "^5.13.8",
+    "astro": "^5.13.9",
     "astro-compress": "2.3.8",
     "astro-eslint-parser": "^1.2.1",
     "esbuild": ">=0.25.8",
