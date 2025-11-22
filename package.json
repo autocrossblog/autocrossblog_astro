@@ -22,7 +22,7 @@
     "fix:prettier": "prettier -w ."
   },
   "dependencies": {
-    "@astrojs/rss": "^4.0.13",
+    "@astrojs/rss": "^4.0.14",
     "@astrojs/sitemap": "^3.6.0",
     "@astrolib/analytics": "^0.6.1",
     "@astrolib/seo": "^1.0.0-beta.8",
@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.5",
-    "@astrojs/mdx": "^4.3.10",
+    "@astrojs/mdx": "^4.3.12",
     "@astrojs/partytown": "^2.1.4",
     "@astrojs/tailwind": "^6.0.2",
     "@eslint/js": "^9.39.1",
@@ -54,7 +54,7 @@
     "@types/mdx": "^2.0.13",
     "@typescript-eslint/eslint-plugin": "^8.46.4",
     "@typescript-eslint/parser": "^8.46.4",
-    "astro": "^5.15.8",
+    "astro": "^5.16.0",
     "astro-compress": "2.3.8",
     "astro-eslint-parser": "^1.2.2",
     "esbuild": ">=0.27.0",
