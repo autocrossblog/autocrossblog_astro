@@ -33,7 +33,7 @@
     "esbuild": ">=0.27.0",
     "exif-parser": "^0.1.12",
     "image-size": "^2.0.2",
-    "limax": "4.2.1",
+    "limax": "4.2.2",
     "lodash.merge": "^4.6.2",
     "pagefind": "^1.4.0",
     "photoswipe": "^5.4.4",
