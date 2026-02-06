@@ -1,9 +1,9 @@
 ---
 title: "SSC, Solo Spec Coupe Alignment Specs"
-excerpt: "Our latest alignment specs for the 2016 Scion FRS"
+excerpt: "Our latest alignment specs for the 2016 Scion FRS, setup for Solo Spec Coupe (SSC) class, with detailed measurements for camber, caster, and toe."
 author: chris
 publishDate: 2025-03-17T08:05:00+06:00
-# updateDate: 2024-12-12T11:20:15-06:00
+updateDate: 2026-02-06T11:20:15-06:00
 url: 2025/ssc-alignment-specs
 tags: [autocross, setup, specfrs, ssc, alignment, moultrie, national tour]
 image: ~/assets/images/2025/march/alignment.jpg
