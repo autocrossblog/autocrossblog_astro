@@ -12,27 +12,51 @@ import type { AstroIntegration } from 'astro';
 
 import astrowind from './vendor/integration';
 
-import { readingTimeRemarkPlugin, responsiveTablesRehypePlugin, lazyImagesRehypePlugin } from './src/utils/frontmatter';
+import {
+  readingTimeRemarkPlugin,
+  responsiveTablesRehypePlugin,
+  lazyImagesRehypePlugin,
+} from './src/utils/frontmatter';
 
 import pagefind from "astro-pagefind";
-
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // Utility function for conditional integrations
 const hasExternalScripts = false;
-const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroIntegration)[] = []) =>
-  hasExternalScripts ? (Array.isArray(items) ? items.map((item) => item()) : [items()]) : [];
+const whenExternalScripts = (items = []) =>
+  hasExternalScripts
+    ? (Array.isArray(items) ? items.map((item) => item()) : [items()])
+    : [];
 
 export default defineConfig({
   output: 'static',
+
+  // ✅ Allow remote images from any Flickr domains
+  image: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: '**.flickr.com',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: '**.staticflickr.com',
+        pathname: '/**',
+      },
+    ],
+  },
 
   integrations: [
     tailwind({
       applyBaseStyles: false,
     }),
+
     sitemap(),
+
     mdx(),
+
     icon({
       include: {
         tabler: ['*'],
@@ -49,26 +73,30 @@ export default defineConfig({
         ],
       },
     }),
+
     ...whenExternalScripts(() =>
       partytown({
         config: { forward: ['dataLayer.push'] },
       })
     ),
+
     compress({
       CSS: true,
       HTML: false,
       Image: false,
       JavaScript: true,
       SVG: false,
-      Logger: 0, // Minimal logging for compress
-//      hooks: {
-//        onCompressionStart: (file) => console.log(`Compressing: ${file}`),
-//        onCompressionEnd: (file) => console.log(`Finished: ${file}`),
-//      },
+      Logger: 0,
+      // hooks: {
+      //   onCompressionStart: (file) => console.log(`Compressing: ${file}`),
+      //   onCompressionEnd: (file) => console.log(`Finished: ${file}`),
+      // },
     }),
+
     astrowind({
       config: './src/config.yaml',
     }),
+
     pagefind(),
   ],
 
@@ -79,18 +107,22 @@ export default defineConfig({
       lazyImagesRehypePlugin,
     ],
   },
+
   build: {
-    concurrency: 4, // Adjust based on CPU cores
+    concurrency: 4,
   },
+
   vite: {
     resolve: {
       alias: {
         '~': path.resolve(__dirname, './src'),
       },
     },
+
     optimizeDeps: {
       include: ['astro-icon'],
     },
+
     server: {
       fs: {
         allow: [
@@ -101,6 +133,7 @@ export default defineConfig({
         ],
       },
     },
+
     build: {
       rollupOptions: {
         plugins: [
@@ -112,7 +145,7 @@ export default defineConfig({
             generateBundle(_, bundle) {
               console.log('Generating bundle...');
               for (const [fileName, output] of Object.entries(bundle)) {
-                //console.log(`Processing file: ${fileName}, type: ${output.type}`);
+                // console.log(`Processing file: ${fileName}, type: ${output.type}`);
               }
             },
           },
@@ -120,12 +153,12 @@ export default defineConfig({
             name: 'track-image-processing',
             load(id) {
               if (/\.(png|jpe?g|webp|svg|gif)$/i.test(id)) {
-                //console.time(`Processing ${id}`);
+                // console.time(`Processing ${id}`);
               }
             },
             transform(code, id) {
               if (/\.(png|jpe?g|webp|svg|gif)$/i.test(id)) {
-                //console.timeEnd(`Processing ${id}`);
+                // console.timeEnd(`Processing ${id}`);
               }
               return null;
             },
@@ -134,5 +167,4 @@ export default defineConfig({
       },
     },
   },
-  
 });

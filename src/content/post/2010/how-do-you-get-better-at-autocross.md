@@ -6,7 +6,7 @@ publishDate: 2010-09-30T14:35:12+00:00
 updateDate: 2025-01-10T12:15:17-06:00
 url: "2010/how-do-you-get-better-at-autocross"
 tags: [ 350z, nissan, setup, autocross, instruction ]
-image: https://farm5.static.flickr.com/4091/5028275443_f27b042640.jpg
+image: ~/assets/images/5028275443_f27b042640.jpg
 ---
 tl;dr - The answer is seat time
 
