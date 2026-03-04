@@ -7,8 +7,9 @@ import Layout from '~/layouts/PageLayout.astro';
 import SinglePost from '~/components/blog/SinglePost.astro';
 import ToBlogLink from '~/components/blog/ToBlogLink.astro';
 
+import { getCollection, render } from 'astro:content';
 import { getCanonical, getPermalink } from '~/utils/permalinks';
-import { getStaticPathsBlogPost, blogPostRobots } from '~/utils/blog';
+import { getStaticPathsBlogPost, blogPostRobots, fetchPosts } from '~/utils/blog';
 import { findImage } from '~/utils/images';
 import type { MetaData } from '~/types';
 import RelatedPosts from '~/components/blog/RelatedPosts.astro';
@@ -21,7 +22,25 @@ export const getStaticPaths = (async () => {
 
 type Props = InferGetStaticPropsType<typeof getStaticPaths>;
 
-const { post } = Astro.props as Props;
+// ✅ Now we receive { id } instead of { post }
+const { id } = Astro.props as Props;
+
+// Fetch the content entry by id (source of truth)
+const entries = await getCollection('post');
+const entry = entries.find((p) => p.id === id);
+if (!entry) {
+  throw new Error(`Post not found for id: ${id}`);
+}
+
+// Render content *here* (do NOT put Content into props)
+const { Content } = await render(entry);
+
+// Also fetch the normalized post metadata (title, permalink, tags, etc.)
+const posts = await fetchPosts();
+const post = posts.find((p) => p.id === id);
+if (!post) {
+  throw new Error(`Normalized post not found for id: ${id}`);
+}
 
 const url = getCanonical(getPermalink(post.permalink, 'post', post.url));
 const image = (await findImage(post.image)) as ImageMetadata | string | undefined;
@@ -47,8 +66,9 @@ const metadata = merge(
 
 <Layout metadata={metadata}>
   <SinglePost post={{ ...post, image: image }} url={url}>
-    {post.Content ? <post.Content /> : <Fragment set:html={post.content || ''} />}
+    <Content />
   </SinglePost>
+
   <ToBlogLink />
-  <RelatedPosts post={post}  data-pagefind-ignore="all" />
+  <RelatedPosts post={post} data-pagefind-ignore="all" />
 </Layout>

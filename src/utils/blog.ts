@@ -3,7 +3,15 @@ import { getCollection, render } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import type { Post } from '~/types';
 import { APP_BLOG } from 'astrowind:config';
-import { cleanSlug, trimSlash, BLOG_BASE, POST_PERMALINK_PATTERN, CATEGORY_BASE, TAG_BASE, getPermalink } from './permalinks';
+import {
+  cleanSlug,
+  trimSlash,
+  BLOG_BASE,
+  POST_PERMALINK_PATTERN,
+  CATEGORY_BASE,
+  TAG_BASE,
+  getPermalink,
+} from './permalinks';
 
 const generatePermalink = async ({
   id,
@@ -48,7 +56,10 @@ const generatePermalink = async ({
 
 const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> => {
   const { id, slug: rawSlug = '', data } = post;
-  const { Content, remarkPluginFrontmatter } = await render(post);
+
+  // ✅ We only read serializable bits (e.g., readingTime) from render().
+  // ❌ DO NOT store `Content` on the Post object because it will get serialized into route props.
+  const { remarkPluginFrontmatter } = await render(post);
 
   const {
     publishDate: rawPublishDate = new Date(),
@@ -84,7 +95,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
   return {
     id: id,
     slug: slug,
-    permalink: await generatePermalink({ id, slug, publishDate, category: category?.slug, url }),
+    permalink: await generatePermalink({ id, slug, publishDate, category: category?.slug, url, galleryPath }),
     publishDate: publishDate,
     updateDate: updateDate,
 
@@ -99,11 +110,10 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     draft: draft,
 
     metadata,
-    Content: Content,
     url,
     readingTime: remarkPluginFrontmatter?.readingTime,
-    galleryPath
-  };
+    galleryPath,
+  } as Post;
 };
 
 const load = async function (): Promise<Array<Post>> {
@@ -188,21 +198,23 @@ export const getStaticPathsBlogList = async ({ paginate }: { paginate: PaginateF
 /** */
 export const getStaticPathsBlogPost = async () => {
   if (!isBlogEnabled || !isBlogPostRouteEnabled) return [];
-  return (await fetchPosts()).flatMap((post) => ({
+
+  // ✅ Only pass serializable identifiers to props.
+  // ❌ Do NOT pass the entire post object (it can accidentally include non-serializable content/render artifacts).
+  return (await fetchPosts()).map((post) => ({
     params: {
       blog: post.permalink,
     },
-    props: { post },
+    props: { id: post.id },
   }));
 };
 
 /** */
 export const getStaticPathsBlogCategory = async ({ paginate }: { paginate: PaginateFunction }) => {
-  
   if (!isBlogEnabled || !isBlogCategoryRouteEnabled) return [];
   const posts = await fetchPosts();
   const categories: Record<string, Post['category']> = {};
-  
+
   // Group posts by category
   posts.forEach((post) => {
     if (post.category?.slug) {
@@ -224,19 +236,19 @@ export const getStaticPathsBlogCategory = async ({ paginate }: { paginate: Pagin
     return paginated.map((page) => ({
       ...page,
       props: {
-        ...page.props, // Include any existing props
-        category: categories[categorySlug], // Pass category data
+        ...page.props,
+        category: categories[categorySlug],
       },
     }));
   });
 };
 
-
 /** */
 export const getStaticPathsBlogTag = async ({ paginate }: { paginate: PaginateFunction }) => {
   if (!isBlogEnabled || !isBlogTagRouteEnabled) return [];
   const posts = await fetchPosts();
-  const tags = {};
+  const tags: Record<string, any> = {};
+
   posts.map((post) => {
     if (Array.isArray(post.tags)) {
       post.tags.map((tag) => {
@@ -244,6 +256,7 @@ export const getStaticPathsBlogTag = async ({ paginate }: { paginate: PaginateFu
       });
     }
   });
+
   return Array.from(Object.keys(tags)).flatMap((tagSlug) =>
     paginate(
       posts.filter((post) => Array.isArray(post.tags) && post.tags.find((elem) => elem.slug === tagSlug)),

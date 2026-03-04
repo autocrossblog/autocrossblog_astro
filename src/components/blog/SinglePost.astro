@@ -5,7 +5,6 @@ import { Image } from 'astro:assets';
 import PostTags from '~/components/blog/Tags.astro';
 import SocialShare from '~/components/common/SocialShare.astro';
 
-import { getPermalink } from '~/utils/permalinks';
 import { getFormattedDate } from '~/utils/utils';
 
 import BlogPostingJSONLD from "~/components/blog/BlogJsonLd.astro";
@@ -18,10 +17,10 @@ import type { Post } from '~/types';
 export interface Props {
   post: Post;
   url: string | URL;
-  galleryPath: string;
+  galleryPath?: string;
 }
 
-const { post, url, galleryPath } = Astro.props;
+const { post, url } = Astro.props;
 
 // Fetch authors from the collection
 const authors = await getCollection('authors');
@@ -37,10 +36,10 @@ const author = authors.find((a) => a.slug === authorSlug)?.data || {
 };
 ---
 
-<BlogPostingJSONLD 
-  slot="head" 
+<BlogPostingJSONLD
+  slot="head"
   title={post.title}
-  description={post.excerpt || post.description}
+  description={post.excerpt || (post as any).description}
   publishDate={post.publishDate}
   updateDate={post.updateDate}
   tags={post.tags}
@@ -74,21 +73,23 @@ const author = authors.find((a) => a.slug === authorSlug)?.data || {
             post.updateDate && (
               <>
                 <br />
-                <small>Last Updated <time datetime={String(post.updateDate)} class="inline-block">{getFormattedDate(post.updateDate)}</time></small>
+                <small>
+                  Last Updated{' '}
+                  <time datetime={String(post.updateDate)} class="inline-block">
+                    {getFormattedDate(post.updateDate)}
+                  </time>
+                </small>
               </>
             )
           }
         </p>
       </div>
 
-      <h1
-        class="px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold leading-tighter tracking-tighter font-heading"
-      >
+      <h1 class="px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold leading-tighter tracking-tighter font-heading">
         {post.title}
       </h1>
-      <p
-        class="max-w-3xl mx-auto mt-4 mb-8 px-4 sm:px-6 text-xl md:text-2xl text-muted dark:text-slate-400 text-justify"
-      >
+
+      <p class="max-w-3xl mx-auto mt-4 mb-8 px-4 sm:px-6 text-xl md:text-2xl text-muted dark:text-slate-400 text-justify">
         {post.excerpt}
       </p>
 
@@ -114,17 +115,15 @@ const author = authors.find((a) => a.slug === authorSlug)?.data || {
       }
     </header>
 
-    
+    <div class="mx-auto px-6 sm:px-6 max-w-3xl prose prose-md lg:prose-xl dark:prose-invert dark:prose-headings:text-slate-300 prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-bold prose-a:text-primary dark:prose-a:text-blue-400 prose-img:rounded-md prose-img:shadow-lg mt-8 prose-headings:scroll-mt-[80px] prose-li:my-0">
+      <!-- ✅ Render the post body provided by the parent page -->
+      <slot />
 
-    <div
-      class="mx-auto px-6 sm:px-6 max-w-3xl prose prose-md lg:prose-xl dark:prose-invert dark:prose-headings:text-slate-300 prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-bold prose-a:text-primary dark:prose-a:text-blue-400 prose-img:rounded-md prose-img:shadow-lg mt-8 prose-headings:scroll-mt-[80px] prose-li:my-0"
-    >
-      <post.Content />
       <Gallery galleryPath={post.galleryPath} />
     </div>
 
     <div class="mx-auto px-6 sm:px-6 max-w-3xl mt-8 flex justify-between flex-col sm:flex-row">
-      <PostTags tags={post.tags} class="mr-5 rtl:mr-0 rtl:ml-5"  data-pagefind-ignore="all" />
+      <PostTags tags={post.tags} class="mr-5 rtl:mr-0 rtl:ml-5" data-pagefind-ignore="all" />
       <SocialShare url={url} text={post.title} class="mt-5 sm:mt-1 align-middle text-gray-500 dark:text-slate-600" />
     </div>
   </article>
