@@ -55,7 +55,7 @@ const generatePermalink = async ({
 };
 
 const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> => {
-  const { id, slug: rawSlug = '', data } = post;
+  const { id, data } = post;
 
   // ✅ We only read serializable bits (e.g., readingTime) from render().
   // ❌ DO NOT store `Content` on the Post object because it will get serialized into route props.
@@ -76,7 +76,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     galleryPath,
   } = data;
 
-  const slug = cleanSlug(id); // cleanSlug(rawSlug.split('/').pop());
+  const slug = cleanSlug(id.replace(/\.[^/.]+$/, ''));
   const publishDate = new Date(rawPublishDate);
   const updateDate = rawUpdateDate ? new Date(rawUpdateDate) : undefined;
 

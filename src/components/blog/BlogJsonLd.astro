@@ -25,7 +25,7 @@ const authors = await getCollection('authors');
 
 // Normalize `authorId` and find the corresponding author
 const authorSlug = typeof authorId === 'string' ? authorId : null;
-const author = authors.find((a) => a.slug === authorSlug)?.data || {
+const author = authors.find((a) => a.id.replace(/.md$/, '') === authorSlug)?.data || {
   name: 'Unknown Author',
   bio: 'No bio available',
   url: '#',

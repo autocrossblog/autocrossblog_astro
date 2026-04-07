@@ -48,3 +48,21 @@ export const lazyImagesRehypePlugin: RehypePlugin = () => {
     });
   };
 };
+
+/**
+ * Prevents Astro from trying to optimize external/remote images found in
+ * markdown body content. This must run BEFORE Astro's built-in rehypeImages
+ * plugin (user rehype plugins always run before it).
+ *
+ * Without this, Astro calls `inferRemoteSize` (a live network fetch) for every
+ * remote image URL — Flickr CDN and others redirect, causing a
+ * "Failed to parse image reference" error at runtime. External images are
+ * already served by their own CDN and don't need Astro's image pipeline.
+ */
+export const preventRemoteImageOptimizationPlugin: RehypePlugin = () => {
+  return function (_tree, file) {
+    if (file.data.astro) {
+      file.data.astro.remoteImagePaths = [];
+    }
+  };
+};

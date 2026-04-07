@@ -16,6 +16,7 @@ import {
   readingTimeRemarkPlugin,
   responsiveTablesRehypePlugin,
   lazyImagesRehypePlugin,
+  preventRemoteImageOptimizationPlugin,
 } from './src/utils/frontmatter';
 
 import pagefind from "astro-pagefind";
@@ -105,6 +106,7 @@ export default defineConfig({
     rehypePlugins: [
       responsiveTablesRehypePlugin,
       lazyImagesRehypePlugin,
+      preventRemoteImageOptimizationPlugin,
     ],
   },
 
