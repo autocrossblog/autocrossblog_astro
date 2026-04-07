@@ -1,4 +1,6 @@
 [build]
+  [build.environment]
+    NODE_VERSION = "22.12.0"
   publish = "dist"
   command = "npm run build"
 [build.processing.html]
