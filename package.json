@@ -55,7 +55,7 @@
     "@typescript-eslint/eslint-plugin": "^8.58.0",
     "@typescript-eslint/parser": "^8.58.0",
     "astro": "^6.1.4",
-    "astro-compress": "^2.4.0",
+    "astro-compress": "^2.4.1",
     "astro-eslint-parser": "^1.4.0",
     "esbuild": ">=0.28.0",
     "eslint": "^10.2.0",
@@ -69,7 +69,7 @@
     "sharp": "^0.34.5",
     "tailwind-merge": "^3.5.0",
     "tailwindcss": "^4.2.2",
-    "typescript": "^5.9.3",
+    "typescript": "^6.0.2",
     "typescript-eslint": "^8.58.0",
     "unist-util-visit": "^5.1.0"
   }
