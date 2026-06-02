@@ -35,7 +35,7 @@ The site combines event results, driver statistics, and ranking data into a sing
 
 ## Driver Rankings
 
-One of the first major features is the [AutocrossRank Score (ARS)](https://autocrossrank.com/rankings).
+One of the first major features is the [AutocrossRank Score (ARS)](https://www.autocrossrank.com/rankings).
 
 Rather than simply counting wins, the ranking system looks at head-to-head competition and who you've competed against. Beating strong drivers helps your ranking more than beating inexperienced competitors, while consistency over time helps establish confidence in a driver's score.
 
@@ -57,7 +57,7 @@ Search for your name, explore the rankings, and see where you stack up.
 
 Welcome to AutocrossRank.
 
-[Visit AutocrossRank.com](https://autocrossrank.com)
+[Visit AutocrossRank.com](https://www.autocrossrank.com)
 
 ## Get Involved
 
