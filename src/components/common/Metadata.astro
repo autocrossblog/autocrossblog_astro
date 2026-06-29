@@ -1,13 +1,9 @@
 ---
 import merge from 'lodash.merge';
-import { AstroSeo } from '@astrolib/seo';
-
-import type { Props as AstroSeoProps } from '@astrolib/seo';
 
 import { SITE, METADATA, I18N } from 'astrowind:config';
 import type { MetaData } from '~/types';
 import { getCanonical } from '~/utils/permalinks';
-
 import { adaptOpenGraphImages } from '~/utils/images';
 
 export interface Props extends MetaData {
@@ -24,11 +20,11 @@ const {
   twitter = {},
 } = Astro.props;
 
-const seoProps: AstroSeoProps = merge(
+const seoProps = merge(
   {
     title: '',
     titleTemplate: '%s',
-    canonical: canonical,
+    canonical,
     noindex: true,
     nofollow: true,
     description: undefined,
@@ -53,16 +49,48 @@ const seoProps: AstroSeoProps = merge(
     twitter: METADATA?.twitter,
   },
   {
-    title: title,
+    title,
     titleTemplate: ignoreTitleTemplate ? '%s' : undefined,
-    canonical: canonical,
+    canonical,
     noindex: typeof robots?.index !== 'undefined' ? !robots.index : undefined,
     nofollow: typeof robots?.follow !== 'undefined' ? !robots.follow : undefined,
-    description: description,
+    description,
     openGraph: { url: canonical, ...openGraph },
-    twitter: twitter,
+    twitter,
   }
 );
+
+seoProps.openGraph = await adaptOpenGraphImages(seoProps?.openGraph, Astro.site);
+
+const pageTitle =
+  seoProps.titleTemplate && seoProps.titleTemplate.includes('%s')
+    ? seoProps.titleTemplate.replace('%s', seoProps.title)
+    : seoProps.title;
+
+const robotsContent = [
+  seoProps.noindex ? 'noindex' : 'index',
+  seoProps.nofollow ? 'nofollow' : 'follow',
+].join(', ');
+
+const ogImages = seoProps.openGraph?.images || [];
 ---
 
-<AstroSeo {...{ ...seoProps, openGraph: await adaptOpenGraphImages(seoProps?.openGraph, Astro.site) }} />
+<title>{pageTitle}</title>
+<meta name="description" content={seoProps.description} />
+<link rel="canonical" href={seoProps.canonical} />
+<meta name="robots" content={robotsContent} />
+
+<meta property="og:title" content={pageTitle} />
+<meta property="og:description" content={seoProps.description} />
+<meta property="og:url" content={seoProps.openGraph?.url || seoProps.canonical} />
+<meta property="og:site_name" content={seoProps.openGraph?.site_name} />
+<meta property="og:locale" content={seoProps.openGraph?.locale} />
+<meta property="og:type" content={seoProps.openGraph?.type || 'website'} />
+
+{ogImages.map((image) => (
+  <meta property="og:image" content={typeof image === 'string' ? image : image.url} />
+))}
+
+<meta name="twitter:card" content={seoProps.twitter?.cardType || 'summary'} />
+<meta name="twitter:title" content={pageTitle} />
+<meta name="twitter:description" content={seoProps.description} />

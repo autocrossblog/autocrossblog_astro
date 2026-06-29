@@ -1,6 +1,7 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { defineConfig } from 'astro/config';
+import { unified } from '@astrojs/markdown-remark';
 
 import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
@@ -99,12 +100,14 @@ export default defineConfig({
   ],
 
   markdown: {
-    remarkPlugins: [readingTimeRemarkPlugin],
-    rehypePlugins: [
-      responsiveTablesRehypePlugin,
-      lazyImagesRehypePlugin,
-      preventRemoteImageOptimizationPlugin,
-    ],
+    processor: unified({
+      remarkPlugins: [readingTimeRemarkPlugin],
+      rehypePlugins: [
+        responsiveTablesRehypePlugin,
+        lazyImagesRehypePlugin,
+        preventRemoteImageOptimizationPlugin,
+      ],
+    }),
   },
 
   build: {
