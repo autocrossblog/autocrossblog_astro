@@ -80,7 +80,10 @@ export default defineConfig({
     ),
 
     compress({
-      CSS: true,
+      // csso (used by astro-compress for CSS) doesn't understand Tailwind v4's
+      // modern output (range media queries, nesting) and silently drops every
+      // responsive breakpoint rule. Keep CSS minification off until that's fixed upstream.
+      CSS: false,
       HTML: false,
       Image: false,
       JavaScript: true,
