@@ -54,22 +54,30 @@
     "@typescript-eslint/eslint-plugin": "^8.58.2",
     "@typescript-eslint/parser": "^8.58.2",
     "astro": "^7.4.2",
-    "astro-compress": "^2.4.1",
-    "astro-eslint-parser": "^1.4.0",
+    "astro-compress": "^2.4.3",
+    "astro-eslint-parser": "^3.2.0",
     "esbuild": ">=0.28.0",
     "eslint": "^10.2.0",
-    "eslint-plugin-astro": "^1.7.0",
+    "eslint-plugin-astro": "^3.2.1",
     "globals": "^17.5.0",
     "js-yaml": "^4.1.1",
     "mdast-util-to-string": "^4.0.0",
     "prettier": "^3.8.2",
     "prettier-plugin-astro": "^0.14.1",
     "reading-time": "^1.5.0",
-    "sharp": "^0.35.0",
+    "sharp": "^0.35.5",
     "tailwind-merge": "^3.5.0",
     "tailwindcss": "^4.2.2",
     "typescript": "^6.0.2",
     "typescript-eslint": "^8.58.2",
     "unist-util-visit": "^5.1.0"
+  },
+  "overrides": {
+    "deepmerge-ts": "^8.0.2",
+    "svgo": "^4.1.0",
+    "sharp": "$sharp",
+    "@tailwindcss/typography": {
+      "postcss-selector-parser": "^7.1.7"
+    }
   }
 }
