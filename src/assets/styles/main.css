@@ -98,9 +98,33 @@
 }
 
 
-.pagefind-ui__results-area{
-  background: #ccc !important;
-  padding:15px !important;
+/* Site search (astro-pagefind 2 / Pagefind Component UI) */
+.site-search {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 1rem;
+  --pf-background: var(--aw-color-bg-page);
+  --pf-input-height: 44px;
+  --pf-result-title-font-size: 1.05rem;
+  --pf-result-excerpt-font-size: 0.95rem;
+  --pf-summary-font-size: 0.875rem;
+  --pf-font: inherit;
+}
+
+/* Follow the site's light/dark toggle (adds .dark to <html>) */
+html.dark {
+  --pf-text: #e5e5e5;
+  --pf-text-secondary: #a0a0a0;
+  --pf-text-muted: #949494;
+  --pf-border: #333;
+  --pf-border-focus: #555;
+  --pf-skeleton: #2a2a2a;
+  --pf-skeleton-shine: #333;
+  --pf-hover: rgba(255, 255, 255, 0.06);
+  --pf-mark: #e5e5e5;
+  --pf-scroll-shadow: rgba(255, 255, 255, 0.1);
+  --pf-outline-focus: #58a6ff;
 }
 
 .py-20, .py-12{

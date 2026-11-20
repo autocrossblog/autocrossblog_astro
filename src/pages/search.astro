@@ -1,6 +1,6 @@
 ---
 import Layout from "~/layouts/PageLayout.astro";
-import Search from "astro-pagefind/components/Search";
+import PagefindConfig from "astro-pagefind/components/PagefindConfig.astro";
 
 
 const metadata = {
@@ -15,6 +15,11 @@ const metadata = {
   
     <br />
     <h1>Search the Blog</h1>
-    <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
+    <PagefindConfig />
+    <div class="site-search">
+      <pagefind-input autofocus placeholder="Search"></pagefind-input>
+      <pagefind-summary></pagefind-summary>
+      <pagefind-results></pagefind-results>
+    </div>
   </section>
 </Layout>
